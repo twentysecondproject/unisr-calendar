@@ -1,0 +1,1218 @@
+{
+  "0173bbbbb6633f123605e4bb@unirsr-calendar": {
+    "date": "2026-11-02",
+    "end": "20261102T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261102T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "0173bbbbb6633f123605e4bb@unirsr-calendar"
+  },
+  "05f06cd4e800f65466ee269c@unirsr-calendar": {
+    "date": "2026-10-06",
+    "end": "20261006T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261006T143000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "05f06cd4e800f65466ee269c@unirsr-calendar"
+  },
+  "061df943f7cbac110923803b@unirsr-calendar": {
+    "date": "2026-11-13",
+    "end": "20261113T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261113T093000",
+    "subject": "Lezione: Molecular cell biology (docente: ANELLI TIZIANA)",
+    "uid": "061df943f7cbac110923803b@unirsr-calendar"
+  },
+  "064b1a192fa28a5706eb39af@unirsr-calendar": {
+    "date": "2026-12-14",
+    "end": "20261214T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261214T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FLAVIO )",
+    "uid": "064b1a192fa28a5706eb39af@unirsr-calendar"
+  },
+  "066ce6077a6d891d4fa4e6ee@unirsr-calendar": {
+    "date": "2026-10-21",
+    "end": "20261021T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261021T093000",
+    "subject": "Lezione: Molecular cell biology (docente: FERRARI SAMUELE)",
+    "uid": "066ce6077a6d891d4fa4e6ee@unirsr-calendar"
+  },
+  "099439b0c8d6fd0e836d4cb1@unirsr-calendar": {
+    "date": "2026-10-07",
+    "end": "20261007T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261007T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "099439b0c8d6fd0e836d4cb1@unirsr-calendar"
+  },
+  "09dbc61d55b879870c4b81d8@unirsr-calendar": {
+    "date": "2026-11-10",
+    "end": "20261110T133000",
+    "location": "BORROMINI Aula BO201 (2 piano)",
+    "start": "20261110T113000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "09dbc61d55b879870c4b81d8@unirsr-calendar"
+  },
+  "0a93ea59384578a3adbe7604@unirsr-calendar": {
+    "date": "2026-10-28",
+    "end": "20261028T163000",
+    "location": "BORROMINI Aula BO302 (3 piano)",
+    "start": "20261028T143000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "0a93ea59384578a3adbe7604@unirsr-calendar"
+  },
+  "0aebbe5bf5181025bc3dff40@unirsr-calendar": {
+    "date": "2026-11-11",
+    "end": "20261111T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261111T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "0aebbe5bf5181025bc3dff40@unirsr-calendar"
+  },
+  "0c3da21f2b0e254ff0d82894@unirsr-calendar": {
+    "date": "2026-10-19",
+    "end": "20261019T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261019T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "0c3da21f2b0e254ff0d82894@unirsr-calendar"
+  },
+  "0cbfddb21d936d7bbb42e042@unirsr-calendar": {
+    "date": "2026-11-13",
+    "end": "20261113T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261113T143000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "0cbfddb21d936d7bbb42e042@unirsr-calendar"
+  },
+  "0f6122a028a133f6ce2ed887@unirsr-calendar": {
+    "date": "2026-11-03",
+    "end": "20261103T113000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261103T093000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "0f6122a028a133f6ce2ed887@unirsr-calendar"
+  },
+  "111b0b202f183b21391928ab@unirsr-calendar": {
+    "date": "2026-11-03",
+    "end": "20261103T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261103T113000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "111b0b202f183b21391928ab@unirsr-calendar"
+  },
+  "137a7e8eb9566794e3509495@unirsr-calendar": {
+    "date": "2026-11-30",
+    "end": "20261130T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261130T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "137a7e8eb9566794e3509495@unirsr-calendar"
+  },
+  "13f9318d2b2ba713747d88ea@unirsr-calendar": {
+    "date": "2026-10-19",
+    "end": "20261019T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261019T143000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "13f9318d2b2ba713747d88ea@unirsr-calendar"
+  },
+  "188a9d6fa0988e0cd21b3bdb@unirsr-calendar": {
+    "date": "2026-11-30",
+    "end": "20261130T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261130T093000",
+    "subject": "Lezione: Medical Physics (docente: FIORINO CLAUDIO)",
+    "uid": "188a9d6fa0988e0cd21b3bdb@unirsr-calendar"
+  },
+  "1936bd1366ee032e2c9a1649@unirsr-calendar": {
+    "date": "2026-11-09",
+    "end": "20261109T163000",
+    "location": "BORROMINI Aula BO202 (2 piano)",
+    "start": "20261109T143000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "1936bd1366ee032e2c9a1649@unirsr-calendar"
+  },
+  "1b9ca827d3519600459d1223@unirsr-calendar": {
+    "date": "2026-10-27",
+    "end": "20261027T113000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261027T093000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "1b9ca827d3519600459d1223@unirsr-calendar"
+  },
+  "1c0dd7a63aa4001f959451c6@unirsr-calendar": {
+    "date": "2026-10-12",
+    "end": "20261012T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261012T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "1c0dd7a63aa4001f959451c6@unirsr-calendar"
+  },
+  "1d99ac085e91c70bdb44635c@unirsr-calendar": {
+    "date": "2026-11-27",
+    "end": "20261127T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261127T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "1d99ac085e91c70bdb44635c@unirsr-calendar"
+  },
+  "1ed8ec63ff9c7db4468206de@unirsr-calendar": {
+    "date": "2026-10-27",
+    "end": "20261027T133000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261027T113000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "1ed8ec63ff9c7db4468206de@unirsr-calendar"
+  },
+  "1f27726e135316c2131c0b7d@unirsr-calendar": {
+    "date": "2026-10-05",
+    "end": "20261005T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261005T143000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "1f27726e135316c2131c0b7d@unirsr-calendar"
+  },
+  "1f8bd952eac4815d49d9f850@unirsr-calendar": {
+    "date": "2026-12-11",
+    "end": "20261211T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261211T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FLAVIO )",
+    "uid": "1f8bd952eac4815d49d9f850@unirsr-calendar"
+  },
+  "20ed7cfe6bbe2c1f2f81a18c@unirsr-calendar": {
+    "date": "2026-12-15",
+    "end": "20261215T113000",
+    "location": "CANOVA Aula CA202 (2 piano)",
+    "start": "20261215T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "20ed7cfe6bbe2c1f2f81a18c@unirsr-calendar"
+  },
+  "212ed3a31002772ed2135e33@unirsr-calendar": {
+    "date": "2026-11-09",
+    "end": "20261109T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261109T093000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "212ed3a31002772ed2135e33@unirsr-calendar"
+  },
+  "2136178715cfc02253bcba0e@unirsr-calendar": {
+    "date": "2026-10-15",
+    "end": "20261015T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261015T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "2136178715cfc02253bcba0e@unirsr-calendar"
+  },
+  "21c0e6bb31f4d2e2bb44bdf3@unirsr-calendar": {
+    "date": "2026-11-05",
+    "end": "20261105T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261105T093000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "21c0e6bb31f4d2e2bb44bdf3@unirsr-calendar"
+  },
+  "23a03e7dc5356d0b076b3b34@unirsr-calendar": {
+    "date": "2026-11-16",
+    "end": "20261116T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261116T143000",
+    "subject": "Lezione: Basic medical statistics (docente: ROSA DI BIASE )",
+    "uid": "23a03e7dc5356d0b076b3b34@unirsr-calendar"
+  },
+  "24062fa56265cf20c9f81132@unirsr-calendar": {
+    "date": "2026-10-05",
+    "end": "20261005T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261005T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "24062fa56265cf20c9f81132@unirsr-calendar"
+  },
+  "268bdf604904de9651245cee@unirsr-calendar": {
+    "date": "2026-12-18",
+    "end": "20261218T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261218T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANGELO)",
+    "uid": "268bdf604904de9651245cee@unirsr-calendar"
+  },
+  "26e547d2aab6845a7851a346@unirsr-calendar": {
+    "date": "2026-11-16",
+    "end": "20261116T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261116T093000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "26e547d2aab6845a7851a346@unirsr-calendar"
+  },
+  "2a01985efe2c4cda40897350@unirsr-calendar": {
+    "date": "2026-10-22",
+    "end": "20261022T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261022T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "2a01985efe2c4cda40897350@unirsr-calendar"
+  },
+  "2cce22de12d884f31931a8d4@unirsr-calendar": {
+    "date": "2026-11-20",
+    "end": "20261120T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261120T113000",
+    "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
+    "uid": "2cce22de12d884f31931a8d4@unirsr-calendar"
+  },
+  "2d099d34727ed80f5f57a017@unirsr-calendar": {
+    "date": "2026-11-12",
+    "end": "20261112T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261112T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "2d099d34727ed80f5f57a017@unirsr-calendar"
+  },
+  "3044e2a228ee2fda41fef937@unirsr-calendar": {
+    "date": "2026-10-21",
+    "end": "20261021T163000",
+    "location": "BORROMINI Aula BO302 (3 piano)",
+    "start": "20261021T143000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "3044e2a228ee2fda41fef937@unirsr-calendar"
+  },
+  "308102a13cd6ee7b7db5a631@unirsr-calendar": {
+    "date": "2026-10-13",
+    "end": "20261013T113000",
+    "location": "BORROMINI Aula BO101 (1 piano)",
+    "start": "20261013T093000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "308102a13cd6ee7b7db5a631@unirsr-calendar"
+  },
+  "30e01609e236b50cc69f7694@unirsr-calendar": {
+    "date": "2026-12-03",
+    "end": "20261203T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261203T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FLAVIO )",
+    "uid": "30e01609e236b50cc69f7694@unirsr-calendar"
+  },
+  "31fcdf5f5bba339d4e487cf2@unirsr-calendar": {
+    "date": "2026-12-17",
+    "end": "20261217T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261217T093000",
+    "subject": "Lezione: Medical Physics (docente: PALMISANO ANNA)",
+    "uid": "31fcdf5f5bba339d4e487cf2@unirsr-calendar"
+  },
+  "32539b38cf00f07b3c5d83d7@unirsr-calendar": {
+    "date": "2026-10-12",
+    "end": "20261012T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261012T143000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "32539b38cf00f07b3c5d83d7@unirsr-calendar"
+  },
+  "33008d208e999591a4206ebf@unirsr-calendar": {
+    "date": "2026-12-02",
+    "end": "20261202T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261202T113000",
+    "subject": "Lezione: Medical Physics (docente: FIORINO CLAUDIO)",
+    "uid": "33008d208e999591a4206ebf@unirsr-calendar"
+  },
+  "3513da562f07ac6717cafec1@unirsr-calendar": {
+    "date": "2026-10-08",
+    "end": "20261008T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261008T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "3513da562f07ac6717cafec1@unirsr-calendar"
+  },
+  "374ef657c3e7c959fdf2828c@unirsr-calendar": {
+    "date": "2026-10-20",
+    "end": "20261020T113000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261020T093000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "374ef657c3e7c959fdf2828c@unirsr-calendar"
+  },
+  "39bda011b0f9f7b2a5c9203c@unirsr-calendar": {
+    "date": "2026-10-22",
+    "end": "20261022T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261022T093000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "39bda011b0f9f7b2a5c9203c@unirsr-calendar"
+  },
+  "3bb6965cd005325afc6d0cc6@unirsr-calendar": {
+    "date": "2026-10-26",
+    "end": "20261026T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261026T143000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "3bb6965cd005325afc6d0cc6@unirsr-calendar"
+  },
+  "3e785126ac8c2b86d824e60c@unirsr-calendar": {
+    "date": "2026-12-10",
+    "end": "20261210T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261210T093000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)",
+    "uid": "3e785126ac8c2b86d824e60c@unirsr-calendar"
+  },
+  "4061d69232e20fc9303688de@unirsr-calendar": {
+    "date": "2026-11-06",
+    "end": "20261106T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261106T093000",
+    "subject": "Lezione: Molecular cell biology (docente: ANELLI TIZIANA)",
+    "uid": "4061d69232e20fc9303688de@unirsr-calendar"
+  },
+  "41c75fc1adf031450b5f3547@unirsr-calendar": {
+    "date": "2026-10-16",
+    "end": "20261016T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261016T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "41c75fc1adf031450b5f3547@unirsr-calendar"
+  },
+  "437b127700036ddd618f3f70@unirsr-calendar": {
+    "date": "2026-12-04",
+    "end": "20261204T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261204T093000",
+    "subject": "Lezione: Medical Physics (docente: FIORINO CLAUDIO)",
+    "uid": "437b127700036ddd618f3f70@unirsr-calendar"
+  },
+  "49ea988bea43a9a025d6a922@unirsr-calendar": {
+    "date": "2026-10-08",
+    "end": "20261008T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261008T113000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "49ea988bea43a9a025d6a922@unirsr-calendar"
+  },
+  "4cf61cc7d5994327d0715fad@unirsr-calendar": {
+    "date": "2026-10-28",
+    "end": "20261028T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261028T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "4cf61cc7d5994327d0715fad@unirsr-calendar"
+  },
+  "50a0b49bc5238ee8494b30c0@unirsr-calendar": {
+    "date": "2026-11-06",
+    "end": "20261106T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261106T143000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "50a0b49bc5238ee8494b30c0@unirsr-calendar"
+  },
+  "5269accf3a04eae7e2f74d44@unirsr-calendar": {
+    "date": "2026-10-13",
+    "end": "20261013T133000",
+    "location": "BORROMINI Aula BO101 (1 piano)",
+    "start": "20261013T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "5269accf3a04eae7e2f74d44@unirsr-calendar"
+  },
+  "5285aef163e1b2709b8497ef@unirsr-calendar": {
+    "date": "2026-10-14",
+    "end": "20261014T163000",
+    "location": "BORROMINI Aula BO302 (3 piano)",
+    "start": "20261014T143000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "5285aef163e1b2709b8497ef@unirsr-calendar"
+  },
+  "528ec37efe3630ecad65e2cb@unirsr-calendar": {
+    "date": "2026-12-11",
+    "end": "20261211T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261211T143000",
+    "subject": "Lezione: Medical Physics (docente: PALMISANO ANNA)",
+    "uid": "528ec37efe3630ecad65e2cb@unirsr-calendar"
+  },
+  "5503fe59a8929d3da1c614f6@unirsr-calendar": {
+    "date": "2026-10-19",
+    "end": "20261019T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261019T093000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "5503fe59a8929d3da1c614f6@unirsr-calendar"
+  },
+  "585a25cba8b2f35983381e56@unirsr-calendar": {
+    "date": "2026-10-09",
+    "end": "20261009T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261009T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "585a25cba8b2f35983381e56@unirsr-calendar"
+  },
+  "60ae08cc8595ea48f0978978@unirsr-calendar": {
+    "date": "2026-12-18",
+    "end": "20261218T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261218T113000",
+    "subject": "Lezione: Medical Physics (docente: PICCHIO MARIA)",
+    "uid": "60ae08cc8595ea48f0978978@unirsr-calendar"
+  },
+  "629941bdf2489f41508d8159@unirsr-calendar": {
+    "date": "2026-12-02",
+    "end": "20261202T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261202T143000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "629941bdf2489f41508d8159@unirsr-calendar"
+  },
+  "634bad76c6ed7f174636af54@unirsr-calendar": {
+    "date": "2026-11-06",
+    "end": "20261106T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261106T113000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "634bad76c6ed7f174636af54@unirsr-calendar"
+  },
+  "641bea87b6e0d09b3d6059d3@unirsr-calendar": {
+    "date": "2026-11-26",
+    "end": "20261126T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261126T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "641bea87b6e0d09b3d6059d3@unirsr-calendar"
+  },
+  "6598dee09939c406e38a93f9@unirsr-calendar": {
+    "date": "2026-11-17",
+    "end": "20261117T113000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261117T093000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "6598dee09939c406e38a93f9@unirsr-calendar"
+  },
+  "6637e508a89e5c5f7fa9e51c@unirsr-calendar": {
+    "date": "2026-11-18",
+    "end": "20261118T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261118T093000",
+    "subject": "Lezione: Molecular cell biology (docente: ANELLI TIZIANA)",
+    "uid": "6637e508a89e5c5f7fa9e51c@unirsr-calendar"
+  },
+  "677b313e3bac076dc35e54a9@unirsr-calendar": {
+    "date": "2026-11-26",
+    "end": "20261126T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261126T113000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)",
+    "uid": "677b313e3bac076dc35e54a9@unirsr-calendar"
+  },
+  "680e811b50e060f7de4ca3eb@unirsr-calendar": {
+    "date": "2026-10-21",
+    "end": "20261021T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261021T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "680e811b50e060f7de4ca3eb@unirsr-calendar"
+  },
+  "6fe485dc0732069491b5252a@unirsr-calendar": {
+    "date": "2026-12-14",
+    "end": "20261214T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261214T143000",
+    "subject": "Lezione: Basic medical statistics (docente: ROSA DI BIASE )",
+    "uid": "6fe485dc0732069491b5252a@unirsr-calendar"
+  },
+  "70a5b874bed422a042c55c25@unirsr-calendar": {
+    "date": "2026-10-06",
+    "end": "20261006T113000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261006T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "70a5b874bed422a042c55c25@unirsr-calendar"
+  },
+  "71a68dbfeeef7d8c9a685247@unirsr-calendar": {
+    "date": "2026-12-02",
+    "end": "20261202T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261202T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "71a68dbfeeef7d8c9a685247@unirsr-calendar"
+  },
+  "76e2525723e88eb334c88310@unirsr-calendar": {
+    "date": "2026-11-20",
+    "end": "20261120T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261120T143000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "76e2525723e88eb334c88310@unirsr-calendar"
+  },
+  "790a1ee83d207de60e0df783@unirsr-calendar": {
+    "date": "2026-10-23",
+    "end": "20261023T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261023T143000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "790a1ee83d207de60e0df783@unirsr-calendar"
+  },
+  "7a55cfaa2a25f0adc14d866e@unirsr-calendar": {
+    "date": "2026-11-27",
+    "end": "20261127T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261127T143000",
+    "subject": "Lezione: Medical Physics (docente: FIORINO CLAUDIO)",
+    "uid": "7a55cfaa2a25f0adc14d866e@unirsr-calendar"
+  },
+  "7bbb86fb648f3835ee5720df@unirsr-calendar": {
+    "date": "2026-12-17",
+    "end": "20261217T163000",
+    "location": "VASARI Aula VA401 (4 piano)",
+    "start": "20261217T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANGELO)",
+    "uid": "7bbb86fb648f3835ee5720df@unirsr-calendar"
+  },
+  "7e7fe332ad6acb1aa0616eeb@unirsr-calendar": {
+    "date": "2026-12-15",
+    "end": "20261215T133000",
+    "location": "CANOVA Aula CA202 (2 piano)",
+    "start": "20261215T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANGELO)",
+    "uid": "7e7fe332ad6acb1aa0616eeb@unirsr-calendar"
+  },
+  "7e82d0006c836665aa1294c3@unirsr-calendar": {
+    "date": "2026-11-20",
+    "end": "20261120T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261120T093000",
+    "subject": "Lezione: Molecular cell biology (docente: ANELLI TIZIANA)",
+    "uid": "7e82d0006c836665aa1294c3@unirsr-calendar"
+  },
+  "82a852d5532ac96a7ad2b869@unirsr-calendar": {
+    "date": "2026-11-17",
+    "end": "20261117T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261117T143000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "82a852d5532ac96a7ad2b869@unirsr-calendar"
+  },
+  "8308c2d349b390c9e05cbad8@unirsr-calendar": {
+    "date": "2026-12-10",
+    "end": "20261210T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261210T113000",
+    "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
+    "uid": "8308c2d349b390c9e05cbad8@unirsr-calendar"
+  },
+  "890734b17bd51b6263d78cd8@unirsr-calendar": {
+    "date": "2026-10-29",
+    "end": "20261029T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261029T093000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "890734b17bd51b6263d78cd8@unirsr-calendar"
+  },
+  "89842e094c5620bebea8b8da@unirsr-calendar": {
+    "date": "2026-11-30",
+    "end": "20261130T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261130T143000",
+    "subject": "Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)",
+    "uid": "89842e094c5620bebea8b8da@unirsr-calendar"
+  },
+  "8ab2f0f8275fc9da40841384@unirsr-calendar": {
+    "date": "2026-11-18",
+    "end": "20261118T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261118T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "8ab2f0f8275fc9da40841384@unirsr-calendar"
+  },
+  "8cec70dd6410afda674c42ca@unirsr-calendar": {
+    "date": "2026-10-05",
+    "end": "20261005T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261005T093000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "8cec70dd6410afda674c42ca@unirsr-calendar"
+  },
+  "8ec87fff7b9a925ef0a9ca6b@unirsr-calendar": {
+    "date": "2026-10-14",
+    "end": "20261014T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261014T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "8ec87fff7b9a925ef0a9ca6b@unirsr-calendar"
+  },
+  "8f1eceebf19f6f52ba4e4d93@unirsr-calendar": {
+    "date": "2026-10-07",
+    "end": "20261007T163000",
+    "location": "BORROMINI Aula BO302 (3 piano)",
+    "start": "20261007T143000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "8f1eceebf19f6f52ba4e4d93@unirsr-calendar"
+  },
+  "8f4571d9757f355ca52ddb80@unirsr-calendar": {
+    "date": "2026-10-23",
+    "end": "20261023T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261023T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "8f4571d9757f355ca52ddb80@unirsr-calendar"
+  },
+  "8ff5abdbf6484bf3c72cc98f@unirsr-calendar": {
+    "date": "2026-11-19",
+    "end": "20261119T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261119T093000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "8ff5abdbf6484bf3c72cc98f@unirsr-calendar"
+  },
+  "90ddebc1b1ded39a32b0cbcd@unirsr-calendar": {
+    "date": "2026-12-03",
+    "end": "20261203T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261203T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "90ddebc1b1ded39a32b0cbcd@unirsr-calendar"
+  },
+  "91191408042b3c2437e10e0b@unirsr-calendar": {
+    "date": "2026-11-27",
+    "end": "20261127T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261127T113000",
+    "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
+    "uid": "91191408042b3c2437e10e0b@unirsr-calendar"
+  },
+  "915629f016b5d722f3349ca3@unirsr-calendar": {
+    "date": "2026-10-30",
+    "end": "20261030T163000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261030T143000",
+    "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
+    "uid": "915629f016b5d722f3349ca3@unirsr-calendar"
+  },
+  "91a9d0bac204f4abcfedb935@unirsr-calendar": {
+    "date": "2026-11-04",
+    "end": "20261104T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261104T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "91a9d0bac204f4abcfedb935@unirsr-calendar"
+  },
+  "91c3a4397716c18255d03632@unirsr-calendar": {
+    "date": "2026-10-29",
+    "end": "20261029T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261029T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "91c3a4397716c18255d03632@unirsr-calendar"
+  },
+  "92484985980cdff47701f714@unirsr-calendar": {
+    "date": "2026-10-30",
+    "end": "20261030T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261030T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "92484985980cdff47701f714@unirsr-calendar"
+  },
+  "926f85886dba07c27740cd94@unirsr-calendar": {
+    "date": "2026-10-07",
+    "end": "20261007T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261007T093000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "926f85886dba07c27740cd94@unirsr-calendar"
+  },
+  "929f7d619392a3071473ec1c@unirsr-calendar": {
+    "date": "2026-12-16",
+    "end": "20261216T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261216T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "929f7d619392a3071473ec1c@unirsr-calendar"
+  },
+  "95e0546dfa08d631feb0e00c@unirsr-calendar": {
+    "date": "2026-11-19",
+    "end": "20261119T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261119T113000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)",
+    "uid": "95e0546dfa08d631feb0e00c@unirsr-calendar"
+  },
+  "9689d60c7c88ef746160236e@unirsr-calendar": {
+    "date": "2026-11-10",
+    "end": "20261110T113000",
+    "location": "BORROMINI Aula BO201 (2 piano)",
+    "start": "20261110T093000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "9689d60c7c88ef746160236e@unirsr-calendar"
+  },
+  "97f4ca125b5fca3815026d4d@unirsr-calendar": {
+    "date": "2026-11-25",
+    "end": "20261125T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261125T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "97f4ca125b5fca3815026d4d@unirsr-calendar"
+  },
+  "9bddbe27534f4aab5d9cc00c@unirsr-calendar": {
+    "date": "2026-10-22",
+    "end": "20261022T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261022T113000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "9bddbe27534f4aab5d9cc00c@unirsr-calendar"
+  },
+  "a20dee7441c12bacf3f5a374@unirsr-calendar": {
+    "date": "2026-11-25",
+    "end": "20261125T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261125T143000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "a20dee7441c12bacf3f5a374@unirsr-calendar"
+  },
+  "a36f515811e0cf0e8048bbd6@unirsr-calendar": {
+    "date": "2026-10-15",
+    "end": "20261015T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261015T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "a36f515811e0cf0e8048bbd6@unirsr-calendar"
+  },
+  "a57279220b6c788d5d6eedce@unirsr-calendar": {
+    "date": "2026-11-04",
+    "end": "20261104T163000",
+    "location": "BORROMINI Aula BO302 (3 piano)",
+    "start": "20261104T143000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "a57279220b6c788d5d6eedce@unirsr-calendar"
+  },
+  "a78821a3f6f79f9361bf140d@unirsr-calendar": {
+    "date": "2026-11-26",
+    "end": "20261126T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261126T093000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "a78821a3f6f79f9361bf140d@unirsr-calendar"
+  },
+  "a78c522856b426b7ea8c94c9@unirsr-calendar": {
+    "date": "2026-10-20",
+    "end": "20261020T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261020T143000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "a78c522856b426b7ea8c94c9@unirsr-calendar"
+  },
+  "a7ee2df38ea564d835b9a4a1@unirsr-calendar": {
+    "date": "2026-11-17",
+    "end": "20261117T133000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261117T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "a7ee2df38ea564d835b9a4a1@unirsr-calendar"
+  },
+  "a827df0086cba277c13dea9c@unirsr-calendar": {
+    "date": "2026-11-10",
+    "end": "20261110T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261110T143000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "a827df0086cba277c13dea9c@unirsr-calendar"
+  },
+  "ad2fe24d67c3b394c34f19b7@unirsr-calendar": {
+    "date": "2026-12-16",
+    "end": "20261216T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261216T143000",
+    "subject": "Lezione: Medical Physics (docente: PALMISANO ANNA)",
+    "uid": "ad2fe24d67c3b394c34f19b7@unirsr-calendar"
+  },
+  "ad4110a2ef57f768b0f59ad9@unirsr-calendar": {
+    "date": "2026-10-27",
+    "end": "20261027T163000",
+    "location": "BORROMINI Aula BO401 (4 piano)",
+    "start": "20261027T143000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "ad4110a2ef57f768b0f59ad9@unirsr-calendar"
+  },
+  "aee2f781e41af78bc3c55eaf@unirsr-calendar": {
+    "date": "2026-10-26",
+    "end": "20261026T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261026T113000",
+    "subject": "Lezione: Molecular cell biology (docente: FERRARI SAMUELE)",
+    "uid": "aee2f781e41af78bc3c55eaf@unirsr-calendar"
+  },
+  "aefae4d3424d3d90f6438018@unirsr-calendar": {
+    "date": "2026-12-04",
+    "end": "20261204T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261204T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FLAVIO )",
+    "uid": "aefae4d3424d3d90f6438018@unirsr-calendar"
+  },
+  "af6515c08e8481ded98e42ff@unirsr-calendar": {
+    "date": "2026-12-11",
+    "end": "20261211T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261211T093000",
+    "subject": "Lezione: Molecular cell biology (docente: FERRARI SAMUELE)",
+    "uid": "af6515c08e8481ded98e42ff@unirsr-calendar"
+  },
+  "b61a7551527fb07879f8865b@unirsr-calendar": {
+    "date": "2026-10-16",
+    "end": "20261016T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261016T093000",
+    "subject": "Lezione: Molecular cell biology (docente: FERRARI SAMUELE)",
+    "uid": "b61a7551527fb07879f8865b@unirsr-calendar"
+  },
+  "b6895792f15cef10b770466d@unirsr-calendar": {
+    "date": "2026-12-01",
+    "end": "20261201T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261201T143000",
+    "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
+    "uid": "b6895792f15cef10b770466d@unirsr-calendar"
+  },
+  "b6b97bd51046803d47a5fa05@unirsr-calendar": {
+    "date": "2026-10-29",
+    "end": "20261029T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261029T113000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "b6b97bd51046803d47a5fa05@unirsr-calendar"
+  },
+  "ba8c337ad5488ccc6a4361be@unirsr-calendar": {
+    "date": "2026-10-13",
+    "end": "20261013T163000",
+    "location": "BORROMINI Aula BO202 (2 piano)",
+    "start": "20261013T143000",
+    "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
+    "uid": "ba8c337ad5488ccc6a4361be@unirsr-calendar"
+  },
+  "bab694fceb640e19841f5bfc@unirsr-calendar": {
+    "date": "2026-12-16",
+    "end": "20261216T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261216T113000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "bab694fceb640e19841f5bfc@unirsr-calendar"
+  },
+  "bafee29e9ece305715dd9b5d@unirsr-calendar": {
+    "date": "2026-12-10",
+    "end": "20261210T163000",
+    "location": "VASARI Aula VA401 (4 piano)",
+    "start": "20261210T143000",
+    "subject": "Lezione: Medical Physics (docente: PALMISANO ANNA)",
+    "uid": "bafee29e9ece305715dd9b5d@unirsr-calendar"
+  },
+  "bc2dfa7c9a8014d55f1de1e2@unirsr-calendar": {
+    "date": "2026-11-24",
+    "end": "20261124T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261124T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "bc2dfa7c9a8014d55f1de1e2@unirsr-calendar"
+  },
+  "c032869062bd6ae96d64adbe@unirsr-calendar": {
+    "date": "2026-12-01",
+    "end": "20261201T133000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261201T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FLAVIO )",
+    "uid": "c032869062bd6ae96d64adbe@unirsr-calendar"
+  },
+  "c070a7f3464bdeae53f69710@unirsr-calendar": {
+    "date": "2026-11-02",
+    "end": "20261102T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261102T093000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "c070a7f3464bdeae53f69710@unirsr-calendar"
+  },
+  "c0b3e10cce52e9568911c0e3@unirsr-calendar": {
+    "date": "2026-10-23",
+    "end": "20261023T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261023T113000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "c0b3e10cce52e9568911c0e3@unirsr-calendar"
+  },
+  "c1f24dab8b4d2d66aa61e475@unirsr-calendar": {
+    "date": "2026-10-16",
+    "end": "20261016T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261016T143000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "c1f24dab8b4d2d66aa61e475@unirsr-calendar"
+  },
+  "c476571c69d4d7fc16d0dc1b@unirsr-calendar": {
+    "date": "2026-12-04",
+    "end": "20261204T163000",
+    "location": "",
+    "start": "20261204T143000",
+    "subject": "Lezione: Basic medical statistics (docente: ROSA DI BIASE )",
+    "uid": "c476571c69d4d7fc16d0dc1b@unirsr-calendar"
+  },
+  "c576643687d052c2b3cbec1c@unirsr-calendar": {
+    "date": "2026-11-03",
+    "end": "20261103T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261103T143000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "c576643687d052c2b3cbec1c@unirsr-calendar"
+  },
+  "c5e76478dd62d1e487183323@unirsr-calendar": {
+    "date": "2026-12-14",
+    "end": "20261214T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261214T093000",
+    "subject": "Lezione: Medical Physics (docente: PALMISANO ANNA)",
+    "uid": "c5e76478dd62d1e487183323@unirsr-calendar"
+  },
+  "c77f376ebe83543104c432df@unirsr-calendar": {
+    "date": "2026-10-12",
+    "end": "20261012T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261012T093000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "c77f376ebe83543104c432df@unirsr-calendar"
+  },
+  "c867186439c851dc370cf1cb@unirsr-calendar": {
+    "date": "2026-11-02",
+    "end": "20261102T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261102T143000",
+    "subject": "Lezione: Basic medical statistics (docente: ROSA DI BIASE )",
+    "uid": "c867186439c851dc370cf1cb@unirsr-calendar"
+  },
+  "c8ae7f6fe77f5f4ce5061513@unirsr-calendar": {
+    "date": "2026-12-09",
+    "end": "20261209T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261209T093000",
+    "subject": "Lezione: Molecular cell biology (docente: FERRARI SAMUELE)",
+    "uid": "c8ae7f6fe77f5f4ce5061513@unirsr-calendar"
+  },
+  "cd72249e00b14982c4b2be25@unirsr-calendar": {
+    "date": "2026-11-13",
+    "end": "20261113T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261113T113000",
+    "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
+    "uid": "cd72249e00b14982c4b2be25@unirsr-calendar"
+  },
+  "cde521c3368adde09d1bbed7@unirsr-calendar": {
+    "date": "2026-10-09",
+    "end": "20261009T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261009T143000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "cde521c3368adde09d1bbed7@unirsr-calendar"
+  },
+  "cfa6edbcace4cd8f9a2ff32c@unirsr-calendar": {
+    "date": "2026-10-06",
+    "end": "20261006T133000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261006T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "cfa6edbcace4cd8f9a2ff32c@unirsr-calendar"
+  },
+  "d11bc352a4591eb7ef2aeda3@unirsr-calendar": {
+    "date": "2026-11-18",
+    "end": "20261118T163000",
+    "location": "BORROMINI Aula BO302 (3 piano)",
+    "start": "20261118T143000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "d11bc352a4591eb7ef2aeda3@unirsr-calendar"
+  },
+  "d8068ae82f0efd9eb799aec8@unirsr-calendar": {
+    "date": "2026-11-09",
+    "end": "20261109T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261109T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "d8068ae82f0efd9eb799aec8@unirsr-calendar"
+  },
+  "d870f1aa9f90a5903732fbbf@unirsr-calendar": {
+    "date": "2026-10-30",
+    "end": "20261030T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261030T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "d870f1aa9f90a5903732fbbf@unirsr-calendar"
+  },
+  "da4d61e177e79b3f6bd4bb94@unirsr-calendar": {
+    "date": "2026-11-05",
+    "end": "20261105T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261105T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "da4d61e177e79b3f6bd4bb94@unirsr-calendar"
+  },
+  "db180fd19fd824e1fcfdaba1@unirsr-calendar": {
+    "date": "2026-11-19",
+    "end": "20261119T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261119T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "db180fd19fd824e1fcfdaba1@unirsr-calendar"
+  },
+  "dc1530d87ea5916f0b37ec31@unirsr-calendar": {
+    "date": "2026-11-16",
+    "end": "20261116T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261116T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "dc1530d87ea5916f0b37ec31@unirsr-calendar"
+  },
+  "dde985266825e9f090ab8f93@unirsr-calendar": {
+    "date": "2026-10-26",
+    "end": "20261026T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261026T093000",
+    "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
+    "uid": "dde985266825e9f090ab8f93@unirsr-calendar"
+  },
+  "e29979ef4a734b06f1b3555f@unirsr-calendar": {
+    "date": "2026-11-25",
+    "end": "20261125T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261125T093000",
+    "subject": "Lezione: Medical Physics (docente: FIORINO CLAUDIO)",
+    "uid": "e29979ef4a734b06f1b3555f@unirsr-calendar"
+  },
+  "e351c8ffe3b66f29838a8b94@unirsr-calendar": {
+    "date": "2026-10-14",
+    "end": "20261014T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261014T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "e351c8ffe3b66f29838a8b94@unirsr-calendar"
+  },
+  "e40dc2dca3181298f9f572b7@unirsr-calendar": {
+    "date": "2026-12-18",
+    "end": "20261218T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261218T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "e40dc2dca3181298f9f572b7@unirsr-calendar"
+  },
+  "e58f2cf1cc9d222a11ee6571@unirsr-calendar": {
+    "date": "2026-12-15",
+    "end": "20261215T163000",
+    "location": "CANOVA Aula CA202 (2 piano)",
+    "start": "20261215T143000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANGELO)",
+    "uid": "e58f2cf1cc9d222a11ee6571@unirsr-calendar"
+  },
+  "e6d0a44d8d39ed011927afbd@unirsr-calendar": {
+    "date": "2026-11-11",
+    "end": "20261111T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261111T093000",
+    "subject": "Lezione: Molecular cell biology (docente: ANELLI TIZIANA)",
+    "uid": "e6d0a44d8d39ed011927afbd@unirsr-calendar"
+  },
+  "e841a27879e62fff36ae82bd@unirsr-calendar": {
+    "date": "2026-12-03",
+    "end": "20261203T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261203T093000",
+    "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
+    "uid": "e841a27879e62fff36ae82bd@unirsr-calendar"
+  },
+  "e919e1de1880fa1b7a3eefa3@unirsr-calendar": {
+    "date": "2026-11-12",
+    "end": "20261112T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261112T093000",
+    "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "e919e1de1880fa1b7a3eefa3@unirsr-calendar"
+  },
+  "ef38a2c1d5c813e68396d42d@unirsr-calendar": {
+    "date": "2026-10-20",
+    "end": "20261020T133000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261020T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "ef38a2c1d5c813e68396d42d@unirsr-calendar"
+  },
+  "f5aeb43dd57291cc25788322@unirsr-calendar": {
+    "date": "2026-11-23",
+    "end": "20261123T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261123T113000",
+    "subject": "Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)",
+    "uid": "f5aeb43dd57291cc25788322@unirsr-calendar"
+  },
+  "f5b62d3851c34afb847a6019@unirsr-calendar": {
+    "date": "2026-11-24",
+    "end": "20261124T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261124T143000",
+    "subject": "Lezione: Medical Physics (docente: FIORINO CLAUDIO)",
+    "uid": "f5b62d3851c34afb847a6019@unirsr-calendar"
+  },
+  "f5c4dec55129cba411489d5f@unirsr-calendar": {
+    "date": "2026-11-23",
+    "end": "20261123T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261123T093000",
+    "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
+    "uid": "f5c4dec55129cba411489d5f@unirsr-calendar"
+  },
+  "f5dc0411885fff93dc222d29@unirsr-calendar": {
+    "date": "2026-12-09",
+    "end": "20261209T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261209T113000",
+    "subject": "Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)",
+    "uid": "f5dc0411885fff93dc222d29@unirsr-calendar"
+  },
+  "f69e736f16c3acc0711d5d54@unirsr-calendar": {
+    "date": "2026-11-12",
+    "end": "20261112T133000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261112T113000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)",
+    "uid": "f69e736f16c3acc0711d5d54@unirsr-calendar"
+  },
+  "f73ff34bf9f836efa888ea66@unirsr-calendar": {
+    "date": "2026-11-04",
+    "end": "20261104T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261104T093000",
+    "subject": "Lezione: Molecular cell biology (docente: FERRARI SAMUELE)",
+    "uid": "f73ff34bf9f836efa888ea66@unirsr-calendar"
+  },
+  "fac760b24a5ebf9cd22bcbf8@unirsr-calendar": {
+    "date": "2026-11-11",
+    "end": "20261111T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261111T143000",
+    "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
+    "uid": "fac760b24a5ebf9cd22bcbf8@unirsr-calendar"
+  },
+  "fcb1b2d9ae6c007579de186d@unirsr-calendar": {
+    "date": "2026-11-23",
+    "end": "20261123T163000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261123T143000",
+    "subject": "Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)",
+    "uid": "fcb1b2d9ae6c007579de186d@unirsr-calendar"
+  },
+  "fcca100fc3dafa39935cbf1f@unirsr-calendar": {
+    "date": "2026-12-17",
+    "end": "20261217T133000",
+    "location": "VASARI Aula VA401 (4 piano)",
+    "start": "20261217T113000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANGELO)",
+    "uid": "fcca100fc3dafa39935cbf1f@unirsr-calendar"
+  },
+  "fed392aa7c8c3b0b6361a2ad@unirsr-calendar": {
+    "date": "2026-10-28",
+    "end": "20261028T113000",
+    "location": "BORROMINI Aula BO402 (4 piano)",
+    "start": "20261028T093000",
+    "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
+    "uid": "fed392aa7c8c3b0b6361a2ad@unirsr-calendar"
+  }
+}
