@@ -1,0 +1,2061 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//twentysecondproject//UniSR Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UniSR International MD
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:b63e50ae44600d605898f189@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261005T093000
+DTEND;TZID=Europe/Rome:20261005T113000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7124a7a23b89fc8eedc4a338@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261005T113000
+DTEND;TZID=Europe/Rome:20261005T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2072d0f827d334bb2ef97944@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261005T143000
+DTEND;TZID=Europe/Rome:20261005T163000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c562ee5837799722689a45dd@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261006T093000
+DTEND;TZID=Europe/Rome:20261006T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4a6aa2f8b255157460b4efd4@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261006T113000
+DTEND;TZID=Europe/Rome:20261006T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5bf9adbe4d908a9207d63da9@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261006T143000
+DTEND;TZID=Europe/Rome:20261006T163000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1c64c40540946361dd268d0a@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261007T093000
+DTEND;TZID=Europe/Rome:20261007T113000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bdf3d6557822551fbb65282f@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261007T113000
+DTEND;TZID=Europe/Rome:20261007T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:226dbdea3f9aad64e9340288@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261007T143000
+DTEND;TZID=Europe/Rome:20261007T163000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
+ I ANDREA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:04ac7abf7c0ea5073ad61095@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261008T113000
+DTEND;TZID=Europe/Rome:20261008T133000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:02369e7bbb05462a75d2bf6c@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261008T143000
+DTEND;TZID=Europe/Rome:20261008T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:61be86823c50562ed0b49ce4@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261009T113000
+DTEND;TZID=Europe/Rome:20261009T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a70505948969eb8becc88aa4@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261009T143000
+DTEND;TZID=Europe/Rome:20261009T163000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:df21d4fc098b8ec6d231fbf9@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261012T093000
+DTEND;TZID=Europe/Rome:20261012T113000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f120fc438a3960ae56c63c03@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261012T113000
+DTEND;TZID=Europe/Rome:20261012T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5027dfd0c560ad3837e8b41a@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261012T143000
+DTEND;TZID=Europe/Rome:20261012T163000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6feceaf6925749a51e2b45dc@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261013T093000
+DTEND;TZID=Europe/Rome:20261013T113000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e8f4666f3732de83b7a4fd5c@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261013T113000
+DTEND;TZID=Europe/Rome:20261013T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:647973f17f14466dee860413@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261013T143000
+DTEND;TZID=Europe/Rome:20261013T163000
+SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: DI BI
+ ASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1aa3e390ab3bea23273b7fa8@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261014T093000
+DTEND;TZID=Europe/Rome:20261014T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb791f867d78728b25520b7@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261014T113000
+DTEND;TZID=Europe/Rome:20261014T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0b09139dfef7a20af50cc4b3@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261014T143000
+DTEND;TZID=Europe/Rome:20261014T163000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
+ I ANDREA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b500413fd1bd69ae242a319b@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261015T113000
+DTEND;TZID=Europe/Rome:20261015T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8a8af749e128577676cfdab0@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261015T143000
+DTEND;TZID=Europe/Rome:20261015T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fa3b43e71bd8e6dc50e6640c@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261016T093000
+DTEND;TZID=Europe/Rome:20261016T113000
+SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: FERRARI
+  SAMUELE) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:72e33646fbad74d5910df8b6@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261016T113000
+DTEND;TZID=Europe/Rome:20261016T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3a497aff0921ef677d542a@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261016T143000
+DTEND;TZID=Europe/Rome:20261016T163000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0e697c8da41b31e14c4065ca@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261019T093000
+DTEND;TZID=Europe/Rome:20261019T113000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:32a489b0b1c4173b34cfb29f@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261019T113000
+DTEND;TZID=Europe/Rome:20261019T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:265dff392b5f9973950f313a@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261019T143000
+DTEND;TZID=Europe/Rome:20261019T163000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:05a41341cc4c43502b320d0e@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261020T093000
+DTEND;TZID=Europe/Rome:20261020T113000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:80bfeed5b41a62122e4b27f2@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261020T113000
+DTEND;TZID=Europe/Rome:20261020T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:abea0280302ca27b4b6a79ae@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261020T143000
+DTEND;TZID=Europe/Rome:20261020T163000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cb5c73c8260690d047897b1b@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261021T093000
+DTEND;TZID=Europe/Rome:20261021T113000
+SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: FERRARI
+  SAMUELE) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d609cc34168bc3ee6159d5@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261021T113000
+DTEND;TZID=Europe/Rome:20261021T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5b5d89c02612aea6179b3fee@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261021T143000
+DTEND;TZID=Europe/Rome:20261021T163000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
+ I ANDREA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a1ccde5b2ee00dc4e81bdc@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261022T093000
+DTEND;TZID=Europe/Rome:20261022T113000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:537d55222d9e6b61955b1cc9@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261022T113000
+DTEND;TZID=Europe/Rome:20261022T133000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
+ I ANDREA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fe1b23c252ed31bbbd236e75@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261022T143000
+DTEND;TZID=Europe/Rome:20261022T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:11e092d2d6fd5d635f76511f@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261023T093000
+DTEND;TZID=Europe/Rome:20261023T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:406f575bd0b51215346f5e68@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261023T113000
+DTEND;TZID=Europe/Rome:20261023T133000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
+ I ANDREA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:84ab2ac6601ced0140779857@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261023T143000
+DTEND;TZID=Europe/Rome:20261023T163000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4269401aef82bbd89d52c482@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261026T093000
+DTEND;TZID=Europe/Rome:20261026T113000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7dcc03ec529a0c9075da0d4e@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261026T113000
+DTEND;TZID=Europe/Rome:20261026T133000
+SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Molecular cell biology (docente: FERRARI
+  SAMUELE) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cc77898d157137aefb5affe0@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261026T143000
+DTEND;TZID=Europe/Rome:20261026T163000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:536b1cefef41aa23e205a9f9@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261027T093000
+DTEND;TZID=Europe/Rome:20261027T113000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc584fc9664eac9f36b5e0d@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261027T113000
+DTEND;TZID=Europe/Rome:20261027T133000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc584fc9664eac9f36b5e0d@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261027T143000
+DTEND;TZID=Europe/Rome:20261027T163000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5808939845642f20ffa6c1a7@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261028T093000
+DTEND;TZID=Europe/Rome:20261028T113000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a48c7d091233d4ce0903ed7e@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261028T113000
+DTEND;TZID=Europe/Rome:20261028T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:717136b981fe1bfdb1c3b23f@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261028T143000
+DTEND;TZID=Europe/Rome:20261028T163000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
+ I ANDREA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dea320e80eda35b82b7c42f4@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261029T093000
+DTEND;TZID=Europe/Rome:20261029T113000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
+ I ANDREA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dea320e80eda35b82b7c42f4@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261029T113000
+DTEND;TZID=Europe/Rome:20261029T133000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
+ I ANDREA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:45176f246c62ce91482af542@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261029T143000
+DTEND;TZID=Europe/Rome:20261029T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:70807d26568ff789402c4409@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261030T093000
+DTEND;TZID=Europe/Rome:20261030T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:413480a78c615535f2744413@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261030T113000
+DTEND;TZID=Europe/Rome:20261030T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4b92a7cdf562a72a62408f84@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261030T143000
+DTEND;TZID=Europe/Rome:20261030T163000
+SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: DI BI
+ ASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:135a8ff50709714ba8f2430b@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261102T093000
+DTEND;TZID=Europe/Rome:20261102T113000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e73dc778bf4d464402852ea@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261102T113000
+DTEND;TZID=Europe/Rome:20261102T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7261eab235e37c6cc1355bc6@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261102T143000
+DTEND;TZID=Europe/Rome:20261102T163000
+SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: ROSA 
+ DI BIASE ) | International MD Program Corso di Laurea Magistrale in Medi
+ cina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b76da8404ae26b721b8ae100@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261103T093000
+DTEND;TZID=Europe/Rome:20261103T113000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:84031c3ba3f31cdf0cfd9ecc@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261103T113000
+DTEND;TZID=Europe/Rome:20261103T133000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ac3d65329012dd242969aab9@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261103T143000
+DTEND;TZID=Europe/Rome:20261103T163000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6930dd80e0ae65a5389f84cd@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261104T093000
+DTEND;TZID=Europe/Rome:20261104T113000
+SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: FERRARI
+  SAMUELE) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6bf60a211087b00bffb52701@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261104T113000
+DTEND;TZID=Europe/Rome:20261104T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:28a75984a90e114f80919f26@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261104T143000
+DTEND;TZID=Europe/Rome:20261104T163000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
+ I ANDREA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ab840e45fe53c27e5a37c4@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261105T093000
+DTEND;TZID=Europe/Rome:20261105T113000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2117e6daa15115e39bf88a7a@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261105T143000
+DTEND;TZID=Europe/Rome:20261105T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bc360eea949c12f4c359d476@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261106T093000
+DTEND;TZID=Europe/Rome:20261106T113000
+SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: ANELLI 
+ TIZIANA) | International MD Program Corso di Laurea Magistrale in Medici
+ na e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b5d02ba62f5a4cd38d73f258@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261106T113000
+DTEND;TZID=Europe/Rome:20261106T133000
+SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) 
+ | International MD Program Corso di Laurea Magistrale in Medicina e Chir
+ urgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6065938bd973702ee4527b5a@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261106T143000
+DTEND;TZID=Europe/Rome:20261106T163000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8bf464d9f783edb5b95c26ab@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261109T093000
+DTEND;TZID=Europe/Rome:20261109T113000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:079edfe77a452ef41ceb00a8@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261109T113000
+DTEND;TZID=Europe/Rome:20261109T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e39fdc19562cdfd33bc8fdc@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261109T143000
+DTEND;TZID=Europe/Rome:20261109T163000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:de27c4ac521c9faa62e9f01d@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261110T093000
+DTEND;TZID=Europe/Rome:20261110T113000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d7e2323160bea701d0b2901b@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261110T113000
+DTEND;TZID=Europe/Rome:20261110T133000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6486a9e9e054419ee416debd@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261110T143000
+DTEND;TZID=Europe/Rome:20261110T163000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:586986d7d726f50a09bec097@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261111T093000
+DTEND;TZID=Europe/Rome:20261111T113000
+SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: ANELLI 
+ TIZIANA) | International MD Program Corso di Laurea Magistrale in Medici
+ na e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:55b42a2df5348b7500042858@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261111T113000
+DTEND;TZID=Europe/Rome:20261111T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f343e363a116da01bad8a481@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261111T143000
+DTEND;TZID=Europe/Rome:20261111T163000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:554888222d1675c1c8a164ae@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261112T093000
+DTEND;TZID=Europe/Rome:20261112T113000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a223247ff72ecdc359d90a7e@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261112T113000
+DTEND;TZID=Europe/Rome:20261112T133000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ CONTU FEDERICO) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5808e09c6d9cf1db85715fe5@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261112T143000
+DTEND;TZID=Europe/Rome:20261112T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cde7458bd27d9af7771a80ba@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261113T093000
+DTEND;TZID=Europe/Rome:20261113T113000
+SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: ANELLI 
+ TIZIANA) | International MD Program Corso di Laurea Magistrale in Medici
+ na e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1373e081d73aa13a671b96bd@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261113T113000
+DTEND;TZID=Europe/Rome:20261113T133000
+SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: DI BI
+ ASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a5333b925bd6adf6fddf5984@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261113T143000
+DTEND;TZID=Europe/Rome:20261113T163000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1c5af9a30a048337f183058c@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261116T093000
+DTEND;TZID=Europe/Rome:20261116T113000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:196cbdceb06ff5ccd9c572c2@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261116T113000
+DTEND;TZID=Europe/Rome:20261116T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:aeb4e920886351d054720e6b@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261116T143000
+DTEND;TZID=Europe/Rome:20261116T163000
+SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: ROSA 
+ DI BIASE ) | International MD Program Corso di Laurea Magistrale in Medi
+ cina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c61c7af7ed911c071c3cdb60@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261117T093000
+DTEND;TZID=Europe/Rome:20261117T113000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7d1385f3ae448b961c448d@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261117T113000
+DTEND;TZID=Europe/Rome:20261117T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0794b7c7e70627767440615f@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261117T143000
+DTEND;TZID=Europe/Rome:20261117T163000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d885d4d8f6edb445b0a5eca6@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261118T093000
+DTEND;TZID=Europe/Rome:20261118T113000
+SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: ANELLI 
+ TIZIANA) | International MD Program Corso di Laurea Magistrale in Medici
+ na e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:73665f6c70f100942c0dea1a@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261118T113000
+DTEND;TZID=Europe/Rome:20261118T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b354589699f94e9054aee7fe@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261118T143000
+DTEND;TZID=Europe/Rome:20261118T163000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:4f4d1b7783dbcc283775c2f5@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261119T093000
+DTEND;TZID=Europe/Rome:20261119T113000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3517c457f29be25a33ba0019@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261119T113000
+DTEND;TZID=Europe/Rome:20261119T133000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ CONTU FEDERICO) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f84ed16f6973d867561a737b@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261119T143000
+DTEND;TZID=Europe/Rome:20261119T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:18f813e4c2b6e306547d6e9e@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261120T093000
+DTEND;TZID=Europe/Rome:20261120T113000
+SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: ANELLI 
+ TIZIANA) | International MD Program Corso di Laurea Magistrale in Medici
+ na e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:516857df17cf8e96f24e16b4@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261120T113000
+DTEND;TZID=Europe/Rome:20261120T133000
+SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: DI BI
+ ASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f3106466b4bd8a80c6165407@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261120T143000
+DTEND;TZID=Europe/Rome:20261120T163000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:19e2a0056c903cee0d782a02@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261123T093000
+DTEND;TZID=Europe/Rome:20261123T113000
+SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: ALOI ERIKA) | 
+ International MD Program Corso di Laurea Magistrale in Medicina e Chirur
+ gia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:30d1054419e3c799371ea475@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261123T113000
+DTEND;TZID=Europe/Rome:20261123T133000
+SUMMARY:Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: DI SE
+ RIO MARIACLELIA) | International MD Program Corso di Laurea Magistrale i
+ n Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:30d1054419e3c799371ea475@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261123T143000
+DTEND;TZID=Europe/Rome:20261123T163000
+SUMMARY:Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: DI SE
+ RIO MARIACLELIA) | International MD Program Corso di Laurea Magistrale i
+ n Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:90310bd298696ccc08a22a4e@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261124T113000
+DTEND;TZID=Europe/Rome:20261124T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:30284126983d94c584035cb1@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261124T143000
+DTEND;TZID=Europe/Rome:20261124T163000
+SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: FIORINO CLAUDI
+ O) | International MD Program Corso di Laurea Magistrale in Medicina e C
+ hirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a939867833a49cd47b2041c8@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261125T093000
+DTEND;TZID=Europe/Rome:20261125T113000
+SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: FIORINO CLAUDI
+ O) | International MD Program Corso di Laurea Magistrale in Medicina e C
+ hirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d9f2f993930925339df3f5f5@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261125T113000
+DTEND;TZID=Europe/Rome:20261125T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6663cc5f10a213919938fa72@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261125T143000
+DTEND;TZID=Europe/Rome:20261125T163000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c860db83e688be970474222a@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261126T093000
+DTEND;TZID=Europe/Rome:20261126T113000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d69bc026f7b82d7bf54212@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261126T113000
+DTEND;TZID=Europe/Rome:20261126T133000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ CONTU FEDERICO) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:174cc926796a4b4c5fb4d948@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261126T143000
+DTEND;TZID=Europe/Rome:20261126T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6682addb68243a4eda308d17@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261127T093000
+DTEND;TZID=Europe/Rome:20261127T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5c55620c0e6e84376b639f99@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261127T113000
+DTEND;TZID=Europe/Rome:20261127T133000
+SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: DI BI
+ ASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b4868850a661bf26e93dc254@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261127T143000
+DTEND;TZID=Europe/Rome:20261127T163000
+SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: FIORINO CLAUDI
+ O) | International MD Program Corso di Laurea Magistrale in Medicina e C
+ hirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2eb3be5e315ceb8d98464b37@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261130T093000
+DTEND;TZID=Europe/Rome:20261130T113000
+SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: FIORINO CLAUDI
+ O) | International MD Program Corso di Laurea Magistrale in Medicina e C
+ hirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:271035e594e8ca7f8a977edb@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261130T113000
+DTEND;TZID=Europe/Rome:20261130T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
+ SSIMO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2621b4cba1379c7757498756@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261130T143000
+DTEND;TZID=Europe/Rome:20261130T163000
+SUMMARY:Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: DI SE
+ RIO MARIACLELIA) | International MD Program Corso di Laurea Magistrale i
+ n Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9fae30f68bdfcfe73a1b88bb@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261201T113000
+DTEND;TZID=Europe/Rome:20261201T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
+ AVIO )
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CURNIS FLAVIO ) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6ef750b7bc1f923f2efa733d@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261201T143000
+DTEND;TZID=Europe/Rome:20261201T163000
+SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: DI BI
+ ASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:99b540ef0cc98edeebd91d8c@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261202T093000
+DTEND;TZID=Europe/Rome:20261202T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6250e425b07f5c45946a9e7d@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261202T113000
+DTEND;TZID=Europe/Rome:20261202T133000
+SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medical Physics (docente: FIORINO CLAUDI
+ O) | International MD Program Corso di Laurea Magistrale in Medicina e C
+ hirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c7dc9e220f275c624151c6b0@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261202T143000
+DTEND;TZID=Europe/Rome:20261202T163000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
+ IS)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ JOHN MICHAEL ELLIS) | International MD Program Corso di Laurea Magistral
+ e in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8e10a2f2eeae0af60bdc19f5@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261203T093000
+DTEND;TZID=Europe/Rome:20261203T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a1fc4d41b9b3c91d62d5058d@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261203T113000
+DTEND;TZID=Europe/Rome:20261203T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ec9199a5e1c921f0cf801e8c@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261203T143000
+DTEND;TZID=Europe/Rome:20261203T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
+ AVIO )
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CURNIS FLAVIO ) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:28d92ed3b2e7162107c0b57c@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261204T093000
+DTEND;TZID=Europe/Rome:20261204T113000
+SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: FIORINO CLAUDI
+ O) | International MD Program Corso di Laurea Magistrale in Medicina e C
+ hirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2f5ac0809dab4a366fd05f@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261204T113000
+DTEND;TZID=Europe/Rome:20261204T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
+ AVIO )
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CURNIS FLAVIO ) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fcbd2b6e715172dd4e5c5224@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261204T143000
+DTEND;TZID=Europe/Rome:20261204T163000
+SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: ROSA 
+ DI BIASE ) | International MD Program Corso di Laurea Magistrale in Medi
+ cina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3a289709ad38d7afc0c37fde@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261209T093000
+DTEND;TZID=Europe/Rome:20261209T113000
+SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: FERRARI
+  SAMUELE) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:66bcb3267e54784de60911a7@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261209T113000
+DTEND;TZID=Europe/Rome:20261209T133000
+SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: DI BI
+ ASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7ac9d062eecb73ea5b99af6f@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261210T093000
+DTEND;TZID=Europe/Rome:20261210T113000
+SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medicine as a Human Endeavour (docente: 
+ CONTU FEDERICO) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:943fbe4b16b150034789ae06@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261210T113000
+DTEND;TZID=Europe/Rome:20261210T133000
+SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: DI BI
+ ASE ROSA MARIA) | International MD Program Corso di Laurea Magistrale in
+  Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7a1456fb8fdce31eb02f8abd@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261210T143000
+DTEND;TZID=Europe/Rome:20261210T163000
+SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: PALMISANO ANNA
+ ) | International MD Program Corso di Laurea Magistrale in Medicina e Ch
+ irurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:40fd343b6b68ec0f08aa4797@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261211T093000
+DTEND;TZID=Europe/Rome:20261211T113000
+SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: FERRARI
+  SAMUELE) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:077e2d73ee49f4d97e7cae10@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261211T113000
+DTEND;TZID=Europe/Rome:20261211T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
+ AVIO )
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CURNIS FLAVIO ) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5a85cdd014ae55bed0542fc2@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261211T143000
+DTEND;TZID=Europe/Rome:20261211T163000
+SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: PALMISANO ANNA
+ ) | International MD Program Corso di Laurea Magistrale in Medicina e Ch
+ irurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ca7a193d735445561cacf6dd@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261214T093000
+DTEND;TZID=Europe/Rome:20261214T113000
+SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: PALMISANO ANNA
+ ) | International MD Program Corso di Laurea Magistrale in Medicina e Ch
+ irurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:17537e630f1cd014f91bedf9@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261214T113000
+DTEND;TZID=Europe/Rome:20261214T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
+ AVIO )
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CURNIS FLAVIO ) | International MD Program Corso di Laurea Magist
+ rale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:65c7b9279ef23b41ebc1d2f7@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261214T143000
+DTEND;TZID=Europe/Rome:20261214T163000
+SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Basic medical statistics (docente: ROSA 
+ DI BIASE ) | International MD Program Corso di Laurea Magistrale in Medi
+ cina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8507a0296120773dad911a0a@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261215T093000
+DTEND;TZID=Europe/Rome:20261215T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f99376f0288e0dd5b25e0e7b@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261215T113000
+DTEND;TZID=Europe/Rome:20261215T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
+ ELO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CORTI ANGELO) | International MD Program Corso di Laurea Magistra
+ le in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f99376f0288e0dd5b25e0e7b@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261215T143000
+DTEND;TZID=Europe/Rome:20261215T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
+ ELO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CORTI ANGELO) | International MD Program Corso di Laurea Magistra
+ le in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c001d9daa98bb02f479300a0@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261216T093000
+DTEND;TZID=Europe/Rome:20261216T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fb457f307b389dfe65cf0eec@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261216T113000
+DTEND;TZID=Europe/Rome:20261216T133000
+SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
+ VITTORIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Basic medical statistics (docente: RANCO
+ ITA PAOLA MARIA VITTORIA) | International MD Program Corso di Laurea Mag
+ istrale in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:96831b6eaf254d54afe6bb8d@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261216T143000
+DTEND;TZID=Europe/Rome:20261216T163000
+SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medical Physics (docente: PALMISANO ANNA
+ ) | International MD Program Corso di Laurea Magistrale in Medicina e Ch
+ irurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:477ee9ca11b6120a5f356a9e@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261217T093000
+DTEND;TZID=Europe/Rome:20261217T113000
+SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Medical Physics (docente: PALMISANO ANNA
+ ) | International MD Program Corso di Laurea Magistrale in Medicina e Ch
+ irurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a9f2b8776600c3190454125f@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261217T113000
+DTEND;TZID=Europe/Rome:20261217T133000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
+ ELO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CORTI ANGELO) | International MD Program Corso di Laurea Magistra
+ le in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a9f2b8776600c3190454125f@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261217T143000
+DTEND;TZID=Europe/Rome:20261217T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
+ ELO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CORTI ANGELO) | International MD Program Corso di Laurea Magistra
+ le in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:150b88f8d8e18419e4452908@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261218T093000
+DTEND;TZID=Europe/Rome:20261218T113000
+SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE
+  DANIELA) | International MD Program Corso di Laurea Magistrale in Medic
+ ina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f64e733508c97eea6126db@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261218T113000
+DTEND;TZID=Europe/Rome:20261218T133000
+SUMMARY:Lezione: Medical Physics (docente: PICCHIO MARIA)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 11:30-13:30 | Lezione: Medical Physics (docente: PICCHIO MARIA)
+  | International MD Program Corso di Laurea Magistrale in Medicina e Chi
+ rurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d9c72c1f4a58d9bbe9d7c0c8@unirsr-calendar
+DTSTAMP:20260908T214756Z
+DTSTART;TZID=Europe/Rome:20261218T143000
+DTEND;TZID=Europe/Rome:20261218T163000
+SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
+ ELO)
+DESCRIPTION:Docente: \nUniSR International Medical Doctor Program\nRaw ti
+ metable: 14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (do
+ cente: CORTI ANGELO) | International MD Program Corso di Laurea Magistra
+ le in Medicina e Chirurgia | 1
+LOCATION:
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
