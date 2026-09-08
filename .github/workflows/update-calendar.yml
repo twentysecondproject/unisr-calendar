@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
 
   schedule:
-    # 06:17, 12:17, 18:17 and 00:17 Europe/Rome
     - cron: "17 0,6,12,18 * * *"
       timezone: "Europe/Rome"
 
@@ -30,8 +29,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Generate calendar
-        run: |
-          python scraper.py
+        run: python scraper.py
 
       - name: Commit updated calendar
         run: |
