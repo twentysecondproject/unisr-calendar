@@ -70,7 +70,7 @@ def parse_time_range(text: str):
     return match.group(1), match.group(2)
 
 
-ef extract_rows(html: str, day: date):
+def extract_rows(html: str, day: date):
     soup = BeautifulSoup(html, "html.parser")
     lessons = []
 
