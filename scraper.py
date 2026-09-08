@@ -338,6 +338,9 @@ def main():
             )
 
             for row in rows:
+                print("DEBUG CELLS:", row["cells"])
+                print("DEBUG RAW:", row["raw"])
+
                 all_lessons.append(
                     parse_lesson(row)
                 )
