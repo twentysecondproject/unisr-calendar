@@ -16,7 +16,6 @@ COURSE_YEAR = "1"
 
 OUTPUT_FILE = Path("unirsr.ics")
 
-# How far backwards/forwards we scan.
 DAYS_BACK = 7
 DAYS_FORWARD = 180
 
@@ -50,26 +49,6 @@ def clean_text(value: str) -> str:
     return value.strip()
 
 
-def parse_time_range(text: str):
-    """
-    Extracts a start/end time from text such as:
-    09:30 - 11:30
-    09:30–11:30
-    09.30 - 11.30
-    """
-    text = text.replace(".", ":").replace("–", "-").replace("—", "-")
-
-    match = re.search(
-        r"(\d{1,2}:\d{2})\s*-\s*(\d{1,2}:\d{2})",
-        text
-    )
-
-    if not match:
-        return None
-
-    return match.group(1), match.group(2)
-
-
 def extract_rows(html: str, day: date):
     soup = BeautifulSoup(html, "html.parser")
     lessons = []
@@ -78,14 +57,6 @@ def extract_rows(html: str, day: date):
 
     for table in soup.find_all("table"):
         for tr in table.find_all("tr"):
-
-            # ---------------------------------------------------------
-            # 1. Check whether this row contains a classroom.
-            #
-            # UniSR may print the classroom once above several lessons.
-            # Therefore we keep the last classroom encountered and
-            # associate it with following lesson rows.
-            # ---------------------------------------------------------
 
             row_text = clean_text(
                 tr.get_text(" ", strip=True)
@@ -111,10 +82,6 @@ def extract_rows(html: str, day: date):
                 if floor:
                     current_location += f" ({floor})"
 
-            # ---------------------------------------------------------
-            # 2. Extract the cells of the row.
-            # ---------------------------------------------------------
-
             cells = [
                 clean_text(cell.get_text(" ", strip=True))
                 for cell in tr.find_all(["td", "th"])
@@ -127,16 +94,8 @@ def extract_rows(html: str, day: date):
 
             combined = " | ".join(cells)
 
-            # ---------------------------------------------------------
-            # 3. Only keep rows containing a lesson title.
-            # ---------------------------------------------------------
-
             if "Lezione:" not in combined:
                 continue
-
-            # ---------------------------------------------------------
-            # 4. Find the time range.
-            # ---------------------------------------------------------
 
             time_match = re.search(
                 r"(\d{1,2}:\d{2})\s*[-–—]\s*(\d{1,2}:\d{2})",
@@ -149,10 +108,6 @@ def extract_rows(html: str, day: date):
             start_time = time_match.group(1)
             end_time = time_match.group(2)
 
-            # ---------------------------------------------------------
-            # 5. Store the classroom together with the lesson.
-            # ---------------------------------------------------------
-
             lessons.append({
                 "date": day,
                 "start": start_time,
@@ -162,7 +117,6 @@ def extract_rows(html: str, day: date):
                 "location": current_location,
             })
 
-    # Remove exact duplicates.
     unique = []
     seen = set()
 
@@ -181,19 +135,11 @@ def extract_rows(html: str, day: date):
 
     return unique
 
+
 def parse_lesson(lesson):
-    """
-    Keep the UniSR lesson title exactly as displayed on the timetable.
-
-    The classroom is extracted by extract_rows(), because UniSR may
-    display the classroom separately from the lesson row.
-    """
-
     cells = lesson["cells"]
-
     combined = " | ".join(cells)
 
-    # Find the complete UniSR lesson title.
     match = re.search(
         r"(Lezione:\s*.*?\(docente:\s*.*?\))",
         combined,
@@ -203,7 +149,6 @@ def parse_lesson(lesson):
     if match:
         subject = clean_text(match.group(1))
     else:
-        # Fallback: look for any cell beginning with "Lezione:"
         subject = ""
 
         for cell in cells:
@@ -214,7 +159,6 @@ def parse_lesson(lesson):
         if not subject:
             subject = "UniSR Lesson"
 
-    # The classroom is extracted by extract_rows().
     location = clean_text(
         lesson.get("location", "")
     )
@@ -231,20 +175,14 @@ def parse_lesson(lesson):
 
 
 def make_uid(lesson):
-    """
-    Stable UID.
-
-    We intentionally use subject + date + occurrence information rather
-    than the room/teacher so that changing a room or teacher updates the
-    existing Apple Calendar event instead of creating a duplicate.
-    """
-
     base = (
         f"{lesson['date'].isoformat()}|"
         f"{lesson['subject'].lower()}"
     )
 
-    digest = hashlib.sha256(base.encode("utf-8")).hexdigest()[:24]
+    digest = hashlib.sha256(
+        base.encode("utf-8")
+    ).hexdigest()[:24]
 
     return f"{digest}@unirsr-calendar"
 
@@ -260,9 +198,6 @@ def escape_ics(text):
 
 
 def fold_ics_line(line, limit=73):
-    """
-    RFC-style line folding for iCalendar.
-    """
     result = []
 
     while len(line) > limit:
@@ -312,7 +247,9 @@ def generate_ics(lessons):
             f"Raw timetable: {lesson['raw']}"
         )
 
-        location = escape_ics(lesson["location"])
+        location = escape_ics(
+            lesson["location"]
+        )
 
         lines.extend([
             "BEGIN:VEVENT",
@@ -386,10 +323,8 @@ def main():
 
         current += timedelta(days=1)
 
-        # Be polite to the UniSR server.
         time.sleep(0.15)
 
-    # Remove duplicates.
     unique = {}
 
     for lesson in all_lessons:
