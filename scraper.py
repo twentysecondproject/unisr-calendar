@@ -332,6 +332,14 @@ def main():
 
             response.raise_for_status()
 
+            print("DEBUG AULA HTML:")
+            for match in re.findall(
+                r".{0,100}(?:Aula|CANOVA|CA\d{2,4}).{0,150}",
+                response.text,
+                flags=re.IGNORECASE | re.DOTALL,
+            ):
+                print(clean_text(match))
+
             rows = extract_rows(
                 response.text,
                 current,
