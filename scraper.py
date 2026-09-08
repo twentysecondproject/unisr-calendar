@@ -157,44 +157,65 @@ def extract_rows(html: str, day: date):
 
 def parse_lesson(lesson):
     """
-    Converts a raw timetable row into calendar information.
+    Keep the UniSR lesson title exactly as displayed on the timetable.
 
-    Because UniSR's table layout can change, we keep the raw row in the
-    DESCRIPTION as a fallback.
+    Example:
+        Lezione: Medical Physics (docente: MAZZA DAVIDE)
+
+    The title, including the professor, becomes the Apple Calendar
+    event title.
     """
 
     cells = lesson["cells"]
 
-    # Try to identify likely fields.
-    subject = ""
-    teacher = ""
+    combined = " | ".join(cells)
+
+    # Find the complete UniSR lesson title.
+    match = re.search(
+        r"(Lezione:\s*.*?\(docente:\s*.*?\))",
+        combined,
+        flags=re.IGNORECASE,
+    )
+
+    if match:
+        subject = clean_text(match.group(1))
+    else:
+        # Fallback: look for any cell beginning with "Lezione:"
+        subject = ""
+
+        for cell in cells:
+            if cell.lower().startswith("lezione:"):
+                subject = clean_text(cell)
+                break
+
+        if not subject:
+            subject = "UniSR Lesson"
+
+    # Try to find the classroom/building exactly as displayed by UniSR.
     location = ""
 
-    # Remove obvious time-only cells.
-    useful = []
+    location_patterns = [
+        r"(CANOVA\s+Aula\s+[A-Z]{1,5}\d{2,4}(?:\s*\([^)]*\))?)",
+        r"(Aula\s+[A-Z]{1,5}\d{2,4}(?:\s*\([^)]*\))?)",
+    ]
 
-    for cell in cells:
-        if parse_time_range(cell):
-            continue
+    for pattern in location_patterns:
+        match = re.search(
+            pattern,
+            combined,
+            flags=re.IGNORECASE,
+        )
 
-        if len(cell) >= 2:
-            useful.append(cell)
-
-    if useful:
-        subject = useful[0]
-
-    if len(useful) >= 2:
-        teacher = useful[1]
-
-    if len(useful) >= 3:
-        location = useful[-1]
+        if match:
+            location = clean_text(match.group(1))
+            break
 
     return {
         "date": lesson["date"],
         "start": lesson["start"],
         "end": lesson["end"],
-        "subject": subject or "UniSR Lesson",
-        "teacher": teacher,
+        "subject": subject,
+        "teacher": "",
         "location": location,
         "raw": lesson["raw"],
     }
