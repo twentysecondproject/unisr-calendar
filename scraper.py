@@ -74,8 +74,47 @@ def extract_rows(html: str, day: date):
     soup = BeautifulSoup(html, "html.parser")
     lessons = []
 
+    current_location = ""
+
     for table in soup.find_all("table"):
         for tr in table.find_all("tr"):
+
+            # ---------------------------------------------------------
+            # 1. Check whether this row contains a classroom.
+            #
+            # UniSR may print the classroom once above several lessons.
+            # Therefore we keep the last classroom encountered and
+            # associate it with following lesson rows.
+            # ---------------------------------------------------------
+
+            row_text = clean_text(
+                tr.get_text(" ", strip=True)
+            )
+
+            location_match = re.search(
+                r"([A-ZÀ-ÖØ-Ý0-9 .'-]+)\s*-\s*Aula\s+"
+                r"([A-Z]{1,5}\d{2,4})"
+                r"(?:\s*\(([^)]*)\))?",
+                row_text,
+                flags=re.IGNORECASE,
+            )
+
+            if location_match:
+                building = clean_text(location_match.group(1))
+                room = clean_text(location_match.group(2))
+                floor = clean_text(location_match.group(3) or "")
+
+                current_location = (
+                    f"{building} Aula {room}"
+                )
+
+                if floor:
+                    current_location += f" ({floor})"
+
+            # ---------------------------------------------------------
+            # 2. Extract the cells of the row.
+            # ---------------------------------------------------------
+
             cells = [
                 clean_text(cell.get_text(" ", strip=True))
                 for cell in tr.find_all(["td", "th"])
@@ -88,11 +127,17 @@ def extract_rows(html: str, day: date):
 
             combined = " | ".join(cells)
 
-            # We only want rows containing a lesson title.
+            # ---------------------------------------------------------
+            # 3. Only keep rows containing a lesson title.
+            # ---------------------------------------------------------
+
             if "Lezione:" not in combined:
                 continue
 
-            # Find the time range.
+            # ---------------------------------------------------------
+            # 4. Find the time range.
+            # ---------------------------------------------------------
+
             time_match = re.search(
                 r"(\d{1,2}:\d{2})\s*[-–—]\s*(\d{1,2}:\d{2})",
                 combined,
@@ -104,12 +149,17 @@ def extract_rows(html: str, day: date):
             start_time = time_match.group(1)
             end_time = time_match.group(2)
 
+            # ---------------------------------------------------------
+            # 5. Store the classroom together with the lesson.
+            # ---------------------------------------------------------
+
             lessons.append({
                 "date": day,
                 "start": start_time,
                 "end": end_time,
                 "raw": combined,
                 "cells": cells,
+                "location": current_location,
             })
 
     # Remove exact duplicates.
@@ -122,6 +172,7 @@ def extract_rows(html: str, day: date):
             lesson["start"],
             lesson["end"],
             lesson["raw"],
+            lesson["location"],
         )
 
         if key not in seen:
@@ -129,7 +180,6 @@ def extract_rows(html: str, day: date):
             unique.append(lesson)
 
     return unique
-
 
 def parse_lesson(lesson):
     """
@@ -168,23 +218,9 @@ def parse_lesson(lesson):
             subject = "UniSR Lesson"
 
     # Try to find the classroom/building exactly as displayed by UniSR.
-    location = ""
-
-    location_patterns = [
-        r"(CANOVA\s+Aula\s+[A-Z]{1,5}\d{2,4}(?:\s*\([^)]*\))?)",
-        r"(Aula\s+[A-Z]{1,5}\d{2,4}(?:\s*\([^)]*\))?)",
-    ]
-
-    for pattern in location_patterns:
-        match = re.search(
-            pattern,
-            combined,
-            flags=re.IGNORECASE,
-        )
-
-        if match:
-            location = clean_text(match.group(1))
-            break
+        location = clean_text(
+        lesson.get("location", "")
+    )
 
     return {
         "date": lesson["date"],
@@ -332,23 +368,12 @@ def main():
 
             response.raise_for_status()
 
-            print("DEBUG AULA HTML:")
-            for match in re.findall(
-                r".{0,100}(?:Aula|CANOVA|CA\d{2,4}).{0,150}",
-                response.text,
-                flags=re.IGNORECASE | re.DOTALL,
-            ):
-                print(clean_text(match))
-
             rows = extract_rows(
                 response.text,
                 current,
             )
 
             for row in rows:
-                print("DEBUG CELLS:", row["cells"])
-                print("DEBUG RAW:", row["raw"])
-
                 all_lessons.append(
                     parse_lesson(row)
                 )
