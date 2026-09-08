@@ -1,4 +1,5 @@
 import hashlib
+import json
 import re
 import time
 from datetime import date, datetime, timedelta
@@ -15,6 +16,7 @@ COURSE_ID = "10321"
 COURSE_YEAR = "1"
 
 OUTPUT_FILE = Path("calendario-unisr.ics")
+STATE_FILE = Path("calendar_state.json")
 
 DAYS_BACK = 7
 DAYS_FORWARD = 180
@@ -71,23 +73,35 @@ def extract_rows(html: str, day: date):
             )
 
             if location_match:
-                building = clean_text(location_match.group(1))
-                room = clean_text(location_match.group(2))
-                floor = clean_text(location_match.group(3) or "")
+                building = clean_text(
+                    location_match.group(1)
+                )
+                room = clean_text(
+                    location_match.group(2)
+                )
+                floor = clean_text(
+                    location_match.group(3) or ""
+                )
 
                 current_location = (
                     f"{building} Aula {room}"
                 )
 
                 if floor:
-                    current_location += f" ({floor})"
+                    current_location += (
+                        f" ({floor})"
+                    )
 
             cells = [
-                clean_text(cell.get_text(" ", strip=True))
+                clean_text(
+                    cell.get_text(" ", strip=True)
+                )
                 for cell in tr.find_all(["td", "th"])
             ]
 
-            cells = [cell for cell in cells if cell]
+            cells = [
+                cell for cell in cells if cell
+            ]
 
             if not cells:
                 continue
@@ -98,7 +112,8 @@ def extract_rows(html: str, day: date):
                 continue
 
             time_match = re.search(
-                r"(\d{1,2}:\d{2})\s*[-–—]\s*(\d{1,2}:\d{2})",
+                r"(\d{1,2}:\d{2})\s*[-–—]\s*"
+                r"(\d{1,2}:\d{2})",
                 combined,
             )
 
@@ -159,25 +174,31 @@ def parse_lesson(lesson):
         if not subject:
             subject = "UniSR Lesson"
 
-    location = clean_text(
-        lesson.get("location", "")
-    )
-
     return {
         "date": lesson["date"],
         "start": lesson["start"],
         "end": lesson["end"],
         "subject": subject,
         "teacher": "",
-        "location": location,
+        "location": clean_text(
+            lesson.get("location", "")
+        ),
         "raw": lesson["raw"],
     }
 
 
-def make_uid(lesson):
+def lesson_identity(lesson):
+    return (
+        lesson["date"].isoformat(),
+        lesson["subject"].lower(),
+    )
+
+
+def make_uid(lesson, occurrence):
     base = (
         f"{lesson['date'].isoformat()}|"
-        f"{lesson['subject'].lower()}"
+        f"{lesson['subject'].lower()}|"
+        f"{occurrence}"
     )
 
     digest = hashlib.sha256(
@@ -185,6 +206,65 @@ def make_uid(lesson):
     ).hexdigest()[:24]
 
     return f"{digest}@unirsr-calendar"
+
+
+def assign_uids(lessons):
+    grouped = {}
+
+    for lesson in lessons:
+        key = lesson_identity(lesson)
+        grouped.setdefault(key, []).append(lesson)
+
+    for group in grouped.values():
+        group.sort(
+            key=lambda x: (
+                x["start"],
+                x["end"],
+                x["location"],
+                x["raw"],
+            )
+        )
+
+        for occurrence, lesson in enumerate(
+            group,
+            start=1,
+        ):
+            lesson["uid"] = make_uid(
+                lesson,
+                occurrence,
+            )
+
+    return lessons
+
+
+def load_state():
+    if not STATE_FILE.exists():
+        return {}
+
+    try:
+        return json.loads(
+            STATE_FILE.read_text(
+                encoding="utf-8"
+            )
+        )
+    except Exception:
+        print(
+            "WARNING: Could not read "
+            "calendar_state.json. Starting fresh."
+        )
+        return {}
+
+
+def save_state(state):
+    STATE_FILE.write_text(
+        json.dumps(
+            state,
+            indent=2,
+            ensure_ascii=False,
+            sort_keys=True,
+        ),
+        encoding="utf-8",
+    )
 
 
 def escape_ics(text):
@@ -210,11 +290,16 @@ def fold_ics_line(line, limit=73):
 
 
 def format_datetime(day, time_string):
-    return f"{day.strftime('%Y%m%d')}T{time_string.replace(':', '')}00"
+    return (
+        f"{day.strftime('%Y%m%d')}"
+        f"T{time_string.replace(':', '')}00"
+    )
 
 
-def generate_ics(lessons):
-    now = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+def generate_ics(lessons, cancelled):
+    now = datetime.utcnow().strftime(
+        "%Y%m%dT%H%M%SZ"
+    )
 
     lines = [
         "BEGIN:VCALENDAR",
@@ -227,8 +312,6 @@ def generate_ics(lessons):
     ]
 
     for lesson in lessons:
-        uid = make_uid(lesson)
-
         start = format_datetime(
             lesson["date"],
             lesson["start"],
@@ -239,28 +322,28 @@ def generate_ics(lessons):
             lesson["end"],
         )
 
-        summary = escape_ics(lesson["subject"])
-
-        description = escape_ics(
-            f"Docente: {lesson['teacher']}\n"
-            f"UniSR International Medical Doctor Program\n"
-            f"Raw timetable: {lesson['raw']}"
-        )
-
-        location = escape_ics(
-            lesson["location"]
-        )
-
         lines.extend([
             "BEGIN:VEVENT",
-            f"UID:{uid}",
+            f"UID:{lesson['uid']}",
             f"DTSTAMP:{now}",
             f"DTSTART;TZID=Europe/Rome:{start}",
             f"DTEND;TZID=Europe/Rome:{end}",
-            f"SUMMARY:{summary}",
-            f"DESCRIPTION:{description}",
-            f"LOCATION:{location}",
+            f"SUMMARY:{escape_ics(lesson['subject'])}",
+            f"LOCATION:{escape_ics(lesson['location'])}",
             "STATUS:CONFIRMED",
+            "END:VEVENT",
+        ])
+
+    for event in cancelled:
+        lines.extend([
+            "BEGIN:VEVENT",
+            f"UID:{event['uid']}",
+            f"DTSTAMP:{now}",
+            f"DTSTART;TZID=Europe/Rome:{event['start']}",
+            f"DTEND;TZID=Europe/Rome:{event['end']}",
+            f"SUMMARY:{escape_ics(event['subject'])}",
+            f"LOCATION:{escape_ics(event.get('location', ''))}",
+            "STATUS:CANCELLED",
             "END:VEVENT",
         ])
 
@@ -275,8 +358,12 @@ def generate_ics(lessons):
 def main():
     today = date.today()
 
-    start_date = today - timedelta(days=DAYS_BACK)
-    end_date = today + timedelta(days=DAYS_FORWARD)
+    start_date = today - timedelta(
+        days=DAYS_BACK
+    )
+    end_date = today + timedelta(
+        days=DAYS_FORWARD
+    )
 
     print(
         f"Scanning UniSR timetable from "
@@ -338,8 +425,12 @@ def main():
 
         unique[key] = lesson
 
+    lessons = list(unique.values())
+
+    lessons = assign_uids(lessons)
+
     lessons = sorted(
-        unique.values(),
+        lessons,
         key=lambda x: (
             x["date"],
             x["start"],
@@ -347,16 +438,65 @@ def main():
         ),
     )
 
-    print(f"\nTotal lessons: {len(lessons)}")
+    print(
+        f"\nTotal active lessons: {len(lessons)}"
+    )
 
-    ics = generate_ics(lessons)
+    old_state = load_state()
+
+    current_state = {
+        lesson["uid"]: {
+            "uid": lesson["uid"],
+            "date": lesson["date"].isoformat(),
+            "start": format_datetime(
+                lesson["date"],
+                lesson["start"],
+            ),
+            "end": format_datetime(
+                lesson["date"],
+                lesson["end"],
+            ),
+            "subject": lesson["subject"],
+            "location": lesson["location"],
+        }
+        for lesson in lessons
+    }
+
+    cancelled = []
+
+    for uid, old_event in old_state.items():
+        if uid not in current_state:
+            print(
+                f"CANCELLED: "
+                f"{old_event.get('date')} "
+                f"{old_event.get('subject')}"
+            )
+
+            cancelled.append(old_event)
+
+    ics = generate_ics(
+        lessons,
+        cancelled,
+    )
 
     OUTPUT_FILE.write_text(
         ics,
         encoding="utf-8",
     )
 
-    print(f"Written: {OUTPUT_FILE}")
+    save_state(current_state)
+
+    print(
+        f"Written: {OUTPUT_FILE}"
+    )
+
+    print(
+        f"Cancelled events: {len(cancelled)}"
+    )
+
+    print(
+        f"State saved: {STATE_FILE}"
+    )
 
 
 if __name__ == "__main__":
