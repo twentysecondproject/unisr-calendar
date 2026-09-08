@@ -70,89 +70,65 @@ def parse_time_range(text: str):
     return match.group(1), match.group(2)
 
 
-def extract_rows(html: str, day: date):
-    """
-    Attempts to identify timetable rows from the UniSR page.
-
-    This intentionally uses several heuristics because the timetable
-    website is an older ASP site and its HTML structure may change.
-    """
-
+ef extract_rows(html: str, day: date):
     soup = BeautifulSoup(html, "html.parser")
-
     lessons = []
 
-    # Look at tables first.
     for table in soup.find_all("table"):
-        rows = table.find_all("tr")
-
-        for row in rows:
+        for tr in table.find_all("tr"):
             cells = [
                 clean_text(cell.get_text(" ", strip=True))
-                for cell in row.find_all(["td", "th"])
+                for cell in tr.find_all(["td", "th"])
             ]
+
+            cells = [cell for cell in cells if cell]
 
             if not cells:
                 continue
 
-            joined = " | ".join(cells)
+            combined = " | ".join(cells)
 
-            times = parse_time_range(joined)
-
-            if not times:
+            # We only want rows containing a lesson title.
+            if "Lezione:" not in combined:
                 continue
 
-            start_time, end_time = times
-
-            # Ignore obvious headers/navigation.
-            lower = joined.lower()
-
-            if any(
-                x in lower
-                for x in [
-                    "giorno",
-                    "settimana",
-                    "calendario",
-                    "ricerca",
-                    "seleziona",
-                ]
-            ):
-                continue
-
-            # Remove the time from the text.
-            description = re.sub(
-                r"\d{1,2}[:.]\d{2}\s*[-–—]\s*\d{1,2}[:.]\d{2}",
-                "",
-                joined,
+            # Find the time range.
+            time_match = re.search(
+                r"(\d{1,2}:\d{2})\s*[-–—]\s*(\d{1,2}:\d{2})",
+                combined,
             )
 
-            description = clean_text(description)
-
-            if len(description) < 3:
+            if not time_match:
                 continue
+
+            start_time = time_match.group(1)
+            end_time = time_match.group(2)
 
             lessons.append({
                 "date": day,
                 "start": start_time,
                 "end": end_time,
-                "raw": description,
+                "raw": combined,
                 "cells": cells,
             })
 
-    # Deduplicate.
-    unique = {}
+    # Remove exact duplicates.
+    unique = []
+    seen = set()
 
     for lesson in lessons:
         key = (
-            lesson["date"].isoformat(),
+            lesson["date"],
             lesson["start"],
             lesson["end"],
             lesson["raw"],
         )
 
-        unique[key] = lesson
+        if key not in seen:
+            seen.add(key)
+            unique.append(lesson)
 
-    return list(unique.values())
+    return unique
 
 
 def parse_lesson(lesson):
