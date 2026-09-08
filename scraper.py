@@ -185,11 +185,8 @@ def parse_lesson(lesson):
     """
     Keep the UniSR lesson title exactly as displayed on the timetable.
 
-    Example:
-        Lezione: Medical Physics (docente: MAZZA DAVIDE)
-
-    The title, including the professor, becomes the Apple Calendar
-    event title.
+    The classroom is extracted by extract_rows(), because UniSR may
+    display the classroom separately from the lesson row.
     """
 
     cells = lesson["cells"]
@@ -217,8 +214,8 @@ def parse_lesson(lesson):
         if not subject:
             subject = "UniSR Lesson"
 
-    # Try to find the classroom/building exactly as displayed by UniSR.
-        location = clean_text(
+    # The classroom is extracted by extract_rows().
+    location = clean_text(
         lesson.get("location", "")
     )
 
