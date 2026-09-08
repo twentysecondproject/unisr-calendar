@@ -14,7 +14,7 @@ BASE_URL = "https://orario.unisr.it/default.asp"
 COURSE_ID = "10321"
 COURSE_YEAR = "1"
 
-OUTPUT_FILE = Path("unirsr.ics")
+OUTPUT_FILE = Path("calendario-unisr.ics")
 
 DAYS_BACK = 7
 DAYS_FORWARD = 180
