@@ -422,7 +422,7 @@ def generate_ics(lessons, cancelled):
             f"DTEND;TZID=Europe/Rome:{end}",
             f"SUMMARY:{escape_ics(lesson['subject'])}",
             f"LOCATION:{escape_ics(lesson['location'])}",
-            "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna\\nhttps://twentysecondproject.github.io/unirsr-calendar/",
+            "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
             "STATUS:CONFIRMED",
             "END:VEVENT",
         ])
@@ -437,7 +437,7 @@ def generate_ics(lessons, cancelled):
             f"DTEND;TZID=Europe/Rome:{event['end']}",
             f"SUMMARY:{escape_ics(event['subject'])}",
             f"LOCATION:{escape_ics(event.get('location', ''))}",
-            "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna\\nhttps://twentysecondproject.github.io/unirsr-calendar/",
+            "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
             "STATUS:CANCELLED",
             "END:VEVENT",
         ])
