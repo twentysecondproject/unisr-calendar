@@ -8,1342 +8,1624 @@ X-WR-CALDESC:UniSR timetable for calendars created by Filippo Genoni
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
 UID:5d8712b4e5e0d1d3eee9ca03@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261006T113000
 DTEND;TZID=Europe/Rome:20261006T133000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: TEI LAURA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1d6412a5597c571d7faade1e@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261006T143000
 DTEND;TZID=Europe/Rome:20261006T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:85a7919d2d956819489aac1a@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261007T143000
 DTEND;TZID=Europe/Rome:20261007T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:BORROMINI Aula BO102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cb3a5f9323ed85e4a435f1a8@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261007T163000
 DTEND;TZID=Europe/Rome:20261007T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: GRIGNOLIO CORSINI ANDREA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0abdab7573fc6e0e569c9ead@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261008T113000
 DTEND;TZID=Europe/Rome:20261008T133000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:44cb371a659f1e886abafbea@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261009T113000
 DTEND;TZID=Europe/Rome:20261009T133000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: BOSIA MARTA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:728c0269703c5aaa2f4022cb@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261009T163000
 DTEND;TZID=Europe/Rome:20261009T183000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: FAVA FRANCESCA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4c7f2003d00f6e82527608b0@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261012T143000
 DTEND;TZID=Europe/Rome:20261012T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:488e9426b2cd85f30fdf863b@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261013T093000
 DTEND;TZID=Europe/Rome:20261013T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ac6ba92382a55ebf100126ca@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261013T113000
 DTEND;TZID=Europe/Rome:20261013T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: MARTINO GIANVITO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:26030232d2f4bcedadc5089b@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261013T143000
 DTEND;TZID=Europe/Rome:20261013T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:050e4a503f80ebbd93d62953@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261013T163000
 DTEND;TZID=Europe/Rome:20261013T183000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: TEI LAURA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f03c6c1908e07d5d0285f1ba@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261014T113000
 DTEND;TZID=Europe/Rome:20261014T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f46075a0169a71b3e5a839e2@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261014T143000
 DTEND;TZID=Europe/Rome:20261014T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc1288a305f5cd498df75dd5@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261014T163000
 DTEND;TZID=Europe/Rome:20261014T183000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: GRIGNOLIO CORSINI ANDREA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2e6622799632961c73fd18ca@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261015T113000
 DTEND;TZID=Europe/Rome:20261015T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1590520b9dd23ad9910238a3@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261015T143000
 DTEND;TZID=Europe/Rome:20261015T163000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: FAVA FRANCESCA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:66f1b5b8dfc2eda98b3a7614@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261016T113000
 DTEND;TZID=Europe/Rome:20261016T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d908d433d0f0db1673cf6b17@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261016T143000
 DTEND;TZID=Europe/Rome:20261016T163000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: FAVA FRANCESCA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:317ebbbd7bf7e2f3abe062da@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261016T163000
 DTEND;TZID=Europe/Rome:20261016T183000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: FAVA FRANCESCA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a9f841f5930de5d2b454aad@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261019T143000
 DTEND;TZID=Europe/Rome:20261019T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:83deb53186e8cea317b9017e@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261020T093000
 DTEND;TZID=Europe/Rome:20261020T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e7cb042daea9374bb3d83ebe@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261020T113000
 DTEND;TZID=Europe/Rome:20261020T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: MARTINO GIANVITO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f847f604d758a269de4768e5@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261020T143000
 DTEND;TZID=Europe/Rome:20261020T163000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: TEI LAURA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7e84a572d687ce674aed3db9@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261021T113000
 DTEND;TZID=Europe/Rome:20261021T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:747a966335fbeae7ca24099c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261021T143000
 DTEND;TZID=Europe/Rome:20261021T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3c3b186104cad7f169415f21@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261021T163000
 DTEND;TZID=Europe/Rome:20261021T183000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: GRIGNOLIO CORSINI ANDREA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c321dd2ecbd26963ea7399@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261022T113000
 DTEND;TZID=Europe/Rome:20261022T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b7c5227d9e51b3a7becbc8a3@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261022T143000
 DTEND;TZID=Europe/Rome:20261022T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2e226e6da032adaec59fcb8c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261022T163000
 DTEND;TZID=Europe/Rome:20261022T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: GRIGNOLIO CORSINI ANDREA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:23eadb392aaeb804e4ad81b2@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261023T113000
 DTEND;TZID=Europe/Rome:20261023T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f421a8a138ca067582f4ad03@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261023T143000
 DTEND;TZID=Europe/Rome:20261023T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:64b32fe1a3f0bce7fd4413c4@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261026T113000
 DTEND;TZID=Europe/Rome:20261026T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8daf7f5027ebb13e9e4c9c11@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261026T143000
 DTEND;TZID=Europe/Rome:20261026T163000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:BORROMINI Aula BO301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fc63cc82ef91c97cf60b7b89@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261027T093000
 DTEND;TZID=Europe/Rome:20261027T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:391df6dbc79864a13cb2bf17@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261027T113000
 DTEND;TZID=Europe/Rome:20261027T133000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: TEI LAURA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d4d9a872825054f9b68c383d@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261027T143000
 DTEND;TZID=Europe/Rome:20261027T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9447c19e401d46e7d771bc63@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261028T113000
 DTEND;TZID=Europe/Rome:20261028T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ba28ef9de8bd59b0fe23630@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261028T143000
 DTEND;TZID=Europe/Rome:20261028T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d2d3d0ceb9b6581ea3b14f24@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261028T163000
 DTEND;TZID=Europe/Rome:20261028T183000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6d64c49d3f6e73643fcd46c9@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261029T113000
 DTEND;TZID=Europe/Rome:20261029T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:422d2492ae8ac5ae15b5e11d@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261029T143000
 DTEND;TZID=Europe/Rome:20261029T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fb308fb58bbf9a8351ae6c7d@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261030T093000
 DTEND;TZID=Europe/Rome:20261030T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9fa550491723b10dd6051434@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261030T143000
 DTEND;TZID=Europe/Rome:20261030T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1adf923f502c1d063ce16c73@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261102T163000
 DTEND;TZID=Europe/Rome:20261102T183000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:73b19e33b4d27b5c6547193f@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261103T093000
 DTEND;TZID=Europe/Rome:20261103T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:647fe34ba334b63fed0ca9b5@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261103T113000
 DTEND;TZID=Europe/Rome:20261103T133000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: SCARFO' LYDIA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a558aacbb8d02b78f6c9da8c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261103T143000
 DTEND;TZID=Europe/Rome:20261103T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c8406df710e330987125c7ef@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261104T093000
 DTEND;TZID=Europe/Rome:20261104T113000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: BOSIA MARTA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:176446d6ed8136e1c59ffd96@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261104T113000
 DTEND;TZID=Europe/Rome:20261104T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f377508ac33eb0aac75be803@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261104T143000
 DTEND;TZID=Europe/Rome:20261104T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bc08a874ff6a559903f513d6@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261105T113000
 DTEND;TZID=Europe/Rome:20261105T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ff52dc3ed57f53bb9ad010d6@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261105T143000
 DTEND;TZID=Europe/Rome:20261105T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e69e6d4afabc07a8b9d7993a@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261105T163000
 DTEND;TZID=Europe/Rome:20261105T183000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2d49757f094c475c446489e1@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261106T093000
 DTEND;TZID=Europe/Rome:20261106T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9f868763cf91141b0d5c3ec4@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261106T113000
 DTEND;TZID=Europe/Rome:20261106T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ac783660ae49abf21bce8e65@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261109T143000
 DTEND;TZID=Europe/Rome:20261109T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f3d9feb7e9eea0b195647d4@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261110T093000
 DTEND;TZID=Europe/Rome:20261110T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9c20d3ef45269c6897734520@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261110T113000
 DTEND;TZID=Europe/Rome:20261110T133000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: SCARFO' LYDIA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:24419d0bbfeb06ef7f5321c6@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261110T143000
 DTEND;TZID=Europe/Rome:20261110T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:354d7a5989d19c615cde2238@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261111T093000
 DTEND;TZID=Europe/Rome:20261111T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:75a694ae6567a1165c6fbb09@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261111T113000
 DTEND;TZID=Europe/Rome:20261111T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:416c72ac6eef23211ef90ca5@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261111T143000
 DTEND;TZID=Europe/Rome:20261111T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3c8c15093ce38c1fcddc574c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261111T163000
 DTEND;TZID=Europe/Rome:20261111T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: GRIGNOLIO CORSINI ANDREA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5993e548116baf66ace6cfd2@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261112T113000
 DTEND;TZID=Europe/Rome:20261112T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c4d0703581da13b1a66d604c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261112T143000
 DTEND;TZID=Europe/Rome:20261112T163000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19b508446025ec9aad317658@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261113T093000
 DTEND;TZID=Europe/Rome:20261113T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: PANINA PAOLA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1e88f813f60bbfd1ffa908e3@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261113T113000
 DTEND;TZID=Europe/Rome:20261113T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d6d000f7d28a0bdd5095858c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261113T143000
 DTEND;TZID=Europe/Rome:20261113T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dcd3a5e9b5207ae4cd5f0faf@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261113T163000
 DTEND;TZID=Europe/Rome:20261113T183000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:01c07c4a9e079707c6640a90@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261116T093000
 DTEND;TZID=Europe/Rome:20261116T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f2685672b10a52f69349fb6@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261116T113000
 DTEND;TZID=Europe/Rome:20261116T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: PANINA PAOLA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d08505ad924a0ce72da55c2c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261117T093000
 DTEND;TZID=Europe/Rome:20261117T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ee2002b7da025eadf9eb8532@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261117T113000
 DTEND;TZID=Europe/Rome:20261117T133000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: SCARFO' LYDIA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:40eacdab87dd7ef6b36bbce7@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261118T093000
 DTEND;TZID=Europe/Rome:20261118T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : PICCOLI MARCO)
 LOCATION:CANOVA Aula CA201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:170ee3f117088a20081b1c7a@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261118T113000
 DTEND;TZID=Europe/Rome:20261118T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:239cb7aab40776556ba845da@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261118T143000
 DTEND;TZID=Europe/Rome:20261118T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ff0313ede43d40283c54cb64@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261119T093000
 DTEND;TZID=Europe/Rome:20261119T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8d17355b0ff1abc3644b0c19@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261119T113000
 DTEND;TZID=Europe/Rome:20261119T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : ANASTASIA LUIGI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ff7ddcb7c547db1718b3bb82@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261119T143000
 DTEND;TZID=Europe/Rome:20261119T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:efa142faf7e7670049eed9f4@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261119T163000
 DTEND;TZID=Europe/Rome:20261119T183000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: FAVA FRANCESCA)
 LOCATION:BORROMINI Aula BO302 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e4108d7852386fd4f63b416c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261120T113000
 DTEND;TZID=Europe/Rome:20261120T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c62d2034b88e459f368c2246@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261120T143000
 DTEND;TZID=Europe/Rome:20261120T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b5dac32020293306bc45c4ce@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261120T163000
 DTEND;TZID=Europe/Rome:20261120T183000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:BORROMINI Aula BO301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9be36e33658a43cc63028476@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261123T113000
 DTEND;TZID=Europe/Rome:20261123T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:341029c6ecb232fbe0492bdb@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261123T143000
 DTEND;TZID=Europe/Rome:20261123T163000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
  lla Professione Medica (LINEA VIOLA) (docente: BOSIA MARTA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b0e4274fb4998d7910c54f1c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261124T093000
 DTEND;TZID=Europe/Rome:20261124T113000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: TOMAIUOLO ROSSELLA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f603a30fad6d5ba73a7e8857@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261124T113000
 DTEND;TZID=Europe/Rome:20261124T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:BORROMINI Aula BO101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2c7d386556ddb12e4c3d02dd@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261125T093000
 DTEND;TZID=Europe/Rome:20261125T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : PICCOLI MARCO)
 LOCATION:BORROMINI Aula BO102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0e45a4f653c22b47e2d96f13@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261125T113000
 DTEND;TZID=Europe/Rome:20261125T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6e8eb3c8eee6d07dcd1363@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261126T113000
 DTEND;TZID=Europe/Rome:20261126T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:VASARI Aula VA401 (4 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d730d833676049ca29a69da8@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261126T143000
 DTEND;TZID=Europe/Rome:20261126T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : PICCOLI MARCO)
 LOCATION:BORROMINI Aula BO201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bcf7352665fbf997738ac537@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261126T163000
 DTEND;TZID=Europe/Rome:20261126T183000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf47b2af3a7f63a4d0f8bd9f@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261130T113000
 DTEND;TZID=Europe/Rome:20261130T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dac27b83a1c09ecf9beac401@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261201T093000
 DTEND;TZID=Europe/Rome:20261201T113000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f876349b5637a3b3742b4cc2@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261201T113000
 DTEND;TZID=Europe/Rome:20261201T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d312c60cea8f76061ada38fb@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261202T093000
 DTEND;TZID=Europe/Rome:20261202T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:CANOVA Aula CA201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a8951e08de0c3a32a7878f03@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261202T113000
 DTEND;TZID=Europe/Rome:20261202T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:31ec7582b4eb9192b73daba2@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261202T143000
 DTEND;TZID=Europe/Rome:20261202T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ef3cb36f9250f85cbc6543e0@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:450e2891886449a5ec534082@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261203T113000
 DTEND;TZID=Europe/Rome:20261203T133000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c11455c4c5660655e8ee9186@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261203T143000
 DTEND;TZID=Europe/Rome:20261203T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b362ceeb69a0301331b1bb11@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261204T113000
 DTEND;TZID=Europe/Rome:20261204T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente
  : CIRILLO FEDERICA)
 LOCATION:BORROMINI Aula BO101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6626b4bc79143dda3e7aea5d@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261204T143000
 DTEND;TZID=Europe/Rome:20261204T163000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:BORROMINI Aula BO201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7476855168840a3eaeab8a6c@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261204T163000
 DTEND;TZID=Europe/Rome:20261204T183000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: SCARFO' LYDIA)
 LOCATION:BORROMINI Aula BO302 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7346362523f610180791a612@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261209T093000
 DTEND;TZID=Europe/Rome:20261209T113000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0aa4d71d8342c8d293769b2d@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261209T113000
 DTEND;TZID=Europe/Rome:20261209T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b4f72fc8335333295926780e@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261209T163000
 DTEND;TZID=Europe/Rome:20261209T183000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1fb15cd34f0fa5b1c30c3f9b@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261210T093000
 DTEND;TZID=Europe/Rome:20261210T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6b3b25aeff183466cb123a80@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261210T113000
 DTEND;TZID=Europe/Rome:20261210T133000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:292c031b6bbe5de04c3c7291@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261210T163000
 DTEND;TZID=Europe/Rome:20261210T183000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:BORROMINI Aula BO102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fcc4c0dea6b75751cef2ddde@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261214T113000
 DTEND;TZID=Europe/Rome:20261214T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:153a71c1dc4f9460bb9ecbe6@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261215T093000
 DTEND;TZID=Europe/Rome:20261215T113000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7fc1f44be28ff5ddbd3a2fd8@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261215T143000
 DTEND;TZID=Europe/Rome:20261215T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:BORROMINI Aula BO102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a6ba2b60871eeb7ddb9d4274@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261216T113000
 DTEND;TZID=Europe/Rome:20261216T133000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0f8355b539814fffa4b9450b@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261216T143000
 DTEND;TZID=Europe/Rome:20261216T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:BORROMINI Aula BO201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:94ae3e75644e15cf7be9cf88@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261217T113000
 DTEND;TZID=Europe/Rome:20261217T133000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b454f6075d00673f0ef81c74@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261217T163000
 DTEND;TZID=Europe/Rome:20261217T183000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
  Scientifiche (LINEA VIOLA) (docente: PUNZI SIMONA)
 LOCATION:BORROMINI Aula BO101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a53fc0529ca0240c67395e74@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261218T093000
 DTEND;TZID=Europe/Rome:20261218T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8598f5eec6fa3b2d6ce03c94@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261221T113000
 DTEND;TZID=Europe/Rome:20261221T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e3cd5f32fb2c5eaab65f1308@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261221T163000
 DTEND;TZID=Europe/Rome:20261221T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
  edicina (LINEA VIOLA) (docente: JOHN MICHAEL ELLIS)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ead34bd66ef13f675ecfaba8@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261222T093000
 DTEND;TZID=Europe/Rome:20261222T113000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bc337f06d823837fa4122a82@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20261222T113000
 DTEND;TZID=Europe/Rome:20261222T133000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VASARI Aula VA101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2ba531f131bc97aa0ad136bc@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270107T113000
 DTEND;TZID=Europe/Rome:20270107T133000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c7fa87032d6357616ec04a33@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270107T163000
 DTEND;TZID=Europe/Rome:20270107T183000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:BORROMINI Aula BO101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7106499e6f1ce50419744684@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270108T093000
 DTEND;TZID=Europe/Rome:20270108T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:VERROCCHIO Aula VE201 (2 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:726bfda025ba230d38d62b74@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270108T143000
 DTEND;TZID=Europe/Rome:20270108T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: CORRAO GIOVANNI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:429cf66160f7fc44379123e8@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270111T163000
 DTEND;TZID=Europe/Rome:20270111T183000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: BOLINO ALESSANDRA)
 LOCATION:BORROMINI Aula BO101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:872bc9c3f20bb080871df8f4@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270112T093000
 DTEND;TZID=Europe/Rome:20270112T113000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:861d5109dc9656c3ffe1ee83@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270112T143000
 DTEND;TZID=Europe/Rome:20270112T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: CORRAO GIOVANNI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:daef5720a2293aeee5cb897b@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270113T093000
 DTEND;TZID=Europe/Rome:20270113T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:BORROMINI Aula BO101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:79fcdf45ad8d1d606e37b606@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270113T113000
 DTEND;TZID=Europe/Rome:20270113T133000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:df199e77d260ae70178752d1@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270113T143000
 DTEND;TZID=Europe/Rome:20270113T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: CORRAO GIOVANNI)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b02f142bea51684e8ba9a141@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270114T093000
 DTEND;TZID=Europe/Rome:20270114T113000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: CORRAO GIOVANNI)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b71cd2815f9b385a0662c4d8@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270114T113000
 DTEND;TZID=Europe/Rome:20270114T133000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a8a222ae76379761f6ca7194@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270114T143000
 DTEND;TZID=Europe/Rome:20270114T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: MIGLIARETTI GIUSEPPE)
 LOCATION:CANOVA Aula CA102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80f9eb0bc40b8f98d4bf82e1@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270115T093000
 DTEND;TZID=Europe/Rome:20270115T113000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: DE CURTIS IVANMATTEO)
 LOCATION:VERROCCHIO Aula VE102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:79e6c04bb32452d1d7f1f547@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270115T113000
 DTEND;TZID=Europe/Rome:20270115T133000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: MOLTENI RAFFAELLA)
 LOCATION:BORROMINI Aula BO101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c12729c3258d05ee98f20776@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270118T093000
 DTEND;TZID=Europe/Rome:20270118T113000
 SUMMARY:Lezione: Biologia (LINEA VIOLA) (docente: ANDREATA FRANCESCO)
 LOCATION:BORROMINI Aula BO102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b93959e184e58e298631fd70@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270118T113000
 DTEND;TZID=Europe/Rome:20270118T133000
 SUMMARY:Lezione: Biochimica (LINEA VIOLA) (docente: MOLTENI RAFFAELLA)
 LOCATION:BORROMINI Aula BO102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:340c8fecc3aedbbead0a9b27@unirsr-calendar
-DTSTAMP:20260909T145536Z
+DTSTAMP:20260909T192454Z
 DTSTART;TZID=Europe/Rome:20270118T143000
 DTEND;TZID=Europe/Rome:20270118T163000
 SUMMARY:Lezione: Statistica (LINEA VIOLA) (docente: CORRAO GIOVANNI)
 LOCATION:VERROCCHIO Aula VE101 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
