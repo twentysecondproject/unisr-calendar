@@ -12,8 +12,8 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://orario.unisr.it/default.asp"
 
-DAYS_BACK = 7
-DAYS_FORWARD = 180
+DAYS_BACK = 0
+DAYS_FORWARD = 150
 
 OUTPUTS = {
     "international-md": {
@@ -550,27 +550,31 @@ def process_calendar(
         f"{len(cancelled)} cancelled"
     )
 
-
 def main():
+
     today = date.today()
 
     start_date = (
-        today - timedelta(days=DAYS_BACK)
+        today
+        - timedelta(days=DAYS_BACK)
     )
 
     end_date = (
-        today + timedelta(days=DAYS_FORWARD)
+        today
+        + timedelta(days=DAYS_FORWARD)
     )
 
     print(
-        f"Scanning UniSR timetables from "
-        f"{start_date} to {end_date}"
+        f"Date range: "
+        f"{start_date.strftime('%d/%m/%Y')} "
+        f"-> "
+        f"{end_date.strftime('%d/%m/%Y')}"
     )
+
 
     fetched_courses = {}
 
-    # Fetch each unique CDS only once.
-    for config in OUTPUTS.values():
+    for calendar_key, config in OUTPUTS.items():
 
         course_id = config["course_id"]
         course_year = config["course_year"]
@@ -583,15 +587,24 @@ def main():
         if course_key in fetched_courses:
             continue
 
+        print()
         print(
-            f"\nFetching course {course_id}..."
+            f"Fetching course "
+            f"{course_id}, year "
+            f"{course_year}..."
         )
 
-        all_lessons = []
+        course_lessons = []
 
         current = start_date
 
         while current <= end_date:
+
+
+
+            if current.weekday() >= 5:
+                current += timedelta(days=1)
+                continue
 
             url = build_url(
                 current,
@@ -605,6 +618,7 @@ def main():
             )
 
             try:
+
                 response = SESSION.get(
                     url,
                     timeout=30,
@@ -612,55 +626,148 @@ def main():
 
                 response.raise_for_status()
 
-                rows = extract_rows(
+                day_lessons = parse_day(
                     response.text,
                     current,
                 )
 
-                for row in rows:
-                    all_lessons.append(
-                        parse_lesson(row)
-                    )
-
-                print(
-                    f"    → {len(rows)} rows"
+                course_lessons.extend(
+                    day_lessons
                 )
 
             except Exception as exc:
 
                 print(
-                    f"    ERROR: "
-                    f"{current}: {exc}"
+                    f"  ERROR "
+                    f"{current.strftime('%d/%m/%Y')}: "
+                    f"{exc}"
                 )
 
             current += timedelta(days=1)
 
             time.sleep(0.15)
 
-        fetched_courses[course_key] = (
-            all_lessons
-        )
+        fetched_courses[
+            course_key
+        ] = course_lessons
 
-    print("\nGenerating calendars...")
+
 
     for calendar_key, config in OUTPUTS.items():
+
+        print()
+        print(
+            f"Generating "
+            f"{config['filename']}..."
+        )
 
         course_key = (
             config["course_id"],
             config["course_year"],
         )
 
-        all_lessons = fetched_courses[
-            course_key
-        ]
-
-        process_calendar(
-            calendar_key,
-            config,
-            all_lessons,
+        lessons = list(
+            fetched_courses.get(
+                course_key,
+                [],
+            )
         )
 
-    print("\nDone.")
+
+
+        requested_line = config["line"]
+
+        if requested_line is not None:
+
+            filtered_lessons = []
+
+            for lesson in lessons:
+
+                line = extract_line(
+                    lesson["subject"]
+                )
+
+                if line == requested_line:
+                    filtered_lessons.append(
+                        lesson
+                    )
+
+            lessons = filtered_lessons
+
+
+        lessons = assign_uids(
+            lessons,
+            calendar_key,
+        )
+
+        current_uids = {
+            lesson["uid"]
+            for lesson in lessons
+        }
+
+
+        previous_uids = set(
+            load_state(
+                calendar_key
+            )
+        )
+
+
+        removed_uids = (
+            previous_uids
+            - current_uids
+        )
+
+        cancelled = []
+
+        for old_uid in removed_uids:
+
+            cancelled.append(
+                {
+                    "uid": old_uid,
+                    "start": datetime(
+                        today.year,
+                        today.month,
+                        today.day,
+                    ),
+                    "end": datetime(
+                        today.year,
+                        today.month,
+                        today.day,
+                    ),
+                    "subject": (
+                        "Cancelled UniSR lesson"
+                    ),
+                    "location": "",
+                }
+            )
+
+        ics = generate_ics(
+            lessons,
+            cancelled,
+        )
+
+        output_path = Path(
+            config["filename"]
+        )
+
+        output_path.write_text(
+            ics,
+            encoding="utf-8",
+        )
+
+        save_state(
+            calendar_key,
+            current_uids,
+        )
+
+        print(
+            f"  {len(lessons)} lessons"
+        )
+
+        print(
+            f"  {len(cancelled)} cancelled"
+        )
 
 
 if __name__ == "__main__":
