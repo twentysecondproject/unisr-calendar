@@ -1,4 +1,4 @@
-name: Update UniSR Calendar
+name: Update UniSR Calendars
 
 on:
   workflow_dispatch:
@@ -11,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  update-calendar:
+  update-calendars:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,19 +28,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Generate calendar
+      - name: Generate calendars
         run: python scraper.py
 
-      - name: Commit updated calendar
+      - name: Commit updated calendars
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add calendario-unisr.ics calendar_state.json
+          git add *.ics states/
 
           if git diff --cached --quiet; then
             echo "No calendar changes."
           else
-            git commit -m "Update UniSR calendar"
+            git commit -m "Update UniSR calendars"
             git push
           fi
