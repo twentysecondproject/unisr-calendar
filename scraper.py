@@ -399,6 +399,7 @@ def generate_ics(lessons, cancelled):
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         "X-WR-CALNAME:UniSR Calendar",
+        "X-WR-CALDESC:UniSR timetable for calendars created by Filippo Genoni",
         "X-WR-TIMEZONE:Europe/Rome",
     ]
 
