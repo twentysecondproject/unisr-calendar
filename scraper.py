@@ -85,7 +85,6 @@ def build_url(day: date, course_id: str, course_year: str) -> str:
         "id_palazzo": "0",
         "id_aula": "0",
         "lezioni": "ok",
-        "esami": "ok",
     }
 
     return f"{BASE_URL}?{urlencode(params)}"
@@ -423,6 +422,7 @@ def generate_ics(lessons, cancelled):
             f"DTEND;TZID=Europe/Rome:{end}",
             f"SUMMARY:{escape_ics(lesson['subject'])}",
             f"LOCATION:{escape_ics(lesson['location'])}",
+            "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna\\nhttps://twentysecondproject.github.io/unirsr-calendar/",
             "STATUS:CONFIRMED",
             "END:VEVENT",
         ])
