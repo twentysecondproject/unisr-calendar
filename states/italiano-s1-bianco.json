@@ -1,0 +1,970 @@
+{
+  "00126a432f9cdfc1397ee9b9@unirsr-calendar": {
+    "date": "2026-10-29",
+    "end": "20261029T113000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261029T093000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "00126a432f9cdfc1397ee9b9@unirsr-calendar"
+  },
+  "027ecf6352c8c23929eeb4bc@unirsr-calendar": {
+    "date": "2027-01-07",
+    "end": "20270107T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20270107T113000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "027ecf6352c8c23929eeb4bc@unirsr-calendar"
+  },
+  "034028337c09cf302378ee0e@unirsr-calendar": {
+    "date": "2026-11-04",
+    "end": "20261104T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261104T113000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA)",
+    "uid": "034028337c09cf302378ee0e@unirsr-calendar"
+  },
+  "08605e986d448a83891c7660@unirsr-calendar": {
+    "date": "2026-10-26",
+    "end": "20261026T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261026T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+    "uid": "08605e986d448a83891c7660@unirsr-calendar"
+  },
+  "0d388ad9a32e868aab437dd2@unirsr-calendar": {
+    "date": "2026-11-13",
+    "end": "20261113T163000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261113T143000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "0d388ad9a32e868aab437dd2@unirsr-calendar"
+  },
+  "10ec8034005dadfb8f3343e5@unirsr-calendar": {
+    "date": "2026-11-20",
+    "end": "20261120T113000",
+    "location": "BORROMINI Aula BO201 (2 piano)",
+    "start": "20261120T093000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+    "uid": "10ec8034005dadfb8f3343e5@unirsr-calendar"
+  },
+  "12217b1bde19e7813138a2a8@unirsr-calendar": {
+    "date": "2026-12-16",
+    "end": "20261216T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261216T093000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "12217b1bde19e7813138a2a8@unirsr-calendar"
+  },
+  "13434f72eb3ca42afe02f5a2@unirsr-calendar": {
+    "date": "2026-11-17",
+    "end": "20261117T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261117T093000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA)",
+    "uid": "13434f72eb3ca42afe02f5a2@unirsr-calendar"
+  },
+  "14c13a147d3719779baeb0a6@unirsr-calendar": {
+    "date": "2026-12-17",
+    "end": "20261217T113000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261217T093000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: BOLINO ALESSANDRA)",
+    "uid": "14c13a147d3719779baeb0a6@unirsr-calendar"
+  },
+  "19ba300c96f3260d9402c969@unirsr-calendar": {
+    "date": "2026-11-12",
+    "end": "20261112T113000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261112T093000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "19ba300c96f3260d9402c969@unirsr-calendar"
+  },
+  "1bd0c30bd33b019305b17e1b@unirsr-calendar": {
+    "date": "2026-10-29",
+    "end": "20261029T133000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261029T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "1bd0c30bd33b019305b17e1b@unirsr-calendar"
+  },
+  "1c21299ba736cb9300714abc@unirsr-calendar": {
+    "date": "2027-01-07",
+    "end": "20270107T113000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20270107T093000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "1c21299ba736cb9300714abc@unirsr-calendar"
+  },
+  "1dafa0846f1d3eba41a69f94@unirsr-calendar": {
+    "date": "2026-11-03",
+    "end": "20261103T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261103T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "1dafa0846f1d3eba41a69f94@unirsr-calendar"
+  },
+  "1e1c1d9df39eeeaffea6a58e@unirsr-calendar": {
+    "date": "2026-12-21",
+    "end": "20261221T163000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261221T143000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "1e1c1d9df39eeeaffea6a58e@unirsr-calendar"
+  },
+  "229770c9c0fd8823507d766d@unirsr-calendar": {
+    "date": "2026-12-03",
+    "end": "20261203T163000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261203T143000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+    "uid": "229770c9c0fd8823507d766d@unirsr-calendar"
+  },
+  "22d1acce1fa7a9366122cd99@unirsr-calendar": {
+    "date": "2027-01-11",
+    "end": "20270111T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20270111T093000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "22d1acce1fa7a9366122cd99@unirsr-calendar"
+  },
+  "25cd08dca81777cc3c2d6c14@unirsr-calendar": {
+    "date": "2026-10-07",
+    "end": "20261007T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261007T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "25cd08dca81777cc3c2d6c14@unirsr-calendar"
+  },
+  "28e8cea204e84b88ce18f429@unirsr-calendar": {
+    "date": "2026-11-05",
+    "end": "20261105T133000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261105T113000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "28e8cea204e84b88ce18f429@unirsr-calendar"
+  },
+  "29823221ce6a80a786fb709a@unirsr-calendar": {
+    "date": "2026-11-09",
+    "end": "20261109T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261109T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+    "uid": "29823221ce6a80a786fb709a@unirsr-calendar"
+  },
+  "31793302bb0767951f2bcef8@unirsr-calendar": {
+    "date": "2026-11-04",
+    "end": "20261104T183000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261104T163000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "31793302bb0767951f2bcef8@unirsr-calendar"
+  },
+  "3229deb2cc5afa58c4fd6fd9@unirsr-calendar": {
+    "date": "2026-12-22",
+    "end": "20261222T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261222T113000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "3229deb2cc5afa58c4fd6fd9@unirsr-calendar"
+  },
+  "32891a97672e3ad77c40baa5@unirsr-calendar": {
+    "date": "2026-12-09",
+    "end": "20261209T163000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261209T143000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "32891a97672e3ad77c40baa5@unirsr-calendar"
+  },
+  "3665800136fe6b40a293035e@unirsr-calendar": {
+    "date": "2026-12-15",
+    "end": "20261215T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261215T113000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "3665800136fe6b40a293035e@unirsr-calendar"
+  },
+  "375c6325b8a4f018e6f7b998@unirsr-calendar": {
+    "date": "2026-10-23",
+    "end": "20261023T163000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261023T143000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "375c6325b8a4f018e6f7b998@unirsr-calendar"
+  },
+  "3b74b6ea435b1da7a87ba46a@unirsr-calendar": {
+    "date": "2026-10-28",
+    "end": "20261028T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261028T113000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
+    "uid": "3b74b6ea435b1da7a87ba46a@unirsr-calendar"
+  },
+  "3fa01bc378c77c228ad8fa62@unirsr-calendar": {
+    "date": "2026-11-20",
+    "end": "20261120T163000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261120T143000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA)",
+    "uid": "3fa01bc378c77c228ad8fa62@unirsr-calendar"
+  },
+  "406f8cead05447d660659ae7@unirsr-calendar": {
+    "date": "2026-11-23",
+    "end": "20261123T133000",
+    "location": "BORROMINI Aula BO301 (3 piano)",
+    "start": "20261123T113000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+    "uid": "406f8cead05447d660659ae7@unirsr-calendar"
+  },
+  "433e0e95d7d4d04346a3cb05@unirsr-calendar": {
+    "date": "2026-11-24",
+    "end": "20261124T133000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261124T113000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TOMAIUOLO ROSSELLA)",
+    "uid": "433e0e95d7d4d04346a3cb05@unirsr-calendar"
+  },
+  "45a8f7e43f4d81e6df073e1b@unirsr-calendar": {
+    "date": "2026-11-18",
+    "end": "20261118T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261118T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "45a8f7e43f4d81e6df073e1b@unirsr-calendar"
+  },
+  "46af1dfebdf3707864d06117@unirsr-calendar": {
+    "date": "2026-10-28",
+    "end": "20261028T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261028T093000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+    "uid": "46af1dfebdf3707864d06117@unirsr-calendar"
+  },
+  "478d452c2545427de0032a69@unirsr-calendar": {
+    "date": "2026-12-04",
+    "end": "20261204T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261204T093000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "478d452c2545427de0032a69@unirsr-calendar"
+  },
+  "48a081a80abed667f7776cf5@unirsr-calendar": {
+    "date": "2026-12-18",
+    "end": "20261218T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261218T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: BOLINO ALESSANDRA)",
+    "uid": "48a081a80abed667f7776cf5@unirsr-calendar"
+  },
+  "4908e0227bbf32906032c9b3@unirsr-calendar": {
+    "date": "2026-10-16",
+    "end": "20261016T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261016T113000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+    "uid": "4908e0227bbf32906032c9b3@unirsr-calendar"
+  },
+  "4baf014c0b05d48284e1fcfc@unirsr-calendar": {
+    "date": "2026-11-24",
+    "end": "20261124T163000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261124T143000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO)",
+    "uid": "4baf014c0b05d48284e1fcfc@unirsr-calendar"
+  },
+  "51f24f3bada5a93f53768900@unirsr-calendar": {
+    "date": "2026-12-21",
+    "end": "20261221T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261221T113000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "51f24f3bada5a93f53768900@unirsr-calendar"
+  },
+  "539a03d4f6e466b14d38e52f@unirsr-calendar": {
+    "date": "2026-12-11",
+    "end": "20261211T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261211T093000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "539a03d4f6e466b14d38e52f@unirsr-calendar"
+  },
+  "56c3e9a59ddce4e926fefba1@unirsr-calendar": {
+    "date": "2026-10-22",
+    "end": "20261022T163000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261022T143000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "56c3e9a59ddce4e926fefba1@unirsr-calendar"
+  },
+  "5cea2fea3c1cd00ae6360fd8@unirsr-calendar": {
+    "date": "2026-10-09",
+    "end": "20261009T163000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261009T143000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+    "uid": "5cea2fea3c1cd00ae6360fd8@unirsr-calendar"
+  },
+  "5d71c3e6ed6e6a2dafd51b8b@unirsr-calendar": {
+    "date": "2026-11-27",
+    "end": "20261127T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261127T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "5d71c3e6ed6e6a2dafd51b8b@unirsr-calendar"
+  },
+  "5f999e892f345484e8026b43@unirsr-calendar": {
+    "date": "2026-10-22",
+    "end": "20261022T133000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261022T113000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "5f999e892f345484e8026b43@unirsr-calendar"
+  },
+  "66cb3e591ab914a7b6a75190@unirsr-calendar": {
+    "date": "2026-11-16",
+    "end": "20261116T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261116T093000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "66cb3e591ab914a7b6a75190@unirsr-calendar"
+  },
+  "691d01935356a9c15de514e4@unirsr-calendar": {
+    "date": "2026-10-06",
+    "end": "20261006T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261006T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "691d01935356a9c15de514e4@unirsr-calendar"
+  },
+  "6949eae178018e657e59b84c@unirsr-calendar": {
+    "date": "2026-10-26",
+    "end": "20261026T163000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20261026T143000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA)",
+    "uid": "6949eae178018e657e59b84c@unirsr-calendar"
+  },
+  "70a831a8f754d7e0da31303e@unirsr-calendar": {
+    "date": "2026-11-02",
+    "end": "20261102T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261102T093000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "70a831a8f754d7e0da31303e@unirsr-calendar"
+  },
+  "73fd0da01e9eeda0116d1377@unirsr-calendar": {
+    "date": "2026-11-11",
+    "end": "20261111T163000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261111T143000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "73fd0da01e9eeda0116d1377@unirsr-calendar"
+  },
+  "74661390889067c9d505ad0f@unirsr-calendar": {
+    "date": "2026-10-30",
+    "end": "20261030T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261030T093000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+    "uid": "74661390889067c9d505ad0f@unirsr-calendar"
+  },
+  "752f18304bcee6758e265ebf@unirsr-calendar": {
+    "date": "2026-12-09",
+    "end": "20261209T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261209T113000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "752f18304bcee6758e265ebf@unirsr-calendar"
+  },
+  "78010924720f690ee2de1d68@unirsr-calendar": {
+    "date": "2027-01-19",
+    "end": "20270119T133000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20270119T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "78010924720f690ee2de1d68@unirsr-calendar"
+  },
+  "7a301878b96e5419b73f767d@unirsr-calendar": {
+    "date": "2027-01-08",
+    "end": "20270108T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20270108T093000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "7a301878b96e5419b73f767d@unirsr-calendar"
+  },
+  "7b510c5d79aa401eb57965c7@unirsr-calendar": {
+    "date": "2026-11-09",
+    "end": "20261109T183000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20261109T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "7b510c5d79aa401eb57965c7@unirsr-calendar"
+  },
+  "7b9dd9c78716a9f6bb80c05a@unirsr-calendar": {
+    "date": "2026-11-12",
+    "end": "20261112T183000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261112T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "7b9dd9c78716a9f6bb80c05a@unirsr-calendar"
+  },
+  "7be29cb2d87c73b54c740cbb@unirsr-calendar": {
+    "date": "2026-11-05",
+    "end": "20261105T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261105T143000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "7be29cb2d87c73b54c740cbb@unirsr-calendar"
+  },
+  "7eb446bbb069830cb46543f8@unirsr-calendar": {
+    "date": "2026-10-21",
+    "end": "20261021T163000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261021T143000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
+    "uid": "7eb446bbb069830cb46543f8@unirsr-calendar"
+  },
+  "85925dd4a2c4dd40d009d143@unirsr-calendar": {
+    "date": "2026-11-06",
+    "end": "20261106T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261106T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "85925dd4a2c4dd40d009d143@unirsr-calendar"
+  },
+  "8654c7270d27ed767d4e2c56@unirsr-calendar": {
+    "date": "2026-11-30",
+    "end": "20261130T183000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20261130T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "8654c7270d27ed767d4e2c56@unirsr-calendar"
+  },
+  "87757c1393f0330b2523e52f@unirsr-calendar": {
+    "date": "2026-11-02",
+    "end": "20261102T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261102T113000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+    "uid": "87757c1393f0330b2523e52f@unirsr-calendar"
+  },
+  "8aa1315950a07b08ce1408ba@unirsr-calendar": {
+    "date": "2026-12-17",
+    "end": "20261217T163000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261217T143000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "8aa1315950a07b08ce1408ba@unirsr-calendar"
+  },
+  "8c40280eb562def2f7550221@unirsr-calendar": {
+    "date": "2026-11-12",
+    "end": "20261112T133000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261112T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "8c40280eb562def2f7550221@unirsr-calendar"
+  },
+  "8e68e9c510ee12d4b86f5e82@unirsr-calendar": {
+    "date": "2026-10-13",
+    "end": "20261013T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261013T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "8e68e9c510ee12d4b86f5e82@unirsr-calendar"
+  },
+  "909ca7c3aa7133d3faafec7c@unirsr-calendar": {
+    "date": "2027-01-15",
+    "end": "20270115T163000",
+    "location": "BORROMINI Aula BO201 (2 piano)",
+    "start": "20270115T143000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "909ca7c3aa7133d3faafec7c@unirsr-calendar"
+  },
+  "90ef0f65b1a89a01fb637023@unirsr-calendar": {
+    "date": "2026-10-06",
+    "end": "20261006T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261006T113000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "90ef0f65b1a89a01fb637023@unirsr-calendar"
+  },
+  "910819d9bbdbe6f650f86884@unirsr-calendar": {
+    "date": "2026-11-16",
+    "end": "20261116T183000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20261116T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "910819d9bbdbe6f650f86884@unirsr-calendar"
+  },
+  "9110d01df1b8d7144fed93a2@unirsr-calendar": {
+    "date": "2026-10-07",
+    "end": "20261007T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261007T113000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA)",
+    "uid": "9110d01df1b8d7144fed93a2@unirsr-calendar"
+  },
+  "927bd9a396ea4324508eddcd@unirsr-calendar": {
+    "date": "2026-12-21",
+    "end": "20261221T113000",
+    "location": "BORROMINI Aula BO201 (2 piano)",
+    "start": "20261221T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+    "uid": "927bd9a396ea4324508eddcd@unirsr-calendar"
+  },
+  "92e1527d46b3ed45dd6d3d52@unirsr-calendar": {
+    "date": "2026-12-01",
+    "end": "20261201T163000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261201T143000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+    "uid": "92e1527d46b3ed45dd6d3d52@unirsr-calendar"
+  },
+  "92f146c2bec8d8525b23933c@unirsr-calendar": {
+    "date": "2026-10-15",
+    "end": "20261015T183000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261015T163000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+    "uid": "92f146c2bec8d8525b23933c@unirsr-calendar"
+  },
+  "953bf96fd2dedf6d1f5dcbfe@unirsr-calendar": {
+    "date": "2026-11-30",
+    "end": "20261130T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261130T113000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "953bf96fd2dedf6d1f5dcbfe@unirsr-calendar"
+  },
+  "9575b3a68756cf4d2042507c@unirsr-calendar": {
+    "date": "2026-12-14",
+    "end": "20261214T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261214T113000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "9575b3a68756cf4d2042507c@unirsr-calendar"
+  },
+  "9a28bb6f07eb384934b17478@unirsr-calendar": {
+    "date": "2026-10-23",
+    "end": "20261023T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261023T113000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+    "uid": "9a28bb6f07eb384934b17478@unirsr-calendar"
+  },
+  "9c538510e0005c47f0cb198c@unirsr-calendar": {
+    "date": "2026-12-01",
+    "end": "20261201T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261201T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "9c538510e0005c47f0cb198c@unirsr-calendar"
+  },
+  "9ce898689ed22905198fa57b@unirsr-calendar": {
+    "date": "2026-12-14",
+    "end": "20261214T183000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20261214T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "9ce898689ed22905198fa57b@unirsr-calendar"
+  },
+  "9ef9df7af4345778cc6b0cf8@unirsr-calendar": {
+    "date": "2026-10-12",
+    "end": "20261012T183000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20261012T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "9ef9df7af4345778cc6b0cf8@unirsr-calendar"
+  },
+  "a2b01c4250ab32064037f94b@unirsr-calendar": {
+    "date": "2027-01-11",
+    "end": "20270111T183000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20270111T163000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: MOLTENI RAFFAELLA)",
+    "uid": "a2b01c4250ab32064037f94b@unirsr-calendar"
+  },
+  "a315247a7729802a1a4688bf@unirsr-calendar": {
+    "date": "2026-10-14",
+    "end": "20261014T163000",
+    "location": "CANOVA Aula CA202 (2 piano)",
+    "start": "20261014T143000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
+    "uid": "a315247a7729802a1a4688bf@unirsr-calendar"
+  },
+  "a4125928f67763ddf540560f@unirsr-calendar": {
+    "date": "2026-11-10",
+    "end": "20261110T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261110T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "a4125928f67763ddf540560f@unirsr-calendar"
+  },
+  "a42933463d87c97d098cb31a@unirsr-calendar": {
+    "date": "2027-01-12",
+    "end": "20270112T163000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20270112T143000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "a42933463d87c97d098cb31a@unirsr-calendar"
+  },
+  "a651ad280c702167f8c426e6@unirsr-calendar": {
+    "date": "2026-10-16",
+    "end": "20261016T163000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261016T143000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+    "uid": "a651ad280c702167f8c426e6@unirsr-calendar"
+  },
+  "a809aed6cc5c2acf39cc65c6@unirsr-calendar": {
+    "date": "2026-11-30",
+    "end": "20261130T113000",
+    "location": "VASARI Aula VA402 (4 piano)",
+    "start": "20261130T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+    "uid": "a809aed6cc5c2acf39cc65c6@unirsr-calendar"
+  },
+  "aca7423e57234ccfea7b2f45@unirsr-calendar": {
+    "date": "2026-11-23",
+    "end": "20261123T183000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261123T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "aca7423e57234ccfea7b2f45@unirsr-calendar"
+  },
+  "add64c4a4d18a51235d32fe3@unirsr-calendar": {
+    "date": "2027-01-11",
+    "end": "20270111T163000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20270111T143000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+    "uid": "add64c4a4d18a51235d32fe3@unirsr-calendar"
+  },
+  "afa6604928cdb5b9faef6656@unirsr-calendar": {
+    "date": "2026-12-02",
+    "end": "20261202T163000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261202T143000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA)",
+    "uid": "afa6604928cdb5b9faef6656@unirsr-calendar"
+  },
+  "b11b297a5f333b8d1c265149@unirsr-calendar": {
+    "date": "2026-10-28",
+    "end": "20261028T163000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261028T143000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+    "uid": "b11b297a5f333b8d1c265149@unirsr-calendar"
+  },
+  "b1c87fbc86a497b1d44966a2@unirsr-calendar": {
+    "date": "2026-12-15",
+    "end": "20261215T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261215T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+    "uid": "b1c87fbc86a497b1d44966a2@unirsr-calendar"
+  },
+  "b2c72bdef0e197c6ebfe2ed5@unirsr-calendar": {
+    "date": "2027-01-08",
+    "end": "20270108T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20270108T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "b2c72bdef0e197c6ebfe2ed5@unirsr-calendar"
+  },
+  "b5f1f29cc35f07f0e8d2a2cb@unirsr-calendar": {
+    "date": "2026-10-27",
+    "end": "20261027T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261027T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "b5f1f29cc35f07f0e8d2a2cb@unirsr-calendar"
+  },
+  "b997eb5e727f18dfe56c861b@unirsr-calendar": {
+    "date": "2026-12-04",
+    "end": "20261204T163000",
+    "location": "BORROMINI Aula BO202 (2 piano)",
+    "start": "20261204T143000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "b997eb5e727f18dfe56c861b@unirsr-calendar"
+  },
+  "bc54f3ba84a0e890d988c9fc@unirsr-calendar": {
+    "date": "2026-11-02",
+    "end": "20261102T183000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20261102T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "bc54f3ba84a0e890d988c9fc@unirsr-calendar"
+  },
+  "bc81c958e13dcbc4a35f5a75@unirsr-calendar": {
+    "date": "2026-11-03",
+    "end": "20261103T163000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261103T143000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "bc81c958e13dcbc4a35f5a75@unirsr-calendar"
+  },
+  "bf0547f486d3eb8b37874eea@unirsr-calendar": {
+    "date": "2027-01-11",
+    "end": "20270111T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20270111T113000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "bf0547f486d3eb8b37874eea@unirsr-calendar"
+  },
+  "c28f08127b8a1d58559643ec@unirsr-calendar": {
+    "date": "2027-01-19",
+    "end": "20270119T163000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20270119T143000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: MOLTENI RAFFAELLA)",
+    "uid": "c28f08127b8a1d58559643ec@unirsr-calendar"
+  },
+  "c359721638c724c438392e20@unirsr-calendar": {
+    "date": "2026-10-15",
+    "end": "20261015T133000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261015T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: MARTINO GIANVITO)",
+    "uid": "c359721638c724c438392e20@unirsr-calendar"
+  },
+  "c638404d3347849cbb608f45@unirsr-calendar": {
+    "date": "2026-11-26",
+    "end": "20261126T163000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261126T143000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "c638404d3347849cbb608f45@unirsr-calendar"
+  },
+  "c664789b31dc5ae1eced50d3@unirsr-calendar": {
+    "date": "2026-11-11",
+    "end": "20261111T133000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261111T113000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA)",
+    "uid": "c664789b31dc5ae1eced50d3@unirsr-calendar"
+  },
+  "c6901ec67af2b891155a5b16@unirsr-calendar": {
+    "date": "2026-11-24",
+    "end": "20261124T113000",
+    "location": "CANOVA Aula CA301 (3 piano)",
+    "start": "20261124T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+    "uid": "c6901ec67af2b891155a5b16@unirsr-calendar"
+  },
+  "cbbc4cf2bdfe346592134c34@unirsr-calendar": {
+    "date": "2026-10-12",
+    "end": "20261012T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261012T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "cbbc4cf2bdfe346592134c34@unirsr-calendar"
+  },
+  "d17787f9fb420e42c7797d96@unirsr-calendar": {
+    "date": "2026-12-01",
+    "end": "20261201T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261201T113000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "d17787f9fb420e42c7797d96@unirsr-calendar"
+  },
+  "d2439c888130e5aa588bdef0@unirsr-calendar": {
+    "date": "2026-11-27",
+    "end": "20261127T113000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261127T093000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO)",
+    "uid": "d2439c888130e5aa588bdef0@unirsr-calendar"
+  },
+  "d596c2c4edf09499e472cb39@unirsr-calendar": {
+    "date": "2026-11-13",
+    "end": "20261113T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261113T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "d596c2c4edf09499e472cb39@unirsr-calendar"
+  },
+  "d7c26dc8d380b799bfe90165@unirsr-calendar": {
+    "date": "2026-10-07",
+    "end": "20261007T163000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261007T143000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
+    "uid": "d7c26dc8d380b799bfe90165@unirsr-calendar"
+  },
+  "d9fac027f90518a4959120b0@unirsr-calendar": {
+    "date": "2026-10-29",
+    "end": "20261029T183000",
+    "location": "BORROMINI Aula BO302 (3 piano)",
+    "start": "20261029T163000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "d9fac027f90518a4959120b0@unirsr-calendar"
+  },
+  "da62c0281fcc4d58ad34e1ea@unirsr-calendar": {
+    "date": "2026-10-30",
+    "end": "20261030T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261030T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "da62c0281fcc4d58ad34e1ea@unirsr-calendar"
+  },
+  "dba35d43b87f91fa90675301@unirsr-calendar": {
+    "date": "2026-10-19",
+    "end": "20261019T183000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20261019T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "dba35d43b87f91fa90675301@unirsr-calendar"
+  },
+  "dc4329c151941da21e34c32e@unirsr-calendar": {
+    "date": "2026-10-20",
+    "end": "20261020T163000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261020T143000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: MARTINO GIANVITO)",
+    "uid": "dc4329c151941da21e34c32e@unirsr-calendar"
+  },
+  "dfcea1ce9d0a663d53ba2b07@unirsr-calendar": {
+    "date": "2026-12-18",
+    "end": "20261218T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261218T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "dfcea1ce9d0a663d53ba2b07@unirsr-calendar"
+  },
+  "e066f32bf40dbcef9bd0d661@unirsr-calendar": {
+    "date": "2026-12-03",
+    "end": "20261203T133000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261203T113000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "e066f32bf40dbcef9bd0d661@unirsr-calendar"
+  },
+  "e0e9438a1a34d0c8eff5d84a@unirsr-calendar": {
+    "date": "2026-10-09",
+    "end": "20261009T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261009T113000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+    "uid": "e0e9438a1a34d0c8eff5d84a@unirsr-calendar"
+  },
+  "e1c9ca9a35cdd23cfad617b2@unirsr-calendar": {
+    "date": "2026-10-08",
+    "end": "20261008T113000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261008T093000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "e1c9ca9a35cdd23cfad617b2@unirsr-calendar"
+  },
+  "e35bc796554961d7eb8f96f6@unirsr-calendar": {
+    "date": "2026-12-14",
+    "end": "20261214T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261214T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+    "uid": "e35bc796554961d7eb8f96f6@unirsr-calendar"
+  },
+  "e4461c70106049df34d90fcf@unirsr-calendar": {
+    "date": "2026-11-27",
+    "end": "20261127T163000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261127T143000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "e4461c70106049df34d90fcf@unirsr-calendar"
+  },
+  "e51a039bbec7a8f0015776c7@unirsr-calendar": {
+    "date": "2026-11-03",
+    "end": "20261103T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261103T113000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+    "uid": "e51a039bbec7a8f0015776c7@unirsr-calendar"
+  },
+  "ecfb459ab9a1b36477378bf4@unirsr-calendar": {
+    "date": "2026-11-19",
+    "end": "20261119T133000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261119T113000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "ecfb459ab9a1b36477378bf4@unirsr-calendar"
+  },
+  "ee4883aa40106b2890b24279@unirsr-calendar": {
+    "date": "2026-12-03",
+    "end": "20261203T113000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261203T093000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "ee4883aa40106b2890b24279@unirsr-calendar"
+  },
+  "f1d482272897d07997fed5c3@unirsr-calendar": {
+    "date": "2026-11-05",
+    "end": "20261105T183000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261105T163000",
+    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+    "uid": "f1d482272897d07997fed5c3@unirsr-calendar"
+  },
+  "f4ee3d836111c0d791bf486b@unirsr-calendar": {
+    "date": "2026-11-04",
+    "end": "20261104T163000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261104T143000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "f4ee3d836111c0d791bf486b@unirsr-calendar"
+  },
+  "f537dd9b0d69730eed5fd5d5@unirsr-calendar": {
+    "date": "2026-12-11",
+    "end": "20261211T133000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261211T113000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+    "uid": "f537dd9b0d69730eed5fd5d5@unirsr-calendar"
+  },
+  "f69bd548451f0a77b5723e46@unirsr-calendar": {
+    "date": "2026-10-26",
+    "end": "20261026T183000",
+    "location": "CANOVA Aula CA201 (2 piano)",
+    "start": "20261026T163000",
+    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+    "uid": "f69bd548451f0a77b5723e46@unirsr-calendar"
+  },
+  "f813c128ff3fdd9d2dedafcc@unirsr-calendar": {
+    "date": "2026-11-26",
+    "end": "20261126T113000",
+    "location": "VERROCCHIO Aula VE101 (1 piano)",
+    "start": "20261126T093000",
+    "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+    "uid": "f813c128ff3fdd9d2dedafcc@unirsr-calendar"
+  },
+  "f852091348903c630d227fca@unirsr-calendar": {
+    "date": "2026-11-23",
+    "end": "20261123T113000",
+    "location": "BORROMINI Aula BO301 (3 piano)",
+    "start": "20261123T093000",
+    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO)",
+    "uid": "f852091348903c630d227fca@unirsr-calendar"
+  },
+  "fc2aa5545bbcd8c7e5543142@unirsr-calendar": {
+    "date": "2026-12-02",
+    "end": "20261202T113000",
+    "location": "VERROCCHIO Aula VE201 (2 piano)",
+    "start": "20261202T093000",
+    "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+    "uid": "fc2aa5545bbcd8c7e5543142@unirsr-calendar"
+  },
+  "fcba556001ae31b006a1b4a2@unirsr-calendar": {
+    "date": "2026-12-16",
+    "end": "20261216T133000",
+    "location": "BORROMINI Aula BO102 (1 piano)",
+    "start": "20261216T113000",
+    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: PUNZI SIMONA)",
+    "uid": "fcba556001ae31b006a1b4a2@unirsr-calendar"
+  },
+  "ffd0d1e901cb13898b5b97cc@unirsr-calendar": {
+    "date": "2026-10-20",
+    "end": "20261020T113000",
+    "location": "VERROCCHIO Aula VE102 (1 piano)",
+    "start": "20261020T093000",
+    "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+    "uid": "ffd0d1e901cb13898b5b97cc@unirsr-calendar"
+  }
+}
