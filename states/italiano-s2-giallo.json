@@ -1,1130 +1,1273 @@
 {
-  "01e634da8ff862187c9b89e6@unirsr-calendar": {
-    "date": "2026-10-15",
-    "end": "20261015T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261015T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "01e634da8ff862187c9b89e6@unirsr-calendar"
-  },
-  "02d76906660893c0cf986516@unirsr-calendar": {
-    "date": "2026-11-12",
-    "end": "20261112T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261112T143000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
-    "uid": "02d76906660893c0cf986516@unirsr-calendar"
-  },
-  "02f95518277713d8ff68b121@unirsr-calendar": {
-    "date": "2026-12-22",
-    "end": "20261222T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261222T093000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "02f95518277713d8ff68b121@unirsr-calendar"
-  },
-  "031b8d9bd942bae7ae87b5e2@unirsr-calendar": {
-    "date": "2026-12-02",
-    "end": "20261202T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261202T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-    "uid": "031b8d9bd942bae7ae87b5e2@unirsr-calendar"
-  },
-  "04091d5bbe1b2d3487378e8c@unirsr-calendar": {
-    "date": "2026-11-17",
-    "end": "20261117T133000",
-    "location": "VASARI Aula VA101 (1 piano)",
-    "start": "20261117T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "04091d5bbe1b2d3487378e8c@unirsr-calendar"
-  },
-  "0442debf0b6d748b2f6379de@unirsr-calendar": {
-    "date": "2026-10-06",
-    "end": "20261006T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261006T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-    "uid": "0442debf0b6d748b2f6379de@unirsr-calendar"
-  },
-  "05ab2868a5ca7ae7e1a048b1@unirsr-calendar": {
-    "date": "2026-11-06",
-    "end": "20261106T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261106T093000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "05ab2868a5ca7ae7e1a048b1@unirsr-calendar"
-  },
-  "06bf5d7cfd4688bd3ea23e68@unirsr-calendar": {
-    "date": "2026-11-03",
-    "end": "20261103T113000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261103T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "06bf5d7cfd4688bd3ea23e68@unirsr-calendar"
-  },
-  "07725f705ca7b9c2ab2f51a5@unirsr-calendar": {
-    "date": "2026-10-30",
-    "end": "20261030T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261030T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "07725f705ca7b9c2ab2f51a5@unirsr-calendar"
-  },
-  "0a5b0ff8ff3d0e3da10c52c0@unirsr-calendar": {
-    "date": "2026-12-15",
-    "end": "20261215T113000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261215T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "0a5b0ff8ff3d0e3da10c52c0@unirsr-calendar"
-  },
-  "0b325756128e5834445cec4e@unirsr-calendar": {
-    "date": "2026-11-19",
-    "end": "20261119T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261119T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "0b325756128e5834445cec4e@unirsr-calendar"
-  },
-  "0b91ade292a2fea94d7cabf2@unirsr-calendar": {
-    "date": "2027-01-08",
-    "end": "20270108T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20270108T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-    "uid": "0b91ade292a2fea94d7cabf2@unirsr-calendar"
-  },
-  "0d10079d60db008b6e8b6cea@unirsr-calendar": {
-    "date": "2026-11-04",
-    "end": "20261104T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261104T143000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA)",
-    "uid": "0d10079d60db008b6e8b6cea@unirsr-calendar"
-  },
-  "0f3270786e404f4d1436439d@unirsr-calendar": {
-    "date": "2026-11-30",
-    "end": "20261130T133000",
-    "location": "BORROMINI Aula BO202 (2 piano)",
-    "start": "20261130T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "0f3270786e404f4d1436439d@unirsr-calendar"
-  },
-  "0f6bf96e3344a4401db5e542@unirsr-calendar": {
-    "date": "2026-10-20",
-    "end": "20261020T113000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261020T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "0f6bf96e3344a4401db5e542@unirsr-calendar"
-  },
-  "101fadd05733b836f57c798e@unirsr-calendar": {
-    "date": "2026-11-30",
-    "end": "20261130T113000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261130T093000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "101fadd05733b836f57c798e@unirsr-calendar"
-  },
-  "1064a704b07b392803de2878@unirsr-calendar": {
-    "date": "2026-10-15",
-    "end": "20261015T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261015T143000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
-    "uid": "1064a704b07b392803de2878@unirsr-calendar"
-  },
-  "10f06426a6e0fa64097b697a@unirsr-calendar": {
-    "date": "2026-11-03",
-    "end": "20261103T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261103T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "10f06426a6e0fa64097b697a@unirsr-calendar"
-  },
-  "1259b4e9e782007a384bf44e@unirsr-calendar": {
-    "date": "2026-11-20",
-    "end": "20261120T163000",
-    "location": "BORROMINI Aula BO202 (2 piano)",
-    "start": "20261120T143000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
-    "uid": "1259b4e9e782007a384bf44e@unirsr-calendar"
-  },
-  "15a876e55b2751d10319a866@unirsr-calendar": {
-    "date": "2026-10-23",
-    "end": "20261023T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261023T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "15a876e55b2751d10319a866@unirsr-calendar"
-  },
-  "1866827a08561866ffe8e2cd@unirsr-calendar": {
-    "date": "2026-12-17",
-    "end": "20261217T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261217T093000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "1866827a08561866ffe8e2cd@unirsr-calendar"
-  },
-  "1962f09eb741a52bbecf735f@unirsr-calendar": {
-    "date": "2026-11-20",
-    "end": "20261120T183000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261120T163000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: BOSIA MARTA)",
-    "uid": "1962f09eb741a52bbecf735f@unirsr-calendar"
-  },
-  "1965299e3d6bb96cab632ae3@unirsr-calendar": {
-    "date": "2026-10-28",
-    "end": "20261028T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261028T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "1965299e3d6bb96cab632ae3@unirsr-calendar"
-  },
-  "1abc8b56553af351f0d014c5@unirsr-calendar": {
-    "date": "2026-12-15",
-    "end": "20261215T133000",
-    "location": "BORROMINI Aula BO101 (1 piano)",
-    "start": "20261215T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "1abc8b56553af351f0d014c5@unirsr-calendar"
-  },
-  "1b3aef0dc58538a42c1918d9@unirsr-calendar": {
-    "date": "2026-11-13",
-    "end": "20261113T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261113T093000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "1b3aef0dc58538a42c1918d9@unirsr-calendar"
-  },
-  "1d16d1231649d568c95a7ee2@unirsr-calendar": {
-    "date": "2026-10-06",
-    "end": "20261006T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261006T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "1d16d1231649d568c95a7ee2@unirsr-calendar"
-  },
-  "1fd0b6d9eb9ab68e1354598c@unirsr-calendar": {
-    "date": "2026-10-28",
-    "end": "20261028T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261028T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "1fd0b6d9eb9ab68e1354598c@unirsr-calendar"
-  },
-  "2383ed41971314c2652d773e@unirsr-calendar": {
-    "date": "2026-11-18",
-    "end": "20261118T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261118T143000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA)",
-    "uid": "2383ed41971314c2652d773e@unirsr-calendar"
-  },
-  "247747d17242f292139dc8f2@unirsr-calendar": {
-    "date": "2026-11-06",
-    "end": "20261106T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261106T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "247747d17242f292139dc8f2@unirsr-calendar"
-  },
-  "25bf8df2f4d130da476ef65f@unirsr-calendar": {
-    "date": "2027-01-15",
-    "end": "20270115T133000",
-    "location": "BORROMINI Aula BO102 (1 piano)",
-    "start": "20270115T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "25bf8df2f4d130da476ef65f@unirsr-calendar"
-  },
-  "2711902e22d291794d190514@unirsr-calendar": {
-    "date": "2027-01-13",
-    "end": "20270113T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20270113T093000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "2711902e22d291794d190514@unirsr-calendar"
-  },
-  "2bfadc4b00f86b4f9611eeb8@unirsr-calendar": {
-    "date": "2027-01-07",
-    "end": "20270107T133000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20270107T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "2bfadc4b00f86b4f9611eeb8@unirsr-calendar"
-  },
-  "301c78cf5dbb731f09a49d6b@unirsr-calendar": {
-    "date": "2026-11-20",
-    "end": "20261120T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261120T093000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "301c78cf5dbb731f09a49d6b@unirsr-calendar"
-  },
-  "31b3deb38cb83c689500841f@unirsr-calendar": {
-    "date": "2026-10-22",
-    "end": "20261022T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261022T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "31b3deb38cb83c689500841f@unirsr-calendar"
-  },
-  "31ce8abf16b8acb77d571c7b@unirsr-calendar": {
-    "date": "2027-01-08",
-    "end": "20270108T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20270108T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "31ce8abf16b8acb77d571c7b@unirsr-calendar"
-  },
-  "3268dd0557ec52ad90b68f4b@unirsr-calendar": {
-    "date": "2026-10-12",
-    "end": "20261012T133000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261012T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "3268dd0557ec52ad90b68f4b@unirsr-calendar"
-  },
-  "339988e8bc108fe7ee37c834@unirsr-calendar": {
-    "date": "2026-11-26",
-    "end": "20261126T113000",
-    "location": "BORROMINI Aula BO301 (3 piano)",
-    "start": "20261126T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "339988e8bc108fe7ee37c834@unirsr-calendar"
-  },
-  "358d1526dc346ea479eee32d@unirsr-calendar": {
-    "date": "2026-12-03",
-    "end": "20261203T133000",
-    "location": "BORROMINI Aula BO102 (1 piano)",
-    "start": "20261203T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: CIRILLO FEDERICA)",
-    "uid": "358d1526dc346ea479eee32d@unirsr-calendar"
-  },
-  "3be747bb1cabe8d745f7a7f1@unirsr-calendar": {
-    "date": "2026-11-10",
-    "end": "20261110T113000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261110T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "3be747bb1cabe8d745f7a7f1@unirsr-calendar"
-  },
-  "3e6a48fe475665ae9f3db4ad@unirsr-calendar": {
-    "date": "2026-10-22",
-    "end": "20261022T163000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261022T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "3e6a48fe475665ae9f3db4ad@unirsr-calendar"
-  },
-  "4129d87ed37bd2770ea149bd@unirsr-calendar": {
-    "date": "2026-11-09",
-    "end": "20261109T163000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261109T143000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "4129d87ed37bd2770ea149bd@unirsr-calendar"
-  },
-  "4141df1feefb89a1262b45ad@unirsr-calendar": {
-    "date": "2026-11-04",
-    "end": "20261104T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261104T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-    "uid": "4141df1feefb89a1262b45ad@unirsr-calendar"
-  },
-  "45664f3e537fd79e2801d542@unirsr-calendar": {
-    "date": "2026-11-05",
-    "end": "20261105T163000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261105T143000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
-    "uid": "45664f3e537fd79e2801d542@unirsr-calendar"
-  },
-  "46902d022ab8556d890cefdc@unirsr-calendar": {
-    "date": "2026-11-02",
-    "end": "20261102T183000",
-    "location": "BORROMINI Aula BO101 (1 piano)",
-    "start": "20261102T163000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
-    "uid": "46902d022ab8556d890cefdc@unirsr-calendar"
-  },
-  "46fce38d63f59994d8878b09@unirsr-calendar": {
-    "date": "2026-11-23",
-    "end": "20261123T133000",
-    "location": "BORROMINI Aula BO202 (2 piano)",
-    "start": "20261123T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "46fce38d63f59994d8878b09@unirsr-calendar"
-  },
-  "47b805a6eb91a66e7206e58c@unirsr-calendar": {
-    "date": "2026-12-02",
-    "end": "20261202T163000",
-    "location": "BORROMINI Aula BO301 (3 piano)",
-    "start": "20261202T143000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: CIRILLO FEDERICA)",
-    "uid": "47b805a6eb91a66e7206e58c@unirsr-calendar"
-  },
-  "4851eabcc1cd4955dfed2a64@unirsr-calendar": {
-    "date": "2026-10-09",
-    "end": "20261009T133000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261009T113000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "4851eabcc1cd4955dfed2a64@unirsr-calendar"
-  },
-  "4bf95d44a7f0dda741d0dfcf@unirsr-calendar": {
-    "date": "2026-10-28",
-    "end": "20261028T183000",
-    "location": "CANOVA Aula CA302 (3 piano)",
-    "start": "20261028T163000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
-    "uid": "4bf95d44a7f0dda741d0dfcf@unirsr-calendar"
-  },
-  "4d18e55d27c93dedd17981ae@unirsr-calendar": {
-    "date": "2026-10-27",
-    "end": "20261027T183000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261027T163000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA)",
-    "uid": "4d18e55d27c93dedd17981ae@unirsr-calendar"
-  },
-  "4da96a6d50bb9bdb6847f505@unirsr-calendar": {
-    "date": "2026-10-12",
-    "end": "20261012T113000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261012T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "4da96a6d50bb9bdb6847f505@unirsr-calendar"
-  },
-  "4fa7f029de9fcf518d013e5a@unirsr-calendar": {
-    "date": "2026-10-07",
-    "end": "20261007T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261007T143000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: BOSIA MARTA)",
-    "uid": "4fa7f029de9fcf518d013e5a@unirsr-calendar"
-  },
-  "5003696cefa564deab05d643@unirsr-calendar": {
-    "date": "2026-12-10",
-    "end": "20261210T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261210T093000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "5003696cefa564deab05d643@unirsr-calendar"
-  },
-  "5043fbe754ec235f557e6b56@unirsr-calendar": {
-    "date": "2026-11-19",
-    "end": "20261119T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261119T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "5043fbe754ec235f557e6b56@unirsr-calendar"
-  },
-  "514642590ed42a809804789c@unirsr-calendar": {
-    "date": "2026-10-27",
-    "end": "20261027T113000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261027T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "514642590ed42a809804789c@unirsr-calendar"
-  },
-  "5196bf696d1bf22e5ec3954e@unirsr-calendar": {
-    "date": "2026-10-13",
-    "end": "20261013T113000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261013T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "5196bf696d1bf22e5ec3954e@unirsr-calendar"
-  },
-  "51f58996d04f7b56686a2e55@unirsr-calendar": {
-    "date": "2027-01-12",
-    "end": "20270112T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20270112T113000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "51f58996d04f7b56686a2e55@unirsr-calendar"
-  },
-  "52fd1b5ef4ef04cee534280c@unirsr-calendar": {
-    "date": "2026-10-26",
-    "end": "20261026T133000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261026T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO MARIACLELIA)",
-    "uid": "52fd1b5ef4ef04cee534280c@unirsr-calendar"
-  },
-  "5454df83fd16fd2b2a6d8f82@unirsr-calendar": {
-    "date": "2026-10-29",
-    "end": "20261029T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261029T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "5454df83fd16fd2b2a6d8f82@unirsr-calendar"
-  },
-  "552c7ab1cf907328d3a2f3c6@unirsr-calendar": {
-    "date": "2026-10-22",
-    "end": "20261022T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261022T113000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA)",
-    "uid": "552c7ab1cf907328d3a2f3c6@unirsr-calendar"
-  },
-  "565e14f49ae02609926bb760@unirsr-calendar": {
-    "date": "2026-11-20",
-    "end": "20261120T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261120T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "565e14f49ae02609926bb760@unirsr-calendar"
-  },
-  "5b09e426570a28ed8c20ebd7@unirsr-calendar": {
-    "date": "2026-10-16",
-    "end": "20261016T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261016T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "5b09e426570a28ed8c20ebd7@unirsr-calendar"
-  },
-  "5bf7f6516f3a1adfed9e718d@unirsr-calendar": {
-    "date": "2026-10-08",
-    "end": "20261008T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261008T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: MARTINO GIANVITO)",
-    "uid": "5bf7f6516f3a1adfed9e718d@unirsr-calendar"
-  },
-  "6066a2e86767c232c06d5fe7@unirsr-calendar": {
-    "date": "2026-12-01",
-    "end": "20261201T163000",
-    "location": "BORROMINI Aula BO201 (2 piano)",
-    "start": "20261201T143000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA)",
-    "uid": "6066a2e86767c232c06d5fe7@unirsr-calendar"
-  },
-  "6134d98a05b86c3fa2ab3894@unirsr-calendar": {
-    "date": "2026-10-30",
-    "end": "20261030T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261030T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
-    "uid": "6134d98a05b86c3fa2ab3894@unirsr-calendar"
-  },
-  "61b6b321cf244537ae86c1c8@unirsr-calendar": {
-    "date": "2026-12-11",
-    "end": "20261211T163000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261211T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
-    "uid": "61b6b321cf244537ae86c1c8@unirsr-calendar"
-  },
-  "66e4e7165b0ed2ab5e9cce0b@unirsr-calendar": {
-    "date": "2027-01-08",
-    "end": "20270108T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20270108T113000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "66e4e7165b0ed2ab5e9cce0b@unirsr-calendar"
-  },
-  "6792060d6e156bdf063cd3c2@unirsr-calendar": {
-    "date": "2026-11-11",
-    "end": "20261111T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261111T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "6792060d6e156bdf063cd3c2@unirsr-calendar"
-  },
-  "6a8f5feff91030bd44701233@unirsr-calendar": {
-    "date": "2027-01-11",
-    "end": "20270111T133000",
-    "location": "BORROMINI Aula BO202 (2 piano)",
-    "start": "20270111T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "6a8f5feff91030bd44701233@unirsr-calendar"
-  },
-  "70c17d0d082061e59d3c1bed@unirsr-calendar": {
-    "date": "2026-12-14",
-    "end": "20261214T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261214T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-    "uid": "70c17d0d082061e59d3c1bed@unirsr-calendar"
-  },
-  "7212fe9acb36b7d951d8c479@unirsr-calendar": {
-    "date": "2026-12-01",
-    "end": "20261201T133000",
-    "location": "BORROMINI Aula BO101 (1 piano)",
-    "start": "20261201T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: CIRILLO FEDERICA)",
-    "uid": "7212fe9acb36b7d951d8c479@unirsr-calendar"
-  },
-  "766e8e442284c7a75805548a@unirsr-calendar": {
-    "date": "2026-12-21",
-    "end": "20261221T113000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261221T093000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "766e8e442284c7a75805548a@unirsr-calendar"
-  },
-  "77878463a5a09a6edf234392@unirsr-calendar": {
-    "date": "2026-11-12",
-    "end": "20261112T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261112T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "77878463a5a09a6edf234392@unirsr-calendar"
-  },
-  "783d2cba4bdb657439529df1@unirsr-calendar": {
-    "date": "2026-11-12",
-    "end": "20261112T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261112T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "783d2cba4bdb657439529df1@unirsr-calendar"
-  },
-  "7ec9f1bd59cc94c75085f1bf@unirsr-calendar": {
-    "date": "2026-11-18",
-    "end": "20261118T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261118T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "7ec9f1bd59cc94c75085f1bf@unirsr-calendar"
-  },
-  "80f7b1b59f9eae72b032ec6a@unirsr-calendar": {
-    "date": "2026-10-06",
-    "end": "20261006T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261006T143000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA)",
-    "uid": "80f7b1b59f9eae72b032ec6a@unirsr-calendar"
-  },
-  "820e2487f4c4e92a3d079b68@unirsr-calendar": {
-    "date": "2026-11-24",
-    "end": "20261124T133000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261124T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "820e2487f4c4e92a3d079b68@unirsr-calendar"
-  },
-  "88a356c8a3124f8362219f90@unirsr-calendar": {
-    "date": "2026-11-11",
-    "end": "20261111T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261111T143000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA)",
-    "uid": "88a356c8a3124f8362219f90@unirsr-calendar"
-  },
-  "894cee092519fba780b2da1c@unirsr-calendar": {
-    "date": "2026-11-05",
-    "end": "20261105T183000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261105T163000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "894cee092519fba780b2da1c@unirsr-calendar"
-  },
-  "8e0d710a06a7ea5ac0e02861@unirsr-calendar": {
-    "date": "2026-11-02",
-    "end": "20261102T113000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261102T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "8e0d710a06a7ea5ac0e02861@unirsr-calendar"
-  },
-  "91847e833839e997cbc44409@unirsr-calendar": {
-    "date": "2026-12-16",
-    "end": "20261216T113000",
-    "location": "BORROMINI Aula BO102 (1 piano)",
-    "start": "20261216T093000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: PUNZI SIMONA)",
-    "uid": "91847e833839e997cbc44409@unirsr-calendar"
-  },
-  "931602756e2143c56d75ce37@unirsr-calendar": {
-    "date": "2026-11-11",
-    "end": "20261111T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261111T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-    "uid": "931602756e2143c56d75ce37@unirsr-calendar"
-  },
-  "992c72d1d5f641fa043976a3@unirsr-calendar": {
-    "date": "2026-10-14",
-    "end": "20261014T183000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261014T163000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA)",
-    "uid": "992c72d1d5f641fa043976a3@unirsr-calendar"
-  },
-  "9a430f59f03e776baac6117e@unirsr-calendar": {
-    "date": "2026-10-16",
-    "end": "20261016T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261016T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
-    "uid": "9a430f59f03e776baac6117e@unirsr-calendar"
-  },
-  "9aaaeb94bc50776338ca8910@unirsr-calendar": {
-    "date": "2026-10-09",
-    "end": "20261009T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261009T093000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
-    "uid": "9aaaeb94bc50776338ca8910@unirsr-calendar"
-  },
-  "9c459412cccdf852985d5a89@unirsr-calendar": {
-    "date": "2026-10-29",
-    "end": "20261029T163000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261029T143000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
-    "uid": "9c459412cccdf852985d5a89@unirsr-calendar"
-  },
-  "9c6c536d281444f426603dd6@unirsr-calendar": {
-    "date": "2026-11-03",
-    "end": "20261103T163000",
-    "location": "BORROMINI Aula BO202 (2 piano)",
-    "start": "20261103T143000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: BOSIA MARTA)",
-    "uid": "9c6c536d281444f426603dd6@unirsr-calendar"
-  },
-  "a0dcea51db18374e7cfc2c56@unirsr-calendar": {
-    "date": "2026-10-08",
-    "end": "20261008T183000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261008T163000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
-    "uid": "a0dcea51db18374e7cfc2c56@unirsr-calendar"
-  },
-  "a1cb20ffd8f7d6c67898482b@unirsr-calendar": {
-    "date": "2026-11-10",
-    "end": "20261110T133000",
-    "location": "BORROMINI Aula BO202 (2 piano)",
-    "start": "20261110T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "a1cb20ffd8f7d6c67898482b@unirsr-calendar"
-  },
-  "a2ee4a29a7e1272b94bf28b7@unirsr-calendar": {
-    "date": "2026-12-14",
-    "end": "20261214T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261214T093000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "a2ee4a29a7e1272b94bf28b7@unirsr-calendar"
-  },
-  "a30d229d2e7005be58bc79e2@unirsr-calendar": {
-    "date": "2026-10-08",
-    "end": "20261008T163000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261008T143000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
-    "uid": "a30d229d2e7005be58bc79e2@unirsr-calendar"
-  },
-  "a48071b8e2b01516c134fbde@unirsr-calendar": {
-    "date": "2026-12-03",
-    "end": "20261203T163000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261203T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "a48071b8e2b01516c134fbde@unirsr-calendar"
-  },
-  "a80c1400c4861151fcbad875@unirsr-calendar": {
-    "date": "2026-11-02",
-    "end": "20261102T133000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261102T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-    "uid": "a80c1400c4861151fcbad875@unirsr-calendar"
-  },
-  "aa0158a72b2bb9586787be0e@unirsr-calendar": {
-    "date": "2026-11-04",
-    "end": "20261104T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261104T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "aa0158a72b2bb9586787be0e@unirsr-calendar"
-  },
-  "aa23ca52c38db75015892eb8@unirsr-calendar": {
-    "date": "2026-10-23",
-    "end": "20261023T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261023T093000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
-    "uid": "aa23ca52c38db75015892eb8@unirsr-calendar"
-  },
-  "ab32adb9cafb6b098e6b4511@unirsr-calendar": {
-    "date": "2026-12-03",
-    "end": "20261203T183000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261203T163000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "ab32adb9cafb6b098e6b4511@unirsr-calendar"
-  },
-  "ae68fb14e1861c8551ebb338@unirsr-calendar": {
-    "date": "2026-10-14",
-    "end": "20261014T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261014T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "ae68fb14e1861c8551ebb338@unirsr-calendar"
-  },
-  "ae9bfd0bfe962e839d3bc658@unirsr-calendar": {
-    "date": "2026-10-19",
-    "end": "20261019T113000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261019T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "ae9bfd0bfe962e839d3bc658@unirsr-calendar"
-  },
-  "b35088c16b31275d6b45a1aa@unirsr-calendar": {
-    "date": "2027-01-14",
-    "end": "20270114T133000",
-    "location": "BORROMINI Aula BO101 (1 piano)",
-    "start": "20270114T113000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: MOLTENI RAFFAELLA)",
-    "uid": "b35088c16b31275d6b45a1aa@unirsr-calendar"
-  },
-  "b3d8f4045c97e92ef61bb365@unirsr-calendar": {
-    "date": "2026-10-26",
-    "end": "20261026T113000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261026T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "b3d8f4045c97e92ef61bb365@unirsr-calendar"
-  },
-  "b5288a39712bf2c318c2aaf6@unirsr-calendar": {
-    "date": "2027-01-12",
-    "end": "20270112T163000",
-    "location": "BORROMINI Aula BO102 (1 piano)",
-    "start": "20270112T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "b5288a39712bf2c318c2aaf6@unirsr-calendar"
-  },
-  "b7abe251b606a62c67d547b0@unirsr-calendar": {
-    "date": "2026-11-26",
-    "end": "20261126T183000",
-    "location": "BORROMINI Aula BO101 (1 piano)",
-    "start": "20261126T163000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "b7abe251b606a62c67d547b0@unirsr-calendar"
-  },
-  "b91fd509b5a2e9515fefe9f6@unirsr-calendar": {
-    "date": "2026-10-07",
-    "end": "20261007T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261007T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
-    "uid": "b91fd509b5a2e9515fefe9f6@unirsr-calendar"
-  },
-  "b9f5395d39284789f3e02276@unirsr-calendar": {
-    "date": "2026-11-13",
-    "end": "20261113T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261113T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "b9f5395d39284789f3e02276@unirsr-calendar"
-  },
-  "bbf1ebd3ab21612a370505ea@unirsr-calendar": {
-    "date": "2026-11-19",
-    "end": "20261119T183000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261119T163000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "bbf1ebd3ab21612a370505ea@unirsr-calendar"
-  },
-  "bc720e9260644da1ec622671@unirsr-calendar": {
-    "date": "2026-11-05",
-    "end": "20261105T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261105T093000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "bc720e9260644da1ec622671@unirsr-calendar"
-  },
-  "c00ae10f2d74d77811d90a38@unirsr-calendar": {
-    "date": "2026-10-16",
-    "end": "20261016T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261016T093000",
-    "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
-    "uid": "c00ae10f2d74d77811d90a38@unirsr-calendar"
-  },
-  "c04c15835577b939baefadcd@unirsr-calendar": {
-    "date": "2026-12-18",
-    "end": "20261218T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261218T093000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "c04c15835577b939baefadcd@unirsr-calendar"
-  },
-  "c12ce0b17950b3e70964cc8d@unirsr-calendar": {
-    "date": "2026-12-11",
-    "end": "20261211T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261211T113000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "c12ce0b17950b3e70964cc8d@unirsr-calendar"
-  },
-  "c15fec8cf912f218cb4c7f78@unirsr-calendar": {
-    "date": "2026-10-15",
-    "end": "20261015T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261015T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "c15fec8cf912f218cb4c7f78@unirsr-calendar"
-  },
-  "c29dd87b335eb10ebaef1e68@unirsr-calendar": {
-    "date": "2027-01-11",
-    "end": "20270111T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20270111T093000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "c29dd87b335eb10ebaef1e68@unirsr-calendar"
-  },
-  "c2ee4888bb429070b9feb10c@unirsr-calendar": {
-    "date": "2026-10-29",
-    "end": "20261029T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261029T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
-    "uid": "c2ee4888bb429070b9feb10c@unirsr-calendar"
-  },
-  "c333ed3f723685673aef6b48@unirsr-calendar": {
-    "date": "2026-11-19",
-    "end": "20261119T163000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261119T143000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
-    "uid": "c333ed3f723685673aef6b48@unirsr-calendar"
-  },
-  "c7afbe32b549d0bc7a8216b4@unirsr-calendar": {
-    "date": "2026-10-07",
-    "end": "20261007T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261007T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: MARTINO GIANVITO)",
-    "uid": "c7afbe32b549d0bc7a8216b4@unirsr-calendar"
-  },
-  "cbec7ac38a2eae13399e0c24@unirsr-calendar": {
-    "date": "2027-01-07",
-    "end": "20270107T113000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20270107T093000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "cbec7ac38a2eae13399e0c24@unirsr-calendar"
-  },
-  "cc3e1d0ff7d8a5a14226333e@unirsr-calendar": {
-    "date": "2026-11-23",
-    "end": "20261123T113000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261123T093000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "cc3e1d0ff7d8a5a14226333e@unirsr-calendar"
-  },
-  "cdbccff674452a15526dbfcf@unirsr-calendar": {
-    "date": "2026-12-01",
-    "end": "20261201T113000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261201T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "cdbccff674452a15526dbfcf@unirsr-calendar"
-  },
-  "d86030fdfa214fb32e524c62@unirsr-calendar": {
-    "date": "2026-12-21",
-    "end": "20261221T133000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261221T113000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "d86030fdfa214fb32e524c62@unirsr-calendar"
-  },
-  "d9ec0742587729072e0e0162@unirsr-calendar": {
-    "date": "2027-01-13",
-    "end": "20270113T133000",
-    "location": "BORROMINI Aula BO102 (1 piano)",
-    "start": "20270113T113000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: MOLTENI RAFFAELLA)",
-    "uid": "d9ec0742587729072e0e0162@unirsr-calendar"
-  },
-  "daf21fb3ae76db097816bc1b@unirsr-calendar": {
-    "date": "2026-10-23",
-    "end": "20261023T163000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261023T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "daf21fb3ae76db097816bc1b@unirsr-calendar"
-  },
-  "dd44d5baa37e5c03d093ae2d@unirsr-calendar": {
-    "date": "2026-12-04",
-    "end": "20261204T113000",
-    "location": "BORROMINI Aula BO101 (1 piano)",
-    "start": "20261204T093000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "dd44d5baa37e5c03d093ae2d@unirsr-calendar"
-  },
-  "dea820d928fbf6d9202632b1@unirsr-calendar": {
-    "date": "2026-11-26",
-    "end": "20261126T133000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261126T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "dea820d928fbf6d9202632b1@unirsr-calendar"
-  },
-  "e1bdae1811cf2698157f5cb9@unirsr-calendar": {
-    "date": "2026-10-20",
-    "end": "20261020T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261020T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
-    "uid": "e1bdae1811cf2698157f5cb9@unirsr-calendar"
-  },
-  "e50c2202eeb25580eb8c664b@unirsr-calendar": {
-    "date": "2026-10-19",
-    "end": "20261019T133000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261019T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
-    "uid": "e50c2202eeb25580eb8c664b@unirsr-calendar"
-  },
-  "e7c79b28829f6e7b4354cf33@unirsr-calendar": {
-    "date": "2026-12-17",
-    "end": "20261217T163000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261217T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "e7c79b28829f6e7b4354cf33@unirsr-calendar"
-  },
-  "e975c195f065ba708f2370f2@unirsr-calendar": {
-    "date": "2026-12-04",
-    "end": "20261204T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261204T113000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "e975c195f065ba708f2370f2@unirsr-calendar"
-  },
-  "eaae04b1382908cdec415d1d@unirsr-calendar": {
-    "date": "2026-10-21",
-    "end": "20261021T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261021T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
-    "uid": "eaae04b1382908cdec415d1d@unirsr-calendar"
-  },
-  "eb678b24035b3a1cbae16920@unirsr-calendar": {
-    "date": "2026-10-22",
-    "end": "20261022T183000",
-    "location": "VERROCCHIO Aula VE102 (1 piano)",
-    "start": "20261022T163000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "eb678b24035b3a1cbae16920@unirsr-calendar"
-  },
-  "ec2f63229f545a529b30021d@unirsr-calendar": {
-    "date": "2026-12-16",
-    "end": "20261216T133000",
-    "location": "BORROMINI Aula BO101 (1 piano)",
-    "start": "20261216T113000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "ec2f63229f545a529b30021d@unirsr-calendar"
-  },
-  "ec7f9bd499b3e4d3c5328d9a@unirsr-calendar": {
-    "date": "2026-10-20",
-    "end": "20261020T163000",
-    "location": "BORROMINI Aula BO201 (2 piano)",
-    "start": "20261020T143000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
-    "uid": "ec7f9bd499b3e4d3c5328d9a@unirsr-calendar"
-  },
-  "f1d172cbfb429d5e51a84da7@unirsr-calendar": {
-    "date": "2026-10-30",
-    "end": "20261030T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261030T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "f1d172cbfb429d5e51a84da7@unirsr-calendar"
-  },
-  "f429bc81631cb9a5418b9016@unirsr-calendar": {
-    "date": "2026-11-25",
-    "end": "20261125T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261125T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-    "uid": "f429bc81631cb9a5418b9016@unirsr-calendar"
-  },
-  "f5f5a3a28f1844a2cc6e70ec@unirsr-calendar": {
-    "date": "2026-11-24",
-    "end": "20261124T113000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261124T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "f5f5a3a28f1844a2cc6e70ec@unirsr-calendar"
-  },
-  "f6dd7f0b7299685c1b07ae58@unirsr-calendar": {
-    "date": "2026-11-25",
-    "end": "20261125T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261125T113000",
-    "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TOMAIUOLO ROSSELLA)",
-    "uid": "f6dd7f0b7299685c1b07ae58@unirsr-calendar"
-  },
-  "f7309043857b6dd121fdd17f@unirsr-calendar": {
-    "date": "2026-12-02",
-    "end": "20261202T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261202T113000",
-    "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
-    "uid": "f7309043857b6dd121fdd17f@unirsr-calendar"
-  },
-  "f9324627e5094713eba0fa5a@unirsr-calendar": {
-    "date": "2026-11-05",
-    "end": "20261105T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261105T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "f9324627e5094713eba0fa5a@unirsr-calendar"
-  },
-  "fe0e948129590d482a0e5bec@unirsr-calendar": {
-    "date": "2026-10-21",
-    "end": "20261021T133000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261021T113000",
-    "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
-    "uid": "fe0e948129590d482a0e5bec@unirsr-calendar"
-  },
-  "fe1f0735a261d1ec6da86c37@unirsr-calendar": {
-    "date": "2026-12-10",
-    "end": "20261210T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261210T113000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
-    "uid": "fe1f0735a261d1ec6da86c37@unirsr-calendar"
-  },
-  "fe3f9f260d6749ff73a8b67f@unirsr-calendar": {
-    "date": "2026-11-17",
-    "end": "20261117T113000",
-    "location": "VASARI Aula VA401 (4 piano)",
-    "start": "20261117T093000",
-    "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
-    "uid": "fe3f9f260d6749ff73a8b67f@unirsr-calendar"
-  },
-  "fe79ebb7fe9eb19b4ddf35c1@unirsr-calendar": {
-    "date": "2027-01-14",
-    "end": "20270114T113000",
-    "location": "BORROMINI Aula BO102 (1 piano)",
-    "start": "20270114T093000",
-    "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
-    "uid": "fe79ebb7fe9eb19b4ddf35c1@unirsr-calendar"
-  },
-  "fed4483bb10623b754801341@unirsr-calendar": {
-    "date": "2026-10-14",
-    "end": "20261014T113000",
-    "location": "VERROCCHIO Aula VE101 (1 piano)",
-    "start": "20261014T093000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
-    "uid": "fed4483bb10623b754801341@unirsr-calendar"
-  },
-  "ff464b99899e890e27a72d51@unirsr-calendar": {
-    "date": "2026-10-27",
-    "end": "20261027T133000",
-    "location": "VERROCCHIO Aula VE201 (2 piano)",
-    "start": "20261027T113000",
-    "subject": "Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO MARIACLELIA)",
-    "uid": "ff464b99899e890e27a72d51@unirsr-calendar"
+  "lessons": {
+    "01e634da8ff862187c9b89e6@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-15T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "01e634da8ff862187c9b89e6@unirsr-calendar"
+    },
+    "02d76906660893c0cf986516@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-12T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "02d76906660893c0cf986516@unirsr-calendar"
+    },
+    "02f95518277713d8ff68b121@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-22T09:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "02f95518277713d8ff68b121@unirsr-calendar"
+    },
+    "031b8d9bd942bae7ae87b5e2@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-02T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "031b8d9bd942bae7ae87b5e2@unirsr-calendar"
+    },
+    "04091d5bbe1b2d3487378e8c@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T13:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-17T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "04091d5bbe1b2d3487378e8c@unirsr-calendar"
+    },
+    "0442debf0b6d748b2f6379de@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-06T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "0442debf0b6d748b2f6379de@unirsr-calendar"
+    },
+    "05ab2868a5ca7ae7e1a048b1@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-06T09:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "05ab2868a5ca7ae7e1a048b1@unirsr-calendar"
+    },
+    "06bf5d7cfd4688bd3ea23e68@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T11:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-03T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "06bf5d7cfd4688bd3ea23e68@unirsr-calendar"
+    },
+    "07725f705ca7b9c2ab2f51a5@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-30T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "07725f705ca7b9c2ab2f51a5@unirsr-calendar"
+    },
+    "0a5b0ff8ff3d0e3da10c52c0@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T11:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-15T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "0a5b0ff8ff3d0e3da10c52c0@unirsr-calendar"
+    },
+    "0b325756128e5834445cec4e@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-19T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "0b325756128e5834445cec4e@unirsr-calendar"
+    },
+    "0b91ade292a2fea94d7cabf2@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-08T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "0b91ade292a2fea94d7cabf2@unirsr-calendar"
+    },
+    "0d10079d60db008b6e8b6cea@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-04T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA)",
+      "uid": "0d10079d60db008b6e8b6cea@unirsr-calendar"
+    },
+    "0f3270786e404f4d1436439d@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T13:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-30T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "0f3270786e404f4d1436439d@unirsr-calendar"
+    },
+    "0f6bf96e3344a4401db5e542@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T11:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-20T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "0f6bf96e3344a4401db5e542@unirsr-calendar"
+    },
+    "101fadd05733b836f57c798e@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-30T09:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "101fadd05733b836f57c798e@unirsr-calendar"
+    },
+    "1064a704b07b392803de2878@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-15T14:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
+      "uid": "1064a704b07b392803de2878@unirsr-calendar"
+    },
+    "10f06426a6e0fa64097b697a@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-03T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "10f06426a6e0fa64097b697a@unirsr-calendar"
+    },
+    "1259b4e9e782007a384bf44e@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T16:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-20T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
+      "uid": "1259b4e9e782007a384bf44e@unirsr-calendar"
+    },
+    "15a876e55b2751d10319a866@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-23T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "15a876e55b2751d10319a866@unirsr-calendar"
+    },
+    "1866827a08561866ffe8e2cd@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-17T09:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "1866827a08561866ffe8e2cd@unirsr-calendar"
+    },
+    "1962f09eb741a52bbecf735f@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: BOSIA MARTA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-20T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: BOSIA MARTA)",
+      "uid": "1962f09eb741a52bbecf735f@unirsr-calendar"
+    },
+    "1965299e3d6bb96cab632ae3@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-28T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "1965299e3d6bb96cab632ae3@unirsr-calendar"
+    },
+    "1abc8b56553af351f0d014c5@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T13:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-15T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "1abc8b56553af351f0d014c5@unirsr-calendar"
+    },
+    "1b3aef0dc58538a42c1918d9@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-13T09:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "1b3aef0dc58538a42c1918d9@unirsr-calendar"
+    },
+    "1d16d1231649d568c95a7ee2@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-06T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "1d16d1231649d568c95a7ee2@unirsr-calendar"
+    },
+    "1fd0b6d9eb9ab68e1354598c@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-28T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "1fd0b6d9eb9ab68e1354598c@unirsr-calendar"
+    },
+    "2383ed41971314c2652d773e@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-18T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA)",
+      "uid": "2383ed41971314c2652d773e@unirsr-calendar"
+    },
+    "247747d17242f292139dc8f2@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-06T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "247747d17242f292139dc8f2@unirsr-calendar"
+    },
+    "25bf8df2f4d130da476ef65f@unirsr-calendar": {
+      "date": "2027-01-15",
+      "end": "2027-01-15T13:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-15T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "25bf8df2f4d130da476ef65f@unirsr-calendar"
+    },
+    "2711902e22d291794d190514@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-13T09:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "2711902e22d291794d190514@unirsr-calendar"
+    },
+    "2bfadc4b00f86b4f9611eeb8@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-07T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "2bfadc4b00f86b4f9611eeb8@unirsr-calendar"
+    },
+    "301c78cf5dbb731f09a49d6b@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-20T09:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "301c78cf5dbb731f09a49d6b@unirsr-calendar"
+    },
+    "31b3deb38cb83c689500841f@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-22T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "31b3deb38cb83c689500841f@unirsr-calendar"
+    },
+    "31ce8abf16b8acb77d571c7b@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-08T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "31ce8abf16b8acb77d571c7b@unirsr-calendar"
+    },
+    "3268dd0557ec52ad90b68f4b@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-12T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "3268dd0557ec52ad90b68f4b@unirsr-calendar"
+    },
+    "339988e8bc108fe7ee37c834@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T11:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-26T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "339988e8bc108fe7ee37c834@unirsr-calendar"
+    },
+    "358d1526dc346ea479eee32d@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T13:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-03T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: CIRILLO FEDERICA)",
+      "uid": "358d1526dc346ea479eee32d@unirsr-calendar"
+    },
+    "3be747bb1cabe8d745f7a7f1@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T11:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-10T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "3be747bb1cabe8d745f7a7f1@unirsr-calendar"
+    },
+    "3e6a48fe475665ae9f3db4ad@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-22T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "3e6a48fe475665ae9f3db4ad@unirsr-calendar"
+    },
+    "4129d87ed37bd2770ea149bd@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-09T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "4129d87ed37bd2770ea149bd@unirsr-calendar"
+    },
+    "4141df1feefb89a1262b45ad@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-04T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "4141df1feefb89a1262b45ad@unirsr-calendar"
+    },
+    "45664f3e537fd79e2801d542@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-05T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "45664f3e537fd79e2801d542@unirsr-calendar"
+    },
+    "46902d022ab8556d890cefdc@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T18:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-02T16:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
+      "uid": "46902d022ab8556d890cefdc@unirsr-calendar"
+    },
+    "46fce38d63f59994d8878b09@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T13:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-23T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "46fce38d63f59994d8878b09@unirsr-calendar"
+    },
+    "47b805a6eb91a66e7206e58c@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T16:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-02T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: CIRILLO FEDERICA)",
+      "uid": "47b805a6eb91a66e7206e58c@unirsr-calendar"
+    },
+    "4851eabcc1cd4955dfed2a64@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T13:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "11:30-13:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-09T11:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "4851eabcc1cd4955dfed2a64@unirsr-calendar"
+    },
+    "4bf95d44a7f0dda741d0dfcf@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T18:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-28T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "4bf95d44a7f0dda741d0dfcf@unirsr-calendar"
+    },
+    "4d18e55d27c93dedd17981ae@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-27T16:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA)",
+      "uid": "4d18e55d27c93dedd17981ae@unirsr-calendar"
+    },
+    "4da96a6d50bb9bdb6847f505@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-12T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "4da96a6d50bb9bdb6847f505@unirsr-calendar"
+    },
+    "4fa7f029de9fcf518d013e5a@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: BOSIA MARTA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-07T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: BOSIA MARTA)",
+      "uid": "4fa7f029de9fcf518d013e5a@unirsr-calendar"
+    },
+    "5003696cefa564deab05d643@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-10T09:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "5003696cefa564deab05d643@unirsr-calendar"
+    },
+    "5043fbe754ec235f557e6b56@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-19T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "5043fbe754ec235f557e6b56@unirsr-calendar"
+    },
+    "514642590ed42a809804789c@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T11:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-27T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "514642590ed42a809804789c@unirsr-calendar"
+    },
+    "5196bf696d1bf22e5ec3954e@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T11:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-13T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "5196bf696d1bf22e5ec3954e@unirsr-calendar"
+    },
+    "51f58996d04f7b56686a2e55@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-12T11:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "51f58996d04f7b56686a2e55@unirsr-calendar"
+    },
+    "52fd1b5ef4ef04cee534280c@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-26T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "52fd1b5ef4ef04cee534280c@unirsr-calendar"
+    },
+    "5454df83fd16fd2b2a6d8f82@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-29T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "5454df83fd16fd2b2a6d8f82@unirsr-calendar"
+    },
+    "552c7ab1cf907328d3a2f3c6@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-22T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA)",
+      "uid": "552c7ab1cf907328d3a2f3c6@unirsr-calendar"
+    },
+    "565e14f49ae02609926bb760@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-20T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "565e14f49ae02609926bb760@unirsr-calendar"
+    },
+    "5b09e426570a28ed8c20ebd7@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-16T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "5b09e426570a28ed8c20ebd7@unirsr-calendar"
+    },
+    "5bf7f6516f3a1adfed9e718d@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-08T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: MARTINO GIANVITO)",
+      "uid": "5bf7f6516f3a1adfed9e718d@unirsr-calendar"
+    },
+    "6066a2e86767c232c06d5fe7@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T16:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-01T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA)",
+      "uid": "6066a2e86767c232c06d5fe7@unirsr-calendar"
+    },
+    "6134d98a05b86c3fa2ab3894@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-30T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
+      "uid": "6134d98a05b86c3fa2ab3894@unirsr-calendar"
+    },
+    "61b6b321cf244537ae86c1c8@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-11T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
+      "uid": "61b6b321cf244537ae86c1c8@unirsr-calendar"
+    },
+    "66e4e7165b0ed2ab5e9cce0b@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-08T11:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "66e4e7165b0ed2ab5e9cce0b@unirsr-calendar"
+    },
+    "6792060d6e156bdf063cd3c2@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-11T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "6792060d6e156bdf063cd3c2@unirsr-calendar"
+    },
+    "6a8f5feff91030bd44701233@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T13:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-11T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "6a8f5feff91030bd44701233@unirsr-calendar"
+    },
+    "70c17d0d082061e59d3c1bed@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-14T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "70c17d0d082061e59d3c1bed@unirsr-calendar"
+    },
+    "7212fe9acb36b7d951d8c479@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T13:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-01T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: CIRILLO FEDERICA)",
+      "uid": "7212fe9acb36b7d951d8c479@unirsr-calendar"
+    },
+    "766e8e442284c7a75805548a@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-21T09:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "766e8e442284c7a75805548a@unirsr-calendar"
+    },
+    "77878463a5a09a6edf234392@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-12T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "77878463a5a09a6edf234392@unirsr-calendar"
+    },
+    "783d2cba4bdb657439529df1@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-12T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "783d2cba4bdb657439529df1@unirsr-calendar"
+    },
+    "7ec9f1bd59cc94c75085f1bf@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-18T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "7ec9f1bd59cc94c75085f1bf@unirsr-calendar"
+    },
+    "80f7b1b59f9eae72b032ec6a@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-06T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA)",
+      "uid": "80f7b1b59f9eae72b032ec6a@unirsr-calendar"
+    },
+    "820e2487f4c4e92a3d079b68@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T13:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-24T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "820e2487f4c4e92a3d079b68@unirsr-calendar"
+    },
+    "88a356c8a3124f8362219f90@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-11T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA)",
+      "uid": "88a356c8a3124f8362219f90@unirsr-calendar"
+    },
+    "894cee092519fba780b2da1c@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-05T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "894cee092519fba780b2da1c@unirsr-calendar"
+    },
+    "8e0d710a06a7ea5ac0e02861@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-02T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "8e0d710a06a7ea5ac0e02861@unirsr-calendar"
+    },
+    "91847e833839e997cbc44409@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T11:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: PUNZI SIMONA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-16T09:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: PUNZI SIMONA)",
+      "uid": "91847e833839e997cbc44409@unirsr-calendar"
+    },
+    "931602756e2143c56d75ce37@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-11T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "931602756e2143c56d75ce37@unirsr-calendar"
+    },
+    "992c72d1d5f641fa043976a3@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-14T16:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TEI LAURA)",
+      "uid": "992c72d1d5f641fa043976a3@unirsr-calendar"
+    },
+    "9a430f59f03e776baac6117e@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-16T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
+      "uid": "9a430f59f03e776baac6117e@unirsr-calendar"
+    },
+    "9aaaeb94bc50776338ca8910@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-09T09:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
+      "uid": "9aaaeb94bc50776338ca8910@unirsr-calendar"
+    },
+    "9c459412cccdf852985d5a89@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-29T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "9c459412cccdf852985d5a89@unirsr-calendar"
+    },
+    "9c6c536d281444f426603dd6@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T16:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: BOSIA MARTA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-03T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: BOSIA MARTA)",
+      "uid": "9c6c536d281444f426603dd6@unirsr-calendar"
+    },
+    "a0dcea51db18374e7cfc2c56@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T18:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-08T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
+      "uid": "a0dcea51db18374e7cfc2c56@unirsr-calendar"
+    },
+    "a1cb20ffd8f7d6c67898482b@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T13:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-10T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "a1cb20ffd8f7d6c67898482b@unirsr-calendar"
+    },
+    "a2ee4a29a7e1272b94bf28b7@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-14T09:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "a2ee4a29a7e1272b94bf28b7@unirsr-calendar"
+    },
+    "a30d229d2e7005be58bc79e2@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-08T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
+      "uid": "a30d229d2e7005be58bc79e2@unirsr-calendar"
+    },
+    "a48071b8e2b01516c134fbde@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-03T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "a48071b8e2b01516c134fbde@unirsr-calendar"
+    },
+    "a80c1400c4861151fcbad875@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-02T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "a80c1400c4861151fcbad875@unirsr-calendar"
+    },
+    "aa0158a72b2bb9586787be0e@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-04T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "aa0158a72b2bb9586787be0e@unirsr-calendar"
+    },
+    "aa23ca52c38db75015892eb8@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-23T09:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "aa23ca52c38db75015892eb8@unirsr-calendar"
+    },
+    "ab32adb9cafb6b098e6b4511@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-03T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "ab32adb9cafb6b098e6b4511@unirsr-calendar"
+    },
+    "ae68fb14e1861c8551ebb338@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-14T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "ae68fb14e1861c8551ebb338@unirsr-calendar"
+    },
+    "ae9bfd0bfe962e839d3bc658@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-19T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "ae9bfd0bfe962e839d3bc658@unirsr-calendar"
+    },
+    "b35088c16b31275d6b45a1aa@unirsr-calendar": {
+      "date": "2027-01-14",
+      "end": "2027-01-14T13:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA GIALLA) (docente: MOLTENI RAFFAELLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-14T11:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: MOLTENI RAFFAELLA)",
+      "uid": "b35088c16b31275d6b45a1aa@unirsr-calendar"
+    },
+    "b3d8f4045c97e92ef61bb365@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-26T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "b3d8f4045c97e92ef61bb365@unirsr-calendar"
+    },
+    "b5288a39712bf2c318c2aaf6@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T16:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-12T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "b5288a39712bf2c318c2aaf6@unirsr-calendar"
+    },
+    "b7abe251b606a62c67d547b0@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T18:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-26T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "b7abe251b606a62c67d547b0@unirsr-calendar"
+    },
+    "b91fd509b5a2e9515fefe9f6@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-07T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
+      "uid": "b91fd509b5a2e9515fefe9f6@unirsr-calendar"
+    },
+    "b9f5395d39284789f3e02276@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-13T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "b9f5395d39284789f3e02276@unirsr-calendar"
+    },
+    "bbf1ebd3ab21612a370505ea@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-19T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "bbf1ebd3ab21612a370505ea@unirsr-calendar"
+    },
+    "bc720e9260644da1ec622671@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-05T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "bc720e9260644da1ec622671@unirsr-calendar"
+    },
+    "c00ae10f2d74d77811d90a38@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-16T09:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: FAVA FRANCESCA)",
+      "uid": "c00ae10f2d74d77811d90a38@unirsr-calendar"
+    },
+    "c04c15835577b939baefadcd@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-18T09:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "c04c15835577b939baefadcd@unirsr-calendar"
+    },
+    "c12ce0b17950b3e70964cc8d@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-11T11:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "c12ce0b17950b3e70964cc8d@unirsr-calendar"
+    },
+    "c15fec8cf912f218cb4c7f78@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-15T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "c15fec8cf912f218cb4c7f78@unirsr-calendar"
+    },
+    "c29dd87b335eb10ebaef1e68@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-11T09:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "c29dd87b335eb10ebaef1e68@unirsr-calendar"
+    },
+    "c2ee4888bb429070b9feb10c@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-29T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
+      "uid": "c2ee4888bb429070b9feb10c@unirsr-calendar"
+    },
+    "c333ed3f723685673aef6b48@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T16:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-19T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
+      "uid": "c333ed3f723685673aef6b48@unirsr-calendar"
+    },
+    "c7afbe32b549d0bc7a8216b4@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-07T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: MARTINO GIANVITO)",
+      "uid": "c7afbe32b549d0bc7a8216b4@unirsr-calendar"
+    },
+    "cbec7ac38a2eae13399e0c24@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-07T09:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "cbec7ac38a2eae13399e0c24@unirsr-calendar"
+    },
+    "cc3e1d0ff7d8a5a14226333e@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-23T09:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "cc3e1d0ff7d8a5a14226333e@unirsr-calendar"
+    },
+    "cdbccff674452a15526dbfcf@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T11:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-01T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "cdbccff674452a15526dbfcf@unirsr-calendar"
+    },
+    "d86030fdfa214fb32e524c62@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-21T11:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "d86030fdfa214fb32e524c62@unirsr-calendar"
+    },
+    "d9ec0742587729072e0e0162@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T13:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA GIALLA) (docente: MOLTENI RAFFAELLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-13T11:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: MOLTENI RAFFAELLA)",
+      "uid": "d9ec0742587729072e0e0162@unirsr-calendar"
+    },
+    "daf21fb3ae76db097816bc1b@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-23T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "daf21fb3ae76db097816bc1b@unirsr-calendar"
+    },
+    "dd44d5baa37e5c03d093ae2d@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-04T09:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "dd44d5baa37e5c03d093ae2d@unirsr-calendar"
+    },
+    "dea820d928fbf6d9202632b1@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-26T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "dea820d928fbf6d9202632b1@unirsr-calendar"
+    },
+    "e1bdae1811cf2698157f5cb9@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-20T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
+      "uid": "e1bdae1811cf2698157f5cb9@unirsr-calendar"
+    },
+    "e50c2202eeb25580eb8c664b@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-19T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "e50c2202eeb25580eb8c664b@unirsr-calendar"
+    },
+    "e7c79b28829f6e7b4354cf33@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-17T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "e7c79b28829f6e7b4354cf33@unirsr-calendar"
+    },
+    "e975c195f065ba708f2370f2@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-04T11:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "e975c195f065ba708f2370f2@unirsr-calendar"
+    },
+    "eaae04b1382908cdec415d1d@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-21T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
+      "uid": "eaae04b1382908cdec415d1d@unirsr-calendar"
+    },
+    "eb678b24035b3a1cbae16920@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-22T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "eb678b24035b3a1cbae16920@unirsr-calendar"
+    },
+    "ec2f63229f545a529b30021d@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T13:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-16T11:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "ec2f63229f545a529b30021d@unirsr-calendar"
+    },
+    "ec7f9bd499b3e4d3c5328d9a@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T16:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-20T14:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
+      "uid": "ec7f9bd499b3e4d3c5328d9a@unirsr-calendar"
+    },
+    "f1d172cbfb429d5e51a84da7@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-30T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "f1d172cbfb429d5e51a84da7@unirsr-calendar"
+    },
+    "f429bc81631cb9a5418b9016@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-25T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "f429bc81631cb9a5418b9016@unirsr-calendar"
+    },
+    "f5f5a3a28f1844a2cc6e70ec@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T11:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-24T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "f5f5a3a28f1844a2cc6e70ec@unirsr-calendar"
+    },
+    "f6dd7f0b7299685c1b07ae58@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TOMAIUOLO ROSSELLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-25T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: TOMAIUOLO ROSSELLA)",
+      "uid": "f6dd7f0b7299685c1b07ae58@unirsr-calendar"
+    },
+    "f7309043857b6dd121fdd17f@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-02T11:30",
+      "subject": "Lezione: Biochimica (LINEA GIALLA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "f7309043857b6dd121fdd17f@unirsr-calendar"
+    },
+    "f9324627e5094713eba0fa5a@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-05T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "f9324627e5094713eba0fa5a@unirsr-calendar"
+    },
+    "fe0e948129590d482a0e5bec@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-21T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
+      "uid": "fe0e948129590d482a0e5bec@unirsr-calendar"
+    },
+    "fe1f0735a261d1ec6da86c37@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-12-10T11:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
+      "uid": "fe1f0735a261d1ec6da86c37@unirsr-calendar"
+    },
+    "fe3f9f260d6749ff73a8b67f@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T11:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-17T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA GIALLA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "fe3f9f260d6749ff73a8b67f@unirsr-calendar"
+    },
+    "fe79ebb7fe9eb19b4ddf35c1@unirsr-calendar": {
+      "date": "2027-01-14",
+      "end": "2027-01-14T11:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2027-01-14T09:30",
+      "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
+      "uid": "fe79ebb7fe9eb19b4ddf35c1@unirsr-calendar"
+    },
+    "fed4483bb10623b754801341@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-14T09:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: CUGNATA FEDERICA)",
+      "uid": "fed4483bb10623b754801341@unirsr-calendar"
+    },
+    "ff464b99899e890e27a72d51@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-27T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "ff464b99899e890e27a72d51@unirsr-calendar"
+    }
   }
 }
