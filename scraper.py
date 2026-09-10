@@ -2,7 +2,7 @@ import hashlib
 import json
 import re
 import time
-from datetime import date, datetime, timedelta
+from datetime import UTC, datetime
 from pathlib import Path
 from urllib.parse import urlencode
 
@@ -443,7 +443,7 @@ def format_datetime(day, time_string):
 
 
 def generate_ics(lessons, cancelled):
-    now = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
+    now = datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
 
     lines = [
         "BEGIN:VCALENDAR",
