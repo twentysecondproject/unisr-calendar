@@ -1,0 +1,1273 @@
+{
+  "lessons": {
+    "01d92c4b2e99e2da6b9dfe42@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-03T09:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "01d92c4b2e99e2da6b9dfe42@unirsr-calendar"
+    },
+    "04d76bec25a088d1a32a6ae4@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T18:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-16T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA)",
+      "uid": "04d76bec25a088d1a32a6ae4@unirsr-calendar"
+    },
+    "0500a695ce1b1be673f4390c@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-13T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI)",
+      "uid": "0500a695ce1b1be673f4390c@unirsr-calendar"
+    },
+    "06b8931bc19cd5fd3563ea62@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-20T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "06b8931bc19cd5fd3563ea62@unirsr-calendar"
+    },
+    "083688b8702ac3cf5459cf86@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-27T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TEI LAURA)",
+      "uid": "083688b8702ac3cf5459cf86@unirsr-calendar"
+    },
+    "09e6d0bf2231f929c8f2ccbd@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-20T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "09e6d0bf2231f929c8f2ccbd@unirsr-calendar"
+    },
+    "0a869a48802b31f3ead63d59@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-23T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "0a869a48802b31f3ead63d59@unirsr-calendar"
+    },
+    "0e0c30a92548fcd7d52c6f42@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TOMAIUOLO ROSSELLA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-24T09:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TOMAIUOLO ROSSELLA)",
+      "uid": "0e0c30a92548fcd7d52c6f42@unirsr-calendar"
+    },
+    "16103fdd583b1573f183adef@unirsr-calendar": {
+      "date": "2027-01-18",
+      "end": "2027-01-18T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA ROSSA) (docente: MOLTENI RAFFAELLA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-18T09:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: MOLTENI RAFFAELLA)",
+      "uid": "16103fdd583b1573f183adef@unirsr-calendar"
+    },
+    "185aa444d62ca0f88619541d@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-27T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "185aa444d62ca0f88619541d@unirsr-calendar"
+    },
+    "19427f1f99fecc1e9998fc80@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-03T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: SCARFO' LYDIA)",
+      "uid": "19427f1f99fecc1e9998fc80@unirsr-calendar"
+    },
+    "194799a6c0e56f484684bfe1@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T13:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-22T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "194799a6c0e56f484684bfe1@unirsr-calendar"
+    },
+    "1b167912520d4ebf6b215173@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-30T09:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "1b167912520d4ebf6b215173@unirsr-calendar"
+    },
+    "1cb89381c338db8922d82b44@unirsr-calendar": {
+      "date": "2027-01-18",
+      "end": "2027-01-18T13:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-18T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "1cb89381c338db8922d82b44@unirsr-calendar"
+    },
+    "1ce4dd01d89170b84c4ff7de@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-13T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: MARTINO GIANVITO)",
+      "uid": "1ce4dd01d89170b84c4ff7de@unirsr-calendar"
+    },
+    "1db6832dbb6553a652798d9a@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-14T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "1db6832dbb6553a652798d9a@unirsr-calendar"
+    },
+    "1f36d4ef6fc784603aa50805@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-06T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TEI LAURA)",
+      "uid": "1f36d4ef6fc784603aa50805@unirsr-calendar"
+    },
+    "21a599ac67d9f4ff24b1979d@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-29T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "21a599ac67d9f4ff24b1979d@unirsr-calendar"
+    },
+    "24a20def0ddcd87493fa8cfa@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-13T16:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "24a20def0ddcd87493fa8cfa@unirsr-calendar"
+    },
+    "26ec73f8232568b6bf24587a@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-20T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "26ec73f8232568b6bf24587a@unirsr-calendar"
+    },
+    "298656fbc85d7f750371c0f1@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-28T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "298656fbc85d7f750371c0f1@unirsr-calendar"
+    },
+    "2a196402fc3589c6dd22936f@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-12T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "2a196402fc3589c6dd22936f@unirsr-calendar"
+    },
+    "2b6d9740a3a925fb16feaf78@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-11T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "2b6d9740a3a925fb16feaf78@unirsr-calendar"
+    },
+    "2ee5c487f44f10e57a5f6b15@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-09T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA)",
+      "uid": "2ee5c487f44f10e57a5f6b15@unirsr-calendar"
+    },
+    "2f2dfd5cd9d5d8014b5b2ee4@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T13:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-04T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "2f2dfd5cd9d5d8014b5b2ee4@unirsr-calendar"
+    },
+    "3100d21345bf4b7889a1aaad@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-20T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TEI LAURA)",
+      "uid": "3100d21345bf4b7889a1aaad@unirsr-calendar"
+    },
+    "31592903dacb6e3a6785c010@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-13T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "31592903dacb6e3a6785c010@unirsr-calendar"
+    },
+    "322388b268daca0a6995dbed@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-19T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "322388b268daca0a6995dbed@unirsr-calendar"
+    },
+    "33a26b39d79a1bfcc63b6249@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-27T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "33a26b39d79a1bfcc63b6249@unirsr-calendar"
+    },
+    "34c3be64bfdd2d05fc59bbf5@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-14T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "34c3be64bfdd2d05fc59bbf5@unirsr-calendar"
+    },
+    "38266d6b7cad742962e14803@unirsr-calendar": {
+      "date": "2027-01-15",
+      "end": "2027-01-15T16:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biochimica (LINEA ROSSA) (docente: MOLTENI RAFFAELLA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-15T14:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: MOLTENI RAFFAELLA)",
+      "uid": "38266d6b7cad742962e14803@unirsr-calendar"
+    },
+    "38492acc6cf27e3862cc0959@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-09T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "38492acc6cf27e3862cc0959@unirsr-calendar"
+    },
+    "390ece6b40c417fc4fac21fd@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-22T09:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "390ece6b40c417fc4fac21fd@unirsr-calendar"
+    },
+    "3d6615c1a7f1b27f059f37c2@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T18:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-20T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA)",
+      "uid": "3d6615c1a7f1b27f059f37c2@unirsr-calendar"
+    },
+    "3f01fd3e2539e124ca3337b7@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T16:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: BOSIA MARTA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-02T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: BOSIA MARTA)",
+      "uid": "3f01fd3e2539e124ca3337b7@unirsr-calendar"
+    },
+    "3f526af7751465f1be25a05f@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-10T11:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "3f526af7751465f1be25a05f@unirsr-calendar"
+    },
+    "4053605c6c00bf8967665cf6@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: BOSIA MARTA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-23T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: BOSIA MARTA)",
+      "uid": "4053605c6c00bf8967665cf6@unirsr-calendar"
+    },
+    "4098de26e7af7d38772f2b8f@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-22T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "4098de26e7af7d38772f2b8f@unirsr-calendar"
+    },
+    "4260b330ef37d5b63f37678b@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-11T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "4260b330ef37d5b63f37678b@unirsr-calendar"
+    },
+    "44e9e0f0b2d3beb19c65d49e@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-08T09:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "44e9e0f0b2d3beb19c65d49e@unirsr-calendar"
+    },
+    "49ae23de82f91506cb23f7a4@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T18:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-21T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "49ae23de82f91506cb23f7a4@unirsr-calendar"
+    },
+    "4aae2f8af6add67136b23454@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-18T09:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "4aae2f8af6add67136b23454@unirsr-calendar"
+    },
+    "4b741d3101c535c03b3e4e79@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-16T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "4b741d3101c535c03b3e4e79@unirsr-calendar"
+    },
+    "4c07eea8d1f3090056f9222d@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-12T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "4c07eea8d1f3090056f9222d@unirsr-calendar"
+    },
+    "4c4fbbf2ba83de04e435372a@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-19T09:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "4c4fbbf2ba83de04e435372a@unirsr-calendar"
+    },
+    "4c6f228d530b817d8564a3b7@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-08T11:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "4c6f228d530b817d8564a3b7@unirsr-calendar"
+    },
+    "4d11977138a92c5a29d4640e@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-01T09:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "4d11977138a92c5a29d4640e@unirsr-calendar"
+    },
+    "4faea37d1eed727ac55e3c37@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T16:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-25T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: PICCOLI MARCO)",
+      "uid": "4faea37d1eed727ac55e3c37@unirsr-calendar"
+    },
+    "569050a6aa977fbbded28e0b@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-03T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "569050a6aa977fbbded28e0b@unirsr-calendar"
+    },
+    "56d97dd3122631517755c87f@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-12T09:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "56d97dd3122631517755c87f@unirsr-calendar"
+    },
+    "5971710b163004f2494b3a30@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-17T11:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "5971710b163004f2494b3a30@unirsr-calendar"
+    },
+    "5a450afdf4fdfc94a688993b@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-12T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI)",
+      "uid": "5a450afdf4fdfc94a688993b@unirsr-calendar"
+    },
+    "5d70a1027d635db69d09dee6@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-01T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "5d70a1027d635db69d09dee6@unirsr-calendar"
+    },
+    "60ec18b1bb3c58e924474958@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-02T16:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "60ec18b1bb3c58e924474958@unirsr-calendar"
+    },
+    "635a7005feac9f955608186d@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-26T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "635a7005feac9f955608186d@unirsr-calendar"
+    },
+    "63b9994f555ed0d885cc17b9@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T13:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-25T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: PICCOLI MARCO)",
+      "uid": "63b9994f555ed0d885cc17b9@unirsr-calendar"
+    },
+    "665c0b87bd4715dc0d3b3a17@unirsr-calendar": {
+      "date": "2027-01-15",
+      "end": "2027-01-15T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-15T09:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "665c0b87bd4715dc0d3b3a17@unirsr-calendar"
+    },
+    "6709c7c43ae95e472f0b641b@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-07T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "6709c7c43ae95e472f0b641b@unirsr-calendar"
+    },
+    "685c5ecb18155c6492632be2@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-07T11:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "685c5ecb18155c6492632be2@unirsr-calendar"
+    },
+    "68d6e2a0bd8768d1fe4d156e@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T13:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-07T11:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "68d6e2a0bd8768d1fe4d156e@unirsr-calendar"
+    },
+    "69105998bd83c4e6fcb64987@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T18:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-24T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "69105998bd83c4e6fcb64987@unirsr-calendar"
+    },
+    "692c175c2fb8006b2b30ee50@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-03T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "692c175c2fb8006b2b30ee50@unirsr-calendar"
+    },
+    "69fe472655945ab3202c0686@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA ROSSA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-13T09:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: PANINA PAOLA)",
+      "uid": "69fe472655945ab3202c0686@unirsr-calendar"
+    },
+    "6d196a4bd941f6a37182a339@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-25T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "6d196a4bd941f6a37182a339@unirsr-calendar"
+    },
+    "6dc551275f4cd2b085aac8df@unirsr-calendar": {
+      "date": "2027-01-14",
+      "end": "2027-01-14T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-14T09:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI)",
+      "uid": "6dc551275f4cd2b085aac8df@unirsr-calendar"
+    },
+    "6df1b03cc1ddeb541ab54866@unirsr-calendar": {
+      "date": "2027-01-18",
+      "end": "2027-01-18T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-18T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI)",
+      "uid": "6df1b03cc1ddeb541ab54866@unirsr-calendar"
+    },
+    "6e47b63e8c87c36bfe81b485@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-15T09:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "6e47b63e8c87c36bfe81b485@unirsr-calendar"
+    },
+    "6eecd5d0f9c31010d94bddd1@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-14T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "6eecd5d0f9c31010d94bddd1@unirsr-calendar"
+    },
+    "71ba43421febf3d3c7fa9350@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-09T09:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "71ba43421febf3d3c7fa9350@unirsr-calendar"
+    },
+    "734259dbcde2e15f540438de@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-29T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "734259dbcde2e15f540438de@unirsr-calendar"
+    },
+    "744207a9d760ead00370b609@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T13:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-12T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "744207a9d760ead00370b609@unirsr-calendar"
+    },
+    "74b2c77bfcaeb0deeac7ba11@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-05T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "74b2c77bfcaeb0deeac7ba11@unirsr-calendar"
+    },
+    "773d232e294bb75fc7462584@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-16T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: PANINA PAOLA)",
+      "uid": "773d232e294bb75fc7462584@unirsr-calendar"
+    },
+    "783a1c13e3ce7959e07fd972@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-13T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "783a1c13e3ce7959e07fd972@unirsr-calendar"
+    },
+    "7965a6a24e1050cd766aea31@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-26T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "7965a6a24e1050cd766aea31@unirsr-calendar"
+    },
+    "7a206c60e9ab2ad561162422@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-16T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "7a206c60e9ab2ad561162422@unirsr-calendar"
+    },
+    "7b77b337be45d4d340db1c50@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T11:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-04T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "7b77b337be45d4d340db1c50@unirsr-calendar"
+    },
+    "7df328745b69fce83c9be9ce@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-13T11:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "7df328745b69fce83c9be9ce@unirsr-calendar"
+    },
+    "7f7ec12909bbcbda8741834d@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-15T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "7f7ec12909bbcbda8741834d@unirsr-calendar"
+    },
+    "81daa7f5581bb816be3789fb@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-06T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "81daa7f5581bb816be3789fb@unirsr-calendar"
+    },
+    "8221d4609b1dc02e19bbe158@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-17T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: SCARFO' LYDIA)",
+      "uid": "8221d4609b1dc02e19bbe158@unirsr-calendar"
+    },
+    "82b7dadcf28d636813f98c93@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-17T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "82b7dadcf28d636813f98c93@unirsr-calendar"
+    },
+    "85dcbd96e197dd467f50b425@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-20T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: MARTINO GIANVITO)",
+      "uid": "85dcbd96e197dd467f50b425@unirsr-calendar"
+    },
+    "86749be9ec867ebb682bb99e@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-28T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "86749be9ec867ebb682bb99e@unirsr-calendar"
+    },
+    "87921bf74556d04cde018788@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-18T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "87921bf74556d04cde018788@unirsr-calendar"
+    },
+    "8a56ab9bb5e3a86b449b7ea9@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-03T11:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "8a56ab9bb5e3a86b449b7ea9@unirsr-calendar"
+    },
+    "8bfe2c13a398bcc3e4019f37@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T18:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-15T16:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "8bfe2c13a398bcc3e4019f37@unirsr-calendar"
+    },
+    "90c0e4313c2fbe5726f4b359@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-08T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: CORRAO GIOVANNI)",
+      "uid": "90c0e4313c2fbe5726f4b359@unirsr-calendar"
+    },
+    "947f893db9e26c5213f57a82@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-10T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "947f893db9e26c5213f57a82@unirsr-calendar"
+    },
+    "958a4b3ee2dff1ea35c50d78@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-19T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "958a4b3ee2dff1ea35c50d78@unirsr-calendar"
+    },
+    "95a1dcc6e0cb01f8315dc9ca@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-16T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "95a1dcc6e0cb01f8315dc9ca@unirsr-calendar"
+    },
+    "9a1ec1f3a5568618e1903908@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T16:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-10T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "9a1ec1f3a5568618e1903908@unirsr-calendar"
+    },
+    "9ecfa214a756e320ef0dda98@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-21T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "9ecfa214a756e320ef0dda98@unirsr-calendar"
+    },
+    "9eec2faf2a4de1e53a934041@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-03T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "9eec2faf2a4de1e53a934041@unirsr-calendar"
+    },
+    "a0d0460f9ab9712c32dfc0bd@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-04T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "a0d0460f9ab9712c32dfc0bd@unirsr-calendar"
+    },
+    "a0ed63bfd567ff17026a9fe2@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T16:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-30T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "a0ed63bfd567ff17026a9fe2@unirsr-calendar"
+    },
+    "a7e62499eda5a046b9fc6216@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-21T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "a7e62499eda5a046b9fc6216@unirsr-calendar"
+    },
+    "a8488d7653ee7e15137f98a7@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T16:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-04T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: SCARFO' LYDIA)",
+      "uid": "a8488d7653ee7e15137f98a7@unirsr-calendar"
+    },
+    "a9b56c5309b60032322206d1@unirsr-calendar": {
+      "date": "2027-01-14",
+      "end": "2027-01-14T16:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-14T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "a9b56c5309b60032322206d1@unirsr-calendar"
+    },
+    "a9d3d711610b515572de5e9b@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: BOSIA MARTA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-09T11:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: BOSIA MARTA)",
+      "uid": "a9d3d711610b515572de5e9b@unirsr-calendar"
+    },
+    "ab77856410aa3fc7b445f07e@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-09T16:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "ab77856410aa3fc7b445f07e@unirsr-calendar"
+    },
+    "abb8394a96ae3e19a07aa7bf@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T13:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-11T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "abb8394a96ae3e19a07aa7bf@unirsr-calendar"
+    },
+    "add2dca04b5a5a87e91a94a1@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-22T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "add2dca04b5a5a87e91a94a1@unirsr-calendar"
+    },
+    "addf6a752e690403617d567f@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-10T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "addf6a752e690403617d567f@unirsr-calendar"
+    },
+    "aecc105565b25d15e88c0c40@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-16T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA)",
+      "uid": "aecc105565b25d15e88c0c40@unirsr-calendar"
+    },
+    "b17be6d054c70c0bf4d2a3b5@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T18:30",
+      "location": "BORROMINI Aula BO401 (4 piano)",
+      "raw": "16:30-18:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-26T16:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "b17be6d054c70c0bf4d2a3b5@unirsr-calendar"
+    },
+    "b1af4aa8e35560fee72d29f8@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T18:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "16:30-18:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-02T16:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "b1af4aa8e35560fee72d29f8@unirsr-calendar"
+    },
+    "b201e3bbda8cbeb692ea2b85@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-14T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "b201e3bbda8cbeb692ea2b85@unirsr-calendar"
+    },
+    "b27cc866e705f8a89a6aa277@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T16:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-09T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "b27cc866e705f8a89a6aa277@unirsr-calendar"
+    },
+    "b47b98456112c1f631ecc30d@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-30T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "b47b98456112c1f631ecc30d@unirsr-calendar"
+    },
+    "b5507fbf4b8e933524421c4c@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-04T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "b5507fbf4b8e933524421c4c@unirsr-calendar"
+    },
+    "b614896742b9c958d7da0fd0@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-26T16:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "b614896742b9c958d7da0fd0@unirsr-calendar"
+    },
+    "b657564c12dfb1d278c460bb@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-15T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA ROSSA) (docente: FAVA FRANCESCA)",
+      "uid": "b657564c12dfb1d278c460bb@unirsr-calendar"
+    },
+    "b7610a90910bbc919364afa4@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T11:30",
+      "location": "VASARI Aula VA402 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: PUNZI SIMONA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-14T09:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: PUNZI SIMONA)",
+      "uid": "b7610a90910bbc919364afa4@unirsr-calendar"
+    },
+    "b8bbfd8961f4a4954a4bc17b@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-21T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "b8bbfd8961f4a4954a4bc17b@unirsr-calendar"
+    },
+    "bb6321829dbf5d896787b16b@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-21T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "bb6321829dbf5d896787b16b@unirsr-calendar"
+    },
+    "bf91687204cc17a34f61d591@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-13T16:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: TEI LAURA)",
+      "uid": "bf91687204cc17a34f61d591@unirsr-calendar"
+    },
+    "caca78b35fb3d2d54a1927e0@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-23T11:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "caca78b35fb3d2d54a1927e0@unirsr-calendar"
+    },
+    "d087b4575e33d969a8450ae1@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-12T14:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "d087b4575e33d969a8450ae1@unirsr-calendar"
+    },
+    "d11e44ea41a502ed66cd0606@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T18:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-05T16:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "d11e44ea41a502ed66cd0606@unirsr-calendar"
+    },
+    "d446549aa735ca0c956698e5@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-10T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA ROSSA) (docente: SCARFO' LYDIA)",
+      "uid": "d446549aa735ca0c956698e5@unirsr-calendar"
+    },
+    "d768c316be1a2dba600f0b9b@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-05T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "d768c316be1a2dba600f0b9b@unirsr-calendar"
+    },
+    "d820ea60958a01321bc3a4e8@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T13:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-02T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: CIRILLO FEDERICA)",
+      "uid": "d820ea60958a01321bc3a4e8@unirsr-calendar"
+    },
+    "d84600fafbe30125a90b9240@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-06T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "d84600fafbe30125a90b9240@unirsr-calendar"
+    },
+    "db9a1d2455008f4b6bd03d3e@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-10T09:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "db9a1d2455008f4b6bd03d3e@unirsr-calendar"
+    },
+    "de0cdd3348eb9c46a159e31c@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T18:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-22T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "de0cdd3348eb9c46a159e31c@unirsr-calendar"
+    },
+    "e0527c035191395f074f69fb@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T18:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-28T16:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "e0527c035191395f074f69fb@unirsr-calendar"
+    },
+    "e1b1833f51a64632c9e32a14@unirsr-calendar": {
+      "date": "2027-01-14",
+      "end": "2027-01-14T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-14T11:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "e1b1833f51a64632c9e32a14@unirsr-calendar"
+    },
+    "e3835faca4d89ca7777e72df@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-02T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "e3835faca4d89ca7777e72df@unirsr-calendar"
+    },
+    "eb23761963ad1cb54d801c0c@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-13T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "eb23761963ad1cb54d801c0c@unirsr-calendar"
+    },
+    "ee1878bd9a3f0bac3874dc00@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T16:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-11T14:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: BOLINO ALESSANDRA)",
+      "uid": "ee1878bd9a3f0bac3874dc00@unirsr-calendar"
+    },
+    "ef8a9905afb20b1f434c49d0@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-06T09:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
+      "uid": "ef8a9905afb20b1f434c49d0@unirsr-calendar"
+    },
+    "f5e0e26705b4ed545d5f1c83@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-30T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "f5e0e26705b4ed545d5f1c83@unirsr-calendar"
+    },
+    "f775aa3e001e69dc9f27ae56@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-16T11:30",
+      "subject": "Lezione: Biochimica (LINEA ROSSA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "f775aa3e001e69dc9f27ae56@unirsr-calendar"
+    },
+    "f85f17a3aa72c048bbe271cf@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-19T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "f85f17a3aa72c048bbe271cf@unirsr-calendar"
+    },
+    "fb1938735e5e7b96b4b4c8b9@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T13:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-26T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: PICCOLI MARCO)",
+      "uid": "fb1938735e5e7b96b4b4c8b9@unirsr-calendar"
+    },
+    "fbad11e53acc480d99520627@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T16:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2027-01-07T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: MIGLIARETTI GIUSEPPE)",
+      "uid": "fbad11e53acc480d99520627@unirsr-calendar"
+    },
+    "fd9e124461d9bbf8ca2e2467@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T11:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-11T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA ROSSA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "fd9e124461d9bbf8ca2e2467@unirsr-calendar"
+    },
+    "fdaab46fcc94002db7f4ce7f@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-13T14:30",
+      "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
+      "uid": "fdaab46fcc94002db7f4ce7f@unirsr-calendar"
+    },
+    "fe3fd56533c4ee868ffe1bed@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-11-18T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "fe3fd56533c4ee868ffe1bed@unirsr-calendar"
+    },
+    "ff4ef9829869d66c2c6f43d8@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-23T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA ROSSA) (docente: ANASTASIA LUIGI)",
+      "uid": "ff4ef9829869d66c2c6f43d8@unirsr-calendar"
+    }
+  }
+}

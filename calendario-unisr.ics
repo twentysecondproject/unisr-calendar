@@ -7,8 +7,8 @@ X-WR-CALNAME:UniSR Calendar
 X-WR-CALDESC:UniSR timetable for calendars created by Filippo Genoni
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
-UID:4569224ca5af9ece9a30cbc5@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:2035242a0cc176ad4323728e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261005T093000
 DTEND;TZID=Europe/Rome:20261005T113000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -18,8 +18,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:138aef4e8ab217b667422523@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:c38934ee209820b5aa08690f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261005T113000
 DTEND;TZID=Europe/Rome:20261005T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -30,8 +30,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f0b89059da8358b4320e4f37@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:c5d46dc2366a960f92921126@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261005T143000
 DTEND;TZID=Europe/Rome:20261005T163000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -42,8 +42,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c2377a58c028f74c63227eee@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:50e4d5c7981f27a1b361211a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261006T093000
 DTEND;TZID=Europe/Rome:20261006T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -53,8 +53,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:283274eec8e04fae83fc060c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:bf6cbd4b1018cdf0625bf873@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261006T113000
 DTEND;TZID=Europe/Rome:20261006T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -65,8 +65,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f2df18d2cfa1be633879f9aa@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:40079473baa7f3b3d7b48a96@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261006T143000
 DTEND;TZID=Europe/Rome:20261006T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -76,8 +76,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6cf0e33542e609f57559bc93@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:62ae7cc8325991e394c7695f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261007T093000
 DTEND;TZID=Europe/Rome:20261007T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -88,8 +88,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:898ad6acd58227b2830b6a85@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f1adb2d1007bdc989aa1481c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261007T113000
 DTEND;TZID=Europe/Rome:20261007T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -100,8 +100,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5e73292c3eaaffbd54169555@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:61ad4c4876f4057f100564d5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261007T143000
 DTEND;TZID=Europe/Rome:20261007T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
@@ -112,8 +112,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6c46699bbe9ef8b2a5bb17a4@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:72da571f7eb328a6e92b52cb@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261008T113000
 DTEND;TZID=Europe/Rome:20261008T133000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -123,8 +123,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e4a3bc35aca211a0f9b5ced3@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3858f8edcccb856846d524d9@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261008T143000
 DTEND;TZID=Europe/Rome:20261008T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -135,8 +135,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:abd5930681d5b2942b17a841@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7f6996f6f7de720655fd5b97@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261009T113000
 DTEND;TZID=Europe/Rome:20261009T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -147,8 +147,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9e537434b4dc1af69c1a201a@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b3f9b3c579127be3a23a5336@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261009T143000
 DTEND;TZID=Europe/Rome:20261009T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -158,8 +158,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:36f3a8584b62e1101de4b352@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b44666b46287c7134af32351@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261012T093000
 DTEND;TZID=Europe/Rome:20261012T113000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -169,8 +169,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:16a0b5bc78265df5573a7a80@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a2ad9fec52d95222c8d4a131@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261012T113000
 DTEND;TZID=Europe/Rome:20261012T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -181,8 +181,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bab43829f0d095dd07a664a2@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a2662b90ef438c73fd251c13@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261012T143000
 DTEND;TZID=Europe/Rome:20261012T163000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -193,8 +193,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a34cc4ef9d7d41f0cb888126@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b396965bed8e98bcb957e63f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261013T093000
 DTEND;TZID=Europe/Rome:20261013T113000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -204,8 +204,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a71e2dbdebb12dae8280ce2e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:ae15d270c9d763d5467cdf63@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261013T113000
 DTEND;TZID=Europe/Rome:20261013T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -216,8 +216,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7946682b90b8af090ef9a1ec@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:98be31af8514e8cec548516c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261013T143000
 DTEND;TZID=Europe/Rome:20261013T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
@@ -227,8 +227,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f7515495eff9d69f2720e896@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:c0f30fc6cbd96292770ebc33@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261014T093000
 DTEND;TZID=Europe/Rome:20261014T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -238,8 +238,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:aaea053b4d7aa3db893d48e5@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9986cae46124fa99c8fb3fe6@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261014T113000
 DTEND;TZID=Europe/Rome:20261014T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -250,8 +250,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a3df396cacf7ec4852e89b7b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:6ca85c3aaed960609a37654b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261014T143000
 DTEND;TZID=Europe/Rome:20261014T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
@@ -262,8 +262,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8f01dd911cfa140eef81364f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:2fa37b49dbf5ec5b63533948@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261015T113000
 DTEND;TZID=Europe/Rome:20261015T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -274,8 +274,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7ba1308bd37b7de44288d2ac@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b332968b78a71743840e3248@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261015T143000
 DTEND;TZID=Europe/Rome:20261015T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -286,8 +286,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:56f1eedac87c84a108839c68@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:766af3650bfa196d2264a420@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261016T093000
 DTEND;TZID=Europe/Rome:20261016T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
@@ -297,8 +297,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8f3aac6ae50a0cf52108f6ff@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1b04d129a4cf5c06a935083e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261016T113000
 DTEND;TZID=Europe/Rome:20261016T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -309,8 +309,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ec2ee2861fd69d4fae1221fc@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0701898ee7d09758c278eda8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261016T143000
 DTEND;TZID=Europe/Rome:20261016T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -320,8 +320,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b14f3b3e8a1757ca5457ec62@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0117d02ad005a3934019f989@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261019T093000
 DTEND;TZID=Europe/Rome:20261019T113000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -331,8 +331,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:aaa132647fb3f0a09dce89fd@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7a8fa407c3ac9eb3e7afb43c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261019T113000
 DTEND;TZID=Europe/Rome:20261019T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -343,8 +343,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a46b80006fe0ea1e67d553f0@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:021e42d2738501783d1773ef@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261019T143000
 DTEND;TZID=Europe/Rome:20261019T163000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -355,8 +355,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0efd3476f9220049c7a03f26@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e30979aca075d5891c8d1203@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261020T093000
 DTEND;TZID=Europe/Rome:20261020T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -367,8 +367,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c5a244516622dbb8c360ad01@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a4a7e7c88a2c5dc35da694fc@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261020T113000
 DTEND;TZID=Europe/Rome:20261020T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -379,8 +379,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:25092461ee8f051756b26c5f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:27846c7444daed6ba8c04afe@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261020T143000
 DTEND;TZID=Europe/Rome:20261020T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -390,8 +390,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a06cd7473928950ea9ec523b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:ec47b82d677a2e099b4b4efe@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261021T093000
 DTEND;TZID=Europe/Rome:20261021T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
@@ -401,8 +401,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2e67c796131ddb7f4b78b38e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:fb76930a626712b360edfcf8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261021T113000
 DTEND;TZID=Europe/Rome:20261021T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -413,8 +413,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:219566ecb9f0e73e884c8a66@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:35f7e3f2840f3651a0dd892e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261021T143000
 DTEND;TZID=Europe/Rome:20261021T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
@@ -425,8 +425,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2ed97d52e5582fdc450242db@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:5a2c988cdaeea159a77a2f1b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261022T093000
 DTEND;TZID=Europe/Rome:20261022T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -437,8 +437,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4cd76d3d3567f071cbac0493@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:6f74b912c03f181836ef0b1f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261022T113000
 DTEND;TZID=Europe/Rome:20261022T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
@@ -449,8 +449,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a2d234a162ec7d70a23ab3d0@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:cbec801d7a4f2b48ec67a8bd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261022T143000
 DTEND;TZID=Europe/Rome:20261022T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -461,8 +461,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a8b30cdf8555042e0a333e67@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:914d97141f6118b798140c3e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261023T093000
 DTEND;TZID=Europe/Rome:20261023T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -472,8 +472,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c1d9be2e738f120ca91560a9@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f84697af286295f5bf8c76ec@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261023T113000
 DTEND;TZID=Europe/Rome:20261023T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
@@ -484,8 +484,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6a4c16dbeccdec217aa3371a@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e764a25ed50d58ca49b10dc0@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261023T143000
 DTEND;TZID=Europe/Rome:20261023T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -495,8 +495,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7c61c412e1cb945a97267244@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f2597f2473b52cde7c10591c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261026T093000
 DTEND;TZID=Europe/Rome:20261026T113000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -506,8 +506,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ea017377a8bf120796ce9f33@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:12f6d78e64c2112b22dd106b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261026T113000
 DTEND;TZID=Europe/Rome:20261026T133000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
@@ -517,8 +517,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5569787bc652bbb17e40bda4@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:bf3bc4af782082f1e9999f5b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261026T143000
 DTEND;TZID=Europe/Rome:20261026T163000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -529,8 +529,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:931bb899464de43cc439c8fc@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:016f4b1e4b6eb3c3effe281b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261027T093000
 DTEND;TZID=Europe/Rome:20261027T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -541,8 +541,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d9ba012fe0ca2685f6362082@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:55e825b536e50a3a9cd964f5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261027T113000
 DTEND;TZID=Europe/Rome:20261027T133000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -552,8 +552,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9f3a48b3112b7e690e50fb74@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:07534ece904e9c4eca64894c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261027T143000
 DTEND;TZID=Europe/Rome:20261027T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -563,8 +563,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:03426675e730b5ef1790b454@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a7924a26c8da44b5815484b4@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261028T093000
 DTEND;TZID=Europe/Rome:20261028T113000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -575,8 +575,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3c6ff7ab3ca15a88ca28922e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f1774fbce8131cbb1b639175@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261028T113000
 DTEND;TZID=Europe/Rome:20261028T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -587,8 +587,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:18697049bef4cc801736373d@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:81fade6880abcdc7b94527a4@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261028T143000
 DTEND;TZID=Europe/Rome:20261028T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
@@ -599,8 +599,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:322ff47fb893f1c4ab7d86b1@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:80eff7dce6f71c22489c3d45@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261029T093000
 DTEND;TZID=Europe/Rome:20261029T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
@@ -611,8 +611,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6af6cfa4f83d9b904a855627@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a741137c6b375316ae596664@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261029T113000
 DTEND;TZID=Europe/Rome:20261029T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
@@ -623,8 +623,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:99b4145ba2afd1ac4823316d@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3d620ba45c0d0dfc80018a6d@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261029T143000
 DTEND;TZID=Europe/Rome:20261029T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -635,8 +635,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3ccbf1068db17aec4272794c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:58b525c5fcb1c6037f647014@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261030T093000
 DTEND;TZID=Europe/Rome:20261030T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -646,8 +646,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0e1529a24f42475db5e49fea@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:72babd0b650c06318d770b9a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261030T113000
 DTEND;TZID=Europe/Rome:20261030T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -658,8 +658,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a0d6e87534bd719ffa659c2c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:22d53b5ab282a2f38ee4f523@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261030T143000
 DTEND;TZID=Europe/Rome:20261030T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
@@ -669,8 +669,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:27e5efaaee641fd9b9bc58ed@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:273fef7ebae83ce471a44cba@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261102T093000
 DTEND;TZID=Europe/Rome:20261102T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -681,8 +681,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:77fd9caff93e1fb79654faac@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:81a98501633bbfb93b840af8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261102T113000
 DTEND;TZID=Europe/Rome:20261102T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -693,8 +693,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cae5c7400799c201677e65d3@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3cbd31db76b520df75a9c5f5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261102T143000
 DTEND;TZID=Europe/Rome:20261102T163000
 SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
@@ -704,8 +704,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f9d5f97e0b3e0b4835da1133@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:d825ba0405bfff3d4687d8fa@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261103T093000
 DTEND;TZID=Europe/Rome:20261103T113000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -716,8 +716,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7e8d40b9a42bcd054d3aef20@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:00f15edcc5023d469378fda3@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261103T113000
 DTEND;TZID=Europe/Rome:20261103T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -728,8 +728,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:468bc75033a9c31767e975f8@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:8f282500b1673bcd56c942cf@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261103T143000
 DTEND;TZID=Europe/Rome:20261103T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -739,8 +739,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f9a36c0e86ae7bd068a64133@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e13fd8fd57a6d51e675a67bd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261104T093000
 DTEND;TZID=Europe/Rome:20261104T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
@@ -750,8 +750,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:75236b5944cd59689b004d2c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:aab0f468b6497df5b60cdec0@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261104T113000
 DTEND;TZID=Europe/Rome:20261104T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -762,8 +762,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8c1bf4e5b455d24831136269@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:2ad6cb70ae933b4e572192ea@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261104T143000
 DTEND;TZID=Europe/Rome:20261104T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
@@ -774,8 +774,19 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:86bef32f37ecbf908dcc7b05@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:12c54aed1ecd7e39e7dd7942@unirsr-calendar
+DTSTAMP:20260910T101335Z
+DTSTART;TZID=Europe/Rome:20261104T153000
+DTEND;TZID=Europe/Rome:20261104T173000
+SUMMARY:Lezione: Basic medical statistics (docente: TRAVERSO ALBERTO)
+LOCATION:BORROMINI Aula BO102 (1 piano)
+DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
+ stagram @fil_genna
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2c17584f1afa2e311a4261f5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261105T093000
 DTEND;TZID=Europe/Rome:20261105T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -786,8 +797,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9caa568077be34a7ead813ba@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b546f6f1c34b2bd2eed46ecc@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261105T143000
 DTEND;TZID=Europe/Rome:20261105T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -798,8 +809,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:193f46307cf3d6c9bcfad856@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:6dd6f92bc4868d53ddbaf0f5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261106T093000
 DTEND;TZID=Europe/Rome:20261106T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
@@ -809,8 +820,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c91577b5e6b3db8003339f07@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:207148677cbdcbf1b5ac9105@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261106T113000
 DTEND;TZID=Europe/Rome:20261106T133000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
@@ -820,8 +831,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b3bd3df2003ef10c85505cc3@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:2482b8a70fddf1a4a192775a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261106T143000
 DTEND;TZID=Europe/Rome:20261106T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -831,8 +842,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dfce4a0ae3f912585a549839@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:125279c0c01082d28127e100@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261109T093000
 DTEND;TZID=Europe/Rome:20261109T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -843,8 +854,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a7b5b10e262d666e62d8f7f2@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e8141c0b293030dc197eb206@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261109T113000
 DTEND;TZID=Europe/Rome:20261109T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -855,8 +866,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:18f2b0a9b29c77ba6b25bfc7@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1e4325d7325d947d362c064b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261109T143000
 DTEND;TZID=Europe/Rome:20261109T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -866,8 +877,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:22f3dc09c19fa2deeb3df50c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:c75cd6287df440553fa019a3@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261110T093000
 DTEND;TZID=Europe/Rome:20261110T113000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -878,8 +889,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:954527a7e2cea37f68d147d8@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7f375ba173884b57bbf33e16@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261110T113000
 DTEND;TZID=Europe/Rome:20261110T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -890,8 +901,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:78f85a2a9faee035333a9360@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:aa441e4d8e5119fd3e1f9abb@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261110T143000
 DTEND;TZID=Europe/Rome:20261110T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -901,8 +912,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0f65238aeb829471186218a7@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e8dc12147ba7915b7b082e11@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261111T093000
 DTEND;TZID=Europe/Rome:20261111T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
@@ -912,8 +923,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c4a0d1f87bad47897e831c59@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:ed92da46d5d829431feb91a9@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261111T113000
 DTEND;TZID=Europe/Rome:20261111T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -924,8 +935,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:be12270ff4bc65aeb764d630@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:233b0f4b694c50f29ac57673@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261111T143000
 DTEND;TZID=Europe/Rome:20261111T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -936,8 +947,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bb4d873af6bd773dc7663675@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:67513f236ea335d4f27d1e89@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261112T093000
 DTEND;TZID=Europe/Rome:20261112T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -948,8 +959,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a9fa63f72e1958ec75ba41d3@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b9284e29a3dfd594d140d391@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261112T113000
 DTEND;TZID=Europe/Rome:20261112T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
@@ -959,8 +970,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6b40a431fcb265c4a57acf72@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3453196355514d22ee8e0557@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261112T143000
 DTEND;TZID=Europe/Rome:20261112T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -971,8 +982,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3dee38732e511a8428bb161e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1ceadf02d58b0165e649883e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261113T093000
 DTEND;TZID=Europe/Rome:20261113T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
@@ -982,8 +993,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:61ed359141ad592a8eb47f2a@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:19aa1ae64e4529adc747fab2@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261113T113000
 DTEND;TZID=Europe/Rome:20261113T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
@@ -993,8 +1004,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:36c2a179a469cf73f51bcfdb@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1078f43cd6470c54c8cf6bba@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261113T143000
 DTEND;TZID=Europe/Rome:20261113T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -1004,8 +1015,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:99a1e59907460d81fd535292@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9fd859b599212b2f886b8ea4@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261116T093000
 DTEND;TZID=Europe/Rome:20261116T113000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -1015,8 +1026,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:708c480513b119472e25dd61@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:338839e602fc65e431500879@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261116T113000
 DTEND;TZID=Europe/Rome:20261116T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -1027,8 +1038,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f28b43c60688a341fd6b1035@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:619dd75e7e5dc7790b79ffaa@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261116T143000
 DTEND;TZID=Europe/Rome:20261116T163000
 SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
@@ -1038,8 +1049,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:490add1a4c9fbacb31134e54@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3af0c19ee1e6bf147235bfc1@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261117T093000
 DTEND;TZID=Europe/Rome:20261117T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -1050,8 +1061,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c18e33d806376f56c10c2f40@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:ece6a16c4c2a82a741e513b0@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261117T113000
 DTEND;TZID=Europe/Rome:20261117T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -1062,8 +1073,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:606dc9535488e102ea338823@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:d4797686055034444e9a0a56@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261117T143000
 DTEND;TZID=Europe/Rome:20261117T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -1073,8 +1084,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fcb79edebdf7fce41fc6fe6e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:6ded4f3af07d8086eef53e3a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261118T093000
 DTEND;TZID=Europe/Rome:20261118T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
@@ -1084,8 +1095,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:60c7f516e55d8913f1b5b963@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9ca70e55a3b1def342865a94@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261118T113000
 DTEND;TZID=Europe/Rome:20261118T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -1096,8 +1107,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cc4aa94664f2e6da34174af7@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3f6cf92f01f162d6eda4cc5a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261118T143000
 DTEND;TZID=Europe/Rome:20261118T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -1108,8 +1119,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2d0bf33d9ad12db4e6d10c2f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7430db4f92d15e8b7e1680d9@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261119T093000
 DTEND;TZID=Europe/Rome:20261119T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -1120,8 +1131,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:14fea03f2b9bafaf23cf6023@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b26b466f8be8dcf5dd652f81@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261119T113000
 DTEND;TZID=Europe/Rome:20261119T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
@@ -1131,8 +1142,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9f43a56f06821f2447f17b20@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:27bc8cf57745547422c763d1@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261119T143000
 DTEND;TZID=Europe/Rome:20261119T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -1143,8 +1154,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5a4b5a98a7154c2476d6ea0d@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:74970db1081e40c40db2f28b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261120T093000
 DTEND;TZID=Europe/Rome:20261120T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
@@ -1154,8 +1165,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:19f7f4546a1b23c466460b7c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e95f87e34d5a991bc2ff03f7@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261120T113000
 DTEND;TZID=Europe/Rome:20261120T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
@@ -1165,8 +1176,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f95ba471bf977d1b88494874@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:859945042c201dfad2336353@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261120T143000
 DTEND;TZID=Europe/Rome:20261120T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -1176,8 +1187,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d85c3528cc5827f6718015cc@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:bff653aa5dc3502b13f54282@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261123T093000
 DTEND;TZID=Europe/Rome:20261123T113000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
@@ -1187,8 +1198,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:20f4d5a3ef9bea85222e5a7b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1f07d89df614e623d8db3438@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261123T113000
 DTEND;TZID=Europe/Rome:20261123T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)
@@ -1198,8 +1209,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a49fd9ce1b02c99faca01db2@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:133802b9454365fa2e1eacf8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261123T143000
 DTEND;TZID=Europe/Rome:20261123T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)
@@ -1209,8 +1220,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8b7a1ce3a3ffc2ec12899931@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:407ef069987b1a88350eea6f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261124T113000
 DTEND;TZID=Europe/Rome:20261124T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -1221,8 +1232,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:47b6c28d4f2e364bfb7f8d30@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:8e88b462008f14c383a0cb7b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261124T143000
 DTEND;TZID=Europe/Rome:20261124T163000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
@@ -1232,8 +1243,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e41f8f80f61bd230fa6070cd@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:5d85e9225e03bc8c3b886729@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261125T093000
 DTEND;TZID=Europe/Rome:20261125T113000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
@@ -1243,8 +1254,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:06a31fcc3b9f80376b5b751d@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:54e6e9c30bab99cfccdb6158@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261125T113000
 DTEND;TZID=Europe/Rome:20261125T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -1255,8 +1266,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:06c4417a6261ffb67fe0ab54@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9189b7e56eb7e86d2c06ae01@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261125T143000
 DTEND;TZID=Europe/Rome:20261125T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -1267,8 +1278,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:eed78276efbae555f52fde6f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:d24687a473c8049f8d38141b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261126T093000
 DTEND;TZID=Europe/Rome:20261126T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -1279,8 +1290,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b8863e1fba071c13e86b7892@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:09eaee00758f43e415f212ed@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261126T113000
 DTEND;TZID=Europe/Rome:20261126T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
@@ -1290,8 +1301,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b46a985bdd2cc3c377667249@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0cf7256b0f3d1ccbcd0c1b23@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261126T143000
 DTEND;TZID=Europe/Rome:20261126T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -1302,8 +1313,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:042bf7833c3f916599ecdd1f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:5534d9455b36dd0fba535cfd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261127T093000
 DTEND;TZID=Europe/Rome:20261127T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -1313,8 +1324,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ff6cd73cace9c81b4cbe72b9@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:08c678a504f7d0d7d1ee39d1@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261127T113000
 DTEND;TZID=Europe/Rome:20261127T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
@@ -1324,8 +1335,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1333f194c7f3e8fb433e83e5@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9335ff60a71e4c8d0ed0d51e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261127T143000
 DTEND;TZID=Europe/Rome:20261127T163000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
@@ -1335,8 +1346,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:751feac374a4b2f0e35811e5@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:d38b804d0d0bd0ce45a60a1e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261130T093000
 DTEND;TZID=Europe/Rome:20261130T113000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
@@ -1346,8 +1357,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:96a77125f8eb8339deda8ea8@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:998bf584e949e97c2292dea0@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261130T113000
 DTEND;TZID=Europe/Rome:20261130T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
@@ -1358,8 +1369,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:10c8144d60b99e79a00eee8c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:98ad825442d610fb72344630@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261130T143000
 DTEND;TZID=Europe/Rome:20261130T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)
@@ -1369,8 +1380,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1c52cde5596c528ca5d88700@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9827da7f23af6540dcdcd9cd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261201T113000
 DTEND;TZID=Europe/Rome:20261201T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
@@ -1381,8 +1392,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:95dfb463860e43724df0152b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:69a1f3ad65e76d34e8cf7327@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261201T143000
 DTEND;TZID=Europe/Rome:20261201T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
@@ -1392,8 +1403,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9c2b8a6e773ee6d2b981ac5e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:8a59c5715b5bb45aebf568bd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261202T093000
 DTEND;TZID=Europe/Rome:20261202T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -1403,8 +1414,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f96ea267442c1dbe7e280086@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:c017710de91c03658a1eeb16@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261202T113000
 DTEND;TZID=Europe/Rome:20261202T133000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
@@ -1414,8 +1425,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bb51c1ffdb70d2c5327587c2@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:2cdcadedcf2cd60f718ed0e5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261202T143000
 DTEND;TZID=Europe/Rome:20261202T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
@@ -1426,8 +1437,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cb5a3bf735a483db8257e5cb@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:2023fa3d9cd3801faa1e10e4@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -1437,8 +1448,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:374c5a05903688e84f1c0101@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:c1508e2c4649274e531c1ad3@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261203T113000
 DTEND;TZID=Europe/Rome:20261203T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -1449,8 +1460,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b37cc0496452872394d22bc7@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:56a3f109f14a7f2c5db0cb62@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261203T143000
 DTEND;TZID=Europe/Rome:20261203T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
@@ -1461,8 +1472,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:baf9256c4e681c83ef5e5e1b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:22476c0add3f2b926ff929c1@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261204T093000
 DTEND;TZID=Europe/Rome:20261204T113000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
@@ -1472,8 +1483,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1c706281f90a8f8a74b5de73@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:d6145b168f7cb9dd4bb5dac0@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261204T113000
 DTEND;TZID=Europe/Rome:20261204T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
@@ -1484,8 +1495,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:846b2e5617c31911dc7dba61@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:8401ee6faa0e9b6ac9aa0d9a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261204T143000
 DTEND;TZID=Europe/Rome:20261204T163000
 SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
@@ -1495,8 +1506,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:36ea1df5256ce9aebbe6068f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:04776e4683b030bd893e4c05@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261209T093000
 DTEND;TZID=Europe/Rome:20261209T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
@@ -1506,8 +1517,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:023681de1f5db49cf6a468f2@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:d40653596edbd11b8187b9ef@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261209T113000
 DTEND;TZID=Europe/Rome:20261209T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
@@ -1517,8 +1528,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:885ae6a28f14a85908226950@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:29a4cdd0b915e48989b3b147@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261210T093000
 DTEND;TZID=Europe/Rome:20261210T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
@@ -1528,8 +1539,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:50c967fb9993123eace4d5f1@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:21b39b40251d8bfb03a68f47@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261210T113000
 DTEND;TZID=Europe/Rome:20261210T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
@@ -1539,8 +1550,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:709251458d2019948184fe43@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:260816f4947b8f25cfcf6b21@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261210T143000
 DTEND;TZID=Europe/Rome:20261210T163000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
@@ -1550,8 +1561,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7eb3c884b0e100f8b74e1890@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:71f67886c4721e9fee2ee0c3@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261211T093000
 DTEND;TZID=Europe/Rome:20261211T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
@@ -1561,8 +1572,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:be4f215276777a93d4fc3f2f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1cd94adb060214c91d63637f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261211T113000
 DTEND;TZID=Europe/Rome:20261211T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
@@ -1573,8 +1584,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2d6f31e985f76840c52ca34f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f4360c0cb4ebbd198577b48f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261211T143000
 DTEND;TZID=Europe/Rome:20261211T163000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
@@ -1584,8 +1595,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2dc36953ae6c9fc08d92199f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0b6207d25607de16a2493bcd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261214T093000
 DTEND;TZID=Europe/Rome:20261214T113000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
@@ -1595,8 +1606,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d8339086b188956a7c798574@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:fdd4548eb9ff6041140fa339@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261214T113000
 DTEND;TZID=Europe/Rome:20261214T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
@@ -1607,8 +1618,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f8c67a5d6b7bfa00bb1c9c7f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:6c66ee9922bff58915fbd7d8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261214T143000
 DTEND;TZID=Europe/Rome:20261214T163000
 SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
@@ -1618,8 +1629,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e6b3ea97a0b54195af2e3253@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0938e1bcaa7c34ce52f9649f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261215T093000
 DTEND;TZID=Europe/Rome:20261215T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -1629,8 +1640,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8289fdcfab50d36ffb73ea4d@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:d92602e47db728832f4a4488@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261215T113000
 DTEND;TZID=Europe/Rome:20261215T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
@@ -1641,8 +1652,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:825bf2ac06ab2a4f2727f27c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1aacbb971aeea9d9401a9bad@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261215T143000
 DTEND;TZID=Europe/Rome:20261215T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
@@ -1653,8 +1664,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9a238636a2a039d80c89c5e0@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:abfe665172e5bc00ebd567d4@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261216T093000
 DTEND;TZID=Europe/Rome:20261216T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -1664,8 +1675,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0e06ca5ad3e69ecb99beb0f9@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:17d461f55a0e7a21f0780a93@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261216T113000
 DTEND;TZID=Europe/Rome:20261216T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
@@ -1676,8 +1687,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d553454462ad92a161179db0@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1d1570cd9d584856678a4356@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261216T143000
 DTEND;TZID=Europe/Rome:20261216T163000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
@@ -1687,8 +1698,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:282772b0f3fb4662950760b5@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:6987a5fec5afe11f28511e03@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261217T093000
 DTEND;TZID=Europe/Rome:20261217T113000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
@@ -1698,8 +1709,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:57bc90e5887b5c46ce74ec72@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:35fb4861f7208f9b634104df@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261217T113000
 DTEND;TZID=Europe/Rome:20261217T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
@@ -1710,8 +1721,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4f0111ce6e9cb99862f3744b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:01d4f94d5dad0a4fe3324c3e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261217T143000
 DTEND;TZID=Europe/Rome:20261217T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
@@ -1722,8 +1733,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2e6aa2cf5f076d7f0fb0dcf8@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:00590a9c42748a9f89573766@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261218T093000
 DTEND;TZID=Europe/Rome:20261218T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
@@ -1733,8 +1744,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:86b390cb4b12a1cc037c9a6f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:2aaf553fb60aea4dd29c6c98@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261218T113000
 DTEND;TZID=Europe/Rome:20261218T133000
 SUMMARY:Lezione: Medical Physics (docente: PICCHIO MARIA)
@@ -1744,8 +1755,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:845d51aaf4f7e40b6e062911@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e01c059d6be0a8a7f9e3aff4@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261218T143000
 DTEND;TZID=Europe/Rome:20261218T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG

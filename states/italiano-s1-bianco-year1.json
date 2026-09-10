@@ -1,0 +1,1093 @@
+{
+  "lessons": {
+    "01c6b380f6414623f7d3afe2@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T16:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-26T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "01c6b380f6414623f7d3afe2@unirsr-calendar"
+    },
+    "023ff5cc5ad12406c1eb6f98@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T18:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-14T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "023ff5cc5ad12406c1eb6f98@unirsr-calendar"
+    },
+    "048d42fe03eb63768001a386@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-29T09:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "048d42fe03eb63768001a386@unirsr-calendar"
+    },
+    "05ccb637d7edcdbdb499ec30@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T18:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-23T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "05ccb637d7edcdbdb499ec30@unirsr-calendar"
+    },
+    "06c4225e7d2eca1659a9cf3c@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-07T09:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "06c4225e7d2eca1659a9cf3c@unirsr-calendar"
+    },
+    "0898eb525c37d8f97d67fef0@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA BIANCA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-20T14:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: MARTINO GIANVITO)",
+      "uid": "0898eb525c37d8f97d67fef0@unirsr-calendar"
+    },
+    "0a53afe260cbc99a3f4289cf@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-26T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "0a53afe260cbc99a3f4289cf@unirsr-calendar"
+    },
+    "0b7783d585a4d1e6c985d368@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-23T14:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "0b7783d585a4d1e6c985d368@unirsr-calendar"
+    },
+    "0b90bd464598630afcc532ea@unirsr-calendar": {
+      "date": "2027-01-15",
+      "end": "2027-01-15T16:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-15T14:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "0b90bd464598630afcc532ea@unirsr-calendar"
+    },
+    "0cd08489d187a44ca644b01d@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-28T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+      "uid": "0cd08489d187a44ca644b01d@unirsr-calendar"
+    },
+    "0e606caaaeff3ba86292168c@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-11T09:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "0e606caaaeff3ba86292168c@unirsr-calendar"
+    },
+    "1409b61c677343f3bfa7b444@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-16T11:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+      "uid": "1409b61c677343f3bfa7b444@unirsr-calendar"
+    },
+    "18c9a02e76c542561b4cb7da@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-07T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
+      "uid": "18c9a02e76c542561b4cb7da@unirsr-calendar"
+    },
+    "18cb96d25f7ed49ef8b47022@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-18T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "18cb96d25f7ed49ef8b47022@unirsr-calendar"
+    },
+    "21e14cf1464639e484a2948b@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-03T09:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "21e14cf1464639e484a2948b@unirsr-calendar"
+    },
+    "22136f4838933ede74cbc804@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T11:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-15T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+      "uid": "22136f4838933ede74cbc804@unirsr-calendar"
+    },
+    "22441d29c849a411411e8bf4@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-23T11:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "22441d29c849a411411e8bf4@unirsr-calendar"
+    },
+    "22985efbc6c7a86c3d1574be@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-16T09:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "22985efbc6c7a86c3d1574be@unirsr-calendar"
+    },
+    "2413a037ecc6a63782adf531@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-01T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "2413a037ecc6a63782adf531@unirsr-calendar"
+    },
+    "2a5d39ae56beb36cfc6d654b@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T16:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-14T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
+      "uid": "2a5d39ae56beb36cfc6d654b@unirsr-calendar"
+    },
+    "2da9867ac41cc1ffd4b070e1@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-18T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: BOLINO ALESSANDRA)",
+      "uid": "2da9867ac41cc1ffd4b070e1@unirsr-calendar"
+    },
+    "2dd9aa1d0f1c7d63ee5e7f67@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-07T11:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "2dd9aa1d0f1c7d63ee5e7f67@unirsr-calendar"
+    },
+    "33b9117b756e83b0d0ce624a@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-04T14:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "33b9117b756e83b0d0ce624a@unirsr-calendar"
+    },
+    "36510313a37ef0cf6ecfdce1@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-13T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "36510313a37ef0cf6ecfdce1@unirsr-calendar"
+    },
+    "371a32c198cbc02d88a79769@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T16:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-05T14:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "371a32c198cbc02d88a79769@unirsr-calendar"
+    },
+    "3ade4293c0bc841b2ec055a2@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T18:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-16T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "3ade4293c0bc841b2ec055a2@unirsr-calendar"
+    },
+    "3b4ac602d404c981d19581ad@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T16:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-17T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "3b4ac602d404c981d19581ad@unirsr-calendar"
+    },
+    "3dcaf134870805be449939d2@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T11:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-08T09:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "3dcaf134870805be449939d2@unirsr-calendar"
+    },
+    "425b3c3431a1f5f217670344@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-21T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
+      "uid": "425b3c3431a1f5f217670344@unirsr-calendar"
+    },
+    "4509e9638f1bfc45e6923fef@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-16T14:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "4509e9638f1bfc45e6923fef@unirsr-calendar"
+    },
+    "4b3f2ce0e690d9f016a612fc@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-13T14:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "4b3f2ce0e690d9f016a612fc@unirsr-calendar"
+    },
+    "4bef2185a3ebbfeb669b55a5@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-30T11:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "4bef2185a3ebbfeb669b55a5@unirsr-calendar"
+    },
+    "540274fba1e83d198ba0fc4c@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-15T11:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "540274fba1e83d198ba0fc4c@unirsr-calendar"
+    },
+    "5652684e171ad1e5976bdadd@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T11:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-20T09:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+      "uid": "5652684e171ad1e5976bdadd@unirsr-calendar"
+    },
+    "574402820e2b2dd1216c9224@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T11:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-21T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+      "uid": "574402820e2b2dd1216c9224@unirsr-calendar"
+    },
+    "58307fa2dbd140be137d528e@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-01T11:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "58307fa2dbd140be137d528e@unirsr-calendar"
+    },
+    "58b5459987fa4c463e6437f7@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-03T14:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "58b5459987fa4c463e6437f7@unirsr-calendar"
+    },
+    "59ec9ec35626dab4cbc3a733@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-13T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "59ec9ec35626dab4cbc3a733@unirsr-calendar"
+    },
+    "5ac2f8873f6f903a66b519de@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-06T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "5ac2f8873f6f903a66b519de@unirsr-calendar"
+    },
+    "5b4a50e88dc7afbb39eba556@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-29T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "5b4a50e88dc7afbb39eba556@unirsr-calendar"
+    },
+    "5cb77b0ff5348582176240bf@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-14T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "5cb77b0ff5348582176240bf@unirsr-calendar"
+    },
+    "605189ee33cb273213676ecc@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-09T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+      "uid": "605189ee33cb273213676ecc@unirsr-calendar"
+    },
+    "6074e38626d864f638f0854a@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-11T11:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "6074e38626d864f638f0854a@unirsr-calendar"
+    },
+    "61520a1e38ba5504971d2726@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TOMAIUOLO ROSSELLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-24T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TOMAIUOLO ROSSELLA)",
+      "uid": "61520a1e38ba5504971d2726@unirsr-calendar"
+    },
+    "621fc31584ed92a5a97cebaf@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-04T09:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "621fc31584ed92a5a97cebaf@unirsr-calendar"
+    },
+    "63c430f28530cae61064d515@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T16:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-03T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+      "uid": "63c430f28530cae61064d515@unirsr-calendar"
+    },
+    "642e4fe592eaca8e8bfa1bfd@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T16:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-01T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+      "uid": "642e4fe592eaca8e8bfa1bfd@unirsr-calendar"
+    },
+    "660b9af6e54d4302682f7dd2@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-02T09:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "660b9af6e54d4302682f7dd2@unirsr-calendar"
+    },
+    "66c223f09a28aabe4ef49702@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-11T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA)",
+      "uid": "66c223f09a28aabe4ef49702@unirsr-calendar"
+    },
+    "68182646f1264e3bd52a4ce7@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-19T11:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "68182646f1264e3bd52a4ce7@unirsr-calendar"
+    },
+    "68cbe0586f16fd1f8f2ad3be@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-30T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+      "uid": "68cbe0586f16fd1f8f2ad3be@unirsr-calendar"
+    },
+    "6927c962c34d855d7f53e999@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-27T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "6927c962c34d855d7f53e999@unirsr-calendar"
+    },
+    "6a4086c14007d151c4b96b6e@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T11:30",
+      "location": "VASARI Aula VA402 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-30T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+      "uid": "6a4086c14007d151c4b96b6e@unirsr-calendar"
+    },
+    "6ab477311a97a9703f1dd036@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-28T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
+      "uid": "6ab477311a97a9703f1dd036@unirsr-calendar"
+    },
+    "6bca3dab9007a7a633498b71@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-04T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA)",
+      "uid": "6bca3dab9007a7a633498b71@unirsr-calendar"
+    },
+    "6c0c5ebe6829d7272ac6e845@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T16:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-11T14:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+      "uid": "6c0c5ebe6829d7272ac6e845@unirsr-calendar"
+    },
+    "6cf8b70981b4713bc623ee72@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-06T11:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "6cf8b70981b4713bc623ee72@unirsr-calendar"
+    },
+    "6e37de2918fbb9bb75adc112@unirsr-calendar": {
+      "date": "2027-01-19",
+      "end": "2027-01-19T13:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-19T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "6e37de2918fbb9bb75adc112@unirsr-calendar"
+    },
+    "700d112d170c7cf5e417ed98@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T11:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-27T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO)",
+      "uid": "700d112d170c7cf5e417ed98@unirsr-calendar"
+    },
+    "72a665233f1727054e0edb6c@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T18:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-02T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "72a665233f1727054e0edb6c@unirsr-calendar"
+    },
+    "7754edd18e981e9721a20277@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-02T09:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "7754edd18e981e9721a20277@unirsr-calendar"
+    },
+    "77f1d7c603b779365bc4e5c0@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-02T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+      "uid": "77f1d7c603b779365bc4e5c0@unirsr-calendar"
+    },
+    "7a632310e0c6ae9fdc366369@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-21T11:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "7a632310e0c6ae9fdc366369@unirsr-calendar"
+    },
+    "7aa0429d79d86bef27394290@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-15T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+      "uid": "7aa0429d79d86bef27394290@unirsr-calendar"
+    },
+    "7b865b79a90352a05c0eb3c6@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-22T11:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "7b865b79a90352a05c0eb3c6@unirsr-calendar"
+    },
+    "7fddf9ef2ad869cead25e929@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-12T09:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "7fddf9ef2ad869cead25e929@unirsr-calendar"
+    },
+    "84327f390ae9730fe75ebf3b@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-09T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "84327f390ae9730fe75ebf3b@unirsr-calendar"
+    },
+    "8556c22b03cbefa2b51ea673@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-28T14:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
+      "uid": "8556c22b03cbefa2b51ea673@unirsr-calendar"
+    },
+    "85a07ba06f3bc052bae84af4@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-27T14:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "85a07ba06f3bc052bae84af4@unirsr-calendar"
+    },
+    "89c07a0c60829b16c8db6324@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-09T11:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "89c07a0c60829b16c8db6324@unirsr-calendar"
+    },
+    "94ffe79f6b91161cbdcdfb64@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-22T11:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "94ffe79f6b91161cbdcdfb64@unirsr-calendar"
+    },
+    "9e4916c64e69210e385b27e0@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-21T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "9e4916c64e69210e385b27e0@unirsr-calendar"
+    },
+    "a1cda6c42204c833755cff04@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-03T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+      "uid": "a1cda6c42204c833755cff04@unirsr-calendar"
+    },
+    "a28eab7179de0dbbd74ef479@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-11T09:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "a28eab7179de0dbbd74ef479@unirsr-calendar"
+    },
+    "a36fe7f96fa1fe4858b59139@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T18:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-19T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "a36fe7f96fa1fe4858b59139@unirsr-calendar"
+    },
+    "a47516e787606a39706ad08f@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-07T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "a47516e787606a39706ad08f@unirsr-calendar"
+    },
+    "a4a19aaa04451f26526ece03@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T16:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-04T14:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "a4a19aaa04451f26526ece03@unirsr-calendar"
+    },
+    "a4bbcb7c744519b0d15fbbad@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-11T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "a4bbcb7c744519b0d15fbbad@unirsr-calendar"
+    },
+    "a5df2fd3c327e10b9c73458e@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-06T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "a5df2fd3c327e10b9c73458e@unirsr-calendar"
+    },
+    "a76c828b857865f936a59210@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-12T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "a76c828b857865f936a59210@unirsr-calendar"
+    },
+    "a77d2379b8f82ddaec291d11@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-20T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "a77d2379b8f82ddaec291d11@unirsr-calendar"
+    },
+    "a83743354de5d841d0faf887@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-20T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA)",
+      "uid": "a83743354de5d841d0faf887@unirsr-calendar"
+    },
+    "a88437a89601dab22c1604a1@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-18T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "a88437a89601dab22c1604a1@unirsr-calendar"
+    },
+    "abc078336b16410cb02945a0@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T18:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-04T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "abc078336b16410cb02945a0@unirsr-calendar"
+    },
+    "ac97c9680a9f2af52526b840@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-26T09:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "ac97c9680a9f2af52526b840@unirsr-calendar"
+    },
+    "ade81566248416a0342936e9@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-08T09:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "ade81566248416a0342936e9@unirsr-calendar"
+    },
+    "ae0de2d09cae89a97146c4e6@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-07T11:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA)",
+      "uid": "ae0de2d09cae89a97146c4e6@unirsr-calendar"
+    },
+    "b269d83b81a61f96e1ae0e5a@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-09T11:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
+      "uid": "b269d83b81a61f96e1ae0e5a@unirsr-calendar"
+    },
+    "b30e66758df5e37e1e4caecf@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-30T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "b30e66758df5e37e1e4caecf@unirsr-calendar"
+    },
+    "b38228e10571ac8eeffb9e8b@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-15T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: MARTINO GIANVITO)",
+      "uid": "b38228e10571ac8eeffb9e8b@unirsr-calendar"
+    },
+    "b3a652c98dcb8b666ab59d77@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T18:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-26T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "b3a652c98dcb8b666ab59d77@unirsr-calendar"
+    },
+    "b3dd434d6cfd2fe586363e60@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-12T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "b3dd434d6cfd2fe586363e60@unirsr-calendar"
+    },
+    "c0966d15fc2deb4e5c2b9aef@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-03T11:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "c0966d15fc2deb4e5c2b9aef@unirsr-calendar"
+    },
+    "c3b4b9a202cc506e851c7207@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T16:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-11T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "c3b4b9a202cc506e851c7207@unirsr-calendar"
+    },
+    "c3ba5519afcf8c4a521c73bb@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T18:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-12T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "c3ba5519afcf8c4a521c73bb@unirsr-calendar"
+    },
+    "c3bba899294aa90665f5c622@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T18:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-09T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "c3bba899294aa90665f5c622@unirsr-calendar"
+    },
+    "c3d48fdab2180c27517f88fe@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T13:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: PUNZI SIMONA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-16T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: PUNZI SIMONA)",
+      "uid": "c3d48fdab2180c27517f88fe@unirsr-calendar"
+    },
+    "c4764cd4177ae5d1b321ba07@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-09T14:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "c4764cd4177ae5d1b321ba07@unirsr-calendar"
+    },
+    "c4ed24be9360a5ec064781df@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T18:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-05T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "c4ed24be9360a5ec064781df@unirsr-calendar"
+    },
+    "c53d157c5c2a7846b45c72c7@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-08T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "c53d157c5c2a7846b45c72c7@unirsr-calendar"
+    },
+    "c5fcf2e1ce9d02dec20a15e6@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-05T11:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "c5fcf2e1ce9d02dec20a15e6@unirsr-calendar"
+    },
+    "c77179f4154fb5b3b789b073@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T13:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-23T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
+      "uid": "c77179f4154fb5b3b789b073@unirsr-calendar"
+    },
+    "ccb49cdb8245c080c16fcc43@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-27T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "ccb49cdb8245c080c16fcc43@unirsr-calendar"
+    },
+    "cd4a6719c28c376bc33d7004@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T11:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA BIANCA) (docente: BOLINO ALESSANDRA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-17T09:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: BOLINO ALESSANDRA)",
+      "uid": "cd4a6719c28c376bc33d7004@unirsr-calendar"
+    },
+    "cfffa4b17d1213b4c8ae3767@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T16:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-12T14:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "cfffa4b17d1213b4c8ae3767@unirsr-calendar"
+    },
+    "d034931f6247138184b94f2c@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T18:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "16:30-18:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-30T16:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
+      "uid": "d034931f6247138184b94f2c@unirsr-calendar"
+    },
+    "d4ecd0ab8e8e8590bfa61002@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T18:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "16:30-18:30 | Lezione: Biochimica (LINEA BIANCA) (docente: MOLTENI RAFFAELLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-11T16:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: MOLTENI RAFFAELLA)",
+      "uid": "d4ecd0ab8e8e8590bfa61002@unirsr-calendar"
+    },
+    "d91cd09f9ae652137f6155db@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T11:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-24T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: BITETTO ALESSANDRO)",
+      "uid": "d91cd09f9ae652137f6155db@unirsr-calendar"
+    },
+    "db13382be0aa1d61356440cc@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T11:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-23T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO)",
+      "uid": "db13382be0aa1d61356440cc@unirsr-calendar"
+    },
+    "e2ce245b721bad921837c689@unirsr-calendar": {
+      "date": "2027-01-19",
+      "end": "2027-01-19T16:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Biochimica (LINEA BIANCA) (docente: MOLTENI RAFFAELLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2027-01-19T14:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: MOLTENI RAFFAELLA)",
+      "uid": "e2ce245b721bad921837c689@unirsr-calendar"
+    },
+    "e3385d9bd0d97c52b7e90305@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T16:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-22T14:30",
+      "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "e3385d9bd0d97c52b7e90305@unirsr-calendar"
+    },
+    "ea3d35c91a08cb7646988a8a@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T18:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "16:30-18:30 | Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-29T16:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
+      "uid": "ea3d35c91a08cb7646988a8a@unirsr-calendar"
+    },
+    "ec22506a096ad8c05676fbab@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T16:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-02T14:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA)",
+      "uid": "ec22506a096ad8c05676fbab@unirsr-calendar"
+    },
+    "ef5144a9f9a71889e7c09340@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-16T09:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "ef5144a9f9a71889e7c09340@unirsr-calendar"
+    },
+    "f0e4ea24bcfa82526df0fe86@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-12T11:30",
+      "subject": "Lezione: Biologia (LINEA BIANCA) (docente: PANINA PAOLA)",
+      "uid": "f0e4ea24bcfa82526df0fe86@unirsr-calendar"
+    },
+    "f12573b9853f92a1d24179da@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-17T09:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: SCARFO' LYDIA)",
+      "uid": "f12573b9853f92a1d24179da@unirsr-calendar"
+    },
+    "f2376e7553619f556dfb4f17@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-14T11:30",
+      "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
+      "uid": "f2376e7553619f556dfb4f17@unirsr-calendar"
+    },
+    "f4de58b555a414811c6c1a0c@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-10T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "f4de58b555a414811c6c1a0c@unirsr-calendar"
+    },
+    "f7352813b2ecac2e62484704@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-03T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "f7352813b2ecac2e62484704@unirsr-calendar"
+    },
+    "f88e10cc15ce1d3e3986f09d@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T16:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "14:30-16:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-26T14:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA)",
+      "uid": "f88e10cc15ce1d3e3986f09d@unirsr-calendar"
+    },
+    "fdc429137d4e0279ff6602ae@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T16:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-24T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO)",
+      "uid": "fdc429137d4e0279ff6602ae@unirsr-calendar"
+    }
+  }
+}

@@ -7,8 +7,8 @@ X-WR-CALNAME:UniSR Calendar
 X-WR-CALDESC:UniSR timetable for calendars created by Filippo Genoni
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
-UID:f35da43f5aa17d302f80b74b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a46e2cd6ddb226bb8691b132@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261006T093000
 DTEND;TZID=Europe/Rome:20261006T113000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -19,8 +19,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:616f7c64d84aee735181a36c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:bd3bb42f7a204dafe5f3f2f2@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261006T113000
 DTEND;TZID=Europe/Rome:20261006T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA 
@@ -31,8 +31,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ef4bfc5ecf9e815665ddb322@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7a699d568ef18e07ed29b9d8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261006T143000
 DTEND;TZID=Europe/Rome:20261006T163000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -43,8 +43,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2331ea26353291de0f858f9f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:aa33002f36ad7db4fc766e65@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261007T093000
 DTEND;TZID=Europe/Rome:20261007T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: CUGNATA FEDERICA)
@@ -54,8 +54,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:67a867869fb0281b09ce80e2@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:86e7cbd634cda0766517016f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261007T113000
 DTEND;TZID=Europe/Rome:20261007T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: MARTINO GIANVITO)
@@ -65,8 +65,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:82e7ead955635af0354821b2@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1eba938674152361fd0f97c8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261007T143000
 DTEND;TZID=Europe/Rome:20261007T163000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -77,8 +77,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:47d46da7c26e460b6a40a3a8@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:05d5c9ec5917eb58864307ff@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261008T113000
 DTEND;TZID=Europe/Rome:20261008T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: MARTINO GIANVITO)
@@ -88,8 +88,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6465ba9fd99c10238683f3f3@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:63a8e6d9c7d2a639bab2f11b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261008T143000
 DTEND;TZID=Europe/Rome:20261008T163000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -100,8 +100,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d6ba06e567747be2ea302e07@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a495b5f6bb63c3f07990f6e4@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261008T163000
 DTEND;TZID=Europe/Rome:20261008T183000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -112,8 +112,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:da3fff024f68236467ab46bf@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:12354c0867486bcfc24c008c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261009T093000
 DTEND;TZID=Europe/Rome:20261009T113000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -124,8 +124,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d63424459c92851e67b6f416@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:94deb93f0f2ce2be205eae38@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261009T143000
 DTEND;TZID=Europe/Rome:20261009T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -136,8 +136,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:80684f083c5b4e892fa81bbe@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:10566602e0971a901d70ccb5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261012T093000
 DTEND;TZID=Europe/Rome:20261012T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -148,8 +148,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cb8fc33fa82dcdc33d81d3d3@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0b5cfe659fd83dbb2a48932f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261012T113000
 DTEND;TZID=Europe/Rome:20261012T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: SCARALE MARIA GIOVANN
@@ -160,8 +160,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2637f253b06bb4abd87939d4@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0a17b962b043012883bec75f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261013T143000
 DTEND;TZID=Europe/Rome:20261013T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -172,8 +172,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:78f425cd5b5e5965d9d8cb18@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:263a35d80f7910053f98a6f9@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261014T093000
 DTEND;TZID=Europe/Rome:20261014T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: CUGNATA FEDERICA)
@@ -183,8 +183,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d8ad1aaa1bc6f69197f17d05@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:8c79b916924d9a47ba67a1a3@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261014T113000
 DTEND;TZID=Europe/Rome:20261014T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -195,8 +195,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:af25d1e06cc00d8a2251e9c0@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:38d815dc3bcc6f6b3087c641@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261014T163000
 DTEND;TZID=Europe/Rome:20261014T183000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -207,8 +207,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:88326fb06faae31163adbf41@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:67750bebdb0b5594fcbc4eb9@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261015T093000
 DTEND;TZID=Europe/Rome:20261015T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -219,8 +219,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3555dea18b0b2a5bd18f97f3@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1f9e81308e00e8799df99388@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261015T113000
 DTEND;TZID=Europe/Rome:20261015T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -230,8 +230,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b67926f09a6f33f59e5b8928@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e336b39489cbddca3f4e3f01@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261015T143000
 DTEND;TZID=Europe/Rome:20261015T163000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: CUGNATA FEDERICA)
@@ -241,8 +241,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:12f0fde3f3fa7ea64e606ac1@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b7c5517335055eb0e7ba3c69@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261016T093000
 DTEND;TZID=Europe/Rome:20261016T113000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -253,8 +253,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:484b51be2eff37e2b3b419cc@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3289f635f313677cddebd571@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261016T113000
 DTEND;TZID=Europe/Rome:20261016T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -265,8 +265,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bb6c9d512a4aebe99bf647da@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a5f72d4a8995be125b19744c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261016T143000
 DTEND;TZID=Europe/Rome:20261016T163000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: ANDREATA FRANCESCO)
@@ -276,8 +276,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:971d64fec39ae519a68253ba@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b31b45be128040b6b2b0552a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261019T093000
 DTEND;TZID=Europe/Rome:20261019T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -288,8 +288,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2bba65af76ae0c290050ecf1@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:4cb0c28e80ebe795450cddb5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261019T113000
 DTEND;TZID=Europe/Rome:20261019T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: SCARALE MARIA GIOVANN
@@ -300,8 +300,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7e7f7dc153961cd91bab9a86@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:112f195323142117a547c0b6@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261020T093000
 DTEND;TZID=Europe/Rome:20261020T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: ANDREATA FRANCESCO)
@@ -311,8 +311,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3f77da9d04ab2b487535a2d6@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:35fc42b5358d046e54cc79d8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261020T113000
 DTEND;TZID=Europe/Rome:20261020T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: CUGNATA FEDERICA)
@@ -322,8 +322,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e2c236ac4216ad36829a045c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e68cd03601d9947df48de738@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261020T143000
 DTEND;TZID=Europe/Rome:20261020T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -334,8 +334,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:17bb65025114aca5245c8d8c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:33ab7c217cfa8f64c690465c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261021T093000
 DTEND;TZID=Europe/Rome:20261021T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: CUGNATA FEDERICA)
@@ -345,8 +345,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:be0bba501bf129f295240670@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:54bcdc11e3009cf8224af1f8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261021T113000
 DTEND;TZID=Europe/Rome:20261021T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -357,8 +357,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:710f87e539feb4a271b28c36@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:bc039148462416c3edb0ddf0@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261022T093000
 DTEND;TZID=Europe/Rome:20261022T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -369,8 +369,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fcb6b4f4620e8ee73f0575af@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:8b50f55c1b7f90acdab4f80c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261022T113000
 DTEND;TZID=Europe/Rome:20261022T133000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -381,8 +381,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b5d8dacac4d96063ee0c36a1@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:ec4f18f6fdcc90bf5c22598f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261022T143000
 DTEND;TZID=Europe/Rome:20261022T163000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -392,8 +392,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:05769ef7e076ca543a697553@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:36261a3f479fd46c89c3ad59@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261022T163000
 DTEND;TZID=Europe/Rome:20261022T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -404,8 +404,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:145528d9822134a773dc1801@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:da33a2f817b7e0779998971a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261023T093000
 DTEND;TZID=Europe/Rome:20261023T113000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -416,8 +416,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a072c77dc099669e97540467@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:dda85cb634ae74259cb041c2@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261023T113000
 DTEND;TZID=Europe/Rome:20261023T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -428,8 +428,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d80987f9281d6bc73e5d3332@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f14b7b3bafb524856eedc358@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261023T143000
 DTEND;TZID=Europe/Rome:20261023T163000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -439,8 +439,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8c04c8b919899edd601e7c1e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0f92e8b009592b19394bce17@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261026T093000
 DTEND;TZID=Europe/Rome:20261026T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -451,8 +451,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f3b5dbaab13622702ff57789@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:506364507c4b87b3254118b1@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261026T113000
 DTEND;TZID=Europe/Rome:20261026T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: DI SERIO MARIACLELIA)
@@ -462,8 +462,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7bae9e7997ecf6546633d468@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e4ad3583dc88e599ffdea104@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261027T113000
 DTEND;TZID=Europe/Rome:20261027T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: DI SERIO MARIACLELIA)
@@ -473,8 +473,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:86550498d5d1bc27f4dbfe29@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:5229a68d510f083178bffa46@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261027T143000
 DTEND;TZID=Europe/Rome:20261027T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -485,8 +485,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:821198a11677081e359ac57b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e9ffbc0f91d0944a5469a720@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261027T163000
 DTEND;TZID=Europe/Rome:20261027T183000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -497,8 +497,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b45fb5dd85bb2edbc67ceacf@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:edf9bf27c87bb9905f1e2f2c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261028T093000
 DTEND;TZID=Europe/Rome:20261028T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: SCARALE MARIA GIOVANN
@@ -509,8 +509,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6173fac3935ca9775618c38b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:534a08ddbd5299287ef694c9@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261028T113000
 DTEND;TZID=Europe/Rome:20261028T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -521,8 +521,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1d8603062169a2d3d735bb25@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:d41af0add182195db93022bf@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261028T163000
 DTEND;TZID=Europe/Rome:20261028T183000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -533,8 +533,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6132c4fcc07d8492968fb6bc@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:496b39936a9dea6624c84581@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261029T093000
 DTEND;TZID=Europe/Rome:20261029T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -545,8 +545,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:37c1e2c37d1bae5ada44fe08@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a6831a0f1632565ecf5266cc@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261029T113000
 DTEND;TZID=Europe/Rome:20261029T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: ANDREATA FRANCESCO)
@@ -556,8 +556,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:54e808b641ef220ece5940ab@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:65f3fb775e9d678de0257986@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261029T143000
 DTEND;TZID=Europe/Rome:20261029T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -568,8 +568,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bdbdef34264e1bdb06bb94e7@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0e9b6d964b9e01889d5dd9db@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261030T093000
 DTEND;TZID=Europe/Rome:20261030T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: SCARALE MARIA GIOVANN
@@ -580,8 +580,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a0b9b070a90ffe20e5a9a341@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:72d5cba823e0e2d576af2d94@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261030T113000
 DTEND;TZID=Europe/Rome:20261030T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -592,8 +592,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1c3b2c1ba681aa3425120288@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:04ae50b848fd33d088ab2cdd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261030T143000
 DTEND;TZID=Europe/Rome:20261030T163000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: ANDREATA FRANCESCO)
@@ -603,8 +603,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f285f7741f806aa87c4a7b58@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9286b2c1c241e5d38f8c6d6b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261102T093000
 DTEND;TZID=Europe/Rome:20261102T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -615,8 +615,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d27709e1b4ff9c1a2b25da24@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9903b7b94f22b0bfd6454e19@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261102T113000
 DTEND;TZID=Europe/Rome:20261102T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA 
@@ -627,8 +627,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7788de6bc67c79dc1532bc1d@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:4acb99336081b8f081efbd90@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261103T093000
 DTEND;TZID=Europe/Rome:20261103T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: ANDREATA FRANCESCO)
@@ -638,8 +638,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f59b80fc4f670383f22a6175@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:86295b5b327629f7509f5c07@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261103T113000
 DTEND;TZID=Europe/Rome:20261103T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: SCARALE MARIA GIOVANN
@@ -650,8 +650,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f87eed8a356e7215cc7ab1f4@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:163d2ddc20dd2d71b89806dd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261103T143000
 DTEND;TZID=Europe/Rome:20261103T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -662,8 +662,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e1f7935ccf29da185e4fc425@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3d9aa32b259b9a0409ad99c9@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261103T163000
 DTEND;TZID=Europe/Rome:20261103T183000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -674,8 +674,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:62d5da9f1cb1da97506bbd11@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f9a722f2a07a18454af87c55@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261104T093000
 DTEND;TZID=Europe/Rome:20261104T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA 
@@ -686,8 +686,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e7ec84c502cf1d26c0e0a69c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:dc832b0c85b184967e0b5f9e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261104T113000
 DTEND;TZID=Europe/Rome:20261104T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -698,8 +698,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0898dde87ddddb327eb289fa@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:114952076577b0b26b8fcd2c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261104T143000
 DTEND;TZID=Europe/Rome:20261104T163000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -710,8 +710,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:429e3cf08dda3210282c3cb9@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:853f3ac16f2f0844346c6405@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261105T093000
 DTEND;TZID=Europe/Rome:20261105T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -722,8 +722,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:91b33e70f0ee401620a01c6c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:6742c0a99993b167deeba2dd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261105T113000
 DTEND;TZID=Europe/Rome:20261105T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -733,8 +733,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:91bfa1adb66cb0f1d5b975cd@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0a75b277d626f24ab991829f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261105T143000
 DTEND;TZID=Europe/Rome:20261105T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -745,8 +745,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0c108c27dff7737a49f0ec7f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:187b1125b49d289ae7ccdc69@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261105T163000
 DTEND;TZID=Europe/Rome:20261105T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -757,8 +757,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ea1a6ff52bbbd8c53fdcecc4@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:12310d9b5484997ec0832e81@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261106T093000
 DTEND;TZID=Europe/Rome:20261106T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -768,8 +768,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ece8d098d814124b667b6e02@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:4854d88bbd4a4de78dfcbe0b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261106T113000
 DTEND;TZID=Europe/Rome:20261106T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -780,8 +780,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:60943ff035a2ff01eadbe13e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:391c8662c88e121de4f58e4b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261109T143000
 DTEND;TZID=Europe/Rome:20261109T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -792,8 +792,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ba27b8fb8e68370553576c14@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:86109162f13e2c07a48c5ae2@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261110T113000
 DTEND;TZID=Europe/Rome:20261110T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: BITETTO ALESSANDRO)
@@ -803,8 +803,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ec6164206bc18663b0c18061@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3f7193435668410ef33e34e0@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261110T143000
 DTEND;TZID=Europe/Rome:20261110T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -815,8 +815,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1f77f2a06cea5295cb0f1569@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:5ee426892753b9ca0aeb0b7a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261111T093000
 DTEND;TZID=Europe/Rome:20261111T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA 
@@ -827,8 +827,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b6d0fef909964bb39af17b64@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0a2e87a6063134983cb63b6b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261111T113000
 DTEND;TZID=Europe/Rome:20261111T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -839,8 +839,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d93f94e36e7f861414a2da1b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f3c52e866261f1695a44b656@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261111T143000
 DTEND;TZID=Europe/Rome:20261111T163000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -851,8 +851,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d6fcc1140bfb17e02042e52c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:89ef2e569fd4b5462dbe5e43@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261112T093000
 DTEND;TZID=Europe/Rome:20261112T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -863,8 +863,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a3ab43cc8fddc3d3232c3d7c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7c56516a00cc5dfa816d1987@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261112T113000
 DTEND;TZID=Europe/Rome:20261112T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -874,8 +874,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3fb65e44cd887c49e3b22c83@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7e1fc9edb30bbf78434927ea@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261112T143000
 DTEND;TZID=Europe/Rome:20261112T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -886,8 +886,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:15881db0e5b78aab02161a65@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f57288de536848939968bd5b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261113T093000
 DTEND;TZID=Europe/Rome:20261113T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -897,8 +897,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:35d28056d6b16461b06eea56@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:191c054376865fe001c96d2c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261113T113000
 DTEND;TZID=Europe/Rome:20261113T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -909,8 +909,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1626fedfe492182bcabf0794@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7a86365c71565116ce841fbc@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261117T113000
 DTEND;TZID=Europe/Rome:20261117T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -921,8 +921,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d362a2d65162a5de17b953ab@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:055b8d8d1fbbb1288f02d0f8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261117T143000
 DTEND;TZID=Europe/Rome:20261117T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -933,8 +933,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:455ae33a79568c1944b66617@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:385f0b64517e016c9be1d9a6@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261118T113000
 DTEND;TZID=Europe/Rome:20261118T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -945,8 +945,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:34998cc3b09b129a87c2209a@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7a650be64195afdd9f05f60b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261118T143000
 DTEND;TZID=Europe/Rome:20261118T163000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -957,8 +957,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3cab38fddb7d238503031281@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:59a58c0e94dd18024b06e9a7@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261119T093000
 DTEND;TZID=Europe/Rome:20261119T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -969,8 +969,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:33bb3ca32d0c71e343556454@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:4e1b0f44f125498dfc4635d5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261119T113000
 DTEND;TZID=Europe/Rome:20261119T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -980,8 +980,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a5cf2e6be15fec6cbf1bd777@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:067c3a1c7b9ad224e906cb79@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261119T143000
 DTEND;TZID=Europe/Rome:20261119T163000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -992,8 +992,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b55aaaf443775a4e531454ff@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e3552517e3d94dac5c2e2726@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261119T163000
 DTEND;TZID=Europe/Rome:20261119T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -1004,8 +1004,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:26ec3862b95d8e5a85654aef@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:79ba71b9d784fdb50280d87d@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261120T093000
 DTEND;TZID=Europe/Rome:20261120T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1015,8 +1015,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d84ad554e20bfbbb371ac949@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:62838e94d858a91638cad3a7@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261120T113000
 DTEND;TZID=Europe/Rome:20261120T133000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -1027,8 +1027,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9d1bcd8bc41dac2be566682f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:370d63ccc197f875d4dae4f9@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261120T143000
 DTEND;TZID=Europe/Rome:20261120T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -1039,8 +1039,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:78bfb185eb8917568fb79ef5@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:c5c3434d6a956d15ca24873b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261120T163000
 DTEND;TZID=Europe/Rome:20261120T183000
 SUMMARY:Lezione: Basi Psicologiche\, Sociologiche\, e di Comunicazione ne
@@ -1051,8 +1051,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bf26d0d2da471de8337c27d5@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:49f4db96accd05f29612f9d8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261123T093000
 DTEND;TZID=Europe/Rome:20261123T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1062,8 +1062,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4c8bfbf0af86c5049378f29e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:cf09fcd7dde82c69d660acf5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261123T143000
 DTEND;TZID=Europe/Rome:20261123T163000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -1074,8 +1074,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8012fdee71c4fe585e56dbb6@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:2d20d19b6e5bfd996bc706e9@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261124T093000
 DTEND;TZID=Europe/Rome:20261124T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -1086,8 +1086,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fe32a440dd69375c3fbef524@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:31e9a56125e72dbb89c517a3@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261124T113000
 DTEND;TZID=Europe/Rome:20261124T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: BITETTO ALESSANDRO)
@@ -1097,8 +1097,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:882ed34d7f054ae325c1351c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1f1c8602b3a869c66533450f@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261124T143000
 DTEND;TZID=Europe/Rome:20261124T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -1109,8 +1109,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:733073e7e6bebcba69f4dcdd@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:34e4f659d0186cdffd0b6d84@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261125T093000
 DTEND;TZID=Europe/Rome:20261125T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA 
@@ -1121,8 +1121,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:df19812bd595eb91c0f5dd75@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1cbcae80ae22830267e60720@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261125T113000
 DTEND;TZID=Europe/Rome:20261125T133000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -1133,8 +1133,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d1910e4162b039e55508c3bb@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:7fd4d02c9c1a75f7bc547c89@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261125T163000
 DTEND;TZID=Europe/Rome:20261125T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -1145,8 +1145,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:453ab4e7960224485788cd62@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:c68d5abeeec2ad307aa49657@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261126T093000
 DTEND;TZID=Europe/Rome:20261126T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -1157,8 +1157,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5f10d50dd50f89523781413c@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9eed599bc66fd0c3831c22f3@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261126T113000
 DTEND;TZID=Europe/Rome:20261126T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1168,8 +1168,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:23d496c37ff529f6ffd4d779@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e6dc76543098571e7b9aba13@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261130T093000
 DTEND;TZID=Europe/Rome:20261130T113000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1179,8 +1179,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c0f633bcc48eba92dfbb6e6f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:1d119d297c7760083e654de1@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261130T113000
 DTEND;TZID=Europe/Rome:20261130T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: BITETTO ALESSANDRO)
@@ -1190,8 +1190,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b0152cfb30ca3b265dc3d53d@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:31da7a2d49507f1ed3fc6c3d@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261201T093000
 DTEND;TZID=Europe/Rome:20261201T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -1202,8 +1202,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2d767a191acd324911d52615@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:83615691cd6ce4c8f391f682@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261201T143000
 DTEND;TZID=Europe/Rome:20261201T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -1214,8 +1214,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:60520892c13ff8dd27a2e76f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:6aa1d201a1c80e91ad1f30ef@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261201T163000
 DTEND;TZID=Europe/Rome:20261201T183000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -1226,8 +1226,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b9d80043861ddbde6995fecf@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:236a3ae5036cbac2745310bc@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261202T093000
 DTEND;TZID=Europe/Rome:20261202T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA 
@@ -1238,8 +1238,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4700ada16f138c5247e6f4da@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:e5723dc619e78a868e9309d2@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261202T113000
 DTEND;TZID=Europe/Rome:20261202T133000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1249,8 +1249,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:78884fe970b446dce0f2e4a9@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:319a7549e50d29addd670912@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente
@@ -1261,8 +1261,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9fd990f3a7e3a1f7031364ad@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:18d2c1f29838c421357cfd41@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261203T143000
 DTEND;TZID=Europe/Rome:20261203T163000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1272,8 +1272,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2ec00ded356ff55ce038e72a@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:a4737c13802025b40a6757dd@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261203T163000
 DTEND;TZID=Europe/Rome:20261203T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -1284,8 +1284,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6aebae0b616becb9314c1524@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3cca96d02824d0717f5fa38a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261204T113000
 DTEND;TZID=Europe/Rome:20261204T133000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1295,8 +1295,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d4d51c06e1e9d52f3bd271dc@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:d655384d4fe70ca7ff2bfe91@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261204T143000
 DTEND;TZID=Europe/Rome:20261204T163000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1306,8 +1306,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1ba6eb8a61f3764f99de38dd@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:faa9289f9e7a7d270b437bfb@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261210T093000
 DTEND;TZID=Europe/Rome:20261210T113000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1317,8 +1317,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:4dd809c1cf8b140730d524c2@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:829d0e756bedf0a29aeef13e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261210T113000
 DTEND;TZID=Europe/Rome:20261210T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: ANDREATA FRANCESCO)
@@ -1328,8 +1328,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e9088d991d10310a4100bead@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:038a667686cea9dcf8f7c9ec@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261211T113000
 DTEND;TZID=Europe/Rome:20261211T133000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1339,8 +1339,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fa5604a64e242d01a966938e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f987bdad3e819d06c00b5968@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261211T143000
 DTEND;TZID=Europe/Rome:20261211T163000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: ANDREATA FRANCESCO)
@@ -1350,8 +1350,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:af02edc649aeadfe569b365b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:26b79895b6e05aa431db40f5@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261214T093000
 DTEND;TZID=Europe/Rome:20261214T113000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1361,8 +1361,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:164b62dad921b1964fe2f4d0@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:0e99d7eec8023d8e26b13259@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261214T113000
 DTEND;TZID=Europe/Rome:20261214T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA 
@@ -1373,8 +1373,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b98827bf52ce609df6d295fb@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:df8828efac879a747f33fc98@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261215T113000
 DTEND;TZID=Europe/Rome:20261215T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: BITETTO ALESSANDRO)
@@ -1384,8 +1384,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c7b6fd46f92072e32962d7d5@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:8bd8776a2dc1251d2e4f9889@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261215T143000
 DTEND;TZID=Europe/Rome:20261215T163000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -1396,8 +1396,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:da9b658893bc70fec1680518@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b9d151dd470996c95f702aa6@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261217T093000
 DTEND;TZID=Europe/Rome:20261217T113000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1407,8 +1407,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b4a29e36f91d9da4fc33d9b1@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:58d91161608a5eff31fa7c99@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261217T113000
 DTEND;TZID=Europe/Rome:20261217T133000
 SUMMARY:Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-
@@ -1419,8 +1419,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6772a79801a8c851645d6d69@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:83d18915871961270232d405@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261217T143000
 DTEND;TZID=Europe/Rome:20261217T163000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1430,8 +1430,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d0d7a05d295b104a67028d6f@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:47c195197ffe80db6ba69b70@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261217T163000
 DTEND;TZID=Europe/Rome:20261217T183000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -1442,8 +1442,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:78cab8d27464a738dd0720e5@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3f924d60187ea7cf31d36198@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261218T093000
 DTEND;TZID=Europe/Rome:20261218T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1453,8 +1453,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:69e6068aeb36c6b42b4d30cc@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3068a53ddceb13d8f6343745@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261221T093000
 DTEND;TZID=Europe/Rome:20261221T113000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1464,8 +1464,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dcc7590aeb5ba0d9a1f673fa@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:ddfc2437e73173f846739709@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261221T113000
 DTEND;TZID=Europe/Rome:20261221T133000
 SUMMARY:Lezione: Comunicazione Clinica in Lingua Inglese e Storia della M
@@ -1476,8 +1476,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2f8f69bef62c3f795ae676a2@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:f4a7425b0b8558ea1652487b@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20261222T093000
 DTEND;TZID=Europe/Rome:20261222T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1487,8 +1487,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:95b772e3a7e9c958ae1f8e8b@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:8e5612d7a38ba88622bb93ed@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270107T093000
 DTEND;TZID=Europe/Rome:20270107T113000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1498,8 +1498,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:be6baed3314d0621bf8061df@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b7a7e854eff067a060694206@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270107T113000
 DTEND;TZID=Europe/Rome:20270107T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1509,8 +1509,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5ca13a976c7b5d15f7476aec@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:9e756b7dee50bd6d148f86f8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270108T093000
 DTEND;TZID=Europe/Rome:20270108T113000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA 
@@ -1521,8 +1521,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:85499688436fadf644af026d@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:ae662ebce567f08b34c03b01@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270108T113000
 DTEND;TZID=Europe/Rome:20270108T133000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1532,8 +1532,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b774c542ebc563ba1ad0d526@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:ce5dbe4bda4174c396f8765e@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270108T143000
 DTEND;TZID=Europe/Rome:20270108T163000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1543,8 +1543,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2308ba625af626232020e3ab@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:48400a61fd0baaf9271b4d29@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270111T093000
 DTEND;TZID=Europe/Rome:20270111T113000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1554,8 +1554,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fe7d84fb3cb58f49d854c3ac@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:3dd4b1e93cfb558b9745b0f8@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270111T113000
 DTEND;TZID=Europe/Rome:20270111T133000
 SUMMARY:Lezione: Statistica (LINEA VERDE) (docente: BITETTO ALESSANDRO)
@@ -1565,8 +1565,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fdf56b17b43b579c07a8fbcb@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:4178b90a53048800b12f900d@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270112T093000
 DTEND;TZID=Europe/Rome:20270112T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1576,8 +1576,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e741cc4dcdc102cb0111e388@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:b7124baf66a714f31d2d0a0a@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270112T113000
 DTEND;TZID=Europe/Rome:20270112T133000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1587,8 +1587,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:28b547f18a717f58d222484e@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:fdfafcfd7f3934a28d145fbb@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270113T093000
 DTEND;TZID=Europe/Rome:20270113T113000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)
@@ -1598,8 +1598,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ab67043ba0eb2ab0574b9bac@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:99bf3cee537b257d924b6901@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270113T143000
 DTEND;TZID=Europe/Rome:20270113T163000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: MOLTENI RAFFAELLA)
@@ -1609,8 +1609,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5dface381df1a03bfec69b80@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:75dba644cdb2fce88fce438c@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270114T093000
 DTEND;TZID=Europe/Rome:20270114T113000
 SUMMARY:Lezione: Biochimica (LINEA VERDE) (docente: MOLTENI RAFFAELLA)
@@ -1620,8 +1620,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:18d6121886f8832add710920@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:48c86f7a92cce26a838cea55@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270114T113000
 DTEND;TZID=Europe/Rome:20270114T133000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)
@@ -1631,8 +1631,8 @@ DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3ecaedebba1084c021a2b155@unirsr-calendar
-DTSTAMP:20260910T085251Z
+UID:535dc085d88a6437d3225571@unirsr-calendar
+DTSTAMP:20260910T101335Z
 DTSTART;TZID=Europe/Rome:20270115T093000
 DTEND;TZID=Europe/Rome:20270115T113000
 SUMMARY:Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)

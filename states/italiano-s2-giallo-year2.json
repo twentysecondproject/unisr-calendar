@@ -1,0 +1,1516 @@
+{
+  "lessons": {
+    "00127d06565622fa3de165ce@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T17:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-12T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "00127d06565622fa3de165ce@unirsr-calendar"
+    },
+    "066ab964a054e5de3cc1afb0@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: DE LUCA GIACOMO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-11T08:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: DE LUCA GIACOMO)",
+      "uid": "066ab964a054e5de3cc1afb0@unirsr-calendar"
+    },
+    "06cc5f9127236740a8610eff@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-09T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "06cc5f9127236740a8610eff@unirsr-calendar"
+    },
+    "0a0179ede582b02d16e0b901@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T17:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-07T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
+      "uid": "0a0179ede582b02d16e0b901@unirsr-calendar"
+    },
+    "0bbaec8e6f19d093815291ed@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T17:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-30T15:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "0bbaec8e6f19d093815291ed@unirsr-calendar"
+    },
+    "0cda44fb14a939847ee7eaee@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T17:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-13T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "0cda44fb14a939847ee7eaee@unirsr-calendar"
+    },
+    "0cfe351fc8360acafa66ce55@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-25T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "0cfe351fc8360acafa66ce55@unirsr-calendar"
+    },
+    "0e8540900872df8908c0dc60@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-14T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "0e8540900872df8908c0dc60@unirsr-calendar"
+    },
+    "11f06641044162755fbbdd08@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T15:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-22T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE)",
+      "uid": "11f06641044162755fbbdd08@unirsr-calendar"
+    },
+    "134035dc2df1ce6ec24c120b@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T10:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-24T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "134035dc2df1ce6ec24c120b@unirsr-calendar"
+    },
+    "14002186bb2b145e105329f3@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-22T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "14002186bb2b145e105329f3@unirsr-calendar"
+    },
+    "1491f81499c9a2320cb52298@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-02T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "1491f81499c9a2320cb52298@unirsr-calendar"
+    },
+    "197a511a5c6b4d0a9d54074a@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-06T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "197a511a5c6b4d0a9d54074a@unirsr-calendar"
+    },
+    "19dc5df18dca9b37a16c82e7@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T17:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-17T15:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "19dc5df18dca9b37a16c82e7@unirsr-calendar"
+    },
+    "1a66bb82992d0fef0068397e@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-20T08:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "1a66bb82992d0fef0068397e@unirsr-calendar"
+    },
+    "1c367d99048dc81a2fcc172e@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T10:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-03T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "1c367d99048dc81a2fcc172e@unirsr-calendar"
+    },
+    "1ce3fc28d110be86e98e0ded@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T15:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-07T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: CASONI FILIPPO)",
+      "uid": "1ce3fc28d110be86e98e0ded@unirsr-calendar"
+    },
+    "1dea85b651c2f2841dd2dbd0@unirsr-calendar": {
+      "date": "2026-09-23",
+      "end": "2026-09-23T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: SILERI PIERPAOLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-23T08:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: SILERI PIERPAOLO)",
+      "uid": "1dea85b651c2f2841dd2dbd0@unirsr-calendar"
+    },
+    "1e259d836b485c6fc1c8ab8d@unirsr-calendar": {
+      "date": "2026-10-05",
+      "end": "2026-10-05T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-05T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "1e259d836b485c6fc1c8ab8d@unirsr-calendar"
+    },
+    "21451128cce4e74a8b9c1229@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-21T08:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "21451128cce4e74a8b9c1229@unirsr-calendar"
+    },
+    "21796099c1ef7fdbfdd9df85@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-03T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "21796099c1ef7fdbfdd9df85@unirsr-calendar"
+    },
+    "22860e8eb699e45cff88cea7@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-27T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "22860e8eb699e45cff88cea7@unirsr-calendar"
+    },
+    "23ba3b0c64626a2a29249b35@unirsr-calendar": {
+      "date": "2026-09-23",
+      "end": "2026-09-23T15:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-23T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "23ba3b0c64626a2a29249b35@unirsr-calendar"
+    },
+    "2523abc256e8be0dd3efb4f4@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T10:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-01T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA)",
+      "uid": "2523abc256e8be0dd3efb4f4@unirsr-calendar"
+    },
+    "262ac64060c270d801816d56@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T15:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-07T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "262ac64060c270d801816d56@unirsr-calendar"
+    },
+    "262d74c35f7f5bb5c501307e@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T15:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-06T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "262d74c35f7f5bb5c501307e@unirsr-calendar"
+    },
+    "2905469012495110091c3887@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T12:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-25T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA)",
+      "uid": "2905469012495110091c3887@unirsr-calendar"
+    },
+    "2c07f558b708c0855f59f3ad@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T10:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-15T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "2c07f558b708c0855f59f3ad@unirsr-calendar"
+    },
+    "2c111a6b765658fe52f934da@unirsr-calendar": {
+      "date": "2026-09-24",
+      "end": "2026-09-24T12:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-24T10:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "2c111a6b765658fe52f934da@unirsr-calendar"
+    },
+    "2c83ea31e179a8eba94573b0@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T17:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-26T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA)",
+      "uid": "2c83ea31e179a8eba94573b0@unirsr-calendar"
+    },
+    "2f1d0011fdd99f4217411303@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T12:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-13T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "2f1d0011fdd99f4217411303@unirsr-calendar"
+    },
+    "33e26b66e5bdd7f7ce0716c5@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-16T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA)",
+      "uid": "33e26b66e5bdd7f7ce0716c5@unirsr-calendar"
+    },
+    "367bc9b008c520eaceccffc2@unirsr-calendar": {
+      "date": "2026-10-05",
+      "end": "2026-10-05T17:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-05T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "367bc9b008c520eaceccffc2@unirsr-calendar"
+    },
+    "36831015a4f2236792c64ffd@unirsr-calendar": {
+      "date": "2026-10-02",
+      "end": "2026-10-02T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-02T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "36831015a4f2236792c64ffd@unirsr-calendar"
+    },
+    "37b4ea4eaae182519c7522cb@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-01T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA)",
+      "uid": "37b4ea4eaae182519c7522cb@unirsr-calendar"
+    },
+    "3916b3b1b3be474ff09a45db@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T17:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-12T15:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "3916b3b1b3be474ff09a45db@unirsr-calendar"
+    },
+    "3b7d91478efad0bbf0f66ede@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T12:30",
+      "location": "BORROMINI Aula BO401 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: RAMELLA MARTINA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-26T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: RAMELLA MARTINA)",
+      "uid": "3b7d91478efad0bbf0f66ede@unirsr-calendar"
+    },
+    "3be5a603263112346c27d122@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T15:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-11T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE)",
+      "uid": "3be5a603263112346c27d122@unirsr-calendar"
+    },
+    "3c72dc766775b24fb1ee1ab4@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T10:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-19T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "3c72dc766775b24fb1ee1ab4@unirsr-calendar"
+    },
+    "3e848e0bbf2ec01dd22fbb47@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-14T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA)",
+      "uid": "3e848e0bbf2ec01dd22fbb47@unirsr-calendar"
+    },
+    "3fbeaf28de14acf124bcc54d@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-15T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
+      "uid": "3fbeaf28de14acf124bcc54d@unirsr-calendar"
+    },
+    "3fc02ebb2a6a5f5707a6ec89@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-19T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "3fc02ebb2a6a5f5707a6ec89@unirsr-calendar"
+    },
+    "406c7e5929e6edad2cd85d9b@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T12:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-11T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE)",
+      "uid": "406c7e5929e6edad2cd85d9b@unirsr-calendar"
+    },
+    "42395a092569486c0acb61ed@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: NALDINI LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-27T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: NALDINI LUIGI)",
+      "uid": "42395a092569486c0acb61ed@unirsr-calendar"
+    },
+    "43e31e6a14bd5aea980e8197@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T15:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-06T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "43e31e6a14bd5aea980e8197@unirsr-calendar"
+    },
+    "440217925b7e0f4273794b81@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-02T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "440217925b7e0f4273794b81@unirsr-calendar"
+    },
+    "44267c9397559414736b44d5@unirsr-calendar": {
+      "date": "2026-10-05",
+      "end": "2026-10-05T15:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-05T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "44267c9397559414736b44d5@unirsr-calendar"
+    },
+    "46047d2c1e2b0e185f315721@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T10:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-04T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "46047d2c1e2b0e185f315721@unirsr-calendar"
+    },
+    "4b223fe2b8836bd79afd56be@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T17:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-26T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "4b223fe2b8836bd79afd56be@unirsr-calendar"
+    },
+    "4d04801bfb4b2b0ca96a2b32@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-15T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "4d04801bfb4b2b0ca96a2b32@unirsr-calendar"
+    },
+    "4f3b0d1d7a588bd09562e6c0@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T17:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-15T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "4f3b0d1d7a588bd09562e6c0@unirsr-calendar"
+    },
+    "4ff509d49100a084998ad914@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-19T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "4ff509d49100a084998ad914@unirsr-calendar"
+    },
+    "519064889e82f47b16294bce@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T12:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-07T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "519064889e82f47b16294bce@unirsr-calendar"
+    },
+    "53ae18d816462561faa1a2a6@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T10:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-18T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "53ae18d816462561faa1a2a6@unirsr-calendar"
+    },
+    "53e0f1a65ad06c89a13a4e1d@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-30T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "53e0f1a65ad06c89a13a4e1d@unirsr-calendar"
+    },
+    "5439ae5f032efa923a44fd26@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T17:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-06T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "5439ae5f032efa923a44fd26@unirsr-calendar"
+    },
+    "545792f6a5dad9aede6ec616@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-11T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "545792f6a5dad9aede6ec616@unirsr-calendar"
+    },
+    "5556b96982787ef283d3a02f@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T10:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-27T08:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "5556b96982787ef283d3a02f@unirsr-calendar"
+    },
+    "59a93bb4830a487746f5fe69@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-16T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "59a93bb4830a487746f5fe69@unirsr-calendar"
+    },
+    "5ba9e2a73488691aae87c7a0@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T15:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: NALDINI LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-17T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: NALDINI LUIGI)",
+      "uid": "5ba9e2a73488691aae87c7a0@unirsr-calendar"
+    },
+    "5cf852005b976ef03e477630@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T12:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-17T10:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "5cf852005b976ef03e477630@unirsr-calendar"
+    },
+    "5eda0eafed70ab76031e2aa2@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-23T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "5eda0eafed70ab76031e2aa2@unirsr-calendar"
+    },
+    "62899825df0372ee0eac5f2b@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-17T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "62899825df0372ee0eac5f2b@unirsr-calendar"
+    },
+    "641eee5a55be1df94c0e47e8@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T10:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-17T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "641eee5a55be1df94c0e47e8@unirsr-calendar"
+    },
+    "65a0480a718e7d470267c3bd@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T12:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-04T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE)",
+      "uid": "65a0480a718e7d470267c3bd@unirsr-calendar"
+    },
+    "66484fdc48c3ed841206ada8@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-16T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "66484fdc48c3ed841206ada8@unirsr-calendar"
+    },
+    "673e1292b5fd8f7ed491f9fb@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-23T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA)",
+      "uid": "673e1292b5fd8f7ed491f9fb@unirsr-calendar"
+    },
+    "6788a948f3655183cbdf9cba@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T17:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-03T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "6788a948f3655183cbdf9cba@unirsr-calendar"
+    },
+    "6854f2ba341a688f4e8b3e94@unirsr-calendar": {
+      "date": "2027-01-12",
+      "end": "2027-01-12T15:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-12T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "6854f2ba341a688f4e8b3e94@unirsr-calendar"
+    },
+    "6a3a16681b6d90a753578e3c@unirsr-calendar": {
+      "date": "2026-09-30",
+      "end": "2026-09-30T15:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-30T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "6a3a16681b6d90a753578e3c@unirsr-calendar"
+    },
+    "6a4598bf8e26b9570958be36@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-16T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "6a4598bf8e26b9570958be36@unirsr-calendar"
+    },
+    "6abf67fbb1d98e233e560c56@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T12:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-07T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE)",
+      "uid": "6abf67fbb1d98e233e560c56@unirsr-calendar"
+    },
+    "6d024be987d3472704a6bf3b@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-05T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "6d024be987d3472704a6bf3b@unirsr-calendar"
+    },
+    "6d23df6fce005140fa1441bf@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: DELLA TORRE EMANUEL) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-18T13:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: DELLA TORRE EMANUEL)",
+      "uid": "6d23df6fce005140fa1441bf@unirsr-calendar"
+    },
+    "6d3e0128f501d96c10005f87@unirsr-calendar": {
+      "date": "2026-09-24",
+      "end": "2026-09-24T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-24T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "6d3e0128f501d96c10005f87@unirsr-calendar"
+    },
+    "6ecd97266164f39cc9791878@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: DE LUCA GIACOMO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-04T08:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: DE LUCA GIACOMO)",
+      "uid": "6ecd97266164f39cc9791878@unirsr-calendar"
+    },
+    "6ef76969d0de04b8e50ccc34@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T15:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: ZUFFARDI ORSETTA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-26T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: ZUFFARDI ORSETTA)",
+      "uid": "6ef76969d0de04b8e50ccc34@unirsr-calendar"
+    },
+    "70d7b75afa950b6cca7c572d@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T15:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-14T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: GRITTI ANGELA)",
+      "uid": "70d7b75afa950b6cca7c572d@unirsr-calendar"
+    },
+    "713a1afbb627dfdf88e44614@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T12:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-19T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "713a1afbb627dfdf88e44614@unirsr-calendar"
+    },
+    "726af2d9f922bf07b658167e@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: PALUMBO DIEGO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-11T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: PALUMBO DIEGO)",
+      "uid": "726af2d9f922bf07b658167e@unirsr-calendar"
+    },
+    "769abf9078bdc78e792b78a6@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T15:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-13T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "769abf9078bdc78e792b78a6@unirsr-calendar"
+    },
+    "7bb8d8c3351abe677227c438@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-09T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "7bb8d8c3351abe677227c438@unirsr-calendar"
+    },
+    "7cc098d8bbb0a988a2aac8eb@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T12:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-16T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: CASONI FILIPPO)",
+      "uid": "7cc098d8bbb0a988a2aac8eb@unirsr-calendar"
+    },
+    "7d0fdb122f4a099c58eace97@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-06T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "7d0fdb122f4a099c58eace97@unirsr-calendar"
+    },
+    "7e48f91bdd6988a0bbbadc7b@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-13T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "7e48f91bdd6988a0bbbadc7b@unirsr-calendar"
+    },
+    "7e8a7c62b08d6cf2a130e9bc@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: GALLO GAETANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-14T08:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: GALLO GAETANO)",
+      "uid": "7e8a7c62b08d6cf2a130e9bc@unirsr-calendar"
+    },
+    "7ebeb84a22ab81f378bcb073@unirsr-calendar": {
+      "date": "2026-09-22",
+      "end": "2026-09-22T15:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-22T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "7ebeb84a22ab81f378bcb073@unirsr-calendar"
+    },
+    "86b32b5d4d368a6530dea86a@unirsr-calendar": {
+      "date": "2026-09-25",
+      "end": "2026-09-25T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-25T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "86b32b5d4d368a6530dea86a@unirsr-calendar"
+    },
+    "90053558d0312de2cd5e2f18@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T12:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: DE LUCA GIACOMO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-11T10:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: DE LUCA GIACOMO)",
+      "uid": "90053558d0312de2cd5e2f18@unirsr-calendar"
+    },
+    "907766cf038ebf5579129d2e@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T17:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-16T15:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "907766cf038ebf5579129d2e@unirsr-calendar"
+    },
+    "93bed4134aebef287553aaa2@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-18T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "93bed4134aebef287553aaa2@unirsr-calendar"
+    },
+    "97823a20328f322649307531@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T10:30",
+      "location": "BORROMINI Aula BO401 (4 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: DELLA TORRE EMANUEL) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-26T08:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: DELLA TORRE EMANUEL)",
+      "uid": "97823a20328f322649307531@unirsr-calendar"
+    },
+    "97f2d0254a666e35a69f86d3@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-02T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA)",
+      "uid": "97f2d0254a666e35a69f86d3@unirsr-calendar"
+    },
+    "984965dd8b48a6d0985af748@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T15:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-03T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "984965dd8b48a6d0985af748@unirsr-calendar"
+    },
+    "989e2a1e50d6e33af34faf5d@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T15:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-20T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "989e2a1e50d6e33af34faf5d@unirsr-calendar"
+    },
+    "9b35d7e665afab4145c1196e@unirsr-calendar": {
+      "date": "2026-10-01",
+      "end": "2026-10-01T12:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-01T10:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "9b35d7e665afab4145c1196e@unirsr-calendar"
+    },
+    "9dc56fcf5c1ff9d2797901e4@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T15:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-10T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "9dc56fcf5c1ff9d2797901e4@unirsr-calendar"
+    },
+    "9dd49dc26b8cd229aba0012f@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T17:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-20T15:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA)",
+      "uid": "9dd49dc26b8cd229aba0012f@unirsr-calendar"
+    },
+    "9f3dc2391123cebfe08fc32b@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T12:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-29T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "9f3dc2391123cebfe08fc32b@unirsr-calendar"
+    },
+    "9ffe14f4b72f6a063b2b1cff@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T17:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-12T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "9ffe14f4b72f6a063b2b1cff@unirsr-calendar"
+    },
+    "a0d702dc7b250979c57f8d56@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T10:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-13T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "a0d702dc7b250979c57f8d56@unirsr-calendar"
+    },
+    "a10bc3225d557d88bd0ad72c@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T10:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-18T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE)",
+      "uid": "a10bc3225d557d88bd0ad72c@unirsr-calendar"
+    },
+    "a4c006ac321c76486a31dafa@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T15:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-01T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "a4c006ac321c76486a31dafa@unirsr-calendar"
+    },
+    "a692ba6520723dcc8e4f19eb@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T15:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-23T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "a692ba6520723dcc8e4f19eb@unirsr-calendar"
+    },
+    "a8b6f93e0ccd0a78176a2a01@unirsr-calendar": {
+      "date": "2026-09-22",
+      "end": "2026-09-22T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-22T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "a8b6f93e0ccd0a78176a2a01@unirsr-calendar"
+    },
+    "a930cbf23355a7aa12033f68@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T17:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-07T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "a930cbf23355a7aa12033f68@unirsr-calendar"
+    },
+    "ae9953ee3ed639efd3cf7a21@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T12:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: ZUFFARDI ORSETTA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-28T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: ZUFFARDI ORSETTA)",
+      "uid": "ae9953ee3ed639efd3cf7a21@unirsr-calendar"
+    },
+    "af6e3ba4d07943c9ca6ccdc3@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-09T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
+      "uid": "af6e3ba4d07943c9ca6ccdc3@unirsr-calendar"
+    },
+    "b0d215bd103158cac22808c1@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-13T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "b0d215bd103158cac22808c1@unirsr-calendar"
+    },
+    "b142343ffc4b89ca0e4cf16d@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-26T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "b142343ffc4b89ca0e4cf16d@unirsr-calendar"
+    },
+    "b18cbdd27a4b85dabf4753c9@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T15:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-16T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "b18cbdd27a4b85dabf4753c9@unirsr-calendar"
+    },
+    "b1d5bb75eee40d267492385d@unirsr-calendar": {
+      "date": "2026-09-30",
+      "end": "2026-09-30T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: GALLO GAETANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-30T08:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: GALLO GAETANO)",
+      "uid": "b1d5bb75eee40d267492385d@unirsr-calendar"
+    },
+    "b3457a39f6736c8ca66e4109@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T15:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-21T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "b3457a39f6736c8ca66e4109@unirsr-calendar"
+    },
+    "b79fb48567885110efa6a254@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-23T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "b79fb48567885110efa6a254@unirsr-calendar"
+    },
+    "b8fb9542d1d33c6c348e061c@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-09T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "b8fb9542d1d33c6c348e061c@unirsr-calendar"
+    },
+    "b918dcae56c29c5972b1205a@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T15:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-02T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "b918dcae56c29c5972b1205a@unirsr-calendar"
+    },
+    "b9e150d4f9f08304eb13f039@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T12:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-21T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA)",
+      "uid": "b9e150d4f9f08304eb13f039@unirsr-calendar"
+    },
+    "ba35085715504a94fa4d48fe@unirsr-calendar": {
+      "date": "2026-09-24",
+      "end": "2026-09-24T17:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-24T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "ba35085715504a94fa4d48fe@unirsr-calendar"
+    },
+    "bae05eae697ab175b74f30dd@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T12:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-08T10:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "bae05eae697ab175b74f30dd@unirsr-calendar"
+    },
+    "bb1eeca9ba7cc2643863b2e7@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-20T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA)",
+      "uid": "bb1eeca9ba7cc2643863b2e7@unirsr-calendar"
+    },
+    "bcf621c80329d0396117de81@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T15:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-28T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "bcf621c80329d0396117de81@unirsr-calendar"
+    },
+    "bd0c4e00424c360f0d4a53d9@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T15:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-12T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "bd0c4e00424c360f0d4a53d9@unirsr-calendar"
+    },
+    "bebf8f601c4069a7d29f7466@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-15T13:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
+      "uid": "bebf8f601c4069a7d29f7466@unirsr-calendar"
+    },
+    "bf6b399bce2c9e5eb2a5bdca@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T12:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-04T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA)",
+      "uid": "bf6b399bce2c9e5eb2a5bdca@unirsr-calendar"
+    },
+    "c29c721fa97f0e11bc86c39e@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-11T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "c29c721fa97f0e11bc86c39e@unirsr-calendar"
+    },
+    "c3294afedba714940ac99761@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T17:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-13T15:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE)",
+      "uid": "c3294afedba714940ac99761@unirsr-calendar"
+    },
+    "c3b71fddad80eb03d30c5dd5@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-16T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
+      "uid": "c3b71fddad80eb03d30c5dd5@unirsr-calendar"
+    },
+    "c3cec46807ebafde8b2daf4b@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T15:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-13T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "c3cec46807ebafde8b2daf4b@unirsr-calendar"
+    },
+    "c4154ff3d1e56f83894551a4@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-17T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "c4154ff3d1e56f83894551a4@unirsr-calendar"
+    },
+    "c4c5b89a4056ff745c98ddff@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T15:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VIGNALE DAVIDE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2027-01-13T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VIGNALE DAVIDE)",
+      "uid": "c4c5b89a4056ff745c98ddff@unirsr-calendar"
+    },
+    "c4f38c409f526b9dac4596a7@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-09T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "c4f38c409f526b9dac4596a7@unirsr-calendar"
+    },
+    "ca843f93a8ab76bd7437e75e@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-20T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "ca843f93a8ab76bd7437e75e@unirsr-calendar"
+    },
+    "cc1c6ff9ad47c08f6bb13b3f@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-09T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: GRITTI ANGELA)",
+      "uid": "cc1c6ff9ad47c08f6bb13b3f@unirsr-calendar"
+    },
+    "cd9aa574e1c83a7afb878ad1@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T17:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-01T15:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "cd9aa574e1c83a7afb878ad1@unirsr-calendar"
+    },
+    "ce592ac82e9c09885c86e794@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T12:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-14T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "ce592ac82e9c09885c86e794@unirsr-calendar"
+    },
+    "cec469ce9757a2f512fd88a4@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T10:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-03T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "cec469ce9757a2f512fd88a4@unirsr-calendar"
+    },
+    "d2c4be0ea2917e5c36183f73@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-21T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
+      "uid": "d2c4be0ea2917e5c36183f73@unirsr-calendar"
+    },
+    "d3c44d9b8118ec614deb04fe@unirsr-calendar": {
+      "date": "2026-09-25",
+      "end": "2026-09-25T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-25T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "d3c44d9b8118ec614deb04fe@unirsr-calendar"
+    },
+    "d49b0479ec258128173902d2@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-23T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
+      "uid": "d49b0479ec258128173902d2@unirsr-calendar"
+    },
+    "d4c924abb4dcb440990f9bff@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T10:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: GALLO GAETANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-07T08:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: GALLO GAETANO)",
+      "uid": "d4c924abb4dcb440990f9bff@unirsr-calendar"
+    },
+    "d62de68042914d57481b8ad6@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-15T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "d62de68042914d57481b8ad6@unirsr-calendar"
+    },
+    "d654acd5a234d59138fbd173@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T17:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-05T15:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "d654acd5a234d59138fbd173@unirsr-calendar"
+    },
+    "da31d421f7fa543af22bd95f@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T15:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-24T13:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
+      "uid": "da31d421f7fa543af22bd95f@unirsr-calendar"
+    },
+    "db09e47867b89ccc1ec3fcd3@unirsr-calendar": {
+      "date": "2026-09-29",
+      "end": "2026-09-29T12:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-09-29T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "db09e47867b89ccc1ec3fcd3@unirsr-calendar"
+    },
+    "db7cc49e18dc0655dfacba31@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T15:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-25T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
+      "uid": "db7cc49e18dc0655dfacba31@unirsr-calendar"
+    },
+    "db7d9f37f825d16a5ba9d41b@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T17:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-21T15:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "db7d9f37f825d16a5ba9d41b@unirsr-calendar"
+    },
+    "dbdf575ee29b7a537a5ac97f@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-10T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
+      "uid": "dbdf575ee29b7a537a5ac97f@unirsr-calendar"
+    },
+    "dcd1f2546779d9c429eb4dee@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T10:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-17T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "dcd1f2546779d9c429eb4dee@unirsr-calendar"
+    },
+    "ddfc9c9556d188764964633c@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T12:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-03T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "ddfc9c9556d188764964633c@unirsr-calendar"
+    },
+    "de9e28d3702b02ff2b9770fe@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-03T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
+      "uid": "de9e28d3702b02ff2b9770fe@unirsr-calendar"
+    },
+    "dedccb252c1d0af722962be1@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-02T08:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "dedccb252c1d0af722962be1@unirsr-calendar"
+    },
+    "e3eec686facdde04bd853d27@unirsr-calendar": {
+      "date": "2026-10-01",
+      "end": "2026-10-01T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-01T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "e3eec686facdde04bd853d27@unirsr-calendar"
+    },
+    "e3f24f45279aaf776499f0d3@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T12:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-15T10:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "e3f24f45279aaf776499f0d3@unirsr-calendar"
+    },
+    "e45cd161c991662b59e069a1@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-27T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA)",
+      "uid": "e45cd161c991662b59e069a1@unirsr-calendar"
+    },
+    "e52db5d8c68bdcee8859ee94@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T15:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Semeiotica (LINEA GIALLA) (docente: CIPRIANI FEDERICA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-22T13:30",
+      "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: CIPRIANI FEDERICA)",
+      "uid": "e52db5d8c68bdcee8859ee94@unirsr-calendar"
+    },
+    "e579c78a890d8f50e39af887@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-30T08:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: CORTESE KATIA)",
+      "uid": "e579c78a890d8f50e39af887@unirsr-calendar"
+    },
+    "e75d493091f8c8b6617b93dd@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T15:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-18T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: CASONI FILIPPO)",
+      "uid": "e75d493091f8c8b6617b93dd@unirsr-calendar"
+    },
+    "e9631e0760e7c4d12281f294@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-27T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA)",
+      "uid": "e9631e0760e7c4d12281f294@unirsr-calendar"
+    },
+    "ec39701228b7b2cb7fd7f472@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-02T10:30",
+      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "ec39701228b7b2cb7fd7f472@unirsr-calendar"
+    },
+    "ee7c9b3b5028b328bde9d987@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-12T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "ee7c9b3b5028b328bde9d987@unirsr-calendar"
+    },
+    "ef7d27a9aa1e168abdf2e23d@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-19T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "ef7d27a9aa1e168abdf2e23d@unirsr-calendar"
+    },
+    "f19b8afca4094cc179be1468@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T12:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-02T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA)",
+      "uid": "f19b8afca4094cc179be1468@unirsr-calendar"
+    },
+    "f22a6f4667338f8810986392@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-12-21T10:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: CANTORE ALESSIO)",
+      "uid": "f22a6f4667338f8810986392@unirsr-calendar"
+    },
+    "f484c4cb326108b4af7ea996@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-24T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
+      "uid": "f484c4cb326108b4af7ea996@unirsr-calendar"
+    },
+    "f786c1db0d1927d626f99e28@unirsr-calendar": {
+      "date": "2026-10-02",
+      "end": "2026-10-02T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-02T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "f786c1db0d1927d626f99e28@unirsr-calendar"
+    },
+    "f7a615bc1ddb05ac2676483d@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-08T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "f7a615bc1ddb05ac2676483d@unirsr-calendar"
+    },
+    "fc6308b241ce6ddbb184ef99@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T12:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA GIALLA) (docente: NALDINI LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-11-18T10:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: NALDINI LUIGI)",
+      "uid": "fc6308b241ce6ddbb184ef99@unirsr-calendar"
+    },
+    "fdecd0d3143abb9f84e77b2b@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T15:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-21T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: MALTECCA FRANCESCA)",
+      "uid": "fdecd0d3143abb9f84e77b2b@unirsr-calendar"
+    }
+  }
+}

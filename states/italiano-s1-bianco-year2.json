@@ -1,0 +1,1687 @@
+{
+  "lessons": {
+    "010f22a297bf435ee9a79e3e@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T19:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-16T17:30",
+      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO)",
+      "uid": "010f22a297bf435ee9a79e3e@unirsr-calendar"
+    },
+    "014013d1a25ba2e754416f61@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T17:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-10T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "014013d1a25ba2e754416f61@unirsr-calendar"
+    },
+    "019823ca1bbf0fc8893200ee@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T10:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-05T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "019823ca1bbf0fc8893200ee@unirsr-calendar"
+    },
+    "021b37295baf63a910f32f14@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-12T13:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "021b37295baf63a910f32f14@unirsr-calendar"
+    },
+    "03507dc622495c999ef57b1d@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T15:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-20T13:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL)",
+      "uid": "03507dc622495c999ef57b1d@unirsr-calendar"
+    },
+    "05c143b55ee39bbf8ed1f62e@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-24T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA)",
+      "uid": "05c143b55ee39bbf8ed1f62e@unirsr-calendar"
+    },
+    "0613dacaad4c6ae6c7e31a4b@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T12:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-16T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "0613dacaad4c6ae6c7e31a4b@unirsr-calendar"
+    },
+    "076304f0e88b27f8215ae6f4@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-08T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO)",
+      "uid": "076304f0e88b27f8215ae6f4@unirsr-calendar"
+    },
+    "08da8e9b8e8bd63df9038ee3@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T15:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-11T13:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA)",
+      "uid": "08da8e9b8e8bd63df9038ee3@unirsr-calendar"
+    },
+    "0ab005e00b93b3046ef05c42@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T12:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-05T10:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "0ab005e00b93b3046ef05c42@unirsr-calendar"
+    },
+    "0ccee216b8c7dc7d03959df0@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T15:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-20T13:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "0ccee216b8c7dc7d03959df0@unirsr-calendar"
+    },
+    "0f3bee3ddc20a35dc48b3ad8@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-10T08:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
+      "uid": "0f3bee3ddc20a35dc48b3ad8@unirsr-calendar"
+    },
+    "125a390fa8e23a7352616f95@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-15T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "125a390fa8e23a7352616f95@unirsr-calendar"
+    },
+    "176ab4adafeb86e736acaf15@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-15T08:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "176ab4adafeb86e736acaf15@unirsr-calendar"
+    },
+    "18563ba8169444e9e243d0a0@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T17:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-04T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "18563ba8169444e9e243d0a0@unirsr-calendar"
+    },
+    "19c297631b16f2342b6f5d4a@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T15:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-28T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
+      "uid": "19c297631b16f2342b6f5d4a@unirsr-calendar"
+    },
+    "1b199c1ed413a22c302d8b14@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T12:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-19T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "1b199c1ed413a22c302d8b14@unirsr-calendar"
+    },
+    "1c4db8fded83485ec4c15b60@unirsr-calendar": {
+      "date": "2026-09-23",
+      "end": "2026-09-23T12:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-23T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
+      "uid": "1c4db8fded83485ec4c15b60@unirsr-calendar"
+    },
+    "1c51e6a5d43602de895bf92a@unirsr-calendar": {
+      "date": "2026-09-25",
+      "end": "2026-09-25T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-25T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "1c51e6a5d43602de895bf92a@unirsr-calendar"
+    },
+    "1d15358c15955dafe22a3481@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T10:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-16T08:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
+      "uid": "1d15358c15955dafe22a3481@unirsr-calendar"
+    },
+    "1e5af5861b9e4ead6569429d@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T10:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-21T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO)",
+      "uid": "1e5af5861b9e4ead6569429d@unirsr-calendar"
+    },
+    "1f46c4cc82ee6275a1b1b27b@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-06T08:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
+      "uid": "1f46c4cc82ee6275a1b1b27b@unirsr-calendar"
+    },
+    "203903d824061a55d1eeea97@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T17:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-07T15:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "203903d824061a55d1eeea97@unirsr-calendar"
+    },
+    "210c56ef600f6eda7408194c@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-09T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "210c56ef600f6eda7408194c@unirsr-calendar"
+    },
+    "235d84066199075dfdf2e65f@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T15:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-18T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "235d84066199075dfdf2e65f@unirsr-calendar"
+    },
+    "246c9e967e1b9cfccfba0581@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T10:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-02T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO)",
+      "uid": "246c9e967e1b9cfccfba0581@unirsr-calendar"
+    },
+    "27ce8cd27d7a2984b496433c@unirsr-calendar": {
+      "date": "2026-10-01",
+      "end": "2026-10-01T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-01T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA)",
+      "uid": "27ce8cd27d7a2984b496433c@unirsr-calendar"
+    },
+    "280356d1b5e38da53d58a6fc@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T19:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-10T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "280356d1b5e38da53d58a6fc@unirsr-calendar"
+    },
+    "287ac54c1492c720cf0b8a5e@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T12:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-07T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA)",
+      "uid": "287ac54c1492c720cf0b8a5e@unirsr-calendar"
+    },
+    "29ed8a929e3129db4292ae45@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T12:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-15T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "29ed8a929e3129db4292ae45@unirsr-calendar"
+    },
+    "2bcea584ee4835287db68398@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: TAVERNA STEFANO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-22T10:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: TAVERNA STEFANO)",
+      "uid": "2bcea584ee4835287db68398@unirsr-calendar"
+    },
+    "2bdae071005435eeae70da98@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T10:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-01T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO)",
+      "uid": "2bdae071005435eeae70da98@unirsr-calendar"
+    },
+    "2c398d34433b2011ea5720cb@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-17T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "2c398d34433b2011ea5720cb@unirsr-calendar"
+    },
+    "2d41b014b5ebf122a54cf94e@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-04T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "2d41b014b5ebf122a54cf94e@unirsr-calendar"
+    },
+    "2d9e675187c24288e9cd87d1@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T17:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-09T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "2d9e675187c24288e9cd87d1@unirsr-calendar"
+    },
+    "3194282e732bf68c15783376@unirsr-calendar": {
+      "date": "2026-10-01",
+      "end": "2026-10-01T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-01T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "3194282e732bf68c15783376@unirsr-calendar"
+    },
+    "33c984fdc6cc801213c6bad7@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T17:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-11T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "33c984fdc6cc801213c6bad7@unirsr-calendar"
+    },
+    "3573e7a4151dec8841bbc8f6@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-03T08:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL)",
+      "uid": "3573e7a4151dec8841bbc8f6@unirsr-calendar"
+    },
+    "35f9d37262995fb89798cd3e@unirsr-calendar": {
+      "date": "2026-10-02",
+      "end": "2026-10-02T15:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-02T13:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "35f9d37262995fb89798cd3e@unirsr-calendar"
+    },
+    "3721a0e070ec30f8320d68ea@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-14T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "3721a0e070ec30f8320d68ea@unirsr-calendar"
+    },
+    "37924cea9e5100b164488521@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T10:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DE LUCA GIACOMO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-21T08:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DE LUCA GIACOMO)",
+      "uid": "37924cea9e5100b164488521@unirsr-calendar"
+    },
+    "37c483d2b302f8e1ac5c3fb3@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-08T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: GRITTI ANGELA)",
+      "uid": "37c483d2b302f8e1ac5c3fb3@unirsr-calendar"
+    },
+    "38da75130ddc9effe08ae0cd@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T17:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-17T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CASONI FILIPPO)",
+      "uid": "38da75130ddc9effe08ae0cd@unirsr-calendar"
+    },
+    "3a3f8005d6009447b5bc7805@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T12:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-14T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA)",
+      "uid": "3a3f8005d6009447b5bc7805@unirsr-calendar"
+    },
+    "3adc1d694e06fc0d654bd169@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T10:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-14T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO)",
+      "uid": "3adc1d694e06fc0d654bd169@unirsr-calendar"
+    },
+    "3ae17c407c20c6eb91bec5f5@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-11T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "3ae17c407c20c6eb91bec5f5@unirsr-calendar"
+    },
+    "3b40cdcd6f1126bf755ca451@unirsr-calendar": {
+      "date": "2026-09-28",
+      "end": "2026-09-28T17:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-28T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
+      "uid": "3b40cdcd6f1126bf755ca451@unirsr-calendar"
+    },
+    "3d4acfc15a2ef92132cbbb42@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-30T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "3d4acfc15a2ef92132cbbb42@unirsr-calendar"
+    },
+    "3d9e9c11c5008e03e9812689@unirsr-calendar": {
+      "date": "2026-10-01",
+      "end": "2026-10-01T12:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-01T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
+      "uid": "3d9e9c11c5008e03e9812689@unirsr-calendar"
+    },
+    "3e5e263fdee00b25262babd5@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T17:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-18T15:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "3e5e263fdee00b25262babd5@unirsr-calendar"
+    },
+    "3ed234c6b8b1c152425b7b07@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-10T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "3ed234c6b8b1c152425b7b07@unirsr-calendar"
+    },
+    "3f81be41263a75e8c16f3937@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T12:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-18T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE)",
+      "uid": "3f81be41263a75e8c16f3937@unirsr-calendar"
+    },
+    "40502b1fa5997404ec669979@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T17:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-02T15:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "40502b1fa5997404ec669979@unirsr-calendar"
+    },
+    "4085c3181b7dbec42abda946@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-06T10:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "4085c3181b7dbec42abda946@unirsr-calendar"
+    },
+    "41269823111c34031265884b@unirsr-calendar": {
+      "date": "2026-09-24",
+      "end": "2026-09-24T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-24T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
+      "uid": "41269823111c34031265884b@unirsr-calendar"
+    },
+    "415cc9378385a25f0128b241@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-20T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "415cc9378385a25f0128b241@unirsr-calendar"
+    },
+    "42914a6138d951c5d288fb83@unirsr-calendar": {
+      "date": "2026-12-10",
+      "end": "2026-12-10T10:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-10T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "42914a6138d951c5d288fb83@unirsr-calendar"
+    },
+    "4444520dc89cb93cd6f4d8b3@unirsr-calendar": {
+      "date": "2026-09-29",
+      "end": "2026-09-29T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-29T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "4444520dc89cb93cd6f4d8b3@unirsr-calendar"
+    },
+    "467064441c70f856ab0c4346@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T17:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: TAVERNA STEFANO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-27T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: TAVERNA STEFANO)",
+      "uid": "467064441c70f856ab0c4346@unirsr-calendar"
+    },
+    "48747a9456a30226516c2dea@unirsr-calendar": {
+      "date": "2026-09-24",
+      "end": "2026-09-24T12:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-24T10:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
+      "uid": "48747a9456a30226516c2dea@unirsr-calendar"
+    },
+    "4b73784993af1c075c14e65d@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-16T13:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "4b73784993af1c075c14e65d@unirsr-calendar"
+    },
+    "4bb1561dc7c3e05c8dc3f833@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: ZUFFARDI ORSETTA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-27T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: ZUFFARDI ORSETTA)",
+      "uid": "4bb1561dc7c3e05c8dc3f833@unirsr-calendar"
+    },
+    "4d3907bd04653a58eb438396@unirsr-calendar": {
+      "date": "2026-09-30",
+      "end": "2026-09-30T12:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-30T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
+      "uid": "4d3907bd04653a58eb438396@unirsr-calendar"
+    },
+    "4e12534a5511af3a05491369@unirsr-calendar": {
+      "date": "2026-09-22",
+      "end": "2026-09-22T15:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-22T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "4e12534a5511af3a05491369@unirsr-calendar"
+    },
+    "506ef5c5ec1148c186b95d04@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-26T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "506ef5c5ec1148c186b95d04@unirsr-calendar"
+    },
+    "514ee4b958503c9ca19f2871@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: ZUFFARDI ORSETTA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-26T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: ZUFFARDI ORSETTA)",
+      "uid": "514ee4b958503c9ca19f2871@unirsr-calendar"
+    },
+    "519fff02551b6e51e1d389a7@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T17:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-20T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "519fff02551b6e51e1d389a7@unirsr-calendar"
+    },
+    "51e811d1f2b0b98fa7ddbc8a@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T12:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-23T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "51e811d1f2b0b98fa7ddbc8a@unirsr-calendar"
+    },
+    "55bbabffded58cecdebea77e@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T15:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-11T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CASONI FILIPPO)",
+      "uid": "55bbabffded58cecdebea77e@unirsr-calendar"
+    },
+    "5703ed44b0595d80b242af59@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T12:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-09T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "5703ed44b0595d80b242af59@unirsr-calendar"
+    },
+    "610ae7907b2ebe86eca8020f@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T19:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-23T17:30",
+      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO)",
+      "uid": "610ae7907b2ebe86eca8020f@unirsr-calendar"
+    },
+    "64b3641a015a5d8c723b8b87@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T15:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-09T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "64b3641a015a5d8c723b8b87@unirsr-calendar"
+    },
+    "65516e196af461819c3006ed@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T15:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-16T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "65516e196af461819c3006ed@unirsr-calendar"
+    },
+    "662b77ea2fe041ee62f9c772@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T15:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-21T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "662b77ea2fe041ee62f9c772@unirsr-calendar"
+    },
+    "6a135d64d322ac5f4f127281@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-26T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA)",
+      "uid": "6a135d64d322ac5f4f127281@unirsr-calendar"
+    },
+    "6d52f010a85748c332ac9af3@unirsr-calendar": {
+      "date": "2026-09-25",
+      "end": "2026-09-25T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-25T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA)",
+      "uid": "6d52f010a85748c332ac9af3@unirsr-calendar"
+    },
+    "6dcc138310bd850ed9e0464c@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T12:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-04T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "6dcc138310bd850ed9e0464c@unirsr-calendar"
+    },
+    "6e194bae6ea2421662944621@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T12:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-16T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA)",
+      "uid": "6e194bae6ea2421662944621@unirsr-calendar"
+    },
+    "7057d31bb73ba5f64e36034b@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T15:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-06T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "7057d31bb73ba5f64e36034b@unirsr-calendar"
+    },
+    "7291b0306ffb270c4778c147@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-03T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CASONI FILIPPO)",
+      "uid": "7291b0306ffb270c4778c147@unirsr-calendar"
+    },
+    "73a0a766d5aa0fdb5a15a9be@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T19:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-06T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "73a0a766d5aa0fdb5a15a9be@unirsr-calendar"
+    },
+    "7521621853b75cc1b3fcc3ac@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T19:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-24T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "7521621853b75cc1b3fcc3ac@unirsr-calendar"
+    },
+    "75a7f7551b67fa72aca3b818@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T12:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-26T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA)",
+      "uid": "75a7f7551b67fa72aca3b818@unirsr-calendar"
+    },
+    "77ef6cc44453f09db3eebc76@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T12:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-11T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "77ef6cc44453f09db3eebc76@unirsr-calendar"
+    },
+    "78cbfbecc2a3cdd9d8b97b53@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T15:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-13T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE)",
+      "uid": "78cbfbecc2a3cdd9d8b97b53@unirsr-calendar"
+    },
+    "7bee32c828876b581f15b99d@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T12:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VIGNALE DAVIDE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-13T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VIGNALE DAVIDE)",
+      "uid": "7bee32c828876b581f15b99d@unirsr-calendar"
+    },
+    "7f43be1724f37a3b9a6912f7@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T10:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-14T08:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
+      "uid": "7f43be1724f37a3b9a6912f7@unirsr-calendar"
+    },
+    "7f6fb1652bc24197eafaaf68@unirsr-calendar": {
+      "date": "2026-09-24",
+      "end": "2026-09-24T10:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-24T08:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "7f6fb1652bc24197eafaaf68@unirsr-calendar"
+    },
+    "7fa369ef1526bc1c2454af68@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T10:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-04T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO)",
+      "uid": "7fa369ef1526bc1c2454af68@unirsr-calendar"
+    },
+    "809f6d4dc919336ee0dbcebc@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-05T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "809f6d4dc919336ee0dbcebc@unirsr-calendar"
+    },
+    "80c5899ce41770c745648fc5@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T15:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-07T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA)",
+      "uid": "80c5899ce41770c745648fc5@unirsr-calendar"
+    },
+    "82351d6b1e59a878ecce8e5b@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-03T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
+      "uid": "82351d6b1e59a878ecce8e5b@unirsr-calendar"
+    },
+    "8275a9bcffe0113ce43db529@unirsr-calendar": {
+      "date": "2026-12-18",
+      "end": "2026-12-18T10:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-18T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO)",
+      "uid": "8275a9bcffe0113ce43db529@unirsr-calendar"
+    },
+    "83c10321c1191a9f77e0820b@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: NALDINI LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-17T08:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: NALDINI LUIGI)",
+      "uid": "83c10321c1191a9f77e0820b@unirsr-calendar"
+    },
+    "83d8885b8b770149f5319871@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T15:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-14T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA)",
+      "uid": "83d8885b8b770149f5319871@unirsr-calendar"
+    },
+    "85a3aca87d5e9cddd7860fa5@unirsr-calendar": {
+      "date": "2026-09-23",
+      "end": "2026-09-23T10:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-23T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA)",
+      "uid": "85a3aca87d5e9cddd7860fa5@unirsr-calendar"
+    },
+    "85f78c2d108e432333e06064@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T19:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-27T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "85f78c2d108e432333e06064@unirsr-calendar"
+    },
+    "86de123b57261610036444da@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T17:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: TAVERNA STEFANO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-28T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: TAVERNA STEFANO)",
+      "uid": "86de123b57261610036444da@unirsr-calendar"
+    },
+    "86ee6122f10959a6ce3d7e61@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T10:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-16T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA)",
+      "uid": "86ee6122f10959a6ce3d7e61@unirsr-calendar"
+    },
+    "89899c29637ba1d3cd41eb52@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T12:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-08T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE)",
+      "uid": "89899c29637ba1d3cd41eb52@unirsr-calendar"
+    },
+    "8a797d6aa2d573cea2c1d549@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-19T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "8a797d6aa2d573cea2c1d549@unirsr-calendar"
+    },
+    "8a942b24e6230befe5dc2406@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-22T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "8a942b24e6230befe5dc2406@unirsr-calendar"
+    },
+    "8bfd9592bf44dc8b8864b8e2@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T12:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-20T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "8bfd9592bf44dc8b8864b8e2@unirsr-calendar"
+    },
+    "8c1762fab0484384a62e8c6c@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: NALDINI LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-13T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: NALDINI LUIGI)",
+      "uid": "8c1762fab0484384a62e8c6c@unirsr-calendar"
+    },
+    "8f9e6cb736cb353f3b185469@unirsr-calendar": {
+      "date": "2026-09-28",
+      "end": "2026-09-28T12:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-28T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "8f9e6cb736cb353f3b185469@unirsr-calendar"
+    },
+    "9015157f96f7704f59ac7a86@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T15:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-09T13:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "9015157f96f7704f59ac7a86@unirsr-calendar"
+    },
+    "90174793b1c92463abdc6364@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T12:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-10T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "90174793b1c92463abdc6364@unirsr-calendar"
+    },
+    "91292dde9ab407cfc827c86d@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-03T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA)",
+      "uid": "91292dde9ab407cfc827c86d@unirsr-calendar"
+    },
+    "9361fcdd61220f43776724bb@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-12T10:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL)",
+      "uid": "9361fcdd61220f43776724bb@unirsr-calendar"
+    },
+    "95cd9c0b01be949adbed952a@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T12:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-02T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "95cd9c0b01be949adbed952a@unirsr-calendar"
+    },
+    "98be073cbaf949dfba51ac2c@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-25T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "98be073cbaf949dfba51ac2c@unirsr-calendar"
+    },
+    "98f846dcc4d67159713603b9@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T12:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-01T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA)",
+      "uid": "98f846dcc4d67159713603b9@unirsr-calendar"
+    },
+    "99e97fb04f3529891732f52f@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-12T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "99e97fb04f3529891732f52f@unirsr-calendar"
+    },
+    "9cc752c4f90ec4125cac898a@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T17:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: POZZER DIEGO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-13T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: POZZER DIEGO)",
+      "uid": "9cc752c4f90ec4125cac898a@unirsr-calendar"
+    },
+    "9e1bc9981c1f87a1e96127ca@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T17:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-02T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA)",
+      "uid": "9e1bc9981c1f87a1e96127ca@unirsr-calendar"
+    },
+    "9e994dc53746c4fba399ad14@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T15:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-13T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: GRITTI ANGELA)",
+      "uid": "9e994dc53746c4fba399ad14@unirsr-calendar"
+    },
+    "9f2f6777b2417a5e1279f1cd@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-28T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "9f2f6777b2417a5e1279f1cd@unirsr-calendar"
+    },
+    "a134ab5c6216bd737a657f93@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T12:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-02T10:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "a134ab5c6216bd737a657f93@unirsr-calendar"
+    },
+    "a1c91b91a4f6dd2278ef5b97@unirsr-calendar": {
+      "date": "2026-12-22",
+      "end": "2026-12-22T17:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-22T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "a1c91b91a4f6dd2278ef5b97@unirsr-calendar"
+    },
+    "a217f610e7f8f31dd8957f4a@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T15:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-30T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA)",
+      "uid": "a217f610e7f8f31dd8957f4a@unirsr-calendar"
+    },
+    "a3b1d36b924c2c8b53145670@unirsr-calendar": {
+      "date": "2026-09-30",
+      "end": "2026-09-30T17:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-30T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: ZIPPO ANTONIO GIULIANO)",
+      "uid": "a3b1d36b924c2c8b53145670@unirsr-calendar"
+    },
+    "a648531857aa1bda46f37b0b@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T10:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-22T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "a648531857aa1bda46f37b0b@unirsr-calendar"
+    },
+    "a65c2ee7de2bdf5d9ed6aeba@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-11T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO)",
+      "uid": "a65c2ee7de2bdf5d9ed6aeba@unirsr-calendar"
+    },
+    "a6ecffb266cc339b40c18c3e@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T19:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-19T17:30",
+      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: TACCHETTI CARLO)",
+      "uid": "a6ecffb266cc339b40c18c3e@unirsr-calendar"
+    },
+    "a938fb86f605e6cb3ec65a10@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T17:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-15T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "a938fb86f605e6cb3ec65a10@unirsr-calendar"
+    },
+    "aab7c824f332a70ec64a9ca8@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T15:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-23T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "aab7c824f332a70ec64a9ca8@unirsr-calendar"
+    },
+    "ad443ebf07820628dcfadc35@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T17:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-14T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "ad443ebf07820628dcfadc35@unirsr-calendar"
+    },
+    "aeaaf305e675c395de90b775@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T15:30",
+      "location": "VASARI Aula VA102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-17T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
+      "uid": "aeaaf305e675c395de90b775@unirsr-calendar"
+    },
+    "b1b8879080b27d2b7c3e6345@unirsr-calendar": {
+      "date": "2026-11-05",
+      "end": "2026-11-05T15:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: NALDINI LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-05T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: NALDINI LUIGI)",
+      "uid": "b1b8879080b27d2b7c3e6345@unirsr-calendar"
+    },
+    "b533368c6a56bc00959166ee@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-19T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "b533368c6a56bc00959166ee@unirsr-calendar"
+    },
+    "b6a39c0f7b2de548fd357067@unirsr-calendar": {
+      "date": "2026-11-13",
+      "end": "2026-11-13T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-13T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA)",
+      "uid": "b6a39c0f7b2de548fd357067@unirsr-calendar"
+    },
+    "b7a12e3edec7a2d972074f67@unirsr-calendar": {
+      "date": "2026-09-30",
+      "end": "2026-09-30T10:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-30T08:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "b7a12e3edec7a2d972074f67@unirsr-calendar"
+    },
+    "b99e2d001da092dfcb81f31a@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-27T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA)",
+      "uid": "b99e2d001da092dfcb81f31a@unirsr-calendar"
+    },
+    "bc886b268709317d477d28d6@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T19:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-17T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "bc886b268709317d477d28d6@unirsr-calendar"
+    },
+    "bd6c6487ae0a10cf474cf9f4@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T12:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-12T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA)",
+      "uid": "bd6c6487ae0a10cf474cf9f4@unirsr-calendar"
+    },
+    "bdd26f74680f6466a7f3b68d@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-03T08:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "bdd26f74680f6466a7f3b68d@unirsr-calendar"
+    },
+    "bdeb136a97019836980c15cf@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T15:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-02T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "bdeb136a97019836980c15cf@unirsr-calendar"
+    },
+    "be450d085da6370c802d8699@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T19:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-15T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "be450d085da6370c802d8699@unirsr-calendar"
+    },
+    "c14a8ce8633b725d9011c1b6@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T17:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-24T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA)",
+      "uid": "c14a8ce8633b725d9011c1b6@unirsr-calendar"
+    },
+    "c21ebf2cf50950ab03be7c42@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-08T08:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "c21ebf2cf50950ab03be7c42@unirsr-calendar"
+    },
+    "c3b3b5844057d567ba37cd65@unirsr-calendar": {
+      "date": "2026-09-22",
+      "end": "2026-09-22T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-22T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "c3b3b5844057d567ba37cd65@unirsr-calendar"
+    },
+    "c86154c6322813a5e20723c2@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-21T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "c86154c6322813a5e20723c2@unirsr-calendar"
+    },
+    "c91499166dc3337d13b75850@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T15:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-17T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "c91499166dc3337d13b75850@unirsr-calendar"
+    },
+    "c91c99bd86c45f9316c0f350@unirsr-calendar": {
+      "date": "2026-11-26",
+      "end": "2026-11-26T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-26T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "c91c99bd86c45f9316c0f350@unirsr-calendar"
+    },
+    "c982c93192cb5857b4bf560b@unirsr-calendar": {
+      "date": "2026-11-25",
+      "end": "2026-11-25T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-25T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA)",
+      "uid": "c982c93192cb5857b4bf560b@unirsr-calendar"
+    },
+    "c9fdd3f7e34a833ff1480b53@unirsr-calendar": {
+      "date": "2027-01-08",
+      "end": "2027-01-08T15:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-08T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "c9fdd3f7e34a833ff1480b53@unirsr-calendar"
+    },
+    "cb0a8c2aff5853e07516e983@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: PALUMBO DIEGO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-11T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: PALUMBO DIEGO)",
+      "uid": "cb0a8c2aff5853e07516e983@unirsr-calendar"
+    },
+    "cda56ccffb615ccc8214cb15@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-13T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "cda56ccffb615ccc8214cb15@unirsr-calendar"
+    },
+    "d174f55e9e7d6055a4c1c2f0@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T19:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-09T17:30",
+      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO)",
+      "uid": "d174f55e9e7d6055a4c1c2f0@unirsr-calendar"
+    },
+    "d3844f58c1199ba72ba00103@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T19:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "17:30-19:30 | Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-15T17:30",
+      "subject": "Lezione: Metodologia della ricerca: dalla medicina di base alla rianimazione (docente: LANDONI GIOVANNI)",
+      "uid": "d3844f58c1199ba72ba00103@unirsr-calendar"
+    },
+    "d39163e86815f326d1a9f533@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-15T10:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "d39163e86815f326d1a9f533@unirsr-calendar"
+    },
+    "d451163c1232f7c72db65a33@unirsr-calendar": {
+      "date": "2027-01-11",
+      "end": "2027-01-11T15:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-11T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE)",
+      "uid": "d451163c1232f7c72db65a33@unirsr-calendar"
+    },
+    "d53818a6db71ab7e77fd2ee9@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-09T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "d53818a6db71ab7e77fd2ee9@unirsr-calendar"
+    },
+    "d5c897820295f6efdd4c2b14@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-27T08:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL)",
+      "uid": "d5c897820295f6efdd4c2b14@unirsr-calendar"
+    },
+    "d91a0c0ffd21046691dbdda8@unirsr-calendar": {
+      "date": "2027-01-07",
+      "end": "2027-01-07T15:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-07T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
+      "uid": "d91a0c0ffd21046691dbdda8@unirsr-calendar"
+    },
+    "dba6d2ca011d3fa45cdec2ff@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T17:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-17T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "dba6d2ca011d3fa45cdec2ff@unirsr-calendar"
+    },
+    "dbe60be1698a055dd335f758@unirsr-calendar": {
+      "date": "2026-10-02",
+      "end": "2026-10-02T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-02T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
+      "uid": "dbe60be1698a055dd335f758@unirsr-calendar"
+    },
+    "deb055cd1298cbed9cb52455@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T15:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-04T13:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE)",
+      "uid": "deb055cd1298cbed9cb52455@unirsr-calendar"
+    },
+    "e2686808753c01a5ff69ac07@unirsr-calendar": {
+      "date": "2026-10-07",
+      "end": "2026-10-07T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-07T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "e2686808753c01a5ff69ac07@unirsr-calendar"
+    },
+    "e4027ad0bddeb8319ae045cf@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-29T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
+      "uid": "e4027ad0bddeb8319ae045cf@unirsr-calendar"
+    },
+    "e45632908a57f92cba7107ed@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T10:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-16T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO)",
+      "uid": "e45632908a57f92cba7107ed@unirsr-calendar"
+    },
+    "e49ab83ab2970da21b101f48@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T10:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-18T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: CODAZZI FRANCA)",
+      "uid": "e49ab83ab2970da21b101f48@unirsr-calendar"
+    },
+    "e60bac93c325a95b1b9f98e3@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T15:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-24T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "e60bac93c325a95b1b9f98e3@unirsr-calendar"
+    },
+    "e7174dac4d618df2dcbc8c3c@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T17:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-09T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "e7174dac4d618df2dcbc8c3c@unirsr-calendar"
+    },
+    "e88e393124405bf3453de63a@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T15:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-08T13:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
+      "uid": "e88e393124405bf3453de63a@unirsr-calendar"
+    },
+    "e8d336098a949460aea542a3@unirsr-calendar": {
+      "date": "2026-09-22",
+      "end": "2026-09-22T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-09-22T08:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
+      "uid": "e8d336098a949460aea542a3@unirsr-calendar"
+    },
+    "eb70e8893b1525380e0fd729@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T12:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-03T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
+      "uid": "eb70e8893b1525380e0fd729@unirsr-calendar"
+    },
+    "edc1529a1dc13e76332dfca0@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T17:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: RAMELLA MARTINA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-23T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: RAMELLA MARTINA)",
+      "uid": "edc1529a1dc13e76332dfca0@unirsr-calendar"
+    },
+    "ee307d9526a9cce89d6602a1@unirsr-calendar": {
+      "date": "2027-01-13",
+      "end": "2027-01-13T10:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2027-01-13T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO)",
+      "uid": "ee307d9526a9cce89d6602a1@unirsr-calendar"
+    },
+    "f0decd036334f970bb40979a@unirsr-calendar": {
+      "date": "2026-12-02",
+      "end": "2026-12-02T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-02T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "f0decd036334f970bb40979a@unirsr-calendar"
+    },
+    "f1a0dcf3188dab3d96fca3e6@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T17:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-03T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA)",
+      "uid": "f1a0dcf3188dab3d96fca3e6@unirsr-calendar"
+    },
+    "f28b3dfa615713c14e50bebe@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T17:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-04T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "f28b3dfa615713c14e50bebe@unirsr-calendar"
+    },
+    "f2ccebbb2b5130fad72c802c@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T12:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-18T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "f2ccebbb2b5130fad72c802c@unirsr-calendar"
+    },
+    "f34ef648621e2d5f43b981b8@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T12:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-16T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE)",
+      "uid": "f34ef648621e2d5f43b981b8@unirsr-calendar"
+    },
+    "f429f9b38425f5eccb8e90b1@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T19:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-02T17:30",
+      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO)",
+      "uid": "f429f9b38425f5eccb8e90b1@unirsr-calendar"
+    },
+    "f42cc0b3d3b191d411c1bdf8@unirsr-calendar": {
+      "date": "2026-11-19",
+      "end": "2026-11-19T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-19T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
+      "uid": "f42cc0b3d3b191d411c1bdf8@unirsr-calendar"
+    },
+    "f43c1ce292160324c2613714@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-30T08:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO)",
+      "uid": "f43c1ce292160324c2613714@unirsr-calendar"
+    },
+    "f4b14cb48bb6b186832fa64e@unirsr-calendar": {
+      "date": "2026-10-26",
+      "end": "2026-10-26T19:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-26T17:30",
+      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO)",
+      "uid": "f4b14cb48bb6b186832fa64e@unirsr-calendar"
+    },
+    "f54fe0a34f54d0533ec787b0@unirsr-calendar": {
+      "date": "2026-10-28",
+      "end": "2026-10-28T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-28T10:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
+      "uid": "f54fe0a34f54d0533ec787b0@unirsr-calendar"
+    },
+    "f5b5c8e67bcfe844ad0782d0@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T19:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-18T17:30",
+      "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
+      "uid": "f5b5c8e67bcfe844ad0782d0@unirsr-calendar"
+    },
+    "f99ba5d340df190a642074d9@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T17:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-01T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
+      "uid": "f99ba5d340df190a642074d9@unirsr-calendar"
+    },
+    "faf7ac5713e39890a6906c1a@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T10:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-15T08:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "faf7ac5713e39890a6906c1a@unirsr-calendar"
+    },
+    "fb47a71e3cedd4f611ccabea@unirsr-calendar": {
+      "date": "2026-11-30",
+      "end": "2026-11-30T17:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-30T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA)",
+      "uid": "fb47a71e3cedd4f611ccabea@unirsr-calendar"
+    },
+    "fbb958aa83109231fcfadd6c@unirsr-calendar": {
+      "date": "2026-12-21",
+      "end": "2026-12-21T12:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-21T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: DE RITIS DANIELE)",
+      "uid": "fbb958aa83109231fcfadd6c@unirsr-calendar"
+    },
+    "fc470987f22a848447a6f909@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T12:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-14T10:30",
+      "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: GIGLIO SABRINA RITA)",
+      "uid": "fc470987f22a848447a6f909@unirsr-calendar"
+    },
+    "fd32670f57e9099c593b7f3b@unirsr-calendar": {
+      "date": "2026-10-08",
+      "end": "2026-10-08T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-08T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "fd32670f57e9099c593b7f3b@unirsr-calendar"
+    },
+    "ff3852a68c651524bbe6e0e2@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-22T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
+      "uid": "ff3852a68c651524bbe6e0e2@unirsr-calendar"
+    }
+  }
+}
