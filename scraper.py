@@ -14,47 +14,89 @@ DAYS_BACK = 0
 DAYS_FORWARD = 150
 
 OUTPUTS = {
-    "international-md": {
+    "international-md-year1": {
         "course_id": "10321",
         "course_year": "1",
         "line": None,
         "filename": "calendario-unisr.ics",
     },
-    "italiano-s1-azzurro": {
+    "international-md-year2": {
+        "course_id": "10321",
+        "course_year": "2",
+        "line": None,
+        "filename": "calendario-unisr-2anno.ics",
+    },
+    "italiano-s1-azzurro-year1": {
         "course_id": "10311",
         "course_year": "1",
         "line": "AZZURRA",
         "filename": "italiano-sezione1-azzurro.ics",
     },
-    "italiano-s1-bianco": {
+    "italiano-s1-bianco-year1": {
         "course_id": "10311",
         "course_year": "1",
         "line": "BIANCA",
         "filename": "italiano-sezione1-bianco.ics",
     },
-    "italiano-s2-giallo": {
+    "italiano-s2-giallo-year1": {
         "course_id": "10325",
         "course_year": "1",
         "line": "GIALLA",
         "filename": "italiano-sezione2-giallo.ics",
     },
-    "italiano-s2-verde": {
+    "italiano-s2-verde-year1": {
         "course_id": "10325",
         "course_year": "1",
         "line": "VERDE",
         "filename": "italiano-sezione2-verde.ics",
     },
-    "italiano-s3-rosso": {
+    "italiano-s3-rosso-year1": {
         "course_id": "10324",
         "course_year": "1",
         "line": "ROSSA",
         "filename": "italiano-sezione3-rosso.ics",
     },
-    "italiano-s3-viola": {
+    "italiano-s3-viola-year1": {
         "course_id": "10324",
         "course_year": "1",
         "line": "VIOLA",
         "filename": "italiano-sezione3-viola.ics",
+    },
+    "italiano-s1-azzurro-year2": {
+        "course_id": "10311",
+        "course_year": "2",
+        "line": "AZZURRA",
+        "filename": "italiano-sezione1-azzurro-2anno.ics",
+    },
+    "italiano-s1-bianco-year2": {
+        "course_id": "10311",
+        "course_year": "2",
+        "line": "BIANCA",
+        "filename": "italiano-sezione1-bianco-2anno.ics",
+    },
+    "italiano-s2-giallo-year2": {
+        "course_id": "10325",
+        "course_year": "2",
+        "line": "GIALLA",
+        "filename": "italiano-sezione2-giallo-2anno.ics",
+    },
+    "italiano-s2-verde-year2": {
+        "course_id": "10325",
+        "course_year": "2",
+        "line": "VERDE",
+        "filename": "italiano-sezione2-verde-2anno.ics",
+    },
+    "italiano-s3-rosso-year2": {
+        "course_id": "10324",
+        "course_year": "2",
+        "line": "ROSSA",
+        "filename": "italiano-sezione3-rosso-2anno.ics",
+    },
+    "italiano-s3-viola-year2": {
+        "course_id": "10324",
+        "course_year": "2",
+        "line": "VIOLA",
+        "filename": "italiano-sezione3-viola-2anno.ics",
     },
 }
 
@@ -222,7 +264,7 @@ def filter_lessons(lessons, line):
     return [
         lesson
         for lesson in lessons
-        if extract_line(lesson["subject"]) == line
+        if extract_line(lesson["subject"]) in (None, line)
     ]
 
 
