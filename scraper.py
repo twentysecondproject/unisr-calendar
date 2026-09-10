@@ -9,9 +9,7 @@ from urllib.parse import urlencode
 import requests
 from bs4 import BeautifulSoup
 
-
 BASE_URL = "https://orario.unisr.it/default.asp"
-
 DAYS_BACK = 0
 DAYS_FORWARD = 150
 
@@ -22,7 +20,6 @@ OUTPUTS = {
         "line": None,
         "filename": "calendario-unisr.ics",
     },
-
     "italiano-s1-azzurro": {
         "course_id": "10311",
         "course_year": "1",
@@ -35,7 +32,6 @@ OUTPUTS = {
         "line": "BIANCA",
         "filename": "italiano-sezione1-bianco.ics",
     },
-
     "italiano-s2-giallo": {
         "course_id": "10325",
         "course_year": "1",
@@ -48,7 +44,6 @@ OUTPUTS = {
         "line": "VERDE",
         "filename": "italiano-sezione2-verde.ics",
     },
-
     "italiano-s3-rosso": {
         "course_id": "10324",
         "course_year": "1",
@@ -62,7 +57,6 @@ OUTPUTS = {
         "filename": "italiano-sezione3-viola.ics",
     },
 }
-
 
 STATE_DIR = Path("states")
 
@@ -86,7 +80,6 @@ def build_url(day: date, course_id: str, course_year: str) -> str:
         "id_aula": "0",
         "lezioni": "ok",
     }
-
     return f"{BASE_URL}?{urlencode(params)}"
 
 
@@ -97,18 +90,13 @@ def clean_text(value: str) -> str:
 
 def extract_rows(html: str, day: date):
     soup = BeautifulSoup(html, "html.parser")
-
     lessons = []
     current_location = ""
 
     for table in soup.find_all("table"):
         for tr in table.find_all("tr"):
+            row_text = clean_text(tr.get_text(" ", strip=True))
 
-            row_text = clean_text(
-                tr.get_text(" ", strip=True)
-            )
-
-            # Keep the existing room-detection system.
             location_match = re.search(
                 r"([A-ZÀ-ÖØ-Ý0-9 .'-]+)\s*-\s*Aula\s+"
                 r"([A-Z]{1,5}\d{2,4})"
@@ -118,38 +106,19 @@ def extract_rows(html: str, day: date):
             )
 
             if location_match:
-                building = clean_text(
-                    location_match.group(1)
-                )
-
-                room = clean_text(
-                    location_match.group(2)
-                )
-
-                floor = clean_text(
-                    location_match.group(3) or ""
-                )
-
-                current_location = (
-                    f"{building} Aula {room}"
-                )
+                building = clean_text(location_match.group(1))
+                room = clean_text(location_match.group(2))
+                floor = clean_text(location_match.group(3) or "")
+                current_location = f"{building} Aula {room}"
 
                 if floor:
-                    current_location += (
-                        f" ({floor})"
-                    )
+                    current_location += f" ({floor})"
 
             cells = [
-                clean_text(
-                    cell.get_text(" ", strip=True)
-                )
+                clean_text(cell.get_text(" ", strip=True))
                 for cell in tr.find_all(["td", "th"])
             ]
-
-            cells = [
-                cell for cell in cells
-                if cell
-            ]
+            cells = [cell for cell in cells if cell]
 
             if not cells:
                 continue
@@ -160,8 +129,7 @@ def extract_rows(html: str, day: date):
                 continue
 
             time_match = re.search(
-                r"(\d{1,2}:\d{2})\s*[-–—]\s*"
-                r"(\d{1,2}:\d{2})",
+                r"(\d{1,2}:\d{2})\s*[-–—]\s*(\d{1,2}:\d{2})",
                 combined,
             )
 
@@ -224,11 +192,14 @@ def parse_lesson(lesson):
         "start": lesson["start"],
         "end": lesson["end"],
         "subject": subject,
-        "location": clean_text(
-            lesson.get("location", "")
-        ),
+        "location": clean_text(lesson.get("location", "")),
         "raw": lesson["raw"],
     }
+
+
+def parse_day(html: str, day: date):
+    rows = extract_rows(html, day)
+    return [parse_lesson(row) for row in rows]
 
 
 def extract_line(subject):
@@ -248,17 +219,11 @@ def filter_lessons(lessons, line):
     if line is None:
         return lessons
 
-    filtered = []
-
-    for lesson in lessons:
-        lesson_line = extract_line(
-            lesson["subject"]
-        )
-
-        if lesson_line == line:
-            filtered.append(lesson)
-
-    return filtered
+    return [
+        lesson
+        for lesson in lessons
+        if extract_line(lesson["subject"]) == line
+    ]
 
 
 def lesson_identity(lesson):
@@ -291,7 +256,6 @@ def assign_uids(lessons, calendar_key):
         grouped.setdefault(key, []).append(lesson)
 
     for group in grouped.values():
-
         group.sort(
             key=lambda x: (
                 x["start"],
@@ -301,10 +265,7 @@ def assign_uids(lessons, calendar_key):
             )
         )
 
-        for occurrence, lesson in enumerate(
-            group,
-            start=1,
-        ):
+        for occurrence, lesson in enumerate(group, start=1):
             lesson["uid"] = make_uid(
                 calendar_key,
                 lesson,
@@ -325,36 +286,89 @@ def load_state(calendar_key):
         return {}
 
     try:
-        return json.loads(
-            path.read_text(
-                encoding="utf-8"
-            )
-        )
-
+        data = json.loads(path.read_text(encoding="utf-8"))
     except Exception:
         print(
             f"WARNING: Could not read state for "
             f"{calendar_key}. Starting fresh."
         )
-
         return {}
 
+    if isinstance(data, dict) and "lessons" in data:
+        data = data["lessons"]
 
-def save_state(calendar_key, state):
-    STATE_DIR.mkdir(
-        parents=True,
-        exist_ok=True,
-    )
+    if not isinstance(data, dict):
+        return {}
+
+    return data
+
+
+def save_state(calendar_key, lessons):
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
+
+    state = {
+        lesson["uid"]: {
+            "uid": lesson["uid"],
+            "date": lesson["date"].isoformat(),
+            "start": f"{lesson['date'].isoformat()}T{lesson['start']}",
+            "end": f"{lesson['date'].isoformat()}T{lesson['end']}",
+            "subject": lesson["subject"],
+            "location": lesson.get("location", ""),
+            "raw": lesson.get("raw", ""),
+        }
+        for lesson in lessons
+    }
+
+    data = {"lessons": state}
 
     state_file(calendar_key).write_text(
         json.dumps(
-            state,
+            data,
             indent=2,
             ensure_ascii=False,
             sort_keys=True,
         ),
         encoding="utf-8",
     )
+
+
+def state_event_to_lesson(event):
+    try:
+        event_date = date.fromisoformat(event["date"])
+    except (KeyError, ValueError, TypeError):
+        return None
+
+    start = event.get("start", "")
+    end = event.get("end", "")
+
+    if "T" in start:
+        start = start.split("T", 1)[1]
+    elif len(start) >= 13 and start[8] == "T":
+        start = start[9:11] + ":" + start[11:13]
+
+    if "T" in end:
+        end = end.split("T", 1)[1]
+    elif len(end) >= 13 and end[8] == "T":
+        end = end[9:11] + ":" + end[11:13]
+
+    if len(start) >= 5:
+        start = start[:5]
+
+    if len(end) >= 5:
+        end = end[:5]
+
+    if not start or not end:
+        return None
+
+    return {
+        "uid": event.get("uid"),
+        "date": event_date,
+        "start": start,
+        "end": end,
+        "subject": event.get("subject", "UniSR Lesson"),
+        "location": event.get("location", ""),
+        "raw": event.get("raw", ""),
+    }
 
 
 def escape_ics(text):
@@ -387,9 +401,7 @@ def format_datetime(day, time_string):
 
 
 def generate_ics(lessons, cancelled):
-    now = datetime.utcnow().strftime(
-        "%Y%m%dT%H%M%SZ"
-    )
+    now = datetime.utcnow().strftime("%Y%m%dT%H%M%SZ")
 
     lines = [
         "BEGIN:VCALENDAR",
@@ -403,7 +415,6 @@ def generate_ics(lessons, cancelled):
     ]
 
     for lesson in lessons:
-
         start = format_datetime(
             lesson["date"],
             lesson["start"],
@@ -428,7 +439,6 @@ def generate_ics(lessons, cancelled):
         ])
 
     for event in cancelled:
-
         lines.extend([
             "BEGIN:VEVENT",
             f"UID:{event['uid']}",
@@ -453,35 +463,99 @@ def generate_ics(lessons, cancelled):
 def process_calendar(
     calendar_key,
     config,
-    all_lessons,
+    fresh_lessons,
+    checked_dates,
+    today,
 ):
-    lessons = filter_lessons(
-        all_lessons,
+    old_state = load_state(calendar_key)
+    old_lessons = []
+
+    for event in old_state.values():
+        lesson = state_event_to_lesson(event)
+
+        if lesson:
+            old_lessons.append(lesson)
+
+    fresh_lessons = filter_lessons(
+        fresh_lessons,
         config["line"],
     )
 
-    lessons = assign_uids(
-        lessons,
+    fresh_lessons = assign_uids(
+        fresh_lessons,
         calendar_key,
     )
 
+    fresh_by_uid = {
+        lesson["uid"]: lesson
+        for lesson in fresh_lessons
+    }
+
+    preserved_lessons = []
+
+    for lesson in old_lessons:
+        if lesson["date"] < today:
+            preserved_lessons.append(lesson)
+
+    current_lessons = [
+        lesson
+        for lesson in old_lessons
+        if lesson["date"] >= today
+        and lesson["date"] not in checked_dates
+    ]
+
+    current_lessons.extend(fresh_by_uid.values())
+
+    cancelled = []
+
+    for old_lesson in old_lessons:
+        if old_lesson["date"] < today:
+            continue
+
+        if old_lesson["date"] not in checked_dates:
+            continue
+
+        if old_lesson["uid"] in fresh_by_uid:
+            continue
+
+        cancelled.append({
+            "uid": old_lesson["uid"],
+            "start": format_datetime(
+                old_lesson["date"],
+                old_lesson["start"],
+            ),
+            "end": format_datetime(
+                old_lesson["date"],
+                old_lesson["end"],
+            ),
+            "subject": old_lesson["subject"],
+            "location": old_lesson.get("location", ""),
+        })
+
+        print(
+            f"  CANCELLED [{calendar_key}]: "
+            f"{old_lesson['date']} "
+            f"{old_lesson['subject']}"
+        )
+
+    all_lessons = preserved_lessons + current_lessons
+
     unique = {}
 
-    for lesson in lessons:
-
+    for lesson in all_lessons:
         key = (
+            lesson["uid"],
             lesson["date"],
             lesson["start"],
             lesson["end"],
             lesson["subject"],
             lesson["location"],
         )
-
         unique[key] = lesson
 
-    lessons = list(unique.values())
+    all_lessons = list(unique.values())
 
-    lessons.sort(
+    all_lessons.sort(
         key=lambda x: (
             x["date"],
             x["start"],
@@ -489,80 +563,33 @@ def process_calendar(
         )
     )
 
-    old_state = load_state(
-        calendar_key
-    )
-
-    current_state = {
-        lesson["uid"]: {
-            "uid": lesson["uid"],
-            "date": lesson["date"].isoformat(),
-            "start": format_datetime(
-                lesson["date"],
-                lesson["start"],
-            ),
-            "end": format_datetime(
-                lesson["date"],
-                lesson["end"],
-            ),
-            "subject": lesson["subject"],
-            "location": lesson["location"],
-        }
-        for lesson in lessons
-    }
-
-    cancelled = []
-
-    for uid, old_event in old_state.items():
-
-        if uid not in current_state:
-
-            print(
-                f"  CANCELLED [{calendar_key}]: "
-                f"{old_event.get('date')} "
-                f"{old_event.get('subject')}"
-            )
-
-            cancelled.append(old_event)
-
     ics = generate_ics(
-        lessons,
+        all_lessons,
         cancelled,
     )
 
-    output_file = Path(
-        config["filename"]
-    )
-
-    output_file.write_text(
+    output_path = Path(config["filename"])
+    output_path.write_text(
         ics,
         encoding="utf-8",
     )
 
     save_state(
         calendar_key,
-        current_state,
+        all_lessons,
     )
 
     print(
         f"  {calendar_key}: "
-        f"{len(lessons)} active, "
+        f"{len(all_lessons)} active, "
         f"{len(cancelled)} cancelled"
     )
 
+
 def main():
-
     today = date.today()
-
-    start_date = (
-        today
-        - timedelta(days=DAYS_BACK)
-    )
-
-    end_date = (
-        today
-        + timedelta(days=DAYS_FORWARD)
-    )
+    start_date = today - timedelta(days=DAYS_BACK)
+    end_date = today + timedelta(days=DAYS_FORWARD)
 
     print(
         f"Date range: "
@@ -571,37 +598,27 @@ def main():
         f"{end_date.strftime('%d/%m/%Y')}"
     )
 
-
     fetched_courses = {}
+    checked_courses = {}
 
     for calendar_key, config in OUTPUTS.items():
-
         course_id = config["course_id"]
         course_year = config["course_year"]
-
-        course_key = (
-            course_id,
-            course_year,
-        )
+        course_key = (course_id, course_year)
 
         if course_key in fetched_courses:
             continue
 
-        print()
         print(
-            f"Fetching course "
-            f"{course_id}, year "
-            f"{course_year}..."
+            f"\nFetching course "
+            f"{course_id}, year {course_year}..."
         )
 
         course_lessons = []
-
+        checked_dates = set()
         current = start_date
 
         while current <= end_date:
-
-
-
             if current.weekday() >= 5:
                 current += timedelta(days=1)
                 continue
@@ -618,12 +635,10 @@ def main():
             )
 
             try:
-
                 response = SESSION.get(
                     url,
                     timeout=30,
                 )
-
                 response.raise_for_status()
 
                 day_lessons = parse_day(
@@ -631,12 +646,10 @@ def main():
                     current,
                 )
 
-                course_lessons.extend(
-                    day_lessons
-                )
+                course_lessons.extend(day_lessons)
+                checked_dates.add(current)
 
             except Exception as exc:
-
                 print(
                     f"  ERROR "
                     f"{current.strftime('%d/%m/%Y')}: "
@@ -644,20 +657,14 @@ def main():
                 )
 
             current += timedelta(days=1)
-
             time.sleep(0.15)
 
-        fetched_courses[
-            course_key
-        ] = course_lessons
-
-
+        fetched_courses[course_key] = course_lessons
+        checked_courses[course_key] = checked_dates
 
     for calendar_key, config in OUTPUTS.items():
-
-        print()
         print(
-            f"Generating "
+            f"\nGenerating "
             f"{config['filename']}..."
         )
 
@@ -673,100 +680,17 @@ def main():
             )
         )
 
+        checked_dates = checked_courses.get(
+            course_key,
+            set(),
+        )
 
-
-        requested_line = config["line"]
-
-        if requested_line is not None:
-
-            filtered_lessons = []
-
-            for lesson in lessons:
-
-                line = extract_line(
-                    lesson["subject"]
-                )
-
-                if line == requested_line:
-                    filtered_lessons.append(
-                        lesson
-                    )
-
-            lessons = filtered_lessons
-
-
-        lessons = assign_uids(
-            lessons,
+        process_calendar(
             calendar_key,
-        )
-
-        current_uids = {
-            lesson["uid"]
-            for lesson in lessons
-        }
-
-
-        previous_uids = set(
-            load_state(
-                calendar_key
-            )
-        )
-
-
-        removed_uids = (
-            previous_uids
-            - current_uids
-        )
-
-        cancelled = []
-
-        for old_uid in removed_uids:
-
-            cancelled.append(
-                {
-                    "uid": old_uid,
-                    "start": datetime(
-                        today.year,
-                        today.month,
-                        today.day,
-                    ),
-                    "end": datetime(
-                        today.year,
-                        today.month,
-                        today.day,
-                    ),
-                    "subject": (
-                        "Cancelled UniSR lesson"
-                    ),
-                    "location": "",
-                }
-            )
-
-        ics = generate_ics(
+            config,
             lessons,
-            cancelled,
-        )
-
-        output_path = Path(
-            config["filename"]
-        )
-
-        output_path.write_text(
-            ics,
-            encoding="utf-8",
-        )
-
-        save_state(
-            calendar_key,
-            current_uids,
-        )
-
-        print(
-            f"  {len(lessons)} lessons"
-        )
-
-        print(
-            f"  {len(cancelled)} cancelled"
+            checked_dates,
+            today,
         )
 
 
