@@ -671,13 +671,24 @@
       }
 
       if (course === "international") {
-        selectedName.textContent =
-          courseNames[course] + " · " + year + " Course Year";
 
-        calendarUrl.textContent = url || "";
-        return;
-      }
+         selectedName.textContent =
 
+         courseNames[course] +
+
+         " · " +
+
+         (year === "1" ? "1st Year" : "2nd Year");
+
+         calendarUrl.textContent = url || "";
+
+         updateActionButtons();
+
+       return;
+
+  }
+
+  // M
       if (!line) {
         selectedName.textContent =
           courseNames[course] +
