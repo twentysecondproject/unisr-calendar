@@ -8,1760 +8,1913 @@ X-WR-CALDESC:UniSR timetable for calendars created by Filippo Genoni
 X-WR-TIMEZONE:Europe/Rome
 BEGIN:VEVENT
 UID:2035242a0cc176ad4323728e@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261005T093000
 DTEND;TZID=Europe/Rome:20261005T113000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c38934ee209820b5aa08690f@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261005T113000
 DTEND;TZID=Europe/Rome:20261005T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c5d46dc2366a960f92921126@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261005T143000
 DTEND;TZID=Europe/Rome:20261005T163000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:50e4d5c7981f27a1b361211a@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261006T093000
 DTEND;TZID=Europe/Rome:20261006T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf6cbd4b1018cdf0625bf873@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261006T113000
 DTEND;TZID=Europe/Rome:20261006T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:40079473baa7f3b3d7b48a96@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261006T143000
 DTEND;TZID=Europe/Rome:20261006T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:62ae7cc8325991e394c7695f@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261007T093000
 DTEND;TZID=Europe/Rome:20261007T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f1adb2d1007bdc989aa1481c@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261007T113000
 DTEND;TZID=Europe/Rome:20261007T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:61ad4c4876f4057f100564d5@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261007T143000
 DTEND;TZID=Europe/Rome:20261007T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
  I ANDREA)
 LOCATION:BORROMINI Aula BO302 (3 piano)
+ORGANIZER;CN=GRIGNOLIO CORSINI ANDREA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:72da571f7eb328a6e92b52cb@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261008T113000
 DTEND;TZID=Europe/Rome:20261008T133000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3858f8edcccb856846d524d9@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261008T143000
 DTEND;TZID=Europe/Rome:20261008T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7f6996f6f7de720655fd5b97@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261009T113000
 DTEND;TZID=Europe/Rome:20261009T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b3f9b3c579127be3a23a5336@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261009T143000
 DTEND;TZID=Europe/Rome:20261009T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b44666b46287c7134af32351@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261012T093000
 DTEND;TZID=Europe/Rome:20261012T113000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a2ad9fec52d95222c8d4a131@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261012T113000
 DTEND;TZID=Europe/Rome:20261012T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a2662b90ef438c73fd251c13@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261012T143000
 DTEND;TZID=Europe/Rome:20261012T163000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b396965bed8e98bcb957e63f@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261013T093000
 DTEND;TZID=Europe/Rome:20261013T113000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:BORROMINI Aula BO101 (1 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ae15d270c9d763d5467cdf63@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261013T113000
 DTEND;TZID=Europe/Rome:20261013T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:BORROMINI Aula BO101 (1 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:98be31af8514e8cec548516c@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261013T143000
 DTEND;TZID=Europe/Rome:20261013T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
 LOCATION:BORROMINI Aula BO202 (2 piano)
+ORGANIZER;CN=DI BIASE ROSA MARIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c0f30fc6cbd96292770ebc33@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261014T093000
 DTEND;TZID=Europe/Rome:20261014T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9986cae46124fa99c8fb3fe6@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261014T113000
 DTEND;TZID=Europe/Rome:20261014T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ca85c3aaed960609a37654b@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261014T143000
 DTEND;TZID=Europe/Rome:20261014T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
  I ANDREA)
 LOCATION:BORROMINI Aula BO302 (3 piano)
+ORGANIZER;CN=GRIGNOLIO CORSINI ANDREA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2fa37b49dbf5ec5b63533948@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261015T113000
 DTEND;TZID=Europe/Rome:20261015T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b332968b78a71743840e3248@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261015T143000
 DTEND;TZID=Europe/Rome:20261015T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:766af3650bfa196d2264a420@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261016T093000
 DTEND;TZID=Europe/Rome:20261016T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=FERRARI SAMUELE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1b04d129a4cf5c06a935083e@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261016T113000
 DTEND;TZID=Europe/Rome:20261016T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0701898ee7d09758c278eda8@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261016T143000
 DTEND;TZID=Europe/Rome:20261016T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0117d02ad005a3934019f989@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261019T093000
 DTEND;TZID=Europe/Rome:20261019T113000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7a8fa407c3ac9eb3e7afb43c@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261019T113000
 DTEND;TZID=Europe/Rome:20261019T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:021e42d2738501783d1773ef@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261019T143000
 DTEND;TZID=Europe/Rome:20261019T163000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e30979aca075d5891c8d1203@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261020T093000
 DTEND;TZID=Europe/Rome:20261020T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a4a7e7c88a2c5dc35da694fc@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261020T113000
 DTEND;TZID=Europe/Rome:20261020T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:27846c7444daed6ba8c04afe@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261020T143000
 DTEND;TZID=Europe/Rome:20261020T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ec47b82d677a2e099b4b4efe@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261021T093000
 DTEND;TZID=Europe/Rome:20261021T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=FERRARI SAMUELE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fb76930a626712b360edfcf8@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261021T113000
 DTEND;TZID=Europe/Rome:20261021T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:35f7e3f2840f3651a0dd892e@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261021T143000
 DTEND;TZID=Europe/Rome:20261021T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
  I ANDREA)
 LOCATION:BORROMINI Aula BO302 (3 piano)
+ORGANIZER;CN=GRIGNOLIO CORSINI ANDREA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5a2c988cdaeea159a77a2f1b@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261022T093000
 DTEND;TZID=Europe/Rome:20261022T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6f74b912c03f181836ef0b1f@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261022T113000
 DTEND;TZID=Europe/Rome:20261022T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
  I ANDREA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=GRIGNOLIO CORSINI ANDREA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cbec801d7a4f2b48ec67a8bd@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261022T143000
 DTEND;TZID=Europe/Rome:20261022T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:914d97141f6118b798140c3e@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261023T093000
 DTEND;TZID=Europe/Rome:20261023T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f84697af286295f5bf8c76ec@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261023T113000
 DTEND;TZID=Europe/Rome:20261023T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
  I ANDREA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=GRIGNOLIO CORSINI ANDREA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e764a25ed50d58ca49b10dc0@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261023T143000
 DTEND;TZID=Europe/Rome:20261023T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f2597f2473b52cde7c10591c@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261026T093000
 DTEND;TZID=Europe/Rome:20261026T113000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:12f6d78e64c2112b22dd106b@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261026T113000
 DTEND;TZID=Europe/Rome:20261026T133000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=FERRARI SAMUELE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf3bc4af782082f1e9999f5b@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261026T143000
 DTEND;TZID=Europe/Rome:20261026T163000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:016f4b1e4b6eb3c3effe281b@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261027T093000
 DTEND;TZID=Europe/Rome:20261027T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:55e825b536e50a3a9cd964f5@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261027T113000
 DTEND;TZID=Europe/Rome:20261027T133000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:07534ece904e9c4eca64894c@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261027T143000
 DTEND;TZID=Europe/Rome:20261027T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:BORROMINI Aula BO401 (4 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a7924a26c8da44b5815484b4@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261028T093000
 DTEND;TZID=Europe/Rome:20261028T113000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f1774fbce8131cbb1b639175@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261028T113000
 DTEND;TZID=Europe/Rome:20261028T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:81fade6880abcdc7b94527a4@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261028T143000
 DTEND;TZID=Europe/Rome:20261028T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
  I ANDREA)
 LOCATION:BORROMINI Aula BO302 (3 piano)
+ORGANIZER;CN=GRIGNOLIO CORSINI ANDREA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80eff7dce6f71c22489c3d45@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261029T093000
 DTEND;TZID=Europe/Rome:20261029T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
  I ANDREA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=GRIGNOLIO CORSINI ANDREA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a741137c6b375316ae596664@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261029T113000
 DTEND;TZID=Europe/Rome:20261029T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
  I ANDREA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=GRIGNOLIO CORSINI ANDREA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3d620ba45c0d0dfc80018a6d@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261029T143000
 DTEND;TZID=Europe/Rome:20261029T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:58b525c5fcb1c6037f647014@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261030T093000
 DTEND;TZID=Europe/Rome:20261030T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:72babd0b650c06318d770b9a@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261030T113000
 DTEND;TZID=Europe/Rome:20261030T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:22d53b5ab282a2f38ee4f523@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261030T143000
 DTEND;TZID=Europe/Rome:20261030T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
 LOCATION:BORROMINI Aula BO102 (1 piano)
+ORGANIZER;CN=DI BIASE ROSA MARIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:273fef7ebae83ce471a44cba@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261102T093000
 DTEND;TZID=Europe/Rome:20261102T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:81a98501633bbfb93b840af8@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261102T113000
 DTEND;TZID=Europe/Rome:20261102T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3cbd31db76b520df75a9c5f5@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261102T143000
 DTEND;TZID=Europe/Rome:20261102T163000
 SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ROSA DI BIASE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d825ba0405bfff3d4687d8fa@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261103T093000
 DTEND;TZID=Europe/Rome:20261103T113000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:00f15edcc5023d469378fda3@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261103T113000
 DTEND;TZID=Europe/Rome:20261103T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8f282500b1673bcd56c942cf@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261103T143000
 DTEND;TZID=Europe/Rome:20261103T163000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e13fd8fd57a6d51e675a67bd@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261104T093000
 DTEND;TZID=Europe/Rome:20261104T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=FERRARI SAMUELE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aab0f468b6497df5b60cdec0@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261104T113000
 DTEND;TZID=Europe/Rome:20261104T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2ad6cb70ae933b4e572192ea@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261104T143000
 DTEND;TZID=Europe/Rome:20261104T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSIN
  I ANDREA)
 LOCATION:BORROMINI Aula BO302 (3 piano)
+ORGANIZER;CN=GRIGNOLIO CORSINI ANDREA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:12c54aed1ecd7e39e7dd7942@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261104T153000
 DTEND;TZID=Europe/Rome:20261104T173000
 SUMMARY:Lezione: Basic medical statistics (docente: TRAVERSO ALBERTO)
 LOCATION:BORROMINI Aula BO102 (1 piano)
+ORGANIZER;CN=TRAVERSO ALBERTO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2c17584f1afa2e311a4261f5@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261105T093000
 DTEND;TZID=Europe/Rome:20261105T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b546f6f1c34b2bd2eed46ecc@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261105T143000
 DTEND;TZID=Europe/Rome:20261105T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6dd6f92bc4868d53ddbaf0f5@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261106T093000
 DTEND;TZID=Europe/Rome:20261106T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=ANELLI TIZIANA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:207148677cbdcbf1b5ac9105@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261106T113000
 DTEND;TZID=Europe/Rome:20261106T133000
 SUMMARY:Lezione: Medical Physics (docente: MAZZA DAVIDE)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=MAZZA DAVIDE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2482b8a70fddf1a4a192775a@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261106T143000
 DTEND;TZID=Europe/Rome:20261106T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:125279c0c01082d28127e100@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261109T093000
 DTEND;TZID=Europe/Rome:20261109T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e8141c0b293030dc197eb206@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261109T113000
 DTEND;TZID=Europe/Rome:20261109T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1e4325d7325d947d362c064b@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261109T143000
 DTEND;TZID=Europe/Rome:20261109T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:BORROMINI Aula BO202 (2 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c75cd6287df440553fa019a3@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261110T093000
 DTEND;TZID=Europe/Rome:20261110T113000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:BORROMINI Aula BO201 (2 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7f375ba173884b57bbf33e16@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261110T113000
 DTEND;TZID=Europe/Rome:20261110T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:BORROMINI Aula BO201 (2 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa441e4d8e5119fd3e1f9abb@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261110T143000
 DTEND;TZID=Europe/Rome:20261110T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e8dc12147ba7915b7b082e11@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261111T093000
 DTEND;TZID=Europe/Rome:20261111T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=ANELLI TIZIANA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ed92da46d5d829431feb91a9@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261111T113000
 DTEND;TZID=Europe/Rome:20261111T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:233b0f4b694c50f29ac57673@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261111T143000
 DTEND;TZID=Europe/Rome:20261111T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:67513f236ea335d4f27d1e89@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261112T093000
 DTEND;TZID=Europe/Rome:20261112T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9284e29a3dfd594d140d391@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261112T113000
 DTEND;TZID=Europe/Rome:20261112T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=CONTU FEDERICO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3453196355514d22ee8e0557@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261112T143000
 DTEND;TZID=Europe/Rome:20261112T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1ceadf02d58b0165e649883e@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261113T093000
 DTEND;TZID=Europe/Rome:20261113T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=ANELLI TIZIANA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19aa1ae64e4529adc747fab2@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261113T113000
 DTEND;TZID=Europe/Rome:20261113T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DI BIASE ROSA MARIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1078f43cd6470c54c8cf6bba@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261113T143000
 DTEND;TZID=Europe/Rome:20261113T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9fd859b599212b2f886b8ea4@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261116T093000
 DTEND;TZID=Europe/Rome:20261116T113000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:338839e602fc65e431500879@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261116T113000
 DTEND;TZID=Europe/Rome:20261116T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:619dd75e7e5dc7790b79ffaa@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261116T143000
 DTEND;TZID=Europe/Rome:20261116T163000
 SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ROSA DI BIASE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3af0c19ee1e6bf147235bfc1@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261117T093000
 DTEND;TZID=Europe/Rome:20261117T113000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ece6a16c4c2a82a741e513b0@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261117T113000
 DTEND;TZID=Europe/Rome:20261117T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d4797686055034444e9a0a56@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261117T143000
 DTEND;TZID=Europe/Rome:20261117T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ded4f3af07d8086eef53e3a@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261118T093000
 DTEND;TZID=Europe/Rome:20261118T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=ANELLI TIZIANA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9ca70e55a3b1def342865a94@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261118T113000
 DTEND;TZID=Europe/Rome:20261118T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3f6cf92f01f162d6eda4cc5a@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261118T143000
 DTEND;TZID=Europe/Rome:20261118T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:BORROMINI Aula BO302 (3 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7430db4f92d15e8b7e1680d9@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261119T093000
 DTEND;TZID=Europe/Rome:20261119T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b26b466f8be8dcf5dd652f81@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261119T113000
 DTEND;TZID=Europe/Rome:20261119T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=CONTU FEDERICO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:27bc8cf57745547422c763d1@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261119T143000
 DTEND;TZID=Europe/Rome:20261119T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:74970db1081e40c40db2f28b@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261120T093000
 DTEND;TZID=Europe/Rome:20261120T113000
 SUMMARY:Lezione: Molecular cell biology (docente: ANELLI TIZIANA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=ANELLI TIZIANA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e95f87e34d5a991bc2ff03f7@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261120T113000
 DTEND;TZID=Europe/Rome:20261120T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DI BIASE ROSA MARIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:859945042c201dfad2336353@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261120T143000
 DTEND;TZID=Europe/Rome:20261120T163000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bff653aa5dc3502b13f54282@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261123T093000
 DTEND;TZID=Europe/Rome:20261123T113000
 SUMMARY:Lezione: Medical Physics (docente: ALOI ERIKA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ALOI ERIKA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f07d89df614e623d8db3438@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261123T113000
 DTEND;TZID=Europe/Rome:20261123T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=DI SERIO MARIACLELIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:133802b9454365fa2e1eacf8@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261123T143000
 DTEND;TZID=Europe/Rome:20261123T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DI SERIO MARIACLELIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:407ef069987b1a88350eea6f@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261124T113000
 DTEND;TZID=Europe/Rome:20261124T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e88b462008f14c383a0cb7b@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261124T143000
 DTEND;TZID=Europe/Rome:20261124T163000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=FIORINO CLAUDIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5d85e9225e03bc8c3b886729@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261125T093000
 DTEND;TZID=Europe/Rome:20261125T113000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=FIORINO CLAUDIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:54e6e9c30bab99cfccdb6158@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261125T113000
 DTEND;TZID=Europe/Rome:20261125T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9189b7e56eb7e86d2c06ae01@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261125T143000
 DTEND;TZID=Europe/Rome:20261125T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d24687a473c8049f8d38141b@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261126T093000
 DTEND;TZID=Europe/Rome:20261126T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:09eaee00758f43e415f212ed@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261126T113000
 DTEND;TZID=Europe/Rome:20261126T133000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=CONTU FEDERICO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0cf7256b0f3d1ccbcd0c1b23@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261126T143000
 DTEND;TZID=Europe/Rome:20261126T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5534d9455b36dd0fba535cfd@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261127T093000
 DTEND;TZID=Europe/Rome:20261127T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:08c678a504f7d0d7d1ee39d1@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261127T113000
 DTEND;TZID=Europe/Rome:20261127T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DI BIASE ROSA MARIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9335ff60a71e4c8d0ed0d51e@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261127T143000
 DTEND;TZID=Europe/Rome:20261127T163000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=FIORINO CLAUDIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d38b804d0d0bd0ce45a60a1e@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261130T093000
 DTEND;TZID=Europe/Rome:20261130T113000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=FIORINO CLAUDIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:998bf584e949e97c2292dea0@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261130T113000
 DTEND;TZID=Europe/Rome:20261130T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MA
  SSIMO)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=DEGANO MASSIMO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:98ad825442d610fb72344630@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261130T143000
 DTEND;TZID=Europe/Rome:20261130T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DI SERIO MARIACLELIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9827da7f23af6540dcdcd9cd@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261201T113000
 DTEND;TZID=Europe/Rome:20261201T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
  AVIO )
 LOCATION:BORROMINI Aula BO402 (4 piano)
+ORGANIZER;CN=CURNIS FLAVIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69a1f3ad65e76d34e8cf7327@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261201T143000
 DTEND;TZID=Europe/Rome:20261201T163000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DI BIASE ROSA MARIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a59c5715b5bb45aebf568bd@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261202T093000
 DTEND;TZID=Europe/Rome:20261202T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c017710de91c03658a1eeb16@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261202T113000
 DTEND;TZID=Europe/Rome:20261202T133000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=FIORINO CLAUDIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2cdcadedcf2cd60f718ed0e5@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261202T143000
 DTEND;TZID=Europe/Rome:20261202T163000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELL
  IS)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=JOHN MICHAEL ELLIS:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2023fa3d9cd3801faa1e10e4@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261203T093000
 DTEND;TZID=Europe/Rome:20261203T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c1508e2c4649274e531c1ad3@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261203T113000
 DTEND;TZID=Europe/Rome:20261203T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:56a3f109f14a7f2c5db0cb62@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261203T143000
 DTEND;TZID=Europe/Rome:20261203T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
  AVIO )
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=CURNIS FLAVIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:22476c0add3f2b926ff929c1@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261204T093000
 DTEND;TZID=Europe/Rome:20261204T113000
 SUMMARY:Lezione: Medical Physics (docente: FIORINO CLAUDIO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=FIORINO CLAUDIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d6145b168f7cb9dd4bb5dac0@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261204T113000
 DTEND;TZID=Europe/Rome:20261204T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
  AVIO )
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=CURNIS FLAVIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8401ee6faa0e9b6ac9aa0d9a@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261204T143000
 DTEND;TZID=Europe/Rome:20261204T163000
 SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
 LOCATION:
+ORGANIZER;CN=ROSA DI BIASE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:04776e4683b030bd893e4c05@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261209T093000
 DTEND;TZID=Europe/Rome:20261209T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=FERRARI SAMUELE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d40653596edbd11b8187b9ef@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261209T113000
 DTEND;TZID=Europe/Rome:20261209T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DI BIASE ROSA MARIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:29a4cdd0b915e48989b3b147@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261210T093000
 DTEND;TZID=Europe/Rome:20261210T113000
 SUMMARY:Lezione: Medicine as a Human Endeavour (docente: CONTU FEDERICO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=CONTU FEDERICO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:21b39b40251d8bfb03a68f47@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261210T113000
 DTEND;TZID=Europe/Rome:20261210T133000
 SUMMARY:Lezione: Basic medical statistics (docente: DI BIASE ROSA MARIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=DI BIASE ROSA MARIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:260816f4947b8f25cfcf6b21@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261210T143000
 DTEND;TZID=Europe/Rome:20261210T163000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
 LOCATION:VASARI Aula VA401 (4 piano)
+ORGANIZER;CN=PALMISANO ANNA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:71f67886c4721e9fee2ee0c3@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261211T093000
 DTEND;TZID=Europe/Rome:20261211T113000
 SUMMARY:Lezione: Molecular cell biology (docente: FERRARI SAMUELE)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=FERRARI SAMUELE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1cd94adb060214c91d63637f@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261211T113000
 DTEND;TZID=Europe/Rome:20261211T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
  AVIO )
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=CURNIS FLAVIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f4360c0cb4ebbd198577b48f@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261211T143000
 DTEND;TZID=Europe/Rome:20261211T163000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=PALMISANO ANNA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0b6207d25607de16a2493bcd@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261214T093000
 DTEND;TZID=Europe/Rome:20261214T113000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=PALMISANO ANNA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fdd4548eb9ff6041140fa339@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261214T113000
 DTEND;TZID=Europe/Rome:20261214T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FL
  AVIO )
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=CURNIS FLAVIO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6c66ee9922bff58915fbd7d8@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261214T143000
 DTEND;TZID=Europe/Rome:20261214T163000
 SUMMARY:Lezione: Basic medical statistics (docente: ROSA DI BIASE )
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=ROSA DI BIASE:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0938e1bcaa7c34ce52f9649f@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261215T093000
 DTEND;TZID=Europe/Rome:20261215T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:CANOVA Aula CA202 (2 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d92602e47db728832f4a4488@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261215T113000
 DTEND;TZID=Europe/Rome:20261215T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
  ELO)
 LOCATION:CANOVA Aula CA202 (2 piano)
+ORGANIZER;CN=CORTI ANGELO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1aacbb971aeea9d9401a9bad@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261215T143000
 DTEND;TZID=Europe/Rome:20261215T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
  ELO)
 LOCATION:CANOVA Aula CA202 (2 piano)
+ORGANIZER;CN=CORTI ANGELO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:abfe665172e5bc00ebd567d4@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261216T093000
 DTEND;TZID=Europe/Rome:20261216T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:17d461f55a0e7a21f0780a93@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261216T113000
 DTEND;TZID=Europe/Rome:20261216T133000
 SUMMARY:Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA 
  VITTORIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=RANCOITA PAOLA MARIA VITTORIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1d1570cd9d584856678a4356@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261216T143000
 DTEND;TZID=Europe/Rome:20261216T163000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=PALMISANO ANNA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6987a5fec5afe11f28511e03@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261217T093000
 DTEND;TZID=Europe/Rome:20261217T113000
 SUMMARY:Lezione: Medical Physics (docente: PALMISANO ANNA)
 LOCATION:CANOVA Aula CA301 (3 piano)
+ORGANIZER;CN=PALMISANO ANNA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:35fb4861f7208f9b634104df@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261217T113000
 DTEND;TZID=Europe/Rome:20261217T133000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
  ELO)
 LOCATION:VASARI Aula VA401 (4 piano)
+ORGANIZER;CN=CORTI ANGELO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:01d4f94d5dad0a4fe3324c3e@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261217T143000
 DTEND;TZID=Europe/Rome:20261217T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
  ELO)
 LOCATION:VASARI Aula VA401 (4 piano)
+ORGANIZER;CN=CORTI ANGELO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:00590a9c42748a9f89573766@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261218T093000
 DTEND;TZID=Europe/Rome:20261218T113000
 SUMMARY:Lezione: Molecular cell biology (docente: LATORRE DANIELA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=LATORRE DANIELA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2aaf553fb60aea4dd29c6c98@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261218T113000
 DTEND;TZID=Europe/Rome:20261218T133000
 SUMMARY:Lezione: Medical Physics (docente: PICCHIO MARIA)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=PICCHIO MARIA:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e01c059d6be0a8a7f9e3aff4@unirsr-calendar
-DTSTAMP:20260911T045716Z
+DTSTAMP:20260911T110746Z
 DTSTART;TZID=Europe/Rome:20261218T143000
 DTEND;TZID=Europe/Rome:20261218T163000
 SUMMARY:Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANG
  ELO)
 LOCATION:VASARI Aula VA402 (4 piano)
+ORGANIZER;CN=CORTI ANGELO:urn:unirsr:organizer
 DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on In
  stagram @fil_genna
 STATUS:CONFIRMED
