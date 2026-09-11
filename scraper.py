@@ -206,6 +206,19 @@ def extract_rows(html: str, day: date):
     return unique
 
 
+def extract_professor(subject):
+    match = re.search(
+        r"\(docente:\s*([^)]*)\)",
+        subject,
+        flags=re.IGNORECASE,
+    )
+
+    if not match:
+        return None
+
+    return clean_text(match.group(1)).upper()
+
+
 def parse_lesson(lesson):
     cells = lesson["cells"]
     combined = " | ".join(cells)
@@ -229,14 +242,18 @@ def parse_lesson(lesson):
         if not subject:
             subject = "UniSR Lesson"
 
+    professor = extract_professor(subject)
+
     return {
         "date": lesson["date"],
         "start": lesson["start"],
         "end": lesson["end"],
         "subject": subject,
+        "professor": professor,
         "location": clean_text(lesson.get("location", "")),
         "raw": lesson["raw"],
     }
+
 
 
 def parse_day(html: str, day: date):
@@ -475,6 +492,7 @@ def generate_ics(lessons, cancelled):
             f"DTEND;TZID=Europe/Rome:{end}",
             f"SUMMARY:{escape_ics(lesson['subject'])}",
             f"LOCATION:{escape_ics(lesson['location'])}",
+            f"ORGANIZER;CN={escape_ics(lesson.get('professor', ''))}:urn:unirsr:organizer",
             "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
             "STATUS:CONFIRMED",
             "END:VEVENT",
