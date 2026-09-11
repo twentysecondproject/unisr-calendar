@@ -12,6 +12,13 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://orario.unisr.it/default.asp"
 DAYS_BACK = 0
 DAYS_FORWARD = 150
+TEACHING_SUSPENSIONS = [
+    (date(2026, 12, 7), date(2026, 12, 8)),
+    (date(2026, 12, 23), date(2027, 1, 6)),
+    (date(2027, 3, 29), date(2027, 3, 29)),
+    (date(2027, 5, 31), date(2027, 6, 2)),
+    (date(2027, 8, 2), date(2027, 8, 27)),
+]
 
 OUTPUTS = {
     "international-md-year1": {
@@ -459,7 +466,23 @@ def format_datetime(day, time_string):
     )
 
 
-def generate_ics(lessons, cancelled):
+def generate_suspension_events(start_date, end_date):
+    events = []
+
+    for suspension_start, suspension_end in TEACHING_SUSPENSIONS:
+        if suspension_end < start_date or suspension_start > end_date:
+            continue
+
+        events.append({
+            "start": suspension_start,
+            "end": suspension_end,
+            "summary": "Sospensione didattica/Public Holiday",
+        })
+
+    return events
+
+
+def generate_ics(lessons, cancelled, start_date, end_date):
     now = datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
 
     lines = [
@@ -472,6 +495,26 @@ def generate_ics(lessons, cancelled):
         "X-WR-CALDESC:UniSR timetable for calendars created by Filippo Genoni",
         "X-WR-TIMEZONE:Europe/Rome",
     ]
+
+    suspension_events = generate_suspension_events(
+        start_date,
+        end_date,
+    )
+
+    for event in suspension_events:
+        dtstart = event["start"].strftime("%Y%m%d")
+        dtend = (event["end"] + timedelta(days=1)).strftime("%Y%m%d")
+
+        lines.extend([
+            "BEGIN:VEVENT",
+            f"UID:suspension-{dtstart}-{dtend}@unirsr-calendar",
+            f"DTSTAMP:{now}",
+            f"DTSTART;VALUE=DATE:{dtstart}",
+            f"DTEND;VALUE=DATE:{dtend}",
+            f"SUMMARY:{escape_ics(event['summary'])}",
+            "STATUS:CONFIRMED",
+            "END:VEVENT",
+        ])
 
     for lesson in lessons:
         start = format_datetime(
@@ -624,9 +667,10 @@ def process_calendar(
     )
 
     ics = generate_ics(
-        all_lessons,
-        cancelled,
-    )
+    all_lessons,
+    cancelled,
+    today - timedelta(days=DAYS_BACK),
+    today + timedelta(days=DAYS_FORWARD),)
 
     output_path = Path(config["filename"])
     output_path.write_text(
