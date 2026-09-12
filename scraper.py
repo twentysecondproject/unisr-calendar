@@ -141,12 +141,10 @@ def extract_rows(html: str, day: date):
     soup = BeautifulSoup(html, "html.parser")
     lessons = []
     current_location = ""
-    current_location_url = ""
 
     for table in soup.find_all("table"):
         for tr in table.find_all("tr"):
             row_text = clean_text(tr.get_text(" ", strip=True))
-            location_url = ""
 
             location_match = re.search(
                 r"([A-ZÀ-ÖØ-Ý0-9 .'-]+)\s*-\s*Aula\s+"
@@ -164,16 +162,6 @@ def extract_rows(html: str, day: date):
 
                 if floor:
                     current_location += f" ({floor})"
-
-                map_link = next((a for a in tr.find_all("a", href=True)
-                    if "2guide.cloud/maps" in a["href"]), None,)
-
-                if not map_link:
-                    raise ValueError(
-                        f"Map URL not found for {current_location}")
-
-                current_location_url = map_link["href"]
-
 
             cells = [
                 clean_text(cell.get_text(" ", strip=True))
@@ -204,7 +192,6 @@ def extract_rows(html: str, day: date):
                 "raw": combined,
                 "cells": cells,
                 "location": current_location,
-                "location_url": current_location_url,
             })
 
     unique = []
@@ -271,7 +258,6 @@ def parse_lesson(lesson):
         "subject": subject,
         "professor": professor,
         "location": clean_text(lesson.get("location", "")),
-        "location_url": lesson.get("location_url", ""),
         "raw": lesson["raw"],
     }
 
@@ -394,7 +380,6 @@ def save_state(calendar_key, lessons):
             "end": f"{lesson['date'].isoformat()}T{lesson['end']}",
             "subject": lesson["subject"],
             "location": lesson.get("location", ""),
-            "location_url": lesson.get("location_url", ""),
             "raw": lesson.get("raw", ""),
         }
         for lesson in lessons
@@ -448,7 +433,6 @@ def state_event_to_lesson(event):
         "end": end,
         "subject": event.get("subject", "UniSR Lesson"),
         "location": event.get("location", ""),
-        "location_url": event.get("location_url", ""),
         "raw": event.get("raw", ""),
     }
 
@@ -551,7 +535,6 @@ def generate_ics(lessons, cancelled, start_date, end_date):
             f"DTEND;TZID=Europe/Rome:{end}",
             f"SUMMARY:{escape_ics(lesson['subject'])}",
             f"LOCATION:{escape_ics(lesson['location'])}",
-            f"URL:{escape_ics(lesson.get('location_url', ''))}",
             f"ORGANIZER;CN={escape_ics(lesson.get('professor', ''))}:urn:unirsr:organizer",
             "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
             "STATUS:CONFIRMED",
@@ -567,7 +550,6 @@ def generate_ics(lessons, cancelled, start_date, end_date):
             f"DTEND;TZID=Europe/Rome:{event['end']}",
             f"SUMMARY:{escape_ics(event['subject'])}",
             f"LOCATION:{escape_ics(event.get('location', ''))}",
-            f"URL:{escape_ics(lesson.get('location_url', ''))}",
             "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
             "STATUS:CANCELLED",
             "END:VEVENT",
