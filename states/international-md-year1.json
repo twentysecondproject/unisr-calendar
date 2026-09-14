@@ -504,15 +504,6 @@
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
       "uid": "407ef069987b1a88350eea6f@unirsr-calendar"
     },
-    "50e4d5c7981f27a1b361211a@unirsr-calendar": {
-      "date": "2026-10-06",
-      "end": "2026-10-06T11:30",
-      "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE DANIELA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-06T09:30",
-      "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
-      "uid": "50e4d5c7981f27a1b361211a@unirsr-calendar"
-    },
     "54e6e9c30bab99cfccdb6158@unirsr-calendar": {
       "date": "2026-11-25",
       "end": "2026-11-25T13:30",
@@ -737,6 +728,15 @@
       "start": "2026-10-19T11:30",
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
       "uid": "7a8fa407c3ac9eb3e7afb43c@unirsr-calendar"
+    },
+    "7c0de99275700f87870a3352@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T11:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE DANIELA/ROBERTO SITIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-06T09:30",
+      "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA/ROBERTO SITIA)",
+      "uid": "7c0de99275700f87870a3352@unirsr-calendar"
     },
     "7f375ba173884b57bbf33e16@unirsr-calendar": {
       "date": "2026-11-10",
@@ -980,15 +980,6 @@
       "start": "2026-11-04T11:30",
       "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
       "uid": "aab0f468b6497df5b60cdec0@unirsr-calendar"
-    },
-    "abfe665172e5bc00ebd567d4@unirsr-calendar": {
-      "date": "2026-12-16",
-      "end": "2026-12-16T11:30",
-      "location": "VASARI Aula VA402 (4 piano)",
-      "raw": "09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE DANIELA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-12-16T09:30",
-      "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
-      "uid": "abfe665172e5bc00ebd567d4@unirsr-calendar"
     },
     "ae15d270c9d763d5467cdf63@unirsr-calendar": {
       "date": "2026-10-13",
@@ -1304,6 +1295,15 @@
       "start": "2026-11-11T11:30",
       "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
       "uid": "ed92da46d5d829431feb91a9@unirsr-calendar"
+    },
+    "f07312a83515c5dad53c3e36@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T11:30",
+      "location": "VASARI Aula VA402 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Molecular cell biology (docente: LATORRE DANIELA/ROBERTO SITIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-16T09:30",
+      "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA/ROBERTO SITIA)",
+      "uid": "f07312a83515c5dad53c3e36@unirsr-calendar"
     },
     "f1774fbce8131cbb1b639175@unirsr-calendar": {
       "date": "2026-10-28",
