@@ -363,7 +363,7 @@
     "32bdb166d04e76b64236d6bc@unirsr-calendar": {
       "date": "2026-10-20",
       "end": "2026-10-20T15:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
+      "location": "BORROMINI Aula BO202 (2 piano)",
       "raw": "13:30-15:30 | Lezione: Human Anatomy (docente: CREMONA OTTAVIO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
       "start": "2026-10-20T13:30",
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
@@ -404,6 +404,15 @@
       "start": "2026-12-01T10:30",
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "3b6108b8d140e79dec23c688@unirsr-calendar"
+    },
+    "3baddd901d6143bbb795e9d1@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T12:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Human Histology (docente: ANGELA GRITTI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-16T10:30",
+      "subject": "Lezione: Human Histology (docente: ANGELA GRITTI)",
+      "uid": "3baddd901d6143bbb795e9d1@unirsr-calendar"
     },
     "3c617a24c82a38303f1a2a54@unirsr-calendar": {
       "date": "2026-11-20",
@@ -494,6 +503,15 @@
       "start": "2027-01-13T13:30",
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "417588496127220fb363cd51@unirsr-calendar"
+    },
+    "42dee520742fa5695da571b8@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T12:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Human Histology (docente: ANGELA GRITTI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-09T10:30",
+      "subject": "Lezione: Human Histology (docente: ANGELA GRITTI)",
+      "uid": "42dee520742fa5695da571b8@unirsr-calendar"
     },
     "4477c3d5b8c7a25d700bc87b@unirsr-calendar": {
       "date": "2026-11-19",
@@ -975,7 +993,7 @@
     "8b0fc6f5b2e20543fb4f5a09@unirsr-calendar": {
       "date": "2026-10-06",
       "end": "2026-10-06T12:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
+      "location": "BORROMINI Aula BO101 (1 piano)",
       "raw": "10:30-12:30 | Lezione: Physiology (docente: BUCCINO GIOVANNI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
       "start": "2026-10-06T10:30",
       "subject": "Lezione: Physiology (docente: BUCCINO GIOVANNI)",
