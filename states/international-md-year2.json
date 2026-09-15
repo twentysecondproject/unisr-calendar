@@ -117,6 +117,15 @@
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "106e231bf23d943025b1c0a5@unirsr-calendar"
     },
+    "11cb6f2559e1727e5029af34@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T12:30",
+      "location": "BORROMINI Aula BO302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Human Histology (docente: ANGELA GRITTI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-27T10:30",
+      "subject": "Lezione: Human Histology (docente: ANGELA GRITTI)",
+      "uid": "11cb6f2559e1727e5029af34@unirsr-calendar"
+    },
     "14b1978bf3e486ebd64ecc01@unirsr-calendar": {
       "date": "2026-11-25",
       "end": "2026-11-25T17:30",
@@ -143,15 +152,6 @@
       "start": "2026-10-19T10:30",
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "18947b6273893d2033d1f018@unirsr-calendar"
-    },
-    "193d612f013128d1d86c2d89@unirsr-calendar": {
-      "date": "2026-12-14",
-      "end": "2026-12-14T12:30",
-      "location": "VASARI Aula VA401 (4 piano)",
-      "raw": "10:30-12:30 | Lezione: Human Anatomy (docente: CASONI FILIPPO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-14T10:30",
-      "subject": "Lezione: Human Anatomy (docente: CASONI FILIPPO)",
-      "uid": "193d612f013128d1d86c2d89@unirsr-calendar"
     },
     "199f9f912b5a6c75cc8eeae0@unirsr-calendar": {
       "date": "2026-11-02",
@@ -684,6 +684,15 @@
       "subject": "Lezione: Flow cytometry in translational and clinical science (docente: ANSELMO ACHILLE)",
       "uid": "5cf3c517dcc78dd432d64a8a@unirsr-calendar"
     },
+    "5d357185c3ba149fe8e05315@unirsr-calendar": {
+      "date": "2026-12-14",
+      "end": "2026-12-14T12:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Human Anatomy (docente: CASONI FILIPPO/FALLETTA PAOLA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-14T10:30",
+      "subject": "Lezione: Human Anatomy (docente: CASONI FILIPPO/FALLETTA PAOLA)",
+      "uid": "5d357185c3ba149fe8e05315@unirsr-calendar"
+    },
     "5d79eeb36d47ee36093ac9ad@unirsr-calendar": {
       "date": "2026-10-12",
       "end": "2026-10-12T15:30",
@@ -818,6 +827,15 @@
       "start": "2026-12-09T15:30",
       "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
       "uid": "6ec97506c410d57907b48c30@unirsr-calendar"
+    },
+    "7182f067a2c4fe9076e66c9f@unirsr-calendar": {
+      "date": "2026-12-04",
+      "end": "2026-12-04T12:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Human Histology (docente: ANGELA GRITTI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-04T10:30",
+      "subject": "Lezione: Human Histology (docente: ANGELA GRITTI)",
+      "uid": "7182f067a2c4fe9076e66c9f@unirsr-calendar"
     },
     "720dda46694eb963d34206cb@unirsr-calendar": {
       "date": "2026-11-23",
@@ -1224,6 +1242,15 @@
       "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: MONTAGNA MARCO)",
       "uid": "a8e706301ca161c94baf2568@unirsr-calendar"
     },
+    "ad060879e90789ce962dc28d@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T15:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "13:30-15:30 | Lezione: Human Anatomy (docente: CREMONA OTTAVIO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-16T13:30",
+      "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
+      "uid": "ad060879e90789ce962dc28d@unirsr-calendar"
+    },
     "ad8a9ebab88987a4df3797da@unirsr-calendar": {
       "date": "2026-10-15",
       "end": "2026-10-15T15:30",
@@ -1422,6 +1449,15 @@
       "subject": "Lezione: Physiology (docente: BUCCINO GIOVANNI)",
       "uid": "c26a17b26f557c4fdebeccf0@unirsr-calendar"
     },
+    "c2815cb39f86e0be8ad8b662@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T12:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Human Anatomy (docente: CASONI FILIPPO/FALLETTA PAOLA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-15T10:30",
+      "subject": "Lezione: Human Anatomy (docente: CASONI FILIPPO/FALLETTA PAOLA)",
+      "uid": "c2815cb39f86e0be8ad8b662@unirsr-calendar"
+    },
     "c4e683d299655801dec180c8@unirsr-calendar": {
       "date": "2026-10-22",
       "end": "2026-10-22T12:30",
@@ -1457,15 +1493,6 @@
       "start": "2026-12-14T15:30",
       "subject": "Lezione: Introduction to mouse models for preclinical research (docente: CAMISA BARBARA)",
       "uid": "c67bf0a3ed3315d64e209cd8@unirsr-calendar"
-    },
-    "c6844795f12badaa3671c611@unirsr-calendar": {
-      "date": "2026-12-15",
-      "end": "2026-12-15T12:30",
-      "location": "CANOVA Aula CA302 (3 piano)",
-      "raw": "10:30-12:30 | Lezione: Human Anatomy (docente: CASONI FILIPPO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-15T10:30",
-      "subject": "Lezione: Human Anatomy (docente: CASONI FILIPPO)",
-      "uid": "c6844795f12badaa3671c611@unirsr-calendar"
     },
     "c6f7334b42807d7eb9a56a87@unirsr-calendar": {
       "date": "2026-11-04",
@@ -1701,6 +1728,15 @@
       "subject": "Lezione: Health Communication and Misinformation (docente: FLORIS MARA)",
       "uid": "ec2fa390ce5f9f475841c96b@unirsr-calendar"
     },
+    "f023299e30af8211869a0684@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T12:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Human Histology (docente: ANGELA GRITTI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-06T10:30",
+      "subject": "Lezione: Human Histology (docente: ANGELA GRITTI)",
+      "uid": "f023299e30af8211869a0684@unirsr-calendar"
+    },
     "f0685d233292c22b13ce6984@unirsr-calendar": {
       "date": "2026-10-02",
       "end": "2026-10-02T12:30",
@@ -1736,6 +1772,15 @@
       "start": "2026-10-19T15:30",
       "subject": "Lezione: Gerontology and Geriatrics: the bases of aging and age-related diseases. (docente: CENCI SIMONE)",
       "uid": "f4d92b5affe1cbdc50fa0e58@unirsr-calendar"
+    },
+    "f4ec0720dffb72c1c4f8e105@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T12:30",
+      "location": "BORROMINI Aula BO402 (4 piano)",
+      "raw": "10:30-12:30 | Lezione: Human Histology (docente: ANGELA GRITTI) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-23T10:30",
+      "subject": "Lezione: Human Histology (docente: ANGELA GRITTI)",
+      "uid": "f4ec0720dffb72c1c4f8e105@unirsr-calendar"
     },
     "f50d68f8963c7926232ac136@unirsr-calendar": {
       "date": "2026-11-03",

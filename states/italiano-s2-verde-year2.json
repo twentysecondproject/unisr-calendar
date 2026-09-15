@@ -531,15 +531,6 @@
       "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: BETTEGAZZI BARBARA)",
       "uid": "47db3913cda869e3c094a060@unirsr-calendar"
     },
-    "47f9e49d342839c39676f6aa@unirsr-calendar": {
-      "date": "2026-10-19",
-      "end": "2026-10-19T12:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-19T10:30",
-      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "47f9e49d342839c39676f6aa@unirsr-calendar"
-    },
     "4c9ea592c950c1dace1d3545@unirsr-calendar": {
       "date": "2026-12-11",
       "end": "2026-12-11T15:30",
@@ -566,15 +557,6 @@
       "start": "2026-09-29T13:30",
       "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO)",
       "uid": "5834ba2d0afab0ec1ad4cf7b@unirsr-calendar"
-    },
-    "5b51ba2bccafc15932f83ae6@unirsr-calendar": {
-      "date": "2026-11-13",
-      "end": "2026-11-13T17:30",
-      "location": "BORROMINI Aula BO301 (3 piano)",
-      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-11-13T15:30",
-      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "5b51ba2bccafc15932f83ae6@unirsr-calendar"
     },
     "5beb14e825519b8dd95d16bd@unirsr-calendar": {
       "date": "2026-10-02",
@@ -810,15 +792,6 @@
       "subject": "Lezione: Istologia (LINEA VERDE) (docente: OSTUNI RENATO)",
       "uid": "7c9f208d5b64ad35d5763509@unirsr-calendar"
     },
-    "7d89148c85f3bc14a7df3b7e@unirsr-calendar": {
-      "date": "2026-10-21",
-      "end": "2026-10-21T10:30",
-      "location": "VASARI Aula VA102 (1 piano)",
-      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-21T08:30",
-      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "7d89148c85f3bc14a7df3b7e@unirsr-calendar"
-    },
     "7eb3e87e744e7ea933005c71@unirsr-calendar": {
       "date": "2026-10-13",
       "end": "2026-10-13T10:30",
@@ -845,15 +818,6 @@
       "start": "2026-11-17T13:30",
       "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: BUCCINO GIOVANNI)",
       "uid": "818e74fa004182ce925a79b7@unirsr-calendar"
-    },
-    "839ec8c92384196058bbca08@unirsr-calendar": {
-      "date": "2026-10-20",
-      "end": "2026-10-20T10:30",
-      "location": "VASARI Aula VA102 (1 piano)",
-      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-20T08:30",
-      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "839ec8c92384196058bbca08@unirsr-calendar"
     },
     "865c9d7b8268c07626a9af3b@unirsr-calendar": {
       "date": "2026-12-17",
@@ -909,15 +873,6 @@
       "subject": "Lezione: Istologia (LINEA VERDE) (docente: OSTUNI RENATO)",
       "uid": "931397d88426e81989f8287c@unirsr-calendar"
     },
-    "937fab06a22bb850bbfda926@unirsr-calendar": {
-      "date": "2026-10-15",
-      "end": "2026-10-15T17:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-15T15:30",
-      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "937fab06a22bb850bbfda926@unirsr-calendar"
-    },
     "98f7bd7f76dcccc28d30ab01@unirsr-calendar": {
       "date": "2026-10-01",
       "end": "2026-10-01T12:30",
@@ -948,20 +903,11 @@
     "9d98625bfa5bedfe9100fc8a@unirsr-calendar": {
       "date": "2026-11-17",
       "end": "2026-11-17T10:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
+      "location": "VASARI Aula VA301 (3 piano)",
       "raw": "08:30-10:30 | Lezione: Istologia (LINEA VERDE) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
       "start": "2026-11-17T08:30",
       "subject": "Lezione: Istologia (LINEA VERDE) (docente: OSTUNI RENATO)",
       "uid": "9d98625bfa5bedfe9100fc8a@unirsr-calendar"
-    },
-    "9e1fe195304cad8a677c8e6c@unirsr-calendar": {
-      "date": "2026-10-16",
-      "end": "2026-10-16T12:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-16T10:30",
-      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "9e1fe195304cad8a677c8e6c@unirsr-calendar"
     },
     "9e4781591cdc23708f05dbc7@unirsr-calendar": {
       "date": "2026-10-06",
@@ -1160,15 +1106,6 @@
       "start": "2026-10-14T08:30",
       "subject": "Lezione: Semeiotica (LINEA VERDE) (docente: GALLO GAETANO)",
       "uid": "c283da1a7699392b5ef01b9b@unirsr-calendar"
-    },
-    "c4274a2ff7c2da3947ed19ac@unirsr-calendar": {
-      "date": "2026-11-03",
-      "end": "2026-11-03T17:30",
-      "location": "BORROMINI Aula BO301 (3 piano)",
-      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-11-03T15:30",
-      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "c4274a2ff7c2da3947ed19ac@unirsr-calendar"
     },
     "c47f2837be75cfe3ef52a2ec@unirsr-calendar": {
       "date": "2026-10-12",
@@ -1466,15 +1403,6 @@
       "start": "2026-10-07T10:30",
       "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO)",
       "uid": "f800f18619e74dfeb3805edd@unirsr-calendar"
-    },
-    "f84d86df01f9036c5fae82c6@unirsr-calendar": {
-      "date": "2026-10-23",
-      "end": "2026-10-23T12:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-23T10:30",
-      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "f84d86df01f9036c5fae82c6@unirsr-calendar"
     },
     "fc3c7a2c285090835e338cd4@unirsr-calendar": {
       "date": "2026-10-09",

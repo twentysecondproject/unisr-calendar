@@ -126,15 +126,6 @@
       "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: GIGLIO SABRINA RITA)",
       "uid": "19dc5df18dca9b37a16c82e7@unirsr-calendar"
     },
-    "1a66bb82992d0fef0068397e@unirsr-calendar": {
-      "date": "2026-10-20",
-      "end": "2026-10-20T10:30",
-      "location": "VASARI Aula VA102 (1 piano)",
-      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-20T08:30",
-      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "1a66bb82992d0fef0068397e@unirsr-calendar"
-    },
     "1c367d99048dc81a2fcc172e@unirsr-calendar": {
       "date": "2026-11-03",
       "end": "2026-11-03T10:30",
@@ -170,15 +161,6 @@
       "start": "2026-10-05T10:30",
       "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
       "uid": "1e259d836b485c6fc1c8ab8d@unirsr-calendar"
-    },
-    "21451128cce4e74a8b9c1229@unirsr-calendar": {
-      "date": "2026-10-21",
-      "end": "2026-10-21T10:30",
-      "location": "VASARI Aula VA102 (1 piano)",
-      "raw": "08:30-10:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-21T08:30",
-      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "21451128cce4e74a8b9c1229@unirsr-calendar"
     },
     "21796099c1ef7fdbfdd9df85@unirsr-calendar": {
       "date": "2026-11-03",
@@ -369,15 +351,6 @@
       "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
       "uid": "3fbeaf28de14acf124bcc54d@unirsr-calendar"
     },
-    "3fc02ebb2a6a5f5707a6ec89@unirsr-calendar": {
-      "date": "2026-10-19",
-      "end": "2026-10-19T12:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-19T10:30",
-      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "3fc02ebb2a6a5f5707a6ec89@unirsr-calendar"
-    },
     "406c7e5929e6edad2cd85d9b@unirsr-calendar": {
       "date": "2027-01-11",
       "end": "2027-01-11T12:30",
@@ -449,15 +422,6 @@
       "start": "2026-12-15T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
       "uid": "4d04801bfb4b2b0ca96a2b32@unirsr-calendar"
-    },
-    "4f3b0d1d7a588bd09562e6c0@unirsr-calendar": {
-      "date": "2026-10-15",
-      "end": "2026-10-15T17:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-15T15:30",
-      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "4f3b0d1d7a588bd09562e6c0@unirsr-calendar"
     },
     "4ff509d49100a084998ad914@unirsr-calendar": {
       "date": "2026-11-19",
@@ -570,7 +534,7 @@
     "641eee5a55be1df94c0e47e8@unirsr-calendar": {
       "date": "2026-11-17",
       "end": "2026-11-17T10:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
+      "location": "VASARI Aula VA301 (3 piano)",
       "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
       "start": "2026-11-17T08:30",
       "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
@@ -584,15 +548,6 @@
       "start": "2026-12-04T10:30",
       "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: SCHAEFFER CELINE)",
       "uid": "65a0480a718e7d470267c3bd@unirsr-calendar"
-    },
-    "66484fdc48c3ed841206ada8@unirsr-calendar": {
-      "date": "2026-10-16",
-      "end": "2026-10-16T12:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-16T10:30",
-      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "66484fdc48c3ed841206ada8@unirsr-calendar"
     },
     "673e1292b5fd8f7ed491f9fb@unirsr-calendar": {
       "date": "2026-10-23",
@@ -837,15 +792,6 @@
       "subject": "Lezione: Genetica Medica (LINEA GIALLA) (docente: RAMPOLDI LUCA)",
       "uid": "97f2d0254a666e35a69f86d3@unirsr-calendar"
     },
-    "984965dd8b48a6d0985af748@unirsr-calendar": {
-      "date": "2026-11-03",
-      "end": "2026-11-03T15:30",
-      "location": "BORROMINI Aula BO301 (3 piano)",
-      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-11-03T13:30",
-      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "984965dd8b48a6d0985af748@unirsr-calendar"
-    },
     "989e2a1e50d6e33af34faf5d@unirsr-calendar": {
       "date": "2026-11-20",
       "end": "2026-11-20T15:30",
@@ -1017,15 +963,6 @@
       "subject": "Lezione: Istologia (LINEA GIALLA) (docente: OSTUNI RENATO)",
       "uid": "b3457a39f6736c8ca66e4109@unirsr-calendar"
     },
-    "b79fb48567885110efa6a254@unirsr-calendar": {
-      "date": "2026-10-23",
-      "end": "2026-10-23T12:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-23T10:30",
-      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "b79fb48567885110efa6a254@unirsr-calendar"
-    },
     "b8fb9542d1d33c6c348e061c@unirsr-calendar": {
       "date": "2026-11-09",
       "end": "2026-11-09T15:30",
@@ -1142,15 +1079,6 @@
       "start": "2026-11-16T08:30",
       "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: TACCHETTI CARLO)",
       "uid": "c3b71fddad80eb03d30c5dd5@unirsr-calendar"
-    },
-    "c3cec46807ebafde8b2daf4b@unirsr-calendar": {
-      "date": "2026-11-13",
-      "end": "2026-11-13T15:30",
-      "location": "BORROMINI Aula BO301 (3 piano)",
-      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-11-13T13:30",
-      "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: ZIPPO ANTONIO GIULIANO)",
-      "uid": "c3cec46807ebafde8b2daf4b@unirsr-calendar"
     },
     "c4154ff3d1e56f83894551a4@unirsr-calendar": {
       "date": "2026-11-17",
