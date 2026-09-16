@@ -482,7 +482,7 @@ def generate_suspension_events(start_date, end_date):
     return events
 
 
-def generate_ics(lessons, cancelled, start_date, end_date):
+def generate_ics(lessons, start_date, end_date):
     now = datetime.now(UTC).strftime("%Y%m%dT%H%M%SZ")
 
     lines = [
@@ -541,20 +541,6 @@ def generate_ics(lessons, cancelled, start_date, end_date):
             "END:VEVENT",
         ])
 
-    for event in cancelled:
-        lines.extend([
-            "BEGIN:VEVENT",
-            f"UID:{event['uid']}",
-            f"DTSTAMP:{now}",
-            f"DTSTART;TZID=Europe/Rome:{event['start']}",
-            f"DTEND;TZID=Europe/Rome:{event['end']}",
-            f"SUMMARY:{escape_ics(event['subject'])}",
-            f"LOCATION:{escape_ics(event.get('location', ''))}",
-            "DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
-            "STATUS:CANCELLED",
-            "END:VEVENT",
-        ])
-
     lines.append("END:VCALENDAR")
 
     return "\r\n".join(
@@ -609,38 +595,6 @@ def process_calendar(
 
     current_lessons.extend(fresh_by_uid.values())
 
-    cancelled = []
-
-    for old_lesson in old_lessons:
-        if old_lesson["date"] < today:
-            continue
-
-        if old_lesson["date"] not in checked_dates:
-            continue
-
-        if old_lesson["uid"] in fresh_by_uid:
-            continue
-
-        cancelled.append({
-            "uid": old_lesson["uid"],
-            "start": format_datetime(
-                old_lesson["date"],
-                old_lesson["start"],
-            ),
-            "end": format_datetime(
-                old_lesson["date"],
-                old_lesson["end"],
-            ),
-            "subject": old_lesson["subject"],
-            "location": old_lesson.get("location", ""),
-        })
-
-        print(
-            f"  CANCELLED [{calendar_key}]: "
-            f"{old_lesson['date']} "
-            f"{old_lesson['subject']}"
-        )
-
     all_lessons = preserved_lessons + current_lessons
 
     unique = {}
@@ -685,8 +639,7 @@ def process_calendar(
 
     print(
         f"  {calendar_key}: "
-        f"{len(all_lessons)} active, "
-        f"{len(cancelled)} cancelled"
+        f"{len(all_lessons)} active"
     )
 
 
