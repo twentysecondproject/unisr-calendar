@@ -45,6 +45,15 @@
       "subject": "Lezione: Genetica Medica (LINEA AZZURRA) (docente: GIGLIO SABRINA RITA)",
       "uid": "04ec5e58270e943195349cd0@unirsr-calendar"
     },
+    "0c3e86a5795c503c1282f09b@unirsr-calendar": {
+      "date": "2026-11-16",
+      "end": "2026-11-16T19:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CELADA DANIELE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-16T17:30",
+      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CELADA DANIELE)",
+      "uid": "0c3e86a5795c503c1282f09b@unirsr-calendar"
+    },
     "0c478a85309ec6b68fb330ea@unirsr-calendar": {
       "date": "2026-10-07",
       "end": "2026-10-07T12:30",
@@ -531,15 +540,6 @@
       "subject": "Lezione: Genetica Medica (LINEA AZZURRA) (docente: ZUFFARDI ORSETTA)",
       "uid": "4b0b033229f1aab757eb4bf2@unirsr-calendar"
     },
-    "4de636c516d8cdc18f209681@unirsr-calendar": {
-      "date": "2026-12-03",
-      "end": "2026-12-03T19:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
-      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CELADA DANIELE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-03T17:30",
-      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CELADA DANIELE)",
-      "uid": "4de636c516d8cdc18f209681@unirsr-calendar"
-    },
     "4ea0a7ceb8a99720ae1f6976@unirsr-calendar": {
       "date": "2027-01-13",
       "end": "2027-01-13T10:30",
@@ -647,6 +647,15 @@
       "start": "2026-11-11T17:30",
       "subject": "Lezione: Burnout e stress lavoro correlato nella professione medica (docente: RATTI MARIA MONICA)",
       "uid": "619f6fd6b42d58f0c2e8c805@unirsr-calendar"
+    },
+    "633577c89edac8cfe9447a4e@unirsr-calendar": {
+      "date": "2026-11-27",
+      "end": "2026-11-27T19:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-27T17:30",
+      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO)",
+      "uid": "633577c89edac8cfe9447a4e@unirsr-calendar"
     },
     "6468cfefd0b10e67cf6224f4@unirsr-calendar": {
       "date": "2026-12-09",
@@ -1277,15 +1286,6 @@
       "start": "2026-09-23T08:30",
       "subject": "Lezione: Fisiologia (LINEA AZZURRA) (docente: CODAZZI FRANCA)",
       "uid": "c5362e86fbb6bf284f68e6cf@unirsr-calendar"
-    },
-    "c5ca88d2c7ffb2d87ce94a3a@unirsr-calendar": {
-      "date": "2026-11-16",
-      "end": "2026-11-16T19:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-16T17:30",
-      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO)",
-      "uid": "c5ca88d2c7ffb2d87ce94a3a@unirsr-calendar"
     },
     "c6e1c505f3f3c60c39e99858@unirsr-calendar": {
       "date": "2026-10-22",
