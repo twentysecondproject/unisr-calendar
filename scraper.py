@@ -536,7 +536,7 @@ def generate_ics(lessons, cancelled, start_date, end_date):
             f"SUMMARY:{escape_ics(lesson['subject'])}",
             f"LOCATION:{escape_ics(lesson['location'])}",
             f"ORGANIZER;CN={escape_ics(lesson.get('professor', ''))}:urn:unirsr:organizer",
-            "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
+            "DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
             "STATUS:CONFIRMED",
             "END:VEVENT",
         ])
@@ -550,7 +550,7 @@ def generate_ics(lessons, cancelled, start_date, end_date):
             f"DTEND;TZID=Europe/Rome:{event['end']}",
             f"SUMMARY:{escape_ics(event['subject'])}",
             f"LOCATION:{escape_ics(event.get('location', ''))}",
-            "DESCRIPTION:Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
+            "DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
             "STATUS:CANCELLED",
             "END:VEVENT",
         ])
