@@ -621,10 +621,10 @@ def process_calendar(
     )
 
     ics = generate_ics(
-    all_lessons,
-    cancelled,
-    today - timedelta(days=DAYS_BACK),
-    today + timedelta(days=DAYS_FORWARD),)
+        all_lessons,
+        today - timedelta(days=DAYS_BACK),
+        today + timedelta(days=DAYS_FORWARD),
+    )
 
     output_path = Path(config["filename"])
     output_path.write_text(
