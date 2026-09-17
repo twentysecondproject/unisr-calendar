@@ -774,15 +774,6 @@
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
       "uid": "81a98501633bbfb93b840af8@unirsr-calendar"
     },
-    "81fade6880abcdc7b94527a4@unirsr-calendar": {
-      "date": "2026-10-28",
-      "end": "2026-10-28T16:30",
-      "location": "BORROMINI Aula BO302 (3 piano)",
-      "raw": "14:30-16:30 | Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-28T14:30",
-      "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
-      "uid": "81fade6880abcdc7b94527a4@unirsr-calendar"
-    },
     "8401ee6faa0e9b6ac9aa0d9a@unirsr-calendar": {
       "date": "2026-12-04",
       "end": "2026-12-04T16:30",
@@ -1160,6 +1151,15 @@
       "start": "2026-11-26T09:30",
       "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
       "uid": "d24687a473c8049f8d38141b@unirsr-calendar"
+    },
+    "d26b95497b14b08326429e00@unirsr-calendar": {
+      "date": "2026-10-30",
+      "end": "2026-10-30T18:30",
+      "location": "BORROMINI Aula BO301 (3 piano)",
+      "raw": "16:30-18:30 | Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-30T16:30",
+      "subject": "Lezione: Medicine as a Human Endeavour (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "d26b95497b14b08326429e00@unirsr-calendar"
     },
     "d38b804d0d0bd0ce45a60a1e@unirsr-calendar": {
       "date": "2026-11-30",

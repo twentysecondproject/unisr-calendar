@@ -81,15 +81,6 @@
       "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA GIALLA) (docente: SCARFO' LYDIA)",
       "uid": "167f6830efe5cbd8d57e768d@unirsr-calendar"
     },
-    "16b25fba518d6e1911dd6dca@unirsr-calendar": {
-      "date": "2026-10-28",
-      "end": "2026-10-28T18:30",
-      "location": "CANOVA Aula CA302 (3 piano)",
-      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
-      "start": "2026-10-28T16:30",
-      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
-      "uid": "16b25fba518d6e1911dd6dca@unirsr-calendar"
-    },
     "16bf910d496001d4072b6f46@unirsr-calendar": {
       "date": "2026-11-19",
       "end": "2026-11-19T16:30",
@@ -890,6 +881,15 @@
       "start": "2026-11-02T16:30",
       "subject": "Lezione: Biologia (LINEA GIALLA) (docente: ANDREATA FRANCESCO)",
       "uid": "b95d7bbcc7c479228e0b52d6@unirsr-calendar"
+    },
+    "b989f0bf543f17004fc34835@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T18:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-29T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA GIALLA) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "b989f0bf543f17004fc34835@unirsr-calendar"
     },
     "ba30e81103eb46bb7a20860b@unirsr-calendar": {
       "date": "2026-10-27",

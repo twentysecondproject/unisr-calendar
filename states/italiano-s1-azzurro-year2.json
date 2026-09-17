@@ -128,10 +128,10 @@
     },
     "16d50625056661f545a18ad3@unirsr-calendar": {
       "date": "2026-10-06",
-      "end": "2026-10-06T15:30",
-      "location": "VASARI Aula VA302 (3 piano)",
-      "raw": "13:30-15:30 | Lezione: Istologia (LINEA AZZURRA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-06T13:30",
+      "end": "2026-10-06T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA AZZURRA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-06T08:30",
       "subject": "Lezione: Istologia (LINEA AZZURRA) (docente: CANTORE ALESSIO)",
       "uid": "16d50625056661f545a18ad3@unirsr-calendar"
     },
@@ -821,10 +821,10 @@
     },
     "7a8540a06376cd255652cb19@unirsr-calendar": {
       "date": "2026-10-06",
-      "end": "2026-10-06T10:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
-      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA AZZURRA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-06T08:30",
+      "end": "2026-10-06T15:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Semeiotica (LINEA AZZURRA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-06T13:30",
       "subject": "Lezione: Semeiotica (LINEA AZZURRA) (docente: RATTI FRANCESCA)",
       "uid": "7a8540a06376cd255652cb19@unirsr-calendar"
     },
@@ -1200,7 +1200,7 @@
     "b3aca01c0755a5c23c369d63@unirsr-calendar": {
       "date": "2026-09-30",
       "end": "2026-09-30T12:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "location": "VASARI Aula VA102 (1 piano)",
       "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA AZZURRA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-09-30T10:30",
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: VITALE MARCO)",

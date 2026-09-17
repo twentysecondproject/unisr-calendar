@@ -182,10 +182,10 @@
     },
     "1f46c4cc82ee6275a1b1b27b@unirsr-calendar": {
       "date": "2026-10-06",
-      "end": "2026-10-06T10:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
-      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-06T08:30",
+      "end": "2026-10-06T15:30",
+      "location": "VASARI Aula VA302 (3 piano)",
+      "raw": "13:30-15:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-06T13:30",
       "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
       "uid": "1f46c4cc82ee6275a1b1b27b@unirsr-calendar"
     },
@@ -561,7 +561,7 @@
     "4d3907bd04653a58eb438396@unirsr-calendar": {
       "date": "2026-09-30",
       "end": "2026-09-30T12:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "location": "VASARI Aula VA102 (1 piano)",
       "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-09-30T10:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VITALE MARCO)",
@@ -713,10 +713,10 @@
     },
     "7057d31bb73ba5f64e36034b@unirsr-calendar": {
       "date": "2026-10-06",
-      "end": "2026-10-06T15:30",
-      "location": "VASARI Aula VA302 (3 piano)",
-      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-06T13:30",
+      "end": "2026-10-06T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-06T08:30",
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
       "uid": "7057d31bb73ba5f64e36034b@unirsr-calendar"
     },
@@ -1494,15 +1494,6 @@
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
       "uid": "e7174dac4d618df2dcbc8c3c@unirsr-calendar"
     },
-    "e88e393124405bf3453de63a@unirsr-calendar": {
-      "date": "2026-10-08",
-      "end": "2026-10-08T15:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
-      "raw": "13:30-15:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-08T13:30",
-      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
-      "uid": "e88e393124405bf3453de63a@unirsr-calendar"
-    },
     "e8d336098a949460aea542a3@unirsr-calendar": {
       "date": "2026-09-22",
       "end": "2026-09-22T10:30",
@@ -1610,6 +1601,15 @@
       "start": "2026-10-28T10:30",
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
       "uid": "f54fe0a34f54d0533ec787b0@unirsr-calendar"
+    },
+    "f559e42ef6dc3f233c983047@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T12:30",
+      "location": "CANOVA Aula CA201 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-21T10:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
+      "uid": "f559e42ef6dc3f233c983047@unirsr-calendar"
     },
     "f5b5c8e67bcfe844ad0782d0@unirsr-calendar": {
       "date": "2026-11-18",

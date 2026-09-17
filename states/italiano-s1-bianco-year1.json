@@ -162,15 +162,6 @@
       "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
       "uid": "22985efbc6c7a86c3d1574be@unirsr-calendar"
     },
-    "2413a037ecc6a63782adf531@unirsr-calendar": {
-      "date": "2026-12-01",
-      "end": "2026-12-01T11:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-12-01T09:30",
-      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-      "uid": "2413a037ecc6a63782adf531@unirsr-calendar"
-    },
     "2a5d39ae56beb36cfc6d654b@unirsr-calendar": {
       "date": "2026-10-14",
       "end": "2026-10-14T16:30",
@@ -629,6 +620,15 @@
       "start": "2026-12-09T11:30",
       "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
       "uid": "89c07a0c60829b16c8db6324@unirsr-calendar"
+    },
+    "8b98a9d1778ff210bb4cd37f@unirsr-calendar": {
+      "date": "2026-12-09",
+      "end": "2026-12-09T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-12-09T09:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
+      "uid": "8b98a9d1778ff210bb4cd37f@unirsr-calendar"
     },
     "94ffe79f6b91161cbdcdfb64@unirsr-calendar": {
       "date": "2026-10-22",

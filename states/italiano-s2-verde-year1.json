@@ -1053,15 +1053,6 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente: PICCOLI MARCO)",
       "uid": "cf09fcd7dde82c69d660acf5@unirsr-calendar"
     },
-    "d41af0add182195db93022bf@unirsr-calendar": {
-      "date": "2026-10-28",
-      "end": "2026-10-28T18:30",
-      "location": "CANOVA Aula CA302 (3 piano)",
-      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA VERDE) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
-      "start": "2026-10-28T16:30",
-      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA VERDE) (docente: GRIGNOLIO CORSINI ANDREA)",
-      "uid": "d41af0add182195db93022bf@unirsr-calendar"
-    },
     "d655384d4fe70ca7ff2bfe91@unirsr-calendar": {
       "date": "2026-12-04",
       "end": "2026-12-04T16:30",
@@ -1268,6 +1259,15 @@
       "start": "2027-01-13T09:30",
       "subject": "Lezione: Biochimica (LINEA VERDE) (docente: DE CURTIS IVANMATTEO)",
       "uid": "fdfafcfd7f3934a28d145fbb@unirsr-calendar"
+    },
+    "fe73563c5d304f6d9e62f565@unirsr-calendar": {
+      "date": "2026-10-29",
+      "end": "2026-10-29T18:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA VERDE) (docente: GRIGNOLIO CORSINI ANDREA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-10-29T16:30",
+      "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA VERDE) (docente: GRIGNOLIO CORSINI ANDREA)",
+      "uid": "fe73563c5d304f6d9e62f565@unirsr-calendar"
     }
   }
 }
