@@ -9,6 +9,15 @@
       "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
       "uid": "0114514c2f29a80ffef31c5b@unirsr-calendar"
     },
+    "0257b053dac66ec86f92e420@unirsr-calendar": {
+      "date": "2026-10-27",
+      "end": "2026-10-27T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: GUGLIELMINI SOFIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-27T15:30",
+      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: GUGLIELMINI SOFIA)",
+      "uid": "0257b053dac66ec86f92e420@unirsr-calendar"
+    },
     "03228a9a01f11e29cc5f0043@unirsr-calendar": {
       "date": "2026-12-03",
       "end": "2026-12-03T17:30",
@@ -134,15 +143,6 @@
       "start": "2026-11-25T15:30",
       "subject": "Lezione: Flow cytometry in translational and clinical science (docente: ANSELMO ACHILLE)",
       "uid": "14b1978bf3e486ebd64ecc01@unirsr-calendar"
-    },
-    "160fe80d1e236209906898db@unirsr-calendar": {
-      "date": "2026-11-04",
-      "end": "2026-11-04T17:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: TRAVERSO ALBERTO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-04T15:30",
-      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: TRAVERSO ALBERTO)",
-      "uid": "160fe80d1e236209906898db@unirsr-calendar"
     },
     "18947b6273893d2033d1f018@unirsr-calendar": {
       "date": "2026-10-19",
@@ -441,15 +441,6 @@
       "subject": "Lezione: Health Communication and Misinformation (docente: FLORIS MARA)",
       "uid": "3d84340b76eb501a3f766668@unirsr-calendar"
     },
-    "3e7f696dc71eb935881a8b29@unirsr-calendar": {
-      "date": "2026-10-27",
-      "end": "2026-10-27T17:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-27T15:30",
-      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
-      "uid": "3e7f696dc71eb935881a8b29@unirsr-calendar"
-    },
     "3edf472a951f6258287b3066@unirsr-calendar": {
       "date": "2026-10-12",
       "end": "2026-10-12T12:30",
@@ -567,6 +558,15 @@
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "493ca1435eadd888e8444cc8@unirsr-calendar"
     },
+    "4be507931c6691525d1b00d0@unirsr-calendar": {
+      "date": "2026-11-03",
+      "end": "2026-11-03T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-03T15:30",
+      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
+      "uid": "4be507931c6691525d1b00d0@unirsr-calendar"
+    },
     "4c3bdeb733ef137393f47f60@unirsr-calendar": {
       "date": "2026-10-30",
       "end": "2026-10-30T17:30",
@@ -621,6 +621,15 @@
       "subject": "Lezione: Human Histology (docente: COLTELLA NADIA)",
       "uid": "51a2b5374d86f7e71ba5235c@unirsr-calendar"
     },
+    "53ba578a4e0f8601dc3e4db8@unirsr-calendar": {
+      "date": "2026-11-18",
+      "end": "2026-11-18T17:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: CELADA DANIELE) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-18T15:30",
+      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CELADA DANIELE)",
+      "uid": "53ba578a4e0f8601dc3e4db8@unirsr-calendar"
+    },
     "54bec6c48978f5b57ec7b0d0@unirsr-calendar": {
       "date": "2026-12-18",
       "end": "2026-12-18T17:30",
@@ -647,6 +656,15 @@
       "start": "2026-11-17T15:30",
       "subject": "Lezione: Basic medical maneuvers (docente: TOMAJER VALENTINA)",
       "uid": "560e46d569e5062145d27a29@unirsr-calendar"
+    },
+    "594795d42aca4cd2fa98b5c6@unirsr-calendar": {
+      "date": "2026-11-17",
+      "end": "2026-11-17T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-17T15:30",
+      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
+      "uid": "594795d42aca4cd2fa98b5c6@unirsr-calendar"
     },
     "599bdc98f5ed4f2c6d9c1870@unirsr-calendar": {
       "date": "2026-10-29",
@@ -822,7 +840,7 @@
     "6ec97506c410d57907b48c30@unirsr-calendar": {
       "date": "2026-12-09",
       "end": "2026-12-09T17:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
+      "location": "BORROMINI Aula BO301 (3 piano)",
       "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
       "start": "2026-12-09T15:30",
       "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
@@ -846,15 +864,6 @@
       "subject": "Lezione: Introduction to mouse models for preclinical research (docente: CAMISA BARBARA)",
       "uid": "720dda46694eb963d34206cb@unirsr-calendar"
     },
-    "7370f112597e6461c800aaf2@unirsr-calendar": {
-      "date": "2026-11-10",
-      "end": "2026-11-10T17:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-10T15:30",
-      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
-      "uid": "7370f112597e6461c800aaf2@unirsr-calendar"
-    },
     "73acd1fba921425a85780dd0@unirsr-calendar": {
       "date": "2026-11-12",
       "end": "2026-11-12T17:30",
@@ -863,15 +872,6 @@
       "start": "2026-11-12T15:30",
       "subject": "Lezione: Stem Cells, Organoids and Tissue engineering: the foundations of regenerative medicine (docente: SORDI VALERIA DANIELA)",
       "uid": "73acd1fba921425a85780dd0@unirsr-calendar"
-    },
-    "78d7be97f7fef2370b134e83@unirsr-calendar": {
-      "date": "2026-10-13",
-      "end": "2026-10-13T17:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: TACCHETTI CARLO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-13T15:30",
-      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: TACCHETTI CARLO)",
-      "uid": "78d7be97f7fef2370b134e83@unirsr-calendar"
     },
     "7b67042079fabaeba9db4ef8@unirsr-calendar": {
       "date": "2026-11-09",
@@ -936,6 +936,15 @@
       "subject": "Lezione: Physiology (docente: BUCCINO GIOVANNI)",
       "uid": "83480406b6bdbeeecf78519a@unirsr-calendar"
     },
+    "84bf85d60ff47669d37d8a0f@unirsr-calendar": {
+      "date": "2026-11-10",
+      "end": "2026-11-10T17:30",
+      "location": "BORROMINI Aula BO201 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: TRAVERSO ALBERTO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-10T15:30",
+      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: TRAVERSO ALBERTO)",
+      "uid": "84bf85d60ff47669d37d8a0f@unirsr-calendar"
+    },
     "84f3d27452a227d0c2315b21@unirsr-calendar": {
       "date": "2026-12-16",
       "end": "2026-12-16T15:30",
@@ -989,15 +998,6 @@
       "start": "2026-10-27T08:30",
       "subject": "Lezione: Human Histology (docente: OSTUNI RENATO)",
       "uid": "8972ea43e3bb75d764953ef4@unirsr-calendar"
-    },
-    "898dbfe0daeeb3f3cafd8f0e@unirsr-calendar": {
-      "date": "2026-10-20",
-      "end": "2026-10-20T17:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: LARCHER ALESSANDRO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-20T15:30",
-      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: LARCHER ALESSANDRO)",
-      "uid": "898dbfe0daeeb3f3cafd8f0e@unirsr-calendar"
     },
     "8b0ad9e34a8ab12d2b269835@unirsr-calendar": {
       "date": "2026-10-07",
@@ -1061,6 +1061,15 @@
       "start": "2026-11-11T13:30",
       "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
       "uid": "93ee0eb3702125d22b016bb2@unirsr-calendar"
+    },
+    "9419855b01137bc73507b4a5@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: TACCHETTI CARLO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-21T15:30",
+      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: TACCHETTI CARLO)",
+      "uid": "9419855b01137bc73507b4a5@unirsr-calendar"
     },
     "94f2fbaad472409ed9954dca@unirsr-calendar": {
       "date": "2026-11-05",
@@ -1233,15 +1242,6 @@
       "subject": "Lezione: Basic medical maneuvers (docente: TOMAJER VALENTINA)",
       "uid": "a6912710c70ad5b75398aeca@unirsr-calendar"
     },
-    "a8e706301ca161c94baf2568@unirsr-calendar": {
-      "date": "2027-01-12",
-      "end": "2027-01-12T17:30",
-      "location": "BORROMINI Aula BO202 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: MONTAGNA MARCO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2027-01-12T15:30",
-      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: MONTAGNA MARCO)",
-      "uid": "a8e706301ca161c94baf2568@unirsr-calendar"
-    },
     "ad060879e90789ce962dc28d@unirsr-calendar": {
       "date": "2026-12-16",
       "end": "2026-12-16T15:30",
@@ -1380,7 +1380,7 @@
     "ba4f744f2a2f59d5773662b5@unirsr-calendar": {
       "date": "2026-11-24",
       "end": "2026-11-24T18:30",
-      "location": "BORROMINI Aula BO202 (2 piano)",
+      "location": "BORROMINI Aula BO102 (1 piano)",
       "raw": "15:30-18:30 | Lezione: Basic medical maneuvers (docente: TOMAJER VALENTINA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
       "start": "2026-11-24T15:30",
       "subject": "Lezione: Basic medical maneuvers (docente: TOMAJER VALENTINA)",
@@ -1539,6 +1539,15 @@
       "subject": "Lezione: Health Communication and Misinformation (docente: MARTINI CARLO)",
       "uid": "cdb1187facf08c0bffaf4c0c@unirsr-calendar"
     },
+    "cf459854975f44f411d83195@unirsr-calendar": {
+      "date": "2026-12-16",
+      "end": "2026-12-16T17:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-16T15:30",
+      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
+      "uid": "cf459854975f44f411d83195@unirsr-calendar"
+    },
     "d11bcc73b752425bbcc3eacb@unirsr-calendar": {
       "date": "2026-11-16",
       "end": "2026-11-16T12:30",
@@ -1674,14 +1683,14 @@
       "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
       "uid": "e469331e1eb9762907578e64@unirsr-calendar"
     },
-    "e796bbde1ce3b41d87c3b486@unirsr-calendar": {
-      "date": "2026-11-17",
-      "end": "2026-11-17T17:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: GUGLIELMINI SOFIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-17T15:30",
-      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: GUGLIELMINI SOFIA)",
-      "uid": "e796bbde1ce3b41d87c3b486@unirsr-calendar"
+    "e8d251141fba217643d0d064@unirsr-calendar": {
+      "date": "2026-12-17",
+      "end": "2026-12-17T17:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: LARCHER ALESSANDRO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-17T15:30",
+      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: LARCHER ALESSANDRO)",
+      "uid": "e8d251141fba217643d0d064@unirsr-calendar"
     },
     "e9be166a02fb2c4a5dd87f53@unirsr-calendar": {
       "date": "2026-10-06",
@@ -1745,15 +1754,6 @@
       "start": "2026-10-02T10:30",
       "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
       "uid": "f0685d233292c22b13ce6984@unirsr-calendar"
-    },
-    "f172d20ae0eb32242233eeae@unirsr-calendar": {
-      "date": "2026-11-24",
-      "end": "2026-11-24T17:30",
-      "location": "BORROMINI Aula BO202 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-24T15:30",
-      "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
-      "uid": "f172d20ae0eb32242233eeae@unirsr-calendar"
     },
     "f4225776cb819fb8e6a4d687@unirsr-calendar": {
       "date": "2026-10-09",

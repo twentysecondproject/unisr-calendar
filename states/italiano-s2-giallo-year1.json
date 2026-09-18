@@ -477,15 +477,6 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: ANASTASIA LUIGI)",
       "uid": "6a43679e92dcbe9a555ba07d@unirsr-calendar"
     },
-    "71eb4403689cf476144a56ec@unirsr-calendar": {
-      "date": "2026-10-26",
-      "end": "2026-10-26T13:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
-      "start": "2026-10-26T11:30",
-      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO MARIACLELIA)",
-      "uid": "71eb4403689cf476144a56ec@unirsr-calendar"
-    },
     "73cd217d13c8902b798fea06@unirsr-calendar": {
       "date": "2026-12-15",
       "end": "2026-12-15T11:30",
@@ -954,6 +945,15 @@
       "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
       "uid": "c2e825dbd78045097740a8d3@unirsr-calendar"
     },
+    "c4bfc2ee4f692822aae1db92@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-09T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA)",
+      "uid": "c4bfc2ee4f692822aae1db92@unirsr-calendar"
+    },
     "c4f2a8c335bab3a69a2fd2bf@unirsr-calendar": {
       "date": "2026-10-28",
       "end": "2026-10-28T11:30",
@@ -1044,15 +1044,6 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA GIALLA) (docente: PICCOLI MARCO)",
       "uid": "d56b987e703dfa37b6961081@unirsr-calendar"
     },
-    "d89bfab7b6eb948ff380ab66@unirsr-calendar": {
-      "date": "2026-11-02",
-      "end": "2026-11-02T13:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
-      "start": "2026-11-02T11:30",
-      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-      "uid": "d89bfab7b6eb948ff380ab66@unirsr-calendar"
-    },
     "d9b2609f7bb0df4278643562@unirsr-calendar": {
       "date": "2027-01-11",
       "end": "2027-01-11T13:30",
@@ -1106,6 +1097,15 @@
       "start": "2026-10-23T14:30",
       "subject": "Lezione: Biologia (LINEA GIALLA) (docente: CAMPANELLA ALESSANDRO)",
       "uid": "e2d98a6fbb4471b45a8bccc4@unirsr-calendar"
+    },
+    "e2f25efc3039aea243b49be4@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO CLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-02T11:30",
+      "subject": "Lezione: Statistica (LINEA GIALLA) (docente: DI SERIO CLELIA)",
+      "uid": "e2f25efc3039aea243b49be4@unirsr-calendar"
     },
     "e4c68bcf4d6da2d89985cbe4@unirsr-calendar": {
       "date": "2026-11-20",

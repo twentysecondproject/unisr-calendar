@@ -153,6 +153,15 @@
       "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA VERDE) (docente: FAVA FRANCESCA)",
       "uid": "12354c0867486bcfc24c008c@unirsr-calendar"
     },
+    "136d17e9c3d3d340093dcb64@unirsr-calendar": {
+      "date": "2026-11-02",
+      "end": "2026-11-02T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA VERDE) (docente: DI SERIO CLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-02T11:30",
+      "subject": "Lezione: Statistica (LINEA VERDE) (docente: DI SERIO CLELIA)",
+      "uid": "136d17e9c3d3d340093dcb64@unirsr-calendar"
+    },
     "163d2ddc20dd2d71b89806dd@unirsr-calendar": {
       "date": "2026-11-03",
       "end": "2026-11-03T16:30",
@@ -522,15 +531,6 @@
       "subject": "Lezione: Biologia (LINEA VERDE) (docente: CAMPANELLA ALESSANDRO)",
       "uid": "4e1b0f44f125498dfc4635d5@unirsr-calendar"
     },
-    "506364507c4b87b3254118b1@unirsr-calendar": {
-      "date": "2026-10-26",
-      "end": "2026-10-26T13:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "11:30-13:30 | Lezione: Statistica (LINEA VERDE) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
-      "start": "2026-10-26T11:30",
-      "subject": "Lezione: Statistica (LINEA VERDE) (docente: DI SERIO MARIACLELIA)",
-      "uid": "506364507c4b87b3254118b1@unirsr-calendar"
-    },
     "5229a68d510f083178bffa46@unirsr-calendar": {
       "date": "2026-10-27",
       "end": "2026-10-27T16:30",
@@ -855,15 +855,6 @@
       "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA VERDE) (docente: JOHN MICHAEL ELLIS)",
       "uid": "94deb93f0f2ce2be205eae38@unirsr-calendar"
     },
-    "9903b7b94f22b0bfd6454e19@unirsr-calendar": {
-      "date": "2026-11-02",
-      "end": "2026-11-02T13:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "11:30-13:30 | Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA VITTORIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
-      "start": "2026-11-02T11:30",
-      "subject": "Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA VITTORIA)",
-      "uid": "9903b7b94f22b0bfd6454e19@unirsr-calendar"
-    },
     "99bf3cee537b257d924b6901@unirsr-calendar": {
       "date": "2027-01-13",
       "end": "2027-01-13T16:30",
@@ -962,6 +953,15 @@
       "start": "2026-10-19T09:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA VERDE) (docente: ANASTASIA LUIGI)",
       "uid": "b31b45be128040b6b2b0552a@unirsr-calendar"
+    },
+    "b4041363d042a5fbbb681123@unirsr-calendar": {
+      "date": "2026-11-09",
+      "end": "2026-11-09T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 1",
+      "start": "2026-11-09T11:30",
+      "subject": "Lezione: Statistica (LINEA VERDE) (docente: RANCOITA PAOLA MARIA)",
+      "uid": "b4041363d042a5fbbb681123@unirsr-calendar"
     },
     "b7124baf66a714f31d2d0a0a@unirsr-calendar": {
       "date": "2027-01-12",
