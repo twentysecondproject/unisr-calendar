@@ -3,7 +3,7 @@ name: Update calendars
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 0,6,12,18 * * *"
+    - cron: "23 19 * * *"
     
 permissions:
   contents: write
