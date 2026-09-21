@@ -90,15 +90,6 @@
       "subject": "Lezione: Morfologia Umana (LINEA ROSSA) (docente: TACCHETTI CARLO)",
       "uid": "13975ac6e3919612b5bf0e33@unirsr-calendar"
     },
-    "16f1412155a60a7eb5a5c35b@unirsr-calendar": {
-      "date": "2026-09-29",
-      "end": "2026-09-29T15:30",
-      "location": "CANOVA Aula CA202 (2 piano)",
-      "raw": "13:30-15:30 | Lezione: Genetica Medica (LINEA ROSSA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
-      "start": "2026-09-29T13:30",
-      "subject": "Lezione: Genetica Medica (LINEA ROSSA) (docente: RAMPOLDI LUCA)",
-      "uid": "16f1412155a60a7eb5a5c35b@unirsr-calendar"
-    },
     "16f3fbd224db5f1911ec8bdf@unirsr-calendar": {
       "date": "2026-10-22",
       "end": "2026-10-22T12:30",
@@ -1403,6 +1394,15 @@
       "start": "2026-11-02T13:30",
       "subject": "Lezione: Morfologia Umana (LINEA ROSSA) (docente: CORTESE KATIA)",
       "uid": "f58f070962f7b3bd6ebb7559@unirsr-calendar"
+    },
+    "f5b9177c45fef2661105c565@unirsr-calendar": {
+      "date": "2026-09-30",
+      "end": "2026-09-30T10:30",
+      "location": "VASARI Aula VA201 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Genetica Medica (LINEA ROSSA) (docente: RAMPOLDI LUCA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
+      "start": "2026-09-30T08:30",
+      "subject": "Lezione: Genetica Medica (LINEA ROSSA) (docente: RAMPOLDI LUCA)",
+      "uid": "f5b9177c45fef2661105c565@unirsr-calendar"
     },
     "f5dd68cfedfb59e4458bfa1c@unirsr-calendar": {
       "date": "2026-11-19",
