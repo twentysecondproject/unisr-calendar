@@ -254,10 +254,10 @@
     },
     "2111c031cf82b969d1939734@unirsr-calendar": {
       "date": "2026-10-19",
-      "end": "2026-10-19T16:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-10-19T14:30",
+      "end": "2026-10-19T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-19T11:30",
       "subject": "Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)",
       "uid": "2111c031cf82b969d1939734@unirsr-calendar"
     },
@@ -594,6 +594,15 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente: CIRILLO FEDERICA)",
       "uid": "63334f0e8163cc1b6fbcf344@unirsr-calendar"
     },
+    "6b06dbbc12dc12b55be26d5d@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA VIOLA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-19T14:30",
+      "subject": "Lezione: Biologia (LINEA VIOLA) (docente: MARTINO GIANVITO)",
+      "uid": "6b06dbbc12dc12b55be26d5d@unirsr-calendar"
+    },
     "6f8d8626f0c44a07f840a902@unirsr-calendar": {
       "date": "2026-11-23",
       "end": "2026-11-23T16:30",
@@ -827,15 +836,6 @@
       "start": "2026-10-30T14:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA VIOLA) (docente: ANASTASIA LUIGI)",
       "uid": "941e2b3ddd10f84ddd479d8e@unirsr-calendar"
-    },
-    "970368b2d4fadd01a43d9264@unirsr-calendar": {
-      "date": "2026-10-13",
-      "end": "2026-10-13T13:30",
-      "location": "VERROCCHIO Aula VE101 (1 piano)",
-      "raw": "11:30-13:30 | Lezione: Biologia (LINEA VIOLA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-10-13T11:30",
-      "subject": "Lezione: Biologia (LINEA VIOLA) (docente: MARTINO GIANVITO)",
-      "uid": "970368b2d4fadd01a43d9264@unirsr-calendar"
     },
     "974d9e5f6dcd4cb9a1d02090@unirsr-calendar": {
       "date": "2026-11-16",

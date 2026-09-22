@@ -126,15 +126,6 @@
       "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
       "uid": "1cb89381c338db8922d82b44@unirsr-calendar"
     },
-    "1ce4dd01d89170b84c4ff7de@unirsr-calendar": {
-      "date": "2026-10-13",
-      "end": "2026-10-13T13:30",
-      "location": "VERROCCHIO Aula VE101 (1 piano)",
-      "raw": "11:30-13:30 | Lezione: Biologia (LINEA ROSSA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-10-13T11:30",
-      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: MARTINO GIANVITO)",
-      "uid": "1ce4dd01d89170b84c4ff7de@unirsr-calendar"
-    },
     "1db6832dbb6553a652798d9a@unirsr-calendar": {
       "date": "2026-12-14",
       "end": "2026-12-14T13:30",
@@ -1071,6 +1062,15 @@
       "subject": "Lezione: Biologia (LINEA ROSSA) (docente: ANDREATA FRANCESCO)",
       "uid": "d087b4575e33d969a8450ae1@unirsr-calendar"
     },
+    "d0de1f517f9f28bede429213@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Biologia (LINEA ROSSA) (docente: MARTINO GIANVITO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-19T14:30",
+      "subject": "Lezione: Biologia (LINEA ROSSA) (docente: MARTINO GIANVITO)",
+      "uid": "d0de1f517f9f28bede429213@unirsr-calendar"
+    },
     "d11e44ea41a502ed66cd0606@unirsr-calendar": {
       "date": "2026-11-05",
       "end": "2026-11-05T18:30",
@@ -1208,10 +1208,10 @@
     },
     "f85f17a3aa72c048bbe271cf@unirsr-calendar": {
       "date": "2026-10-19",
-      "end": "2026-10-19T16:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-10-19T14:30",
+      "end": "2026-10-19T13:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-10-19T11:30",
       "subject": "Lezione: Statistica (LINEA ROSSA) (docente: AMBROSI ALESSANDRO)",
       "uid": "f85f17a3aa72c048bbe271cf@unirsr-calendar"
     },
