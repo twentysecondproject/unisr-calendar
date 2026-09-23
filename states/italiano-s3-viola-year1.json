@@ -675,6 +675,15 @@
       "subject": "Lezione: Statistica (LINEA VIOLA) (docente: AMBROSI ALESSANDRO)",
       "uid": "780f28b30f021bf546cc5ba8@unirsr-calendar"
     },
+    "78cd6caa56ad430721557e45@unirsr-calendar": {
+      "date": "2026-12-15",
+      "end": "2026-12-15T13:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "11:30-13:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA VIOLA) (docente: PUNZI SIMONA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
+      "start": "2026-12-15T11:30",
+      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA VIOLA) (docente: PUNZI SIMONA)",
+      "uid": "78cd6caa56ad430721557e45@unirsr-calendar"
+    },
     "79306e85d1b37680fa04ffb7@unirsr-calendar": {
       "date": "2027-01-07",
       "end": "2027-01-07T13:30",
@@ -917,15 +926,6 @@
       "start": "2026-11-19T16:30",
       "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA VIOLA) (docente: FAVA FRANCESCA)",
       "uid": "b178b5738a9f2c7bd20cdc32@unirsr-calendar"
-    },
-    "b3e26a253a1703b95b7e4cac@unirsr-calendar": {
-      "date": "2026-12-17",
-      "end": "2026-12-17T18:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "16:30-18:30 | Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA VIOLA) (docente: PUNZI SIMONA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 1",
-      "start": "2026-12-17T16:30",
-      "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA VIOLA) (docente: PUNZI SIMONA)",
-      "uid": "b3e26a253a1703b95b7e4cac@unirsr-calendar"
     },
     "b4d1ca72aece25fed8372304@unirsr-calendar": {
       "date": "2026-12-02",

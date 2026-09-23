@@ -585,15 +585,6 @@
       "subject": "Lezione: Istologia (LINEA ROSSA) (docente: CANTORE ALESSIO)",
       "uid": "6f587208a3b5dc489fba7f09@unirsr-calendar"
     },
-    "743c0fe28344602a58df19e4@unirsr-calendar": {
-      "date": "2026-10-15",
-      "end": "2026-10-15T17:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA ROSSA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
-      "start": "2026-10-15T15:30",
-      "subject": "Lezione: Fisiologia (LINEA ROSSA) (docente: BETTEGAZZI BARBARA)",
-      "uid": "743c0fe28344602a58df19e4@unirsr-calendar"
-    },
     "743c7cf1ba9f91134c7130a4@unirsr-calendar": {
       "date": "2026-11-10",
       "end": "2026-11-10T12:30",
@@ -656,6 +647,15 @@
       "start": "2026-12-21T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA ROSSA) (docente: CASONI FILIPPO)",
       "uid": "780386931d9fc74fcff0fbd5@unirsr-calendar"
+    },
+    "78401402968848e38a70b364@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T15:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA ROSSA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
+      "start": "2026-10-21T13:30",
+      "subject": "Lezione: Fisiologia (LINEA ROSSA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "78401402968848e38a70b364@unirsr-calendar"
     },
     "7b3ec63b5ef071cce7494b46@unirsr-calendar": {
       "date": "2026-10-13",

@@ -198,15 +198,6 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA AZZURRA) (docente: ANASTASIA LUIGI)",
       "uid": "2df68dc624457957d5f85bdd@unirsr-calendar"
     },
-    "2e4f9acfcc94580650cf8907@unirsr-calendar": {
-      "date": "2026-10-07",
-      "end": "2026-10-07T11:30",
-      "location": "VERROCCHIO Aula VE201 (2 piano)",
-      "raw": "09:30-11:30 | Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-07T09:30",
-      "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA)",
-      "uid": "2e4f9acfcc94580650cf8907@unirsr-calendar"
-    },
     "3055d8a9acaa2b93703edba0@unirsr-calendar": {
       "date": "2026-11-09",
       "end": "2026-11-09T16:30",
@@ -737,6 +728,15 @@
       "start": "2026-11-19T11:30",
       "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA AZZURRA) (docente: JOHN MICHAEL ELLIS)",
       "uid": "a59de41323afc5d83ab94235@unirsr-calendar"
+    },
+    "a5f23de51a0d942f9e9ea127@unirsr-calendar": {
+      "date": "2026-10-09",
+      "end": "2026-10-09T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-09T09:30",
+      "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA)",
+      "uid": "a5f23de51a0d942f9e9ea127@unirsr-calendar"
     },
     "a61821f4bf4090e482e3e8cd@unirsr-calendar": {
       "date": "2026-11-18",
