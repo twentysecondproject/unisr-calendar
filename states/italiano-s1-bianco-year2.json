@@ -783,6 +783,15 @@
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: VIGNALE DAVIDE)",
       "uid": "7bee32c828876b581f15b99d@unirsr-calendar"
     },
+    "7c3d7d0cafd57d2fdd4ed3ae@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DE LUCA GIACOMO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-12T10:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DE LUCA GIACOMO)",
+      "uid": "7c3d7d0cafd57d2fdd4ed3ae@unirsr-calendar"
+    },
     "7f43be1724f37a3b9a6912f7@unirsr-calendar": {
       "date": "2026-10-14",
       "end": "2026-10-14T10:30",
@@ -980,15 +989,6 @@
       "start": "2026-11-03T10:30",
       "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: RAMPOLDI LUCA)",
       "uid": "91292dde9ab407cfc827c86d@unirsr-calendar"
-    },
-    "9361fcdd61220f43776724bb@unirsr-calendar": {
-      "date": "2026-11-12",
-      "end": "2026-11-12T12:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
-      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-12T10:30",
-      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL)",
-      "uid": "9361fcdd61220f43776724bb@unirsr-calendar"
     },
     "95cd9c0b01be949adbed952a@unirsr-calendar": {
       "date": "2026-12-02",

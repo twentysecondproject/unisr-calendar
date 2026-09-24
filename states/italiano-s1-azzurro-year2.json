@@ -738,15 +738,6 @@
       "subject": "Lezione: Morfologia Umana (LINEA AZZURRA) (docente: PALUMBO DIEGO)",
       "uid": "6e9e7659d10aeb02899d2b83@unirsr-calendar"
     },
-    "7158ecf897d99a6480f61a8d@unirsr-calendar": {
-      "date": "2026-11-12",
-      "end": "2026-11-12T12:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
-      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA AZZURRA) (docente: DELLA TORRE EMANUEL) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-12T10:30",
-      "subject": "Lezione: Semeiotica (LINEA AZZURRA) (docente: DELLA TORRE EMANUEL)",
-      "uid": "7158ecf897d99a6480f61a8d@unirsr-calendar"
-    },
     "71da55697598432ef74eb6ba@unirsr-calendar": {
       "date": "2026-10-13",
       "end": "2026-10-13T12:30",
@@ -1466,6 +1457,15 @@
       "start": "2026-11-05T13:30",
       "subject": "Lezione: Istologia (LINEA AZZURRA) (docente: NALDINI LUIGI)",
       "uid": "def3ea3591ab4e6377810ce0@unirsr-calendar"
+    },
+    "e2575c45aa78183655ea4eef@unirsr-calendar": {
+      "date": "2026-11-12",
+      "end": "2026-11-12T12:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "10:30-12:30 | Lezione: Semeiotica (LINEA AZZURRA) (docente: DE LUCA GIACOMO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-12T10:30",
+      "subject": "Lezione: Semeiotica (LINEA AZZURRA) (docente: DE LUCA GIACOMO)",
+      "uid": "e2575c45aa78183655ea4eef@unirsr-calendar"
     },
     "e47d452f46a1a6263bc6132e@unirsr-calendar": {
       "date": "2026-10-15",
