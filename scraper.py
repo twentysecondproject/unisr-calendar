@@ -27,6 +27,12 @@ OUTPUTS = {
         "line": None,
         "filename": "calendario-unisr.ics",
     },
+    "odontoiatria-protesi-dentale-year1": {
+        "course_id": "10322",
+        "course_year": "1",
+        "line": None,
+        "filename": "odontoiatria-protesi-dentale.ics",
+    },
     "international-md-year2": {
         "course_id": "10321",
         "course_year": "2",
