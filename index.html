@@ -23,6 +23,8 @@
 
   <style>
 
+    @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&display=swap");
+
     * {
       box-sizing: border-box;
     }
@@ -67,6 +69,44 @@
 
     main {
       width: min(680px, 100%);
+    }
+
+    .language-switcher {
+      display: flex;
+      justify-content: flex-end;
+      gap: 8px;
+      margin-bottom: -38px;
+      position: relative;
+      z-index: 5;
+    }
+
+    .language-button {
+      display: grid;
+      place-items: center;
+      width: 36px;
+      height: 36px;
+      padding: 0;
+      border: 1px solid rgba(0, 0, 0, .10);
+      border-radius: 50%;
+      background: rgba(255, 255, 255, .82);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, .07);
+      font-size: 19px;
+      cursor: pointer;
+      transition: transform .18s, box-shadow .18s, border-color .18s;
+    }
+
+    .language-button:hover {
+      transform: translateY(-1px);
+    }
+
+    .language-button[aria-pressed="true"] {
+      border-color: rgba(0, 122, 255, .55);
+      box-shadow: 0 0 0 3px rgba(0, 122, 255, .12);
+    }
+
+    .language-button:focus-visible {
+      outline: 3px solid rgba(0, 122, 255, .35);
+      outline-offset: 2px;
     }
 
 
@@ -143,6 +183,7 @@
     ========================= */
 
     .calendar-preview {
+      position: relative;
       margin: 28px auto 26px;
 
       padding: 16px;
@@ -159,9 +200,61 @@
       backdrop-filter: blur(20px);
       -webkit-backdrop-filter: blur(20px);
 
-      overflow: hidden;
+      overflow: visible;
 
       text-align: left;
+    }
+
+    .preview-callout {
+      position: absolute;
+      z-index: 2;
+      top: -45px;
+      right: 8px;
+      width: 170px;
+      height: 78px;
+      pointer-events: none;
+      color: #45454a;
+    }
+
+    .preview-callout-text {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 132px;
+      transform: rotate(-4deg);
+      color: #45454a;
+      font-family: "Caveat", "Bradley Hand", cursive;
+      font-size: 17px;
+      font-weight: 700;
+      line-height: .95;
+      text-align: center;
+      white-space: pre-line;
+    }
+
+    html[lang="it"] .preview-callout {
+      top: -38px;
+    }
+
+    html[lang="it"] .preview-callout-text {
+      width: 150px;
+      font-size: 14px;
+    }
+
+    .preview-callout svg {
+      position: absolute;
+      top: 29px;
+      left: -2px;
+      width: 64px;
+      height: 45px;
+      overflow: visible;
+    }
+
+    .preview-callout path {
+      fill: none;
+      stroke: currentColor;
+      stroke-width: 3.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
     }
 
     .preview-top {
@@ -262,45 +355,29 @@
       position: relative;
 
       height: 180px;
+    }
 
-      border-top:
-        1px solid rgba(0, 0, 0, .06);
-
-      background:
-        repeating-linear-gradient(
-          to bottom,
-          transparent 0,
-          transparent 44px,
-          rgba(0, 0, 0, .055) 44px,
-          rgba(0, 0, 0, .055) 45px
-        );
+    .preview-gridline {
+      position: absolute;
+      left: 0;
+      right: 0;
+      display: grid;
+      grid-template-columns: 45px 1fr;
+      align-items: start;
+      height: 12px;
+      pointer-events: none;
     }
 
     .preview-time {
-      position: absolute;
-
-      left: 0;
-
       color: #aaaab0;
-
       font-size: 8px;
       font-weight: 600;
+      line-height: 10px;
     }
 
-    .preview-time.one {
-      top: 0;
-    }
-
-    .preview-time.two {
-      top: 45px;
-    }
-
-    .preview-time.three {
-      top: 90px;
-    }
-
-    .preview-time.four {
-      top: 135px;
+    .preview-rule {
+      margin-top: 5px;
+      border-top: 1px solid rgba(0, 0, 0, .075);
     }
 
     .preview-event {
@@ -309,7 +386,7 @@
       left: 45px;
       right: 5px;
 
-      padding: 7px 9px;
+      padding: 5px 8px;
 
       border-radius: 9px;
 
@@ -342,13 +419,13 @@
       font-size: 10px;
       font-weight: 700;
 
-      line-height: 1.2;
+      line-height: 1.1;
     }
 
     .preview-event-time {
-      margin-top: 3px;
+      margin-top: 2px;
 
-      font-size: 8px;
+      font-size: 7px;
 
       opacity: .7;
     }
@@ -1004,6 +1081,17 @@
         border-radius: 21px;
       }
 
+      .preview-callout {
+        top: -40px;
+        right: 2px;
+        transform: scale(.84);
+        transform-origin: top right;
+      }
+
+      html[lang="it"] .preview-callout {
+        top: -33px;
+      }
+
       .preview-timeline {
         height: 180px;
       }
@@ -1054,6 +1142,11 @@
 
   <main>
 
+    <nav class="language-switcher" aria-label="Language / Lingua">
+      <button class="language-button" type="button" data-language="en" aria-label="English" aria-pressed="true">🇬🇧</button>
+      <button class="language-button" type="button" data-language="it" aria-label="Italiano" aria-pressed="false">🇮🇹</button>
+    </nav>
+
 
     <!-- =========================
          HERO
@@ -1063,16 +1156,16 @@
 
       <div class="badge">
         <span class="dot"></span>
-        UniSR · Calendar
+        <span id="badgeText">UniSR · Calendar</span>
       </div>
 
 
       <h1>
-        UniSR Calendar
+        <span id="headingText">UniSR Calendar</span>
       </h1>
 
 
-      <p class="subtitle">
+      <p class="subtitle" id="subtitleText">
         Subscribe below to your UniSR timetable and keep your calendar automatically up to date.
       </p>
 
@@ -1082,6 +1175,15 @@
       ========================= -->
 
       <div class="calendar-preview">
+
+        <div class="preview-callout" aria-hidden="true">
+          <span class="preview-callout-text" id="previewCalloutText">This calendar
+actually works!</span>
+          <svg viewBox="0 0 72 48" aria-hidden="true">
+            <path d="M66 2 C60 17, 47 27, 31 30 C23 32, 17 32, 11 31" />
+            <path d="M20 23 L11 31 L21 37" />
+          </svg>
+        </div>
 
         <div class="preview-top">
 
@@ -1135,21 +1237,18 @@
 
         <div class="preview-timeline">
 
-          <span class="preview-time one">
-            09:00
-          </span>
-
-          <span class="preview-time two">
-            11:00
-          </span>
-
-          <span class="preview-time three">
-            13:00
-          </span>
-
-          <span class="preview-time four">
-            15:00
-          </span>
+          <div class="preview-gridline" style="top: 0">
+            <span class="preview-time">09:00</span><span class="preview-rule"></span>
+          </div>
+          <div class="preview-gridline" style="top: 45px">
+            <span class="preview-time">11:00</span><span class="preview-rule"></span>
+          </div>
+          <div class="preview-gridline" style="top: 90px">
+            <span class="preview-time">13:00</span><span class="preview-rule"></span>
+          </div>
+          <div class="preview-gridline" style="top: 135px">
+            <span class="preview-time">15:00</span><span class="preview-rule"></span>
+          </div>
 
 
           <div id="previewEvents" aria-live="polite"></div>
@@ -1157,8 +1256,7 @@
         </div>
 
 
-        <div class="preview-caption">
-
+        <div class="preview-caption" id="previewCaption">
           Timetable automatically updated in your calendar up to date with offical UniSR wesbite
 
         </div>
@@ -1174,6 +1272,7 @@
 
         <label
           class="section-label"
+          id="courseLabel"
           for="courseSelect"
         >
           Choose your course
@@ -1184,7 +1283,7 @@
 
           <select id="courseSelect">
 
-            <option value="">
+            <option value="" id="coursePlaceholder">
               Select a course
             </option>
 
@@ -1208,6 +1307,7 @@
 
         <label
           class="section-label"
+          id="yearLabel"
           for="yearSelect"
         >
           Choose your year
@@ -1221,7 +1321,7 @@
             disabled
           >
 
-            <option value="">
+            <option value="" id="yearPlaceholder">
               Select a year
             </option>
 
@@ -1249,6 +1349,7 @@
 
         <label
           class="section-label"
+          id="lineLabel"
           for="lineSelect"
         >
           Choose your line
@@ -1259,7 +1360,7 @@
 
           <select id="lineSelect">
 
-            <option value="">
+            <option value="" id="linePlaceholder">
               Select a line
             </option>
 
@@ -1344,11 +1445,11 @@
 
           <span class="button-text">
 
-            <span class="button-title">
+            <span class="button-title" id="appleTitle">
               Add to Apple Calendar
             </span>
 
-            <span class="button-subtitle">
+            <span class="button-subtitle" id="appleSubtitle">
               Subscribe on iPhone, Mac or iPad
             </span>
 
@@ -1378,11 +1479,11 @@
 
           <span class="button-text">
 
-            <span class="button-title">
+            <span class="button-title" id="googleTitle">
               Add to Android Calendar
             </span>
 
-            <span class="button-subtitle">
+            <span class="button-subtitle" id="googleSubtitle">
               Subscribe on Android or Google Calendar
             </span>
 
@@ -1406,7 +1507,7 @@
         id="copyButton"
         onclick="copyCalendarUrl()"
       >
-        Copy subscription link
+        <span id="copyCalendarText">Copy subscription link</span>
       </button>
 
 
@@ -1426,12 +1527,12 @@
 
     <section class="share-box">
 
-      <div class="share-title">
+      <div class="share-title" id="shareTitle">
         Wanna share the calendar with your friends?
       </div>
 
 
-      <div class="share-text">
+      <div class="share-text" id="shareText">
         Copy this link and send it to them.
       </div>
 
@@ -1449,11 +1550,11 @@
         id="shareCopyButton"
         onclick="copyShareUrl()"
       >
-        Copy link
+        <span id="shareCopyText">Copy link</span>
       </button>
 
 
-      <div class="share-note">
+      <div class="share-note" id="shareNote">
         You can also find this link in the description of the lessons.
       </div>
 
@@ -1467,7 +1568,7 @@
 
     <div class="footer">
 
-      UniSR timetable calendar · Created by
+      <span id="footerText">UniSR timetable calendar · Created by</span>
 
       <a
         href="https://www.instagram.com/fil_genna"
@@ -1493,24 +1594,24 @@
     // Preview timetable using the supplied subjects and room names.
     const previewLessons = {
       5: [
-        { start: "09:00", end: "11:00", title: "Medicine as a human endeavour", place: "BO101 - Borromini" },
-        { start: "13:00", end: "15:00", title: "Basic Medical Statistics", place: "CA201 - Canova" }
+        { start: "10:00", end: "12:00", title: "Medicine as a Human Endeavour", place: "BO101 - Borromini (1 piano)" },
+        { start: "12:00", end: "14:00", title: "Basic Medical Statistics", place: "CA201 - Canova (2 piano)" }
       ],
       6: [
-        { start: "09:00", end: "11:00", title: "Chemistry & Biochemistry", place: "VA301 - Vasari" },
-        { start: "13:00", end: "15:00", title: "Molecular Cell Biology", place: "BO201 - Borromini" }
+        { start: "09:00", end: "11:00", title: "Medical Chemistry & Biochemistry", place: "VA301 - Vasari (3 piano)" },
+        { start: "13:00", end: "15:00", title: "Molecular Cell Biology", place: "BO201 - Borromini (2 piano)" }
       ],
       7: [
-        { start: "11:00", end: "13:00", title: "Medical Physics", place: "CA301 - Canova" },
-        { start: "15:00", end: "17:00", title: "Medicine as a human endeavour", place: "BO101 - Borromini" }
+        { start: "11:00", end: "13:00", title: "Medical Physics", place: "CA301 - Canova (3 piano)" },
+        { start: "15:00", end: "17:00", title: "Medicine as a Human Endeavour", place: "BO101 - Borromini (1 piano)" }
       ],
       8: [
-        { start: "09:00", end: "11:00", title: "Basic Medical Statistics", place: "VA201 - Vasari" },
-        { start: "13:00", end: "15:00", title: "Chemistry & Biochemistry", place: "CA101 - Canova" }
+        { start: "11:00", end: "13:00", title: "Basic Medical Statistics", place: "VA201 - Vasari (2 piano)" },
+        { start: "13:00", end: "15:00", title: "Medical Chemistry & Biochemistry", place: "CA101 - Canova (1 piano)" }
       ],
       9: [
-        { start: "09:00", end: "11:00", title: "Molecular Cell Biology", place: "BO301 - Borromini" },
-        { start: "13:00", end: "15:00", title: "Medical Physics", place: "VA101 - Vasari" }
+        { start: "09:00", end: "11:00", title: "Molecular Cell Biology", place: "BO301 - Borromini (3 piano)" },
+        { start: "11:00", end: "13:00", title: "Medical Physics", place: "VA101 - Vasari (1 piano)" }
       ],
       10: [],
       11: []
@@ -1537,8 +1638,10 @@
       lessons.forEach(lesson => {
         const [startHour, startMinute] = lesson.start.split(":").map(Number);
         const [endHour, endMinute] = lesson.end.split(":").map(Number);
-        const top = ((startHour - 9) * 60 + startMinute) * .375;
-        const height = ((endHour - startHour) * 60 + endMinute - startMinute) * .375;
+        const slotTop = ((startHour - 9) * 60 + startMinute) * .375;
+        const slotHeight = ((endHour - startHour) * 60 + endMinute - startMinute) * .375;
+        const height = Math.max(30, slotHeight - 12);
+        const top = slotTop + 5 + (slotHeight - height) / 2;
         const card = document.createElement("div");
         card.className = "preview-event";
         card.style.top = `${top}px`;
@@ -1596,6 +1699,103 @@
       googleButton,
       copyButton
     ];
+
+    const copyCalendarText = document.getElementById("copyCalendarText");
+    const shareCopyText = document.getElementById("shareCopyText");
+    const languageButtons = document.querySelectorAll(".language-button");
+    let currentLanguage = "en";
+
+    const interfaceText = {
+      en: {
+        badge: "UniSR · Calendar",
+        heading: "UniSR Calendar",
+        subtitle: "Subscribe below to your UniSR timetable and keep your calendar automatically up to date.",
+        appleTitle: "Add to Apple Calendar",
+        appleSubtitle: "Subscribe on iPhone, Mac or iPad",
+        googleTitle: "Add to Android Calendar",
+        googleSubtitle: "Subscribe on Android or Google Calendar",
+        copyCalendar: "Copy subscription link",
+        copied: "✓ Link copied",
+        selectCourse: "Select your course",
+        courseLabel: "Choose your course",
+        coursePlaceholder: "Select a course",
+        yearLabel: "Choose your year",
+        yearPlaceholder: "Select a year",
+        lineLabel: "Choose your line",
+        linePlaceholder: "Select a line",
+        previewCallout: "Try it!\nIt'll be like this",
+        previewCaption: "Timetable automatically updated in your calendar up to date with offical UniSR wesbite",
+        shareTitle: "Wanna share the calendar with your friends?",
+        shareText: "Copy this link and send it to them.",
+        copyLink: "Copy link",
+        shareNote: "You can also find this link in the description of the lessons.",
+        footer: "UniSR timetable calendar · Created by",
+        pageTitle: "UniSR Calendar"
+      },
+      it: {
+        badge: "UniSR · Calendario",
+        heading: "Calendario UniSR",
+        subtitle: "Iscriviti al calendario delle lezioni in UniSR e tieniti sempre aggiornato sul tuo calendario personale.",
+        appleTitle: "Aggiungi a Calendario Apple",
+        appleSubtitle: "Iscriviti da iPhone, Mac o iPad",
+        googleTitle: "Aggiungi a Google Calendar",
+        googleSubtitle: "Iscriviti da Android o Google Calendar",
+        copyCalendar: "Copia link di iscrizione",
+        copied: "✓ Link copiato",
+        selectCourse: "Seleziona il tuo corso",
+        courseLabel: "Scegli il tuo corso",
+        coursePlaceholder: "Seleziona un corso",
+        yearLabel: "Scegli il tuo anno",
+        yearPlaceholder: "Seleziona un anno",
+        lineLabel: "Scegli la tua linea",
+        linePlaceholder: "Seleziona una linea",
+        previewCallout: "Provalo!\nSul tuo telefono appare così",
+        previewCaption: "Trovi l'orario aggiornato automaticamente nel tuo calendario in base alle informazioni ufficiali del sito UniSR",
+        shareTitle: "Vuoi condividere il calendario con i tuoi amici?",
+        shareText: "Copia questo link e invialo ai tuoi amici.",
+        copyLink: "Copia link",
+        shareNote: "Trovi questo link anche nella descrizione delle lezioni.",
+        footer: "Calendario lezioni UniSR · Creato da",
+        pageTitle: "Calendario UniSR"
+      }
+    };
+
+    function setLanguage(language) {
+      currentLanguage = language;
+      const text = interfaceText[language];
+      document.documentElement.lang = language;
+      document.title = text.pageTitle;
+      document.getElementById("badgeText").textContent = text.badge;
+      document.getElementById("headingText").textContent = text.heading;
+      document.getElementById("subtitleText").textContent = text.subtitle;
+      document.getElementById("appleTitle").textContent = text.appleTitle;
+      document.getElementById("appleSubtitle").textContent = text.appleSubtitle;
+      document.getElementById("googleTitle").textContent = text.googleTitle;
+      document.getElementById("googleSubtitle").textContent = text.googleSubtitle;
+      document.getElementById("courseLabel").textContent = text.courseLabel;
+      document.getElementById("coursePlaceholder").textContent = text.coursePlaceholder;
+      document.getElementById("yearLabel").textContent = text.yearLabel;
+      document.getElementById("yearPlaceholder").textContent = text.yearPlaceholder;
+      document.getElementById("lineLabel").textContent = text.lineLabel;
+      document.getElementById("linePlaceholder").textContent = text.linePlaceholder;
+      document.getElementById("previewCalloutText").textContent = text.previewCallout;
+      document.getElementById("previewCaption").textContent = text.previewCaption;
+      copyCalendarText.textContent = text.copyCalendar;
+      document.getElementById("shareTitle").textContent = text.shareTitle;
+      document.getElementById("shareText").textContent = text.shareText;
+      shareCopyText.textContent = text.copyLink;
+      document.getElementById("shareNote").textContent = text.shareNote;
+      document.getElementById("footerText").textContent = text.footer;
+      languageButtons.forEach(button => {
+        button.setAttribute("aria-pressed", String(button.dataset.language === language));
+      });
+      if (courseSelect.value) updateCalendar();
+      else selectedName.textContent = text.selectCourse;
+    }
+
+    languageButtons.forEach(button => {
+      button.addEventListener("click", () => setLanguage(button.dataset.language));
+    });
 
 
 
@@ -1929,7 +2129,7 @@
       if (!course) {
 
         selectedName.textContent =
-          "Select your course";
+          interfaceText[currentLanguage].selectCourse;
 
         calendarUrl.textContent = "";
 
@@ -1957,8 +2157,8 @@
           " · " +
           (
             year === "1"
-              ? "1st Year"
-              : "2nd Year"
+              ? (currentLanguage === "it" ? "1° anno" : "1st Year")
+              : (currentLanguage === "it" ? "2° anno" : "2nd Year")
           );
 
 
@@ -1966,8 +2166,8 @@
           url || "";
 
 
-        copyButton.textContent =
-          "Copy subscription link";
+        copyCalendarText.textContent =
+          interfaceText[currentLanguage].copyCalendar;
 
 
         refreshActionState();
@@ -1984,8 +2184,8 @@
           " · " +
           (
             year === "1"
-              ? "1st Year"
-              : "2nd Year"
+              ? (currentLanguage === "it" ? "1° anno" : "1st Year")
+              : (currentLanguage === "it" ? "2° anno" : "2nd Year")
           );
 
 
@@ -2001,8 +2201,8 @@
         " · " +
         (
           year === "1"
-            ? "1st Year"
-            : "2nd Year"
+            ? (currentLanguage === "it" ? "1° anno" : "1st Year")
+            : (currentLanguage === "it" ? "2° anno" : "2nd Year")
         ) +
         " · " +
         lineNames[line];
@@ -2012,8 +2212,8 @@
         url || "";
 
 
-      copyButton.textContent =
-        "Copy subscription link";
+      copyCalendarText.textContent =
+        interfaceText[currentLanguage].copyCalendar;
 
     }
 
@@ -2043,7 +2243,7 @@
           true;
 
         selectedName.textContent =
-          "Select your course";
+          interfaceText[currentLanguage].selectCourse;
 
         calendarUrl.textContent = "";
 
@@ -2250,14 +2450,14 @@
       }
 
 
-      copyButton.textContent =
-        "✓ Link copied";
+      copyCalendarText.textContent =
+        interfaceText[currentLanguage].copied;
 
 
       setTimeout(() => {
 
-        copyButton.textContent =
-          "Copy subscription link";
+        copyCalendarText.textContent =
+          interfaceText[currentLanguage].copyCalendar;
 
       }, 1800);
 
@@ -2317,14 +2517,14 @@
       }
 
 
-      shareCopyButton.textContent =
-        "✓ Link copied";
+      shareCopyText.textContent =
+        interfaceText[currentLanguage].copied;
 
 
       setTimeout(() => {
 
-        shareCopyButton.textContent =
-          "Copy link";
+        shareCopyText.textContent =
+          interfaceText[currentLanguage].copyLink;
 
       }, 1800);
 
@@ -2380,6 +2580,8 @@
     updateYearOptions();
 
     refreshActionState();
+
+    setLanguage("en");
 
   </script>
 
