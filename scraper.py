@@ -536,7 +536,7 @@ def generate_ics(lessons, start_date, end_date):
             f"SUMMARY:{escape_ics(lesson['subject'])}",
             f"LOCATION:{escape_ics(lesson['location'])}",
             f"ORGANIZER;CN={escape_ics(lesson.get('professor', ''))}:urn:unirsr:organizer",
-            "DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna",
+            "DESCRIPTION:IL CALENDARIO SI AGGIORNA AUTOMATICAMENTE - Qualche problema/any issues? Scrivimi/Please contact me on Instagram @fil_genna - link: https://twentysecondproject.github.io/unisr-calendar/",
             "STATUS:CONFIRMED",
             "END:VEVENT",
         ])
