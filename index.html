@@ -223,24 +223,34 @@
     }
 
     .preview-date {
-      display: flex;
-
-      align-items: center;
-      justify-content: center;
-
+      display: grid;
+      place-items: center;
+      width: 27px;
       height: 27px;
-
+      margin: 0 auto;
+      padding: 0;
+      border: 0;
+      border-radius: 50%;
+      background: transparent;
       color: #6e6e73;
-
+      font: inherit;
       font-size: 11px;
       font-weight: 600;
+      cursor: pointer;
+      transition: background .18s, color .18s, transform .18s;
+    }
+
+    .preview-date:hover {
+      background: rgba(0, 122, 255, .10);
+      color: #007aff;
+    }
+
+    .preview-date:focus-visible {
+      outline: 3px solid rgba(0, 122, 255, .35);
+      outline-offset: 2px;
     }
 
     .preview-date.active {
-      width: 27px;
-
-      margin: 0 auto;
-
       border-radius: 50%;
 
       background: #1d1d1f;
@@ -278,19 +288,19 @@
     }
 
     .preview-time.one {
-      top: 12px;
+      top: 0;
     }
 
     .preview-time.two {
-      top: 57px;
+      top: 45px;
     }
 
     .preview-time.three {
-      top: 102px;
+      top: 90px;
     }
 
     .preview-time.four {
-      top: 147px;
+      top: 135px;
     }
 
     .preview-event {
@@ -309,6 +319,15 @@
         3px solid #af52de;
 
       color: #653274;
+    }
+
+    .preview-empty {
+      position: absolute;
+      top: 68px;
+      left: 45px;
+      color: #98989d;
+      font-size: 11px;
+      font-weight: 600;
     }
 
     .preview-event.one {
@@ -986,7 +1005,7 @@
       }
 
       .preview-timeline {
-        height: 165px;
+        height: 180px;
       }
 
       .preview-event {
@@ -1103,36 +1122,14 @@
         </div>
 
 
-        <div class="preview-dates">
-
-          <span class="preview-date">
-            5
-          </span>
-
-          <span class="preview-date active">
-            6
-          </span>
-
-          <span class="preview-date">
-            7
-          </span>
-
-          <span class="preview-date">
-            8
-          </span>
-
-          <span class="preview-date">
-            9
-          </span>
-
-          <span class="preview-date">
-            10
-          </span>
-
-          <span class="preview-date">
-            11
-          </span>
-
+        <div class="preview-dates" role="group" aria-label="Choose a day in October 2026">
+          <button class="preview-date" type="button" data-day="5" aria-pressed="false">5</button>
+          <button class="preview-date active" type="button" data-day="6" aria-pressed="true">6</button>
+          <button class="preview-date" type="button" data-day="7" aria-pressed="false">7</button>
+          <button class="preview-date" type="button" data-day="8" aria-pressed="false">8</button>
+          <button class="preview-date" type="button" data-day="9" aria-pressed="false">9</button>
+          <button class="preview-date" type="button" data-day="10" aria-pressed="false">10</button>
+          <button class="preview-date" type="button" data-day="11" aria-pressed="false">11</button>
         </div>
 
 
@@ -1155,32 +1152,7 @@
           </span>
 
 
-          <div class="preview-event one">
-
-            <div class="preview-event-title">
-              Molecular Cell Biology
-            </div>
-
-            <div class="preview-event-time">
-              09:00 — 11:00 · CA301 - Canova (3 piano)
-            </div>
-
-          </div>
-
-        
-          
-          
-          <div class="preview-event two">
-
-            <div class="preview-event-title">
-              Medical Physics
-            </div>
-
-            <div class="preview-event-time">
-              13:00 — 15:00 · VA201 - Vasari (2 Piano)
-            </div>
-
-          </div>
+          <div id="previewEvents" aria-live="polite"></div>
 
         </div>
 
@@ -1517,6 +1489,75 @@
   ========================= -->
 
   <script>
+
+    // Preview timetable using the supplied subjects and room names.
+    const previewLessons = {
+      5: [
+        { start: "09:00", end: "11:00", title: "Medicine as a human endeavour", place: "BO101 - Borromini" },
+        { start: "13:00", end: "15:00", title: "Basic Medical Statistics", place: "CA201 - Canova" }
+      ],
+      6: [
+        { start: "09:00", end: "11:00", title: "Chemistry & Biochemistry", place: "VA301 - Vasari" },
+        { start: "13:00", end: "15:00", title: "Molecular Cell Biology", place: "BO201 - Borromini" }
+      ],
+      7: [
+        { start: "11:00", end: "13:00", title: "Medical Physics", place: "CA301 - Canova" },
+        { start: "15:00", end: "17:00", title: "Medicine as a human endeavour", place: "BO101 - Borromini" }
+      ],
+      8: [
+        { start: "09:00", end: "11:00", title: "Basic Medical Statistics", place: "VA201 - Vasari" },
+        { start: "13:00", end: "15:00", title: "Chemistry & Biochemistry", place: "CA101 - Canova" }
+      ],
+      9: [
+        { start: "09:00", end: "11:00", title: "Molecular Cell Biology", place: "BO301 - Borromini" },
+        { start: "13:00", end: "15:00", title: "Medical Physics", place: "VA101 - Vasari" }
+      ],
+      10: [],
+      11: []
+    };
+
+    const previewDateButtons = document.querySelectorAll(".preview-date");
+    const previewEvents = document.getElementById("previewEvents");
+    const previewMonth = document.querySelector(".preview-month");
+
+    function renderPreviewDay(day) {
+      previewDateButtons.forEach(button => {
+        const selected = Number(button.dataset.day) === day;
+        button.classList.toggle("active", selected);
+        button.setAttribute("aria-pressed", String(selected));
+      });
+
+      const date = new Date(2026, 9, day);
+      const weekday = new Intl.DateTimeFormat("en", { weekday: "long" }).format(date);
+      previewMonth.textContent = `${weekday}, October ${day}, 2026`;
+      previewEvents.replaceChildren();
+
+      const lessons = previewLessons[day] || [];
+
+      lessons.forEach(lesson => {
+        const [startHour, startMinute] = lesson.start.split(":").map(Number);
+        const [endHour, endMinute] = lesson.end.split(":").map(Number);
+        const top = ((startHour - 9) * 60 + startMinute) * .375;
+        const height = ((endHour - startHour) * 60 + endMinute - startMinute) * .375;
+        const card = document.createElement("div");
+        card.className = "preview-event";
+        card.style.top = `${top}px`;
+        card.style.height = `${height}px`;
+        const title = document.createElement("div");
+        title.className = "preview-event-title";
+        title.textContent = lesson.title;
+        const time = document.createElement("div");
+        time.className = "preview-event-time";
+        time.textContent = `${lesson.start} — ${lesson.end} · ${lesson.place}`;
+        card.append(title, time);
+        previewEvents.append(card);
+      });
+    }
+
+    previewDateButtons.forEach(button => {
+      button.addEventListener("click", () => renderPreviewDay(Number(button.dataset.day)));
+    });
+    renderPreviewDay(6);
 
     const baseUrl =
       "https://twentysecondproject.github.io/unisr-calendar/";
