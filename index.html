@@ -1072,7 +1072,7 @@
       }
 
       .calendar-preview {
-        margin-top: 24px;
+        margin-top: 80px;
 
         margin-bottom: 22px;
 
@@ -1082,14 +1082,10 @@
       }
 
       .preview-callout {
-        top: -40px;
+        top: -55px;
         right: 2px;
         transform: scale(.84);
         transform-origin: top right;
-      }
-
-      html[lang="it"] .preview-callout {
-        top: -33px;
       }
 
       .preview-timeline {
@@ -1295,6 +1291,10 @@ actually works!</span>
               Medicina e Chirurgia
             </option>
 
+            <option value="odontoiatria">
+              Odontoiatria e protesi dentale
+            </option>
+
           </select>
 
         </div>
@@ -1329,7 +1329,7 @@ actually works!</span>
               1st Year
             </option>
 
-            <option value="2">
+            <option value="2" id="secondYearOption">
               2nd Year
             </option>
 
@@ -1815,6 +1815,13 @@ actually works!</span>
 
       },
 
+      odontoiatria: {
+
+        1:
+          "odontoiatria-protesi-dentale.ics"
+
+      },
+
 
       italian: {
 
@@ -1875,7 +1882,10 @@ actually works!</span>
         "International MD",
 
       italian:
-        "Medicina e Chirurgia"
+        "Medicina e Chirurgia",
+
+      odontoiatria:
+        "Odontoiatria e protesi dentale"
 
     };
 
@@ -1920,6 +1930,7 @@ actually works!</span>
 
       return (
         courseSelect.value === "international" ||
+        courseSelect.value === "odontoiatria" ||
         !!lineSelect.value
       );
 
@@ -2078,6 +2089,11 @@ actually works!</span>
 
       }
 
+      if (course === "odontoiatria") {
+
+        return calendars.odontoiatria[year] || null;
+
+      }
 
       if (!line) {
         return null;
@@ -2150,7 +2166,10 @@ actually works!</span>
       }
 
 
-      if (course === "international") {
+      if (
+        course === "international" ||
+        course === "odontoiatria"
+      ) {
 
         selectedName.textContent =
           courseNames[course] +
@@ -2228,6 +2247,11 @@ actually works!</span>
       const course =
         courseSelect.value;
 
+      const secondYearOption =
+        document.getElementById("secondYearOption");
+
+      secondYearOption.hidden = course === "odontoiatria";
+      secondYearOption.disabled = course === "odontoiatria";
 
       yearSelect.value = "";
 
@@ -2256,7 +2280,7 @@ actually works!</span>
         false;
 
 
-      if (course === "international") {
+      if (course === "international" || course === "odontoiatria") {
 
         lineSelect.value = "";
 
