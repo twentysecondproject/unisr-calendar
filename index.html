@@ -817,28 +817,6 @@
 
 
     /* =========================
-       GOOGLE BUTTON
-    ========================= */
-
-    .google-button {
-      background: #f1f1f3;
-
-      color: #1d1d1f;
-
-      border:
-        1px solid rgba(0, 0, 0, .06);
-    }
-
-    .google-button:hover {
-      background: #e8e8eb;
-    }
-
-    .google-button .calendar-icon {
-      background: #fff;
-    }
-
-
-    /* =========================
        SUBSCRIPTION COPY
     ========================= */
 
@@ -1475,38 +1453,6 @@ actually works!</span>
 
 
 
-        <!-- GOOGLE -->
-
-        <button
-          class="calendar-button google-button"
-          id="googleButton"
-          onclick="addToGoogleCalendar()"
-        >
-
-          <span class="calendar-icon">
-            📅
-          </span>
-
-
-          <span class="button-text">
-
-            <span class="button-title" id="googleTitle">
-              Add to Android Calendar
-            </span>
-
-            <span class="button-subtitle" id="googleSubtitle">
-              Subscribe on Android or Google Calendar
-            </span>
-
-          </span>
-
-
-          <span class="button-arrow">
-            ›
-          </span>
-
-        </button>
-
       </div>
 
 
@@ -1701,15 +1647,7 @@ actually works!</span>
     const appleButton =
       document.getElementById("appleButton");
 
-    const googleButton =
-      document.getElementById("googleButton");
 
-
-    const actionButtons = [
-      appleButton,
-      googleButton,
-      copyButton
-    ];
 
     const copyCalendarText = document.getElementById("copyCalendarText");
     const shareCopyText = document.getElementById("shareCopyText");
@@ -1723,9 +1661,7 @@ actually works!</span>
         subtitle: "Subscribe below to your UniSR timetable and keep your calendar automatically up to date.",
         appleTitle: "Add to Apple Calendar",
         appleSubtitle: "Subscribe on iPhone, Mac or iPad",
-        googleTitle: "Add to Android Calendar",
-        googleSubtitle: "Subscribe on Android or Google Calendar",
-        copyCalendar: "Copy subscription link",
+        copyCalendar: "Copy subscription link (for non-apple calendars, like Google or Microsoft)",
         copied: "✓ Link copied",
         selectCourse: "Select your course",
         courseLabel: "Choose your course",
@@ -1749,9 +1685,7 @@ actually works!</span>
         subtitle: "Iscriviti al calendario delle lezioni in UniSR e tieniti sempre aggiornato sul tuo calendario personale.",
         appleTitle: "Aggiungi a Calendario Apple",
         appleSubtitle: "Iscriviti da iPhone, Mac o iPad",
-        googleTitle: "Aggiungi a Google Calendar",
-        googleSubtitle: "Iscriviti da Android o Google Calendar",
-        copyCalendar: "Copia link di iscrizione",
+        copyCalendar: "Copia link di iscrizione (for non-apple calendars, like Google or Microsoft)",
         copied: "✓ Link copiato",
         selectCourse: "Seleziona il tuo corso",
         courseLabel: "Scegli il tuo corso",
@@ -1781,8 +1715,6 @@ actually works!</span>
       document.getElementById("subtitleText").textContent = text.subtitle;
       document.getElementById("appleTitle").textContent = text.appleTitle;
       document.getElementById("appleSubtitle").textContent = text.appleSubtitle;
-      document.getElementById("googleTitle").textContent = text.googleTitle;
-      document.getElementById("googleSubtitle").textContent = text.googleSubtitle;
       document.getElementById("courseLabel").textContent = text.courseLabel;
       document.getElementById("coursePlaceholder").textContent = text.coursePlaceholder;
       document.getElementById("yearLabel").textContent = text.yearLabel;
@@ -2382,45 +2314,6 @@ actually works!</span>
 
       window.location.href =
         webcalUrl;
-
-    }
-
-
-
-    /* =========================
-       GOOGLE CALENDAR
-    ========================= */
-
-    function addToGoogleCalendar() {
-
-      if (!isSelectionComplete()) {
-
-        shakeAndHighlightMissing(
-          googleButton
-        );
-
-        return;
-
-      }
-
-
-      const url =
-        getCalendarUrl();
-
-
-      if (!url) return;
-
-
-      const googleUrl =
-        "https://calendar.google.com/calendar/r?cid=" +
-        encodeURIComponent(url);
-
-
-      window.open(
-        googleUrl,
-        "_blank",
-        "noopener"
-      );
 
     }
 
