@@ -153,8 +153,8 @@ def extract_rows(html: str, day: date):
             row_text = clean_text(tr.get_text(" ", strip=True))
 
             location_match = re.search(
-                r"([A-ZÀ-ÖØ-Ý0-9 .'-]+)\s*-\s*Aula\s+"
-                r"([A-Z]{1,5}\d{2,4})"
+                r"([A-ZÀ-ÖØ-Ý0-9 .'-]+?)\s*-\s*Aula\s+"
+                r"([A-Z0-9][A-Z0-9/-]*)"
                 r"(?:\s*\(([^)]*)\))?",
                 row_text,
                 flags=re.IGNORECASE,
