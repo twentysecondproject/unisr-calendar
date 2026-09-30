@@ -269,6 +269,41 @@ def parse_lesson(lesson):
 
 
 
+def page_displays_date(html: str, day: date) -> bool:
+    """Return whether the response includes the requested date."""
+    soup = BeautifulSoup(html, "html.parser")
+    page_text = clean_text(soup.get_text(" ", strip=True)).casefold()
+
+    # The timetable displays dates numerically on lesson days and as a long
+    # English date on empty days (for example, "Saturday, October 10, 2026").
+    numeric_date = day.strftime("%d/%m/%Y")
+    if numeric_date in page_text:
+        return True
+
+    month = day.strftime("%B").casefold()
+    year = str(day.year)
+    day_number = str(day.day)
+    return bool(re.search(
+        rf"\b{re.escape(month)}\s+{day_number},?\s+{year}\b",
+        page_text,
+    ))
+
+
+def validate_timetable_response(html: str, day: date, lessons) -> None:
+    """Reject pages that cannot safely be treated as a checked timetable day."""
+    if not page_displays_date(html, day):
+        raise ValueError("response does not display the requested date")
+
+    soup = BeautifulSoup(html, "html.parser")
+    page_text = clean_text(soup.get_text(" ", strip=True)).casefold()
+    no_results = "nessun risultato" in page_text
+
+    if not lessons and not no_results:
+        raise ValueError(
+            "response has neither parsed lessons nor the 'Nessun risultato' message"
+        )
+
+
 def parse_day(html: str, day: date):
     rows = extract_rows(html, day)
     return [parse_lesson(row) for row in rows]
@@ -707,6 +742,11 @@ def main():
                 day_lessons = parse_day(
                     response.text,
                     current,
+                )
+                validate_timetable_response(
+                    response.text,
+                    current,
+                    day_lessons,
                 )
 
                 course_lessons.extend(day_lessons)
