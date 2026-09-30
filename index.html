@@ -816,6 +816,7 @@
     }
 
 
+
     /* =========================
        SUBSCRIPTION COPY
     ========================= */
@@ -1450,10 +1451,7 @@ actually works!</span>
           </span>
 
         </button>
-
-
-
-      </div>
+</div>
 
 
 
@@ -1646,8 +1644,10 @@ actually works!</span>
 
     const appleButton =
       document.getElementById("appleButton");
-
-
+const actionButtons = [
+      appleButton,
+      copyButton
+    ];
 
     const copyCalendarText = document.getElementById("copyCalendarText");
     const shareCopyText = document.getElementById("shareCopyText");
@@ -1661,7 +1661,7 @@ actually works!</span>
         subtitle: "Subscribe below to your UniSR timetable and keep your calendar automatically up to date.",
         appleTitle: "Add to Apple Calendar",
         appleSubtitle: "Subscribe on iPhone, Mac or iPad",
-        copyCalendar: "Copy subscription link (for non-apple calendars, like Google or Microsoft)",
+        copyCalendar: "Copy subscription link",
         copied: "✓ Link copied",
         selectCourse: "Select your course",
         courseLabel: "Choose your course",
@@ -1685,7 +1685,7 @@ actually works!</span>
         subtitle: "Iscriviti al calendario delle lezioni in UniSR e tieniti sempre aggiornato sul tuo calendario personale.",
         appleTitle: "Aggiungi a Calendario Apple",
         appleSubtitle: "Iscriviti da iPhone, Mac o iPad",
-        copyCalendar: "Copia link di iscrizione (for non-apple calendars, like Google or Microsoft)",
+        copyCalendar: "Copia link di iscrizione",
         copied: "✓ Link copiato",
         selectCourse: "Seleziona il tuo corso",
         courseLabel: "Scegli il tuo corso",
@@ -2316,6 +2316,7 @@ actually works!</span>
         webcalUrl;
 
     }
+
 
 
 
