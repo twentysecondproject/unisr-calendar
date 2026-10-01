@@ -246,7 +246,7 @@
     "287ac54c1492c720cf0b8a5e@unirsr-calendar": {
       "date": "2026-10-07",
       "end": "2026-10-07T12:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "location": "VASARI Aula VA302 (3 piano)",
       "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-10-07T10:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA)",
@@ -558,6 +558,15 @@
       "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: ZUFFARDI ORSETTA)",
       "uid": "4bb1561dc7c3e05c8dc3f833@unirsr-calendar"
     },
+    "4cb19f8a966d382337ef4469@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DE LUCA GIACOMO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-12T15:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DE LUCA GIACOMO)",
+      "uid": "4cb19f8a966d382337ef4469@unirsr-calendar"
+    },
     "4d3907bd04653a58eb438396@unirsr-calendar": {
       "date": "2026-09-30",
       "end": "2026-09-30T12:30",
@@ -831,7 +840,7 @@
     "80c5899ce41770c745648fc5@unirsr-calendar": {
       "date": "2026-10-07",
       "end": "2026-10-07T15:30",
-      "location": "VASARI Aula VA301 (3 piano)",
+      "location": "VASARI Aula VA302 (3 piano)",
       "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-10-07T13:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CARUBBI CECILIA)",
@@ -1281,7 +1290,7 @@
     "c21ebf2cf50950ab03be7c42@unirsr-calendar": {
       "date": "2026-10-08",
       "end": "2026-10-08T10:30",
-      "location": "CANOVA Aula CA202 (2 piano)",
+      "location": "CANOVA Aula CA102 (1 piano)",
       "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-10-08T08:30",
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
