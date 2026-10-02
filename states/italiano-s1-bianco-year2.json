@@ -324,15 +324,6 @@
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
       "uid": "33c984fdc6cc801213c6bad7@unirsr-calendar"
     },
-    "3573e7a4151dec8841bbc8f6@unirsr-calendar": {
-      "date": "2026-11-03",
-      "end": "2026-11-03T10:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
-      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-03T08:30",
-      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: DELLA TORRE EMANUEL)",
-      "uid": "3573e7a4151dec8841bbc8f6@unirsr-calendar"
-    },
     "35f9d37262995fb89798cd3e@unirsr-calendar": {
       "date": "2026-10-02",
       "end": "2026-10-02T15:30",
@@ -972,15 +963,6 @@
       "subject": "Lezione: Genetica Medica (LINEA BIANCA) (docente: MALTECCA FRANCESCA)",
       "uid": "8f9e6cb736cb353f3b185469@unirsr-calendar"
     },
-    "9015157f96f7704f59ac7a86@unirsr-calendar": {
-      "date": "2026-10-09",
-      "end": "2026-10-09T15:30",
-      "location": "VASARI Aula VA101 (1 piano)",
-      "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-09T13:30",
-      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
-      "uid": "9015157f96f7704f59ac7a86@unirsr-calendar"
-    },
     "90174793b1c92463abdc6364@unirsr-calendar": {
       "date": "2026-11-10",
       "end": "2026-11-10T12:30",
@@ -1052,6 +1034,15 @@
       "start": "2026-11-02T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA)",
       "uid": "9e1bc9981c1f87a1e96127ca@unirsr-calendar"
+    },
+    "9e4c789d2dabb51200bd495e@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-16T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "9e4c789d2dabb51200bd495e@unirsr-calendar"
     },
     "9e994dc53746c4fba399ad14@unirsr-calendar": {
       "date": "2026-10-13",

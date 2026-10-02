@@ -189,6 +189,15 @@
       "subject": "Lezione: Genetica Medica (LINEA VIOLA) (docente: CRATERE MARIAPIA GIUDITTA)",
       "uid": "22407bf57eb30fece26587ad@unirsr-calendar"
     },
+    "24c9943726fc8bf8ab194841@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T17:30",
+      "location": "VASARI Aula VA101 (1 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA VIOLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
+      "start": "2026-10-21T15:30",
+      "subject": "Lezione: Fisiologia (LINEA VIOLA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "24c9943726fc8bf8ab194841@unirsr-calendar"
+    },
     "25b0b3be6cca3c38d7e570f0@unirsr-calendar": {
       "date": "2026-11-02",
       "end": "2026-11-02T15:30",
@@ -962,15 +971,6 @@
       "start": "2026-11-10T08:30",
       "subject": "Lezione: Morfologia Umana (LINEA VIOLA) (docente: FALLETTA PAOLA)",
       "uid": "a8ac7a0ef9f0190192cac22f@unirsr-calendar"
-    },
-    "a8d51eae2e08e6632b5c50e8@unirsr-calendar": {
-      "date": "2026-10-09",
-      "end": "2026-10-09T17:30",
-      "location": "VASARI Aula VA102 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA VIOLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
-      "start": "2026-10-09T15:30",
-      "subject": "Lezione: Fisiologia (LINEA VIOLA) (docente: BETTEGAZZI BARBARA)",
-      "uid": "a8d51eae2e08e6632b5c50e8@unirsr-calendar"
     },
     "a92cacaf88f17a7f9aa7d780@unirsr-calendar": {
       "date": "2026-12-14",
