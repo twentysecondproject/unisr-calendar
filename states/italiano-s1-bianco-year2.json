@@ -180,15 +180,6 @@
       "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: PIEMONTI LORENZO)",
       "uid": "1e5af5861b9e4ead6569429d@unirsr-calendar"
     },
-    "1f46c4cc82ee6275a1b1b27b@unirsr-calendar": {
-      "date": "2026-10-06",
-      "end": "2026-10-06T15:30",
-      "location": "VASARI Aula VA302 (3 piano)",
-      "raw": "13:30-15:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-06T13:30",
-      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
-      "uid": "1f46c4cc82ee6275a1b1b27b@unirsr-calendar"
-    },
     "203903d824061a55d1eeea97@unirsr-calendar": {
       "date": "2027-01-07",
       "end": "2027-01-07T17:30",
@@ -1025,6 +1016,15 @@
       "start": "2027-01-13T15:30",
       "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: POZZER DIEGO)",
       "uid": "9cc752c4f90ec4125cac898a@unirsr-calendar"
+    },
+    "9d28642c14b9b11603405e5b@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T10:30",
+      "location": "CANOVA Aula CA102 (1 piano)",
+      "raw": "08:30-10:30 | Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-13T08:30",
+      "subject": "Lezione: Semeiotica (LINEA BIANCA) (docente: RATTI FRANCESCA)",
+      "uid": "9d28642c14b9b11603405e5b@unirsr-calendar"
     },
     "9e1bc9981c1f87a1e96127ca@unirsr-calendar": {
       "date": "2026-11-02",

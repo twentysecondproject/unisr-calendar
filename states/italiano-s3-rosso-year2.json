@@ -486,6 +486,15 @@
       "subject": "Lezione: Morfologia Umana (LINEA ROSSA) (docente: FALLETTA PAOLA)",
       "uid": "60ce7c59a7f4edec8741c6c9@unirsr-calendar"
     },
+    "61138f226239811e6e0b4d34@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T10:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "08:30-10:30 | Lezione: Istologia (LINEA ROSSA) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
+      "start": "2026-10-19T08:30",
+      "subject": "Lezione: Istologia (LINEA ROSSA) (docente: GRITTI ANGELA)",
+      "uid": "61138f226239811e6e0b4d34@unirsr-calendar"
+    },
     "618f5ff37ac8a2fcae5e2d61@unirsr-calendar": {
       "date": "2027-01-12",
       "end": "2027-01-12T17:30",
@@ -611,15 +620,6 @@
       "start": "2026-10-15T10:30",
       "subject": "Lezione: Genetica Medica (LINEA ROSSA) (docente: MALTECCA FRANCESCA)",
       "uid": "7556252440f896a7b29435f0@unirsr-calendar"
-    },
-    "7577f46161e931ac3974eb67@unirsr-calendar": {
-      "date": "2026-10-09",
-      "end": "2026-10-09T15:30",
-      "location": "VASARI Aula VA102 (1 piano)",
-      "raw": "13:30-15:30 | Lezione: Istologia (LINEA ROSSA) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia 3 | 2",
-      "start": "2026-10-09T13:30",
-      "subject": "Lezione: Istologia (LINEA ROSSA) (docente: GRITTI ANGELA)",
-      "uid": "7577f46161e931ac3974eb67@unirsr-calendar"
     },
     "77190139ae55a39b7ca59dbb@unirsr-calendar": {
       "date": "2027-01-11",

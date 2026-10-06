@@ -18,15 +18,6 @@
       "subject": "Lezione: Semeiotica (LINEA GIALLA) (docente: DE LUCA GIACOMO)",
       "uid": "066ab964a054e5de3cc1afb0@unirsr-calendar"
     },
-    "06cc5f9127236740a8610eff@unirsr-calendar": {
-      "date": "2026-10-09",
-      "end": "2026-10-09T17:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-09T15:30",
-      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
-      "uid": "06cc5f9127236740a8610eff@unirsr-calendar"
-    },
     "0a0179ede582b02d16e0b901@unirsr-calendar": {
       "date": "2027-01-07",
       "end": "2027-01-07T17:30",
@@ -441,15 +432,6 @@
       "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: FALLETTA PAOLA)",
       "uid": "4ff509d49100a084998ad914@unirsr-calendar"
     },
-    "519064889e82f47b16294bce@unirsr-calendar": {
-      "date": "2026-10-07",
-      "end": "2026-10-07T12:30",
-      "location": "VASARI Aula VA102 (1 piano)",
-      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-07T10:30",
-      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
-      "uid": "519064889e82f47b16294bce@unirsr-calendar"
-    },
     "53ae18d816462561faa1a2a6@unirsr-calendar": {
       "date": "2026-11-18",
       "end": "2026-11-18T10:30",
@@ -687,7 +669,7 @@
     "769abf9078bdc78e792b78a6@unirsr-calendar": {
       "date": "2026-10-13",
       "end": "2026-10-13T15:30",
-      "location": "BORROMINI Aula BO102 (1 piano)",
+      "location": "BORROMINI Aula BO202 (2 piano)",
       "raw": "13:30-15:30 | Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
       "start": "2026-10-13T13:30",
       "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BETTEGAZZI BARBARA)",
@@ -713,10 +695,10 @@
     },
     "7d0fdb122f4a099c58eace97@unirsr-calendar": {
       "date": "2026-10-06",
-      "end": "2026-10-06T12:30",
+      "end": "2026-10-06T10:30",
       "location": "VASARI Aula VA301 (3 piano)",
-      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-06T10:30",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-06T08:30",
       "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
       "uid": "7d0fdb122f4a099c58eace97@unirsr-calendar"
     },
@@ -809,6 +791,15 @@
       "start": "2026-10-01T10:30",
       "subject": "Lezione: Istologia (LINEA GIALLA) (docente: LOMBARDO ANGELO LEONE)",
       "uid": "9b35d7e665afab4145c1196e@unirsr-calendar"
+    },
+    "9b76c7c83864081b434aaa8f@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-06T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "9b76c7c83864081b434aaa8f@unirsr-calendar"
     },
     "9dc56fcf5c1ff9d2797901e4@unirsr-calendar": {
       "date": "2026-11-10",
@@ -1205,6 +1196,15 @@
       "start": "2026-11-24T13:30",
       "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
       "uid": "da31d421f7fa543af22bd95f@unirsr-calendar"
+    },
+    "dae921b565f5fbfc66ef5a6a@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T17:30",
+      "location": "BORROMINI Aula BO202 (2 piano)",
+      "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-13T15:30",
+      "subject": "Lezione: Morfologia Umana (LINEA GIALLA) (docente: VITALE MARCO)",
+      "uid": "dae921b565f5fbfc66ef5a6a@unirsr-calendar"
     },
     "db09e47867b89ccc1ec3fcd3@unirsr-calendar": {
       "date": "2026-09-29",

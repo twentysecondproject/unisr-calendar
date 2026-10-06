@@ -144,15 +144,6 @@
       "subject": "Lezione: Istologia (LINEA VERDE) (docente: OSTUNI RENATO)",
       "uid": "1039a50e60cf2e05d1b25365@unirsr-calendar"
     },
-    "114b742c57c0b39f2eee43c2@unirsr-calendar": {
-      "date": "2026-10-09",
-      "end": "2026-10-09T15:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-09T13:30",
-      "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO)",
-      "uid": "114b742c57c0b39f2eee43c2@unirsr-calendar"
-    },
     "12432b6e91201b6a15735d6a@unirsr-calendar": {
       "date": "2026-11-24",
       "end": "2026-11-24T10:30",
@@ -369,6 +360,15 @@
       "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO)",
       "uid": "32843faafd12c1accd8adcac@unirsr-calendar"
     },
+    "35468975e1acb99c9563e5b4@unirsr-calendar": {
+      "date": "2026-10-06",
+      "end": "2026-10-06T12:30",
+      "location": "VASARI Aula VA301 (3 piano)",
+      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-06T10:30",
+      "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO)",
+      "uid": "35468975e1acb99c9563e5b4@unirsr-calendar"
+    },
     "36ec5fc20ae420ae49642c60@unirsr-calendar": {
       "date": "2026-11-16",
       "end": "2026-11-16T12:30",
@@ -413,6 +413,15 @@
       "start": "2026-11-20T13:30",
       "subject": "Lezione: Istologia (LINEA VERDE) (docente: LOMBARDO ANGELO LEONE)",
       "uid": "3a19f0b381b82003e81a20a4@unirsr-calendar"
+    },
+    "3aa85e76810c63ad9a142031@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T15:30",
+      "location": "BORROMINI Aula BO102 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-13T13:30",
+      "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO)",
+      "uid": "3aa85e76810c63ad9a142031@unirsr-calendar"
     },
     "3be86303f3f1b9c91dc94704@unirsr-calendar": {
       "date": "2026-11-05",
@@ -1136,10 +1145,10 @@
     },
     "cca18d284cc6b570695dc125@unirsr-calendar": {
       "date": "2026-10-06",
-      "end": "2026-10-06T12:30",
+      "end": "2026-10-06T10:30",
       "location": "VASARI Aula VA301 (3 piano)",
-      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-06T10:30",
+      "raw": "08:30-10:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-06T08:30",
       "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO)",
       "uid": "cca18d284cc6b570695dc125@unirsr-calendar"
     },
@@ -1394,15 +1403,6 @@
       "start": "2026-10-16T15:30",
       "subject": "Lezione: Istologia (LINEA VERDE) (docente: OSTUNI RENATO)",
       "uid": "f7acb35226a2a7c003f267f6@unirsr-calendar"
-    },
-    "f800f18619e74dfeb3805edd@unirsr-calendar": {
-      "date": "2026-10-07",
-      "end": "2026-10-07T12:30",
-      "location": "VASARI Aula VA102 (1 piano)",
-      "raw": "10:30-12:30 | Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-07T10:30",
-      "subject": "Lezione: Morfologia Umana (LINEA VERDE) (docente: VITALE MARCO)",
-      "uid": "f800f18619e74dfeb3805edd@unirsr-calendar"
     },
     "fc3c7a2c285090835e338cd4@unirsr-calendar": {
       "date": "2026-10-09",
