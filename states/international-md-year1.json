@@ -333,15 +333,6 @@
       "subject": "Lezione: Basic medical statistics (docente: RANCOITA PAOLA MARIA VITTORIA)",
       "uid": "273fef7ebae83ce471a44cba@unirsr-calendar"
     },
-    "27846c7444daed6ba8c04afe@unirsr-calendar": {
-      "date": "2026-10-20",
-      "end": "2026-10-20T16:30",
-      "location": "VASARI Aula VA402 (4 piano)",
-      "raw": "14:30-16:30 | Lezione: Medical Physics (docente: MAZZA DAVIDE) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-20T14:30",
-      "subject": "Lezione: Medical Physics (docente: MAZZA DAVIDE)",
-      "uid": "27846c7444daed6ba8c04afe@unirsr-calendar"
-    },
     "27bc8cf57745547422c763d1@unirsr-calendar": {
       "date": "2026-11-19",
       "end": "2026-11-19T16:30",
@@ -920,10 +911,10 @@
     },
     "a4a7e7c88a2c5dc35da694fc@unirsr-calendar": {
       "date": "2026-10-20",
-      "end": "2026-10-20T13:30",
+      "end": "2026-10-20T16:30",
       "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-20T11:30",
+      "raw": "14:30-16:30 | Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-20T14:30",
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: DEGANO MASSIMO)",
       "uid": "a4a7e7c88a2c5dc35da694fc@unirsr-calendar"
     },
