@@ -1269,14 +1269,14 @@
       "subject": "Lezione: Human Anatomy (docente: CONSALEZ GIANGIACOMO GERMANO)",
       "uid": "a4c4a2cfc0ffee563d1c59f2@unirsr-calendar"
     },
-    "a559e503f4c7af3778c89c2e@unirsr-calendar": {
+    "a68ca817e236a63111aab612@unirsr-calendar": {
       "date": "2026-10-14",
-      "end": "2026-10-14T17:30",
+      "end": "2026-10-14T15:30",
       "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "15:30-17:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-14T15:30",
-      "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO)",
-      "uid": "a559e503f4c7af3778c89c2e@unirsr-calendar"
+      "raw": "13:30-15:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: PECORELLI NICOLO') | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-14T13:30",
+      "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: PECORELLI NICOLO')",
+      "uid": "a68ca817e236a63111aab612@unirsr-calendar"
     },
     "a6912710c70ad5b75398aeca@unirsr-calendar": {
       "date": "2026-12-01",
@@ -1478,10 +1478,10 @@
     },
     "c0b0c0b617285475348efe85@unirsr-calendar": {
       "date": "2026-10-21",
-      "end": "2026-10-21T17:30",
+      "end": "2026-10-21T15:30",
       "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "15:30-17:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-21T15:30",
+      "raw": "13:30-15:30 | Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-10-21T13:30",
       "subject": "Lezione: Basic hands-on training on suture materials and suturing (docente: CRIPPA STEFANO)",
       "uid": "c0b0c0b617285475348efe85@unirsr-calendar"
     },
