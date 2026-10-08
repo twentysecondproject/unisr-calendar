@@ -387,6 +387,15 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (docente: DEGANO MASSIMO)",
       "uid": "33bc2af338e524a9d86e71cb@unirsr-calendar"
     },
+    "381f61372f4b15494399665e@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T16:30",
+      "location": "DIBIT1 Aula AVICENNA (piano terra)",
+      "raw": "14:30-16:30 | Lezione: Chimica e propedeutica biochimica (docente: DEGANO MASSIMO) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-10-12T14:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (docente: DEGANO MASSIMO)",
+      "uid": "381f61372f4b15494399665e@unirsr-calendar"
+    },
     "3acdc805428e87eded7c6b31@unirsr-calendar": {
       "date": "2027-01-20",
       "end": "2027-01-20T16:30",
@@ -512,6 +521,15 @@
       "start": "2026-10-21T09:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (docente: DEGANO MASSIMO)",
       "uid": "4ab8981dc55643b19ca76c51@unirsr-calendar"
+    },
+    "4b427457f06d095e2dbe46d3@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T13:30",
+      "location": "DIBIT1 Aula AVICENNA (piano terra)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (docente: DEGANO MASSIMO) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-10-14T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (docente: DEGANO MASSIMO)",
+      "uid": "4b427457f06d095e2dbe46d3@unirsr-calendar"
     },
     "4b4b263b65a8d5888b4333c8@unirsr-calendar": {
       "date": "2026-11-17",
@@ -656,6 +674,15 @@
       "start": "2026-11-25T14:30",
       "subject": "Lezione: Biologia (docente: PANINA PAOLA)",
       "uid": "602981adcd6b8be01b6b0bf8@unirsr-calendar"
+    },
+    "61ba0ee8ab876310cd6af1e5@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T18:30",
+      "location": "DIBIT1 Aula AVICENNA (piano terra)",
+      "raw": "14:30-18:30 | Lezione: Fisica (docente: MAZZA DAVIDE) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-10-13T14:30",
+      "subject": "Lezione: Fisica (docente: MAZZA DAVIDE)",
+      "uid": "61ba0ee8ab876310cd6af1e5@unirsr-calendar"
     },
     "62aa9e8efd97489e01abf19c@unirsr-calendar": {
       "date": "2026-11-23",
@@ -1079,6 +1106,15 @@
       "start": "2026-10-30T09:30",
       "subject": "Lezione: Chimica e propedeutica biochimica (docente: DEGANO MASSIMO)",
       "uid": "af3dabb398fae9a4e9329e6b@unirsr-calendar"
+    },
+    "b25d43513f0bbced224c7634@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T18:30",
+      "location": "DIBIT1 Aula AVICENNA (piano terra)",
+      "raw": "14:30-18:30 | Lezione: Fisica (docente: MAZZA DAVIDE) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-10-14T14:30",
+      "subject": "Lezione: Fisica (docente: MAZZA DAVIDE)",
+      "uid": "b25d43513f0bbced224c7634@unirsr-calendar"
     },
     "b31cb7a534b4860801606e6d@unirsr-calendar": {
       "date": "2026-11-24",

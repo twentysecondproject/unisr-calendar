@@ -657,6 +657,15 @@
       "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
       "uid": "713a1afbb627dfdf88e44614@unirsr-calendar"
     },
+    "720cec90569d39c68cf15553@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA GIALLA) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-19T10:30",
+      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: GRITTI ANGELA)",
+      "uid": "720cec90569d39c68cf15553@unirsr-calendar"
+    },
     "726af2d9f922bf07b658167e@unirsr-calendar": {
       "date": "2027-01-11",
       "end": "2027-01-11T10:30",
@@ -1097,15 +1106,6 @@
       "start": "2026-11-20T10:30",
       "subject": "Lezione: Fisiologia (LINEA GIALLA) (docente: BUCCINO GIOVANNI)",
       "uid": "ca843f93a8ab76bd7437e75e@unirsr-calendar"
-    },
-    "cc1c6ff9ad47c08f6bb13b3f@unirsr-calendar": {
-      "date": "2026-10-09",
-      "end": "2026-10-09T10:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "08:30-10:30 | Lezione: Istologia (LINEA GIALLA) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-09T08:30",
-      "subject": "Lezione: Istologia (LINEA GIALLA) (docente: GRITTI ANGELA)",
-      "uid": "cc1c6ff9ad47c08f6bb13b3f@unirsr-calendar"
     },
     "cd9aa574e1c83a7afb878ad1@unirsr-calendar": {
       "date": "2026-12-01",

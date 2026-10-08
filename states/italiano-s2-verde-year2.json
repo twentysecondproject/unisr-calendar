@@ -45,15 +45,6 @@
       "subject": "Lezione: Istologia (LINEA VERDE) (docente: CANTORE ALESSIO)",
       "uid": "043dfc2b07e2549291c984db@unirsr-calendar"
     },
-    "0442bdbfb5a44d79701f0ae1@unirsr-calendar": {
-      "date": "2026-10-09",
-      "end": "2026-10-09T10:30",
-      "location": "VASARI Aula VA202 (2 piano)",
-      "raw": "08:30-10:30 | Lezione: Istologia (LINEA VERDE) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
-      "start": "2026-10-09T08:30",
-      "subject": "Lezione: Istologia (LINEA VERDE) (docente: GRITTI ANGELA)",
-      "uid": "0442bdbfb5a44d79701f0ae1@unirsr-calendar"
-    },
     "049053851d3cb73fe716c676@unirsr-calendar": {
       "date": "2026-11-23",
       "end": "2026-11-23T10:30",
@@ -738,6 +729,15 @@
       "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: BETTEGAZZI BARBARA)",
       "uid": "74d8262399ba49e51e64a70a@unirsr-calendar"
     },
+    "74dd27e57106a15b5992c98c@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T12:30",
+      "location": "VASARI Aula VA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Istologia (LINEA VERDE) (docente: GRITTI ANGELA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-19T10:30",
+      "subject": "Lezione: Istologia (LINEA VERDE) (docente: GRITTI ANGELA)",
+      "uid": "74dd27e57106a15b5992c98c@unirsr-calendar"
+    },
     "7546bc572e42c5bbebbe35ac@unirsr-calendar": {
       "date": "2026-11-18",
       "end": "2026-11-18T12:30",
@@ -1385,6 +1385,15 @@
       "start": "2026-11-24T13:30",
       "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: BUCCINO GIOVANNI)",
       "uid": "f37cf25d1e70564eb19f19a5@unirsr-calendar"
+    },
+    "f47bcffbd4892bcd40702178@unirsr-calendar": {
+      "date": "2026-10-22",
+      "end": "2026-10-22T12:30",
+      "location": "CANOVA Aula CA202 (2 piano)",
+      "raw": "10:30-12:30 | Lezione: Fisiologia (LINEA VERDE) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia 2 | 2",
+      "start": "2026-10-22T10:30",
+      "subject": "Lezione: Fisiologia (LINEA VERDE) (docente: BETTEGAZZI BARBARA)",
+      "uid": "f47bcffbd4892bcd40702178@unirsr-calendar"
     },
     "f6fa825bd7c04dbaf7b9e3d4@unirsr-calendar": {
       "date": "2026-11-23",
