@@ -63,15 +63,6 @@
       "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
       "uid": "0a53afe260cbc99a3f4289cf@unirsr-calendar"
     },
-    "0b7783d585a4d1e6c985d368@unirsr-calendar": {
-      "date": "2026-10-23",
-      "end": "2026-10-23T16:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-23T14:30",
-      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
-      "uid": "0b7783d585a4d1e6c985d368@unirsr-calendar"
-    },
     "0b90bd464598630afcc532ea@unirsr-calendar": {
       "date": "2027-01-15",
       "end": "2027-01-15T16:30",
@@ -243,6 +234,15 @@
       "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
       "uid": "3dcaf134870805be449939d2@unirsr-calendar"
     },
+    "3df0d8a78e50e0ee1e0552f4@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-16T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI)",
+      "uid": "3df0d8a78e50e0ee1e0552f4@unirsr-calendar"
+    },
     "425b3c3431a1f5f217670344@unirsr-calendar": {
       "date": "2026-10-21",
       "end": "2026-10-21T16:30",
@@ -251,15 +251,6 @@
       "start": "2026-10-21T14:30",
       "subject": "Lezione: Autovalutazione e Aggiornamento delle Conoscenze Medico-Scientifiche (LINEA BIANCA) (docente: TEI LAURA)",
       "uid": "425b3c3431a1f5f217670344@unirsr-calendar"
-    },
-    "4509e9638f1bfc45e6923fef@unirsr-calendar": {
-      "date": "2026-10-16",
-      "end": "2026-10-16T16:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-16T14:30",
-      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIA GIOVANNA)",
-      "uid": "4509e9638f1bfc45e6923fef@unirsr-calendar"
     },
     "4b3f2ce0e690d9f016a612fc@unirsr-calendar": {
       "date": "2026-11-13",
@@ -278,6 +269,15 @@
       "start": "2026-11-30T11:30",
       "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
       "uid": "4bef2185a3ebbfeb669b55a5@unirsr-calendar"
+    },
+    "4c0431b314de39f12fd39db4@unirsr-calendar": {
+      "date": "2026-10-23",
+      "end": "2026-10-23T11:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-23T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO)",
+      "uid": "4c0431b314de39f12fd39db4@unirsr-calendar"
     },
     "540274fba1e83d198ba0fc4c@unirsr-calendar": {
       "date": "2026-12-15",
@@ -531,6 +531,15 @@
       "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
       "uid": "72a665233f1727054e0edb6c@unirsr-calendar"
     },
+    "756e986d3c14db198d240a4e@unirsr-calendar": {
+      "date": "2026-10-21",
+      "end": "2026-10-21T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-21T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO)",
+      "uid": "756e986d3c14db198d240a4e@unirsr-calendar"
+    },
     "7754edd18e981e9721a20277@unirsr-calendar": {
       "date": "2026-11-02",
       "end": "2026-11-02T11:30",
@@ -561,7 +570,7 @@
     "7aa0429d79d86bef27394290@unirsr-calendar": {
       "date": "2026-10-15",
       "end": "2026-10-15T18:30",
-      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
       "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
       "start": "2026-10-15T16:30",
       "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: FAVA FRANCESCA)",
@@ -656,6 +665,15 @@
       "start": "2026-12-21T14:30",
       "subject": "Lezione: Comunicazione Clinica in Lingua Inglese e Storia della Medicina (LINEA BIANCA) (docente: JOHN MICHAEL ELLIS)",
       "uid": "9e4916c64e69210e385b27e0@unirsr-calendar"
+    },
+    "a015574cbe7a951383f637dc@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIAGIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-15T14:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: SCARALE MARIAGIOVANNA)",
+      "uid": "a015574cbe7a951383f637dc@unirsr-calendar"
     },
     "a1cda6c42204c833755cff04@unirsr-calendar": {
       "date": "2026-11-03",
@@ -828,6 +846,15 @@
       "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO MARIACLELIA)",
       "uid": "b3dd434d6cfd2fe586363e60@unirsr-calendar"
     },
+    "bbe2a67010258898f789826d@unirsr-calendar": {
+      "date": "2026-10-14",
+      "end": "2026-10-14T11:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "09:30-11:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-14T09:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI)",
+      "uid": "bbe2a67010258898f789826d@unirsr-calendar"
+    },
     "c0966d15fc2deb4e5c2b9aef@unirsr-calendar": {
       "date": "2026-12-03",
       "end": "2026-12-03T13:30",
@@ -918,6 +945,15 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: CIRILLO FEDERICA)",
       "uid": "c77179f4154fb5b3b789b073@unirsr-calendar"
     },
+    "cb056235125d328c4d4990bb@unirsr-calendar": {
+      "date": "2026-10-12",
+      "end": "2026-10-12T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-12T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI)",
+      "uid": "cb056235125d328c4d4990bb@unirsr-calendar"
+    },
     "ccb49cdb8245c080c16fcc43@unirsr-calendar": {
       "date": "2026-11-27",
       "end": "2026-11-27T13:30",
@@ -981,6 +1017,15 @@
       "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: PICCOLI MARCO)",
       "uid": "db13382be0aa1d61356440cc@unirsr-calendar"
     },
+    "de81a271549e2c9d15f3c0c0@unirsr-calendar": {
+      "date": "2026-10-20",
+      "end": "2026-10-20T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-20T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI)",
+      "uid": "de81a271549e2c9d15f3c0c0@unirsr-calendar"
+    },
     "e2ce245b721bad921837c689@unirsr-calendar": {
       "date": "2027-01-19",
       "end": "2027-01-19T16:30",
@@ -1007,6 +1052,15 @@
       "start": "2026-10-29T16:30",
       "subject": "Lezione: Biologia (LINEA BIANCA) (docente: ANDREATA FRANCESCO)",
       "uid": "ea3d35c91a08cb7646988a8a@unirsr-calendar"
+    },
+    "ea771e7596e0b1c53d5e1ecf@unirsr-calendar": {
+      "date": "2026-10-19",
+      "end": "2026-10-19T13:30",
+      "location": "VERROCCHIO Aula VE201 (2 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-19T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI)",
+      "uid": "ea771e7596e0b1c53d5e1ecf@unirsr-calendar"
     },
     "ec22506a096ad8c05676fbab@unirsr-calendar": {
       "date": "2026-12-02",
@@ -1053,6 +1107,15 @@
       "subject": "Lezione: Biochimica (LINEA BIANCA) (docente: DE CURTIS IVANMATTEO)",
       "uid": "f2376e7553619f556dfb4f17@unirsr-calendar"
     },
+    "f287265b898635ce645674fa@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO CLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-16T14:30",
+      "subject": "Lezione: Statistica (LINEA BIANCA) (docente: DI SERIO CLELIA)",
+      "uid": "f287265b898635ce645674fa@unirsr-calendar"
+    },
     "f4de58b555a414811c6c1a0c@unirsr-calendar": {
       "date": "2026-11-10",
       "end": "2026-11-10T11:30",
@@ -1079,6 +1142,15 @@
       "start": "2026-10-26T14:30",
       "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA BIANCA) (docente: BOSIA MARTA)",
       "uid": "f88e10cc15ce1d3e3986f09d@unirsr-calendar"
+    },
+    "f9e75bf87ae2aaa36c357e25@unirsr-calendar": {
+      "date": "2026-10-13",
+      "end": "2026-10-13T13:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "11:30-13:30 | Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-13T11:30",
+      "subject": "Lezione: Chimica e propedeutica biochimica (LINEA BIANCA) (docente: ANASTASIA LUIGI)",
+      "uid": "f9e75bf87ae2aaa36c357e25@unirsr-calendar"
     },
     "fdc429137d4e0279ff6602ae@unirsr-calendar": {
       "date": "2026-11-24",

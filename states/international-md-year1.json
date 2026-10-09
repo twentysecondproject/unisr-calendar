@@ -225,15 +225,6 @@
       "subject": "Lezione: Medical Physics (docente: ALOI ERIKA)",
       "uid": "1e4325d7325d947d362c064b@unirsr-calendar"
     },
-    "1f07d89df614e623d8db3438@unirsr-calendar": {
-      "date": "2026-11-23",
-      "end": "2026-11-23T13:30",
-      "location": "CANOVA Aula CA301 (3 piano)",
-      "raw": "11:30-13:30 | Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-23T11:30",
-      "subject": "Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)",
-      "uid": "1f07d89df614e623d8db3438@unirsr-calendar"
-    },
     "2023fa3d9cd3801faa1e10e4@unirsr-calendar": {
       "date": "2026-12-03",
       "end": "2026-12-03T11:30",
@@ -423,6 +414,15 @@
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CORTI ANGELO)",
       "uid": "35fb4861f7208f9b634104df@unirsr-calendar"
     },
+    "383827094604e215bb7d6f61@unirsr-calendar": {
+      "date": "2026-11-20",
+      "end": "2026-11-20T11:30",
+      "location": "VASARI Aula VA402 (4 piano)",
+      "raw": "09:30-11:30 | Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-20T09:30",
+      "subject": "Lezione: Basic medical statistics (docente: DI SERIO MARIACLELIA)",
+      "uid": "383827094604e215bb7d6f61@unirsr-calendar"
+    },
     "3858f8edcccb856846d524d9@unirsr-calendar": {
       "date": "2026-10-08",
       "end": "2026-10-08T16:30",
@@ -539,6 +539,15 @@
       "start": "2026-10-30T09:30",
       "subject": "Lezione: Molecular cell biology (docente: LATORRE DANIELA)",
       "uid": "58b525c5fcb1c6037f647014@unirsr-calendar"
+    },
+    "5a2458e6643765d6a908c522@unirsr-calendar": {
+      "date": "2026-11-23",
+      "end": "2026-11-23T13:30",
+      "location": "CANOVA Aula CA301 (3 piano)",
+      "raw": "11:30-13:30 | Lezione: Molecular cell biology (docente: ANELLI TIZIANA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-11-23T11:30",
+      "subject": "Lezione: Molecular cell biology (docente: ANELLI TIZIANA)",
+      "uid": "5a2458e6643765d6a908c522@unirsr-calendar"
     },
     "5a2c988cdaeea159a77a2f1b@unirsr-calendar": {
       "date": "2026-10-22",
@@ -692,15 +701,6 @@
       "start": "2026-11-19T09:30",
       "subject": "Lezione: Medicine as a Human Endeavour (docente: JOHN MICHAEL ELLIS)",
       "uid": "7430db4f92d15e8b7e1680d9@unirsr-calendar"
-    },
-    "74970db1081e40c40db2f28b@unirsr-calendar": {
-      "date": "2026-11-20",
-      "end": "2026-11-20T11:30",
-      "location": "VASARI Aula VA402 (4 piano)",
-      "raw": "09:30-11:30 | Lezione: Molecular cell biology (docente: ANELLI TIZIANA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-11-20T09:30",
-      "subject": "Lezione: Molecular cell biology (docente: ANELLI TIZIANA)",
-      "uid": "74970db1081e40c40db2f28b@unirsr-calendar"
     },
     "766af3650bfa196d2264a420@unirsr-calendar": {
       "date": "2026-10-16",
@@ -867,7 +867,7 @@
     "9827da7f23af6540dcdcd9cd@unirsr-calendar": {
       "date": "2026-12-01",
       "end": "2026-12-01T13:30",
-      "location": "BORROMINI Aula BO402 (4 piano)",
+      "location": "BORROMINI Aula BO102 (1 piano)",
       "raw": "11:30-13:30 | Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FLAVIO ) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 1",
       "start": "2026-12-01T11:30",
       "subject": "Lezione: Medicinal Chemistry and Biochemistry (docente: CURNIS FLAVIO )",

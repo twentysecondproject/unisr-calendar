@@ -90,6 +90,15 @@
       "subject": "Lezione: Biologia (LINEA AZZURRA) (docente: ANDREATA FRANCESCO)",
       "uid": "17c322d8e24b3c5bcb3a2b32@unirsr-calendar"
     },
+    "1816c4a6e452c3b0dc85761c@unirsr-calendar": {
+      "date": "2026-10-15",
+      "end": "2026-10-15T16:30",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA AZZURRA) (docente: SCARALE MARIAGIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-15T14:30",
+      "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: SCARALE MARIAGIOVANNA)",
+      "uid": "1816c4a6e452c3b0dc85761c@unirsr-calendar"
+    },
     "1850b221cee5293072491c6e@unirsr-calendar": {
       "date": "2026-10-28",
       "end": "2026-10-28T11:30",
@@ -224,15 +233,6 @@
       "start": "2026-11-26T09:30",
       "subject": "Lezione: Biologia (LINEA AZZURRA) (docente: PANINA PAOLA)",
       "uid": "32ebf4da69d16673184c9761@unirsr-calendar"
-    },
-    "33b9491e5f5e407bfc90fb4a@unirsr-calendar": {
-      "date": "2026-10-16",
-      "end": "2026-10-16T16:30",
-      "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA AZZURRA) (docente: SCARALE MARIA GIOVANNA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-16T14:30",
-      "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: SCARALE MARIA GIOVANNA)",
-      "uid": "33b9491e5f5e407bfc90fb4a@unirsr-calendar"
     },
     "358e540765bd919a3375fc9f@unirsr-calendar": {
       "date": "2026-10-14",
@@ -1080,14 +1080,14 @@
       "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA AZZURRA) (docente: BOSIA MARTA)",
       "uid": "d5e0e25086586e827ed3d363@unirsr-calendar"
     },
-    "db3dc18a880049c085886b08@unirsr-calendar": {
-      "date": "2026-10-23",
-      "end": "2026-10-23T16:30",
+    "d6d91cde3e1be5ab2d066451@unirsr-calendar": {
+      "date": "2026-10-16",
+      "end": "2026-10-16T16:30",
       "location": "VERROCCHIO Aula VE102 (1 piano)",
-      "raw": "14:30-16:30 | Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
-      "start": "2026-10-23T14:30",
-      "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO MARIACLELIA)",
-      "uid": "db3dc18a880049c085886b08@unirsr-calendar"
+      "raw": "14:30-16:30 | Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO CLELIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
+      "start": "2026-10-16T14:30",
+      "subject": "Lezione: Statistica (LINEA AZZURRA) (docente: DI SERIO CLELIA)",
+      "uid": "d6d91cde3e1be5ab2d066451@unirsr-calendar"
     },
     "e0211470df33d9e569564513@unirsr-calendar": {
       "date": "2026-11-05",
@@ -1146,7 +1146,7 @@
     "e7b860ea62848103dcfaf80d@unirsr-calendar": {
       "date": "2026-10-15",
       "end": "2026-10-15T18:30",
-      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "location": "VERROCCHIO Aula VE102 (1 piano)",
       "raw": "16:30-18:30 | Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA AZZURRA) (docente: FAVA FRANCESCA) | Corso di Laurea magistrale in Medicina e Chirurgia | 1",
       "start": "2026-10-15T16:30",
       "subject": "Lezione: Basi Psicologiche, Sociologiche, e di Comunicazione nella Professione Medica (LINEA AZZURRA) (docente: FAVA FRANCESCA)",

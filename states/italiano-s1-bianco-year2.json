@@ -111,7 +111,7 @@
     "176ab4adafeb86e736acaf15@unirsr-calendar": {
       "date": "2026-10-15",
       "end": "2026-10-15T10:30",
-      "location": "CANOVA Aula CA202 (2 piano)",
+      "location": "CANOVA Aula CA102 (1 piano)",
       "raw": "08:30-10:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-10-15T08:30",
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
@@ -596,10 +596,10 @@
     },
     "51e811d1f2b0b98fa7ddbc8a@unirsr-calendar": {
       "date": "2026-11-23",
-      "end": "2026-11-23T12:30",
-      "location": "VASARI Aula VA101 (1 piano)",
-      "raw": "10:30-12:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-23T10:30",
+      "end": "2026-11-23T15:30",
+      "location": "CANOVA Aula CA101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-23T13:30",
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
       "uid": "51e811d1f2b0b98fa7ddbc8a@unirsr-calendar"
     },
@@ -714,7 +714,7 @@
     "7291b0306ffb270c4778c147@unirsr-calendar": {
       "date": "2026-12-03",
       "end": "2026-12-03T17:30",
-      "location": "CANOVA Aula CA302 (3 piano)",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
       "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CASONI FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-12-03T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CASONI FILIPPO)",
@@ -1143,15 +1143,6 @@
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: TACCHETTI CARLO)",
       "uid": "a938fb86f605e6cb3ec65a10@unirsr-calendar"
     },
-    "aab7c824f332a70ec64a9ca8@unirsr-calendar": {
-      "date": "2026-11-23",
-      "end": "2026-11-23T15:30",
-      "location": "CANOVA Aula CA101 (1 piano)",
-      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-23T13:30",
-      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: LOMBARDO ANGELO LEONE)",
-      "uid": "aab7c824f332a70ec64a9ca8@unirsr-calendar"
-    },
     "ad443ebf07820628dcfadc35@unirsr-calendar": {
       "date": "2026-12-14",
       "end": "2026-12-14T17:30",
@@ -1493,6 +1484,15 @@
       "start": "2026-12-09T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: FALLETTA PAOLA)",
       "uid": "e7174dac4d618df2dcbc8c3c@unirsr-calendar"
+    },
+    "e81238492a36de0754d60ee7@unirsr-calendar": {
+      "date": "2026-12-03",
+      "end": "2026-12-03T15:30",
+      "location": "VERROCCHIO Aula VE101 (1 piano)",
+      "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-03T13:30",
+      "subject": "Lezione: Istologia (LINEA BIANCA) (docente: CANTORE ALESSIO)",
+      "uid": "e81238492a36de0754d60ee7@unirsr-calendar"
     },
     "e8d336098a949460aea542a3@unirsr-calendar": {
       "date": "2026-09-22",
