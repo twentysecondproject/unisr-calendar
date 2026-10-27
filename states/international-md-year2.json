@@ -306,15 +306,6 @@
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "2fdc5ed613874a05ecfd6f76@unirsr-calendar"
     },
-    "30b6787f1ff5cb43b9e50fc9@unirsr-calendar": {
-      "date": "2026-12-10",
-      "end": "2026-12-10T15:30",
-      "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "13:30-15:30 | Lezione: Human Anatomy (docente: PLACELLA GIACOMO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-12-10T13:30",
-      "subject": "Lezione: Human Anatomy (docente: PLACELLA GIACOMO)",
-      "uid": "30b6787f1ff5cb43b9e50fc9@unirsr-calendar"
-    },
     "30d1b46447f991761d8f915c@unirsr-calendar": {
       "date": "2026-12-02",
       "end": "2026-12-02T10:30",
@@ -1620,15 +1611,6 @@
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "d11bcc73b752425bbcc3eacb@unirsr-calendar"
     },
-    "d1516b823e4a7b5022e4b988@unirsr-calendar": {
-      "date": "2026-10-28",
-      "end": "2026-10-28T15:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "13:30-15:30 | Lezione: Human Anatomy (docente: CREMONA OTTAVIO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-28T13:30",
-      "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
-      "uid": "d1516b823e4a7b5022e4b988@unirsr-calendar"
-    },
     "d3f58dae93b049b0e15f94c4@unirsr-calendar": {
       "date": "2026-11-11",
       "end": "2026-11-11T17:30",
@@ -1862,6 +1844,15 @@
       "start": "2026-10-16T08:30",
       "subject": "Lezione: Human Anatomy (docente: CONSALEZ GIANGIACOMO GERMANO)",
       "uid": "f626a41bf90e42008c437505@unirsr-calendar"
+    },
+    "f6e4fe50f505828bf3b32dbb@unirsr-calendar": {
+      "date": "2026-12-11",
+      "end": "2026-12-11T15:30",
+      "location": "VASARI Aula VA401 (4 piano)",
+      "raw": "13:30-15:30 | Lezione: Human Anatomy (docente: PLACELLA GIACOMO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-12-11T13:30",
+      "subject": "Lezione: Human Anatomy (docente: PLACELLA GIACOMO)",
+      "uid": "f6e4fe50f505828bf3b32dbb@unirsr-calendar"
     },
     "f8b385117c88ed37bfd2db43@unirsr-calendar": {
       "date": "2026-11-04",
