@@ -216,6 +216,15 @@
       "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: DE GIOVANNI MARCO)",
       "uid": "246c9e967e1b9cfccfba0581@unirsr-calendar"
     },
+    "24b0097498a86f74de44b34f@unirsr-calendar": {
+      "date": "2026-11-24",
+      "end": "2026-11-24T19:30",
+      "location": "BORROMINI Aula BO101 (1 piano)",
+      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-24T17:30",
+      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO)",
+      "uid": "24b0097498a86f74de44b34f@unirsr-calendar"
+    },
     "27ce8cd27d7a2984b496433c@unirsr-calendar": {
       "date": "2026-10-01",
       "end": "2026-10-01T17:30",
@@ -1115,15 +1124,6 @@
       "start": "2026-09-30T15:30",
       "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: ZIPPO ANTONIO GIULIANO)",
       "uid": "a3b1d36b924c2c8b53145670@unirsr-calendar"
-    },
-    "a4781a1a67aba2985558ab40@unirsr-calendar": {
-      "date": "2026-11-27",
-      "end": "2026-11-27T19:30",
-      "location": "BORROMINI Aula BO101 (1 piano)",
-      "raw": "17:30-19:30 | Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-27T17:30",
-      "subject": "Lezione: Fondamenti di Intelligenza Artificiale Applicata alla Medicina (docente: CONSOLO FILIPPO)",
-      "uid": "a4781a1a67aba2985558ab40@unirsr-calendar"
     },
     "a648531857aa1bda46f37b0b@unirsr-calendar": {
       "date": "2026-10-22",
