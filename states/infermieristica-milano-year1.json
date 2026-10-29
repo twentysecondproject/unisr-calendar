@@ -333,15 +333,6 @@
       "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: CARLETTI SILVIA)",
       "uid": "5229dbfd6e6a1eccaf273b61@unirsr-calendar"
     },
-    "52e77ab7eedb360c0253b4bc@unirsr-calendar": {
-      "date": "2026-12-01",
-      "end": "2026-12-01T13:00",
-      "location": "DIBIT2 Aula ERACLITO (1 piano)",
-      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA) | Corso di Laurea in Infermieristica | 1",
-      "start": "2026-12-01T11:00",
-      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA)",
-      "uid": "52e77ab7eedb360c0253b4bc@unirsr-calendar"
-    },
     "56685726e61af1fd4bd5d0ca@unirsr-calendar": {
       "date": "2026-12-09",
       "end": "2026-12-09T13:00",
@@ -485,15 +476,6 @@
       "start": "2026-11-10T11:00",
       "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MARCONE CLAUDIA)",
       "uid": "6b9663c202a5a52d891ee8f7@unirsr-calendar"
-    },
-    "6d5d82a15aae5e553a49e45b@unirsr-calendar": {
-      "date": "2026-11-11",
-      "end": "2026-11-11T13:00",
-      "location": "DIBIT2 Aula ERACLITO (1 piano)",
-      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
-      "start": "2026-11-11T11:00",
-      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
-      "uid": "6d5d82a15aae5e553a49e45b@unirsr-calendar"
     },
     "714d6468f1d14f5c57c6191d@unirsr-calendar": {
       "date": "2026-12-03",
@@ -695,10 +677,10 @@
     },
     "916cdf62262358a065948266@unirsr-calendar": {
       "date": "2026-11-11",
-      "end": "2026-11-11T11:00",
+      "end": "2026-11-11T13:00",
       "location": "DIBIT2 Aula ERACLITO (1 piano)",
-      "raw": "09:00-11:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
-      "start": "2026-11-11T09:00",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-11T11:00",
       "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
       "uid": "916cdf62262358a065948266@unirsr-calendar"
     },
@@ -908,6 +890,24 @@
       "start": "2026-11-24T16:00",
       "subject": "Lezione: 4 - Promozione della salute e della sicurezza (docente: SCIFO ENZO)",
       "uid": "b5179cc8cf17fc2526ee475d@unirsr-calendar"
+    },
+    "b5c993bf31eab0c4db976977@unirsr-calendar": {
+      "date": "2026-12-01",
+      "end": "2026-12-01T13:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "11:00-13:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-12-01T11:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: POZZI CHIARA)",
+      "uid": "b5c993bf31eab0c4db976977@unirsr-calendar"
+    },
+    "ba485195d171e5a6e6343f1e@unirsr-calendar": {
+      "date": "2026-11-11",
+      "end": "2026-11-11T11:00",
+      "location": "DIBIT2 Aula ERACLITO (1 piano)",
+      "raw": "09:00-11:00 | Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA) | Corso di Laurea in Infermieristica | 1",
+      "start": "2026-11-11T09:00",
+      "subject": "Lezione: 1 - Infermieristica Generale, Clinica e Metodologia Applicata (docente: MORANDA DINA)",
+      "uid": "ba485195d171e5a6e6343f1e@unirsr-calendar"
     },
     "bee716856672f48b9688d9f4@unirsr-calendar": {
       "date": "2026-12-03",
