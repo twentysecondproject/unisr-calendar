@@ -495,15 +495,6 @@
       "subject": "Lezione: Functional anatomy and physiology of the nervous systems: a practical approach (docente: FILIPPI MASSIMO)",
       "uid": "4477c3d5b8c7a25d700bc87b@unirsr-calendar"
     },
-    "45379ba47e2a53c3f73b616d@unirsr-calendar": {
-      "date": "2026-10-30",
-      "end": "2026-10-30T15:30",
-      "location": "BORROMINI Aula BO402 (4 piano)",
-      "raw": "13:30-15:30 | Lezione: Human Anatomy (docente: CREMONA OTTAVIO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-30T13:30",
-      "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
-      "uid": "45379ba47e2a53c3f73b616d@unirsr-calendar"
-    },
     "459b89f9ad2371f57be13bbe@unirsr-calendar": {
       "date": "2026-11-06",
       "end": "2026-11-06T15:30",
@@ -548,15 +539,6 @@
       "start": "2026-11-03T15:30",
       "subject": "Lezione: Artificial Intelligence (AI) in medicine (docente: CONSOLO FILIPPO)",
       "uid": "4be507931c6691525d1b00d0@unirsr-calendar"
-    },
-    "4c3bdeb733ef137393f47f60@unirsr-calendar": {
-      "date": "2026-10-30",
-      "end": "2026-10-30T17:30",
-      "location": "BORROMINI Aula BO202 (2 piano)",
-      "raw": "15:30-17:30 | Lezione: Health Communication and Misinformation (docente: FLORIS MARA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-10-30T15:30",
-      "subject": "Lezione: Health Communication and Misinformation (docente: FLORIS MARA)",
-      "uid": "4c3bdeb733ef137393f47f60@unirsr-calendar"
     },
     "4ee5802b20a58286e8b9ecac@unirsr-calendar": {
       "date": "2026-12-03",
@@ -1208,10 +1190,10 @@
     },
     "a1bdbc24fee7d8c5931b34ab@unirsr-calendar": {
       "date": "2026-11-16",
-      "end": "2026-11-16T15:30",
+      "end": "2026-11-16T12:30",
       "location": "VASARI Aula VA401 (4 piano)",
-      "raw": "13:30-15:30 | Lezione: Human Histology (docente: GRITTI ANGELA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-16T13:30",
+      "raw": "10:30-12:30 | Lezione: Human Histology (docente: GRITTI ANGELA) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-16T10:30",
       "subject": "Lezione: Human Histology (docente: GRITTI ANGELA)",
       "uid": "a1bdbc24fee7d8c5931b34ab@unirsr-calendar"
     },
@@ -1595,10 +1577,10 @@
     },
     "d11bcc73b752425bbcc3eacb@unirsr-calendar": {
       "date": "2026-11-16",
-      "end": "2026-11-16T12:30",
+      "end": "2026-11-16T15:30",
       "location": "VASARI Aula VA401 (4 piano)",
-      "raw": "10:30-12:30 | Lezione: Human Anatomy (docente: CREMONA OTTAVIO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
-      "start": "2026-11-16T10:30",
+      "raw": "13:30-15:30 | Lezione: Human Anatomy (docente: CREMONA OTTAVIO) | International MD Program Corso di Laurea Magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-16T13:30",
       "subject": "Lezione: Human Anatomy (docente: CREMONA OTTAVIO)",
       "uid": "d11bcc73b752425bbcc3eacb@unirsr-calendar"
     },

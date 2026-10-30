@@ -849,7 +849,7 @@
     "82351d6b1e59a878ecce8e5b@unirsr-calendar": {
       "date": "2026-11-03",
       "end": "2026-11-03T15:30",
-      "location": "VASARI Aula VA202 (2 piano)",
+      "location": "VASARI Aula VA101 (1 piano)",
       "raw": "13:30-15:30 | Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-11-03T13:30",
       "subject": "Lezione: Istologia (LINEA BIANCA) (docente: OSTUNI RENATO)",
@@ -1056,7 +1056,7 @@
     "9e1bc9981c1f87a1e96127ca@unirsr-calendar": {
       "date": "2026-11-02",
       "end": "2026-11-02T17:30",
-      "location": "CANOVA Aula CA101 (1 piano)",
+      "location": "VASARI Aula VA101 (1 piano)",
       "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-11-02T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA)",
@@ -1115,6 +1115,15 @@
       "start": "2026-11-30T13:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA)",
       "uid": "a217f610e7f8f31dd8957f4a@unirsr-calendar"
+    },
+    "a27b6f1f2dc026d602b8f4ab@unirsr-calendar": {
+      "date": "2026-11-04",
+      "end": "2026-11-04T17:30",
+      "location": "CANOVA Aula CA302 (3 piano)",
+      "raw": "15:30-17:30 | Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
+      "start": "2026-11-04T15:30",
+      "subject": "Lezione: Fisiologia (LINEA BIANCA) (docente: BETTEGAZZI BARBARA)",
+      "uid": "a27b6f1f2dc026d602b8f4ab@unirsr-calendar"
     },
     "a3b1d36b924c2c8b53145670@unirsr-calendar": {
       "date": "2026-09-30",
@@ -1542,7 +1551,7 @@
     "f1a0dcf3188dab3d96fca3e6@unirsr-calendar": {
       "date": "2026-11-03",
       "end": "2026-11-03T17:30",
-      "location": "CANOVA Aula CA102 (1 piano)",
+      "location": "VASARI Aula VA101 (1 piano)",
       "raw": "15:30-17:30 | Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA) | Corso di Laurea magistrale in Medicina e Chirurgia | 2",
       "start": "2026-11-03T15:30",
       "subject": "Lezione: Morfologia Umana (LINEA BIANCA) (docente: CORTESE KATIA)",

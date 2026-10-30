@@ -927,15 +927,6 @@
       "subject": "Lezione: Biologia (docente: PANINA PAOLA)",
       "uid": "97961e8b011ef35296a24ddc@unirsr-calendar"
     },
-    "99a01172448b1e7e49dfd280@unirsr-calendar": {
-      "date": "2026-11-06",
-      "end": "2026-11-06T11:30",
-      "location": "DIBIT1 Aula AVICENNA (piano terra)",
-      "raw": "09:30-11:30 | Lezione: Fisica (docente: MAZZA DAVIDE) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
-      "start": "2026-11-06T09:30",
-      "subject": "Lezione: Fisica (docente: MAZZA DAVIDE)",
-      "uid": "99a01172448b1e7e49dfd280@unirsr-calendar"
-    },
     "9b4fa83383f612926c4b33cc@unirsr-calendar": {
       "date": "2026-12-17",
       "end": "2026-12-17T11:30",
@@ -1142,6 +1133,15 @@
       "start": "2026-10-26T14:30",
       "subject": "Lezione: Fisica (docente: MAZZA DAVIDE)",
       "uid": "b519cbaa1a620a4390190967@unirsr-calendar"
+    },
+    "b5b33df3b39aaad85af008b9@unirsr-calendar": {
+      "date": "2026-11-06",
+      "end": "2026-11-06T11:30",
+      "location": "DIBIT1 Aula AVICENNA (piano terra)",
+      "raw": "09:30-11:30 | Lezione: Fisica (docente: ZAMBRANO SAMUEL) | Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria | 1",
+      "start": "2026-11-06T09:30",
+      "subject": "Lezione: Fisica (docente: ZAMBRANO SAMUEL)",
+      "uid": "b5b33df3b39aaad85af008b9@unirsr-calendar"
     },
     "b6cc53196f613f0249f1ca3a@unirsr-calendar": {
       "date": "2026-10-29",
